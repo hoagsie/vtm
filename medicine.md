@@ -22,18 +22,14 @@ Care, Veterinary.[3] Anesthetics. [4]
 
 ## Example pools
 
-- <a href="Intelligence" class="wikilink"
-  title="Intelligence">Intelligence</a> + Medicine
+- [Intelligence](./intelligence.md) + Medicine
   - Used to convert
-    <a href="Health" class="wikilink" title="Aggravated damage">Aggravated
-    damage</a> on a Mortal's Health tracker to Superficial damage. [5]
+    [Aggravated damage](./health.md) on a Mortal's Health tracker to Superficial damage. [5]
   - Spotting a disease symptom on a human. [6]
-- <a href="Dexterity" class="wikilink" title="Dexterity">Dexterity</a> +
+- [Dexterity](./dexterity.md) +
   Medicine
   - Remove a shattered stake splinter from the body per
-    <a href="Blood_Sorcery_Rituals#Shaft_of_Belated_Dissolution"
-    class="wikilink" title="Shaft of Belated Dissolution">Shaft of Belated
-    Dissolution</a>. [7]
+    [Shaft of Belated Dissolution](./blood_sorcery_rituals.md#shaft-of-belated-dissolution). [7]
 
 ## References
 

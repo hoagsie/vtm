@@ -6,27 +6,23 @@ become a beast, turn their limbs into weapons or touch the more
 animalistic side of their Beast. Small items on the user are affected by
 this power, however, backpacks and other large items are not. [1]
 
-The <a href="Gangrel" class="wikilink" title="Gangrel">Gangrel</a> are
+The [Gangrel](./gangrel.md) are
 perhaps the most mastered with this Discipline, as few possess the
 gifts. They use their abilities to
-<a href="Protean#Shapechange" class="wikilink"
-title="Shapechange">Shapechange</a> in many ways and notably consider
+[Shapechange](./protean.md#shapechange) in many ways and notably consider
 feeding this way the best of kills.
-[2]<a href="The_Ministry" class="wikilink" title="Ministers">Ministers</a>
+[2][Ministers](./ministry.md)
 use this power to extend their monstrous fangs or to take the shape of
 animals, generally taking the form of a snake over a wolf. However, they
 still use
-<a href="Protean#Earth_Meld" class="wikilink" title="Earth Meld">Earth
-Meld</a> as the Gangrel do to avoid the sun.[3]
-<a href="Tzimisce" class="wikilink" title="Tzimisce">Tzimisce</a> are
+[Earth Meld](./protean.md#earth-meld) as the Gangrel do to avoid the sun.[3]
+[Tzimisce](./tzimisce.md) are
 masters of their form, controlling their shape and appearance at will.
 With their combined mastery of
-<a href="Dominate" class="wikilink" title="Dominate">Dominate</a>, they
+[Dominate](./dominate.md), they
 can manipulate their flesh and that of others with powers such as
-<a href="Protean#Fleshcrafting" class="wikilink"
-title="Fleshcrafting">Fleshcrafting</a> and
-<a href="Protean#Vicissitude" class="wikilink"
-title="Vicissitude">Vicissitude</a>. They also use Protean to shape
+[Fleshcrafting](./protean.md#fleshcrafting) and
+[Vicissitude](./protean.md#vicissitude). They also use Protean to shape
 themselves into other forms such as a bat or wolf.[4]
 
 ## List of available powers
@@ -169,8 +165,7 @@ title="Corebook">Corebook</a>, page 270</li>
 bodies.</p></td>
 <td data-sort-value="2"><p>One Rouse Check</p></td>
 <td class="hidem"><p>None</p></td>
-<td class="hidem"><p><a href="Dominate" class="wikilink"
-title="Dominate">Dominate</a> ●●</p></td>
+<td class="hidem"><p>[Dominate](./dominate.md) ●●</p></td>
 <td><p>Permanent</p></td>
 <td><p>Resolve + Protean</p></td>
 <td><p>N/A</p></td>
@@ -204,8 +199,7 @@ class="wikilink" title="Blood Stained Love">Blood Stained Love</a>, page
 <td><p>Prevent any blood or Blood from entering their system.</p></td>
 <td><p>One Rouse Check</p></td>
 <td><p>None</p></td>
-<td><p><a href="Fortitude" class="wikilink"
-title="Fortitude">Fortitude</a> ●</p></td>
+<td><p>[Fortitude](./fortitude.md) ●</p></td>
 <td><p>One scene or more</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
@@ -269,10 +263,8 @@ title="Corebook">Corebook</a>, page 270</li>
 <td><p><strong>Fleshcrafting</strong></p></td>
 <td><p>Extends the mastery over the flesh to be used on others.</p></td>
 <td data-sort-value="2"><p>One Rouse Check</p></td>
-<td class="hidem"><p><a href="Protean#Vicissitude" class="wikilink"
-title="Vicissitude">Vicissitude</a></p></td>
-<td class="hidem"><p><a href="Dominate" class="wikilink"
-title="Dominate">Dominate</a> ●●</p></td>
+<td class="hidem"><p>[Vicissitude](./protean.md#vicissitude)</p></td>
+<td class="hidem"><p>[Dominate](./dominate.md) ●●</p></td>
 <td><p>Permanent</p></td>
 <td><p>Resolve + Protean</p></td>
 <td><p>Stamina + Resolve</p></td>
@@ -333,8 +325,7 @@ title="Corebook">Corebook</a>, page 270</li>
 scene.</p></td>
 <td data-sort-value="4"><p>One Rouse Check</p></td>
 <td class="hidem"><p>None</p></td>
-<td class="hidem"><p><a href="Blood_Sorcery" class="wikilink"
-title="Blood Sorcery">Blood Sorcery</a> ●●</p></td>
+<td class="hidem"><p>[Blood Sorcery](./blood_sorcery.md) ●●</p></td>
 <td><p>One turn per body</p></td>
 <td><p>Strength + Protean</p></td>
 <td><p>N/A</p></td>
@@ -383,10 +374,8 @@ class="wikilink" title="Sabbat">Sabbat</a>, page 49</li>
 <td><p><strong>Horrid Form</strong></p></td>
 <td><p>Take on a monstrous shape.</p></td>
 <td data-sort-value="1"><p>One Rouse Check</p></td>
-<td class="hidem"><p><a href="Protean#Vicissitude" class="wikilink"
-title="Vicissitude">Vicissitude</a></p></td>
-<td class="hidem"><p><a href="Dominate" class="wikilink"
-title="Dominate">Dominate</a> ●●</p></td>
+<td class="hidem"><p>[Vicissitude](./protean.md#vicissitude)</p></td>
+<td class="hidem"><p>[Dominate](./dominate.md) ●●</p></td>
 <td><p>One scene unless voluntarily ended</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
@@ -406,14 +395,12 @@ title="Players Guide">Players Guide</a>, page 83</p></td>
 <td><p>Extends shape change to be able to change into a larger animal
 than the vampire's mass.</p></td>
 <td data-sort-value="2"><p>One Rouse Check</p></td>
-<td class="hidem"><p><a href="Protean#Shapechange" class="wikilink"
-title="Shapechange">Shapechange</a></p></td>
+<td class="hidem"><p>[Shapechange](./protean.md#shapechange)</p></td>
 <td class="hidem"><p>No</p></td>
 <td><p>One scene unless voluntarily ended</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
-<td><p>Same rules as <a href="Protean#Shapechange" class="wikilink"
-title="Shapechange">Shapechange</a>.</p></td>
+<td><p>Same rules as [Shapechange](./protean.md#shapechange).</p></td>
 <td class="hidem"><p>/ </p>
 <ul>
 <li><a href="Vampire:_The_Masquerade_Corebook" class="wikilink"
@@ -458,8 +445,7 @@ title="Corebook">Corebook</a>, page 271</li>
 <td><p>Turn into an amorphous mass of blood.</p></td>
 <td><p>One Rouse Check</p></td>
 <td><p>None</p></td>
-<td><p><a href="Blood_Sorcery" class="wikilink"
-title="Blood Sorcery">Blood Sorcery</a> ●●</p></td>
+<td><p>[Blood Sorcery](./blood_sorcery.md) ●●</p></td>
 <td><p>One scene, or until the effect is voluntarily ended.</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
@@ -472,8 +458,7 @@ title="Blood Sorcery">Blood Sorcery</a> ●●</p></td>
 of their body.</p></td>
 <td data-sort-value="1"><p>Free</p></td>
 <td class="hidem"><p>None</p></td>
-<td class="hidem"><p><a href="Fortitude" class="wikilink"
-title="Fortitude">Fortitude</a> ●●</p></td>
+<td class="hidem"><p>[Fortitude](./fortitude.md) ●●</p></td>
 <td><p>Permanent or until the heart is destroyed or returned to the
 host's body</p></td>
 <td><p>N/A</p></td>
@@ -523,15 +508,12 @@ title="Corebook">Corebook</a>, page 271</li>
 <td><p><strong>One with the Land</strong></p></td>
 <td><p>Sink into the earth of their Domain.</p></td>
 <td data-sort-value="3"><p>Two Rouse Checks</p></td>
-<td class="hidem"><p><a href="Protean#Earth_Meld" class="wikilink"
-title="Earth Meld">Earth Meld</a></p></td>
-<td class="hidem"><p><a href="Animalism" class="wikilink"
-title="Animalism">Animalism</a> ●●</p></td>
+<td class="hidem"><p>[Earth Meld](./protean.md#earth-meld)</p></td>
+<td class="hidem"><p>[Animalism](./animalism.md) ●●</p></td>
 <td><p>One day or more, or until physically disturbed</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
-<td><p>Same system as <a href="Protean#Earth_Meld" class="wikilink"
-title="Earth Meld">Earth Meld</a> however they are not limited by the
+<td><p>Same system as [Earth Meld](./protean.md#earth-meld) however they are not limited by the
 material.</p></td>
 <td class="hidem"><ul>
 <li></li>
@@ -611,9 +593,8 @@ Below are the amalgams from other Discipline trees that require Protean;
 <img src="Presence_symbol.png" title="Presence_symbol.png" width="42" />
 <figcaption>Presence_symbol.png</figcaption>
 </figure></td>
-<td><p><strong><a href="Presence#Eyes_of_the_Serpent" class="wikilink"
-title="Eyes of the Serpent">Eyes of the Serpent</a></strong></p></td>
-<td><p><a href="Presence" class="wikilink" title="Presence">Presence</a>
+<td><p><strong>[Eyes of the Serpent](./presence.md#eyes-of-the-serpent)</strong></p></td>
+<td><p>[Presence](./presence.md)
 ●</p></td>
 <td data-sort-value="1"><p>●</p></td>
 <td><p>Immobilize a victim by making eye contact</p></td>

@@ -1,26 +1,22 @@
 \_\_TOC\_\_
 
 Oblivion is a power rarely used by those outside of the
-<a href="Hecata" class="wikilink" title="Hecata">Hecata</a> and
-<a href="Lasombra" class="wikilink" title="Lasombra">Lasombra</a>. The
+[Hecata](./hecata.md) and
+[Lasombra](./lasombra.md). The
 power itself extends into two different styles, one focusing on the more
 ceremonial and necromancy side as seen with the Hecata and the other
 reaching into the darkness to utilize shadows as seen with the Lasombra.
 The power itself originates from
-<a href="The_Underworld" class="wikilink"
-title="a plane of death and nothingness">a plane of death and
-nothingness</a>, letting its users reach into it and touch something
+[a plane of death and nothingness](./underworld.md), letting its users reach into it and touch something
 more supernatural than not.[1]
 
 Similar to
-<a href="Blood_Sorcery" class="wikilink" title="Blood Sorcery">Blood
-Sorcery</a>, the possession of Oblivion gives access to
-<a href="Oblivion_Ceremonies" class="wikilink"
-title="Oblivion Ceremonies">Oblivion Ceremonies</a>. Ceremonies all
+[Blood Sorcery](./blood_sorcery.md), the possession of Oblivion gives access to
+[Oblivion Ceremonies](./oblivion_ceremonies.md). Ceremonies all
 require pre-requisite powers from the Oblivion branch which alters it
 from Blood Sorcery. Still, ghouls of Necromancers or Thin-bloods gaining
 temporary access through
-<a href="Resonance" class="wikilink" title="Resonance">Resonance</a> do
+[Resonance](./resonance.md) do
 not have access to Ceremonies and only to Oblivion powers. At creation a
 character may take 1 Oblivion Ceremony should they have at least one dot
 of Oblivion and the pre-requisite power. Characters can later obtain
@@ -37,35 +33,27 @@ room is a danger to any shadow wielder looking to rely solely on the
 Discipline as rooms without shadows are limiting. When Oblivion is used,
 if a 1 or a 10 is a result of the Rouse Check the user takes one stain
 in addition to any Hunger gained, and in cases where their
-<a href="Blood_Potency" class="wikilink" title="Blood Potency">Blood
-Potency</a> allows for a reroll, they can pick either of the two
+[Blood Potency](./blood_potency.md) allows for a reroll, they can pick either of the two
 results. [3]
 
 For the Lasombra Oblivion is a power wielded in a way to allow them to
 manipulate the darkness, controlling the shadows at their will either as
 a weapon or a tool. It has its uses as a method to attack a target with
 tendrils as seen with
-<a href="Oblivion#Arms_of_Ahriman" class="wikilink"
-title="Arms of Ahriman">Arms of Ahriman</a>, as well as to bolster their
+[Arms of Ahriman](./oblivion.md#arms-of-ahriman), as well as to bolster their
 intimidation techniques as they emerge from the shadows with
-<a href="Oblivion#Shadow_Cloak" class="wikilink"
-title="Shadow Cloak">Shadow Cloak</a>. The uses even extend into
+[Shadow Cloak](./oblivion.md#shadow-cloak). The uses even extend into
 changing their form with
-<a href="Oblivion#Tenebrous_Avatar" class="wikilink"
-title="Tenebrous Avatar">Tenebrous Avatar</a> or stepping out from where
+[Tenebrous Avatar](./oblivion.md#tenebrous-avatar) or stepping out from where
 they were not once standing with
-<a href="Oblivion#Shadow_Step" class="wikilink"
-title="Shadow Step">Shadow Step</a>.[4] As for the Hecata, the power
+[Shadow Step](./oblivion.md#shadow-step).[4] As for the Hecata, the power
 takes a different path towards the undead and Necromancy. With the
 ability to locate and speak to the dead as seen with
-<a href="Oblivion#Binding_Fetter" class="wikilink"
-title="Binding Fetter">Binding Fetter</a> and
-<a href="Oblivion#Oblivion_Sight" class="wikilink"
-title="Oblivion Sight">Oblivion Sight</a>, or by manipulating and
+[Binding Fetter](./oblivion.md#binding-fetter) and
+[Oblivion Sight](./oblivion.md#oblivion-sight), or by manipulating and
 controlling the energies of death itself as displayed with
-<a href="Oblivion#Aura_of_Decay" class="wikilink"
-title="Aura of Decay">Aura of Decay</a>. Through these uses, the Hecata
-may set a <a href="Wraith" class="wikilink" title="spirit">spirit</a> to
+[Aura of Decay](./oblivion.md#aura-of-decay). Through these uses, the Hecata
+may set a [spirit](./wraith.md) to
 attack their targets or rot everything around them in a show of power or
 simply to horrify meddling mortals. [5]
 
@@ -123,8 +111,7 @@ title="Players Guide">Players Guide</a>, page 85</p></li>
 </tr>
 <tr>
 <td><p><strong>Binding Fetter</strong></p></td>
-<td><p>Allow users to be able to identify a <a href="Wraith#Fetters"
-class="wikilink" title="fetter">fetter</a> by use of their
+<td><p>Allow users to be able to identify a [fetter](./wraith.md#fetters) by use of their
 senses.</p></td>
 <td data-sort-value="2"><p>Free</p></td>
 <td><p>None</p></td>
@@ -145,8 +132,7 @@ title="Players Guide">Players Guide</a>, page 85</p></li>
 </tr>
 <tr>
 <td><p><strong>Oblivion Sight</strong></p></td>
-<td><p>See in darkness clearly and see <a href="Wraith" class="wikilink"
-title="ghosts">ghosts</a> present.</p></td>
+<td><p>See in darkness clearly and see [ghosts](./wraith.md) present.</p></td>
 <td data-sort-value="3"><p>Free</p></td>
 <td><p>None</p></td>
 <td><p>No</p></td>
@@ -223,7 +209,7 @@ title="Fall of London">Fall of London</a>, page 264</p></td>
 is unable to do anything else.</p></td>
 <td data-sort-value="1"><p>One Rouse Check</p></td>
 <td><p>None</p></td>
-<td><p><a href="Potence" class="wikilink" title="Potence">Potence</a>
+<td><p>[Potence](./potence.md)
 ●●</p></td>
 <td><p>One scene or until ended or destroyed</p></td>
 <td><p>Wits + Oblivion</p></td>
@@ -244,7 +230,7 @@ title="Players Guide">Players Guide</a>, page 86</p></li>
 forces.</p></td>
 <td><p>One Rouse Check</p></td>
 <td><p>None</p></td>
-<td><p><a href="Auspex" class="wikilink" title="Auspex">Auspex</a>
+<td><p>[Auspex](./auspex.md)
 ●●</p></td>
 <td><p>24 hours</p></td>
 <td><p>Resolve + Oblivion</p></td>
@@ -264,7 +250,7 @@ title="Players Guide">Players Guide</a>, page 87</li>
 <td><p>Vision of a non-vampires death.</p></td>
 <td data-sort-value="2"><p>One Rouse Check</p></td>
 <td><p>None</p></td>
-<td><p><a href="Auspex" class="wikilink" title="Auspex">Auspex</a>
+<td><p>[Auspex](./auspex.md)
 ●●</p></td>
 <td><p>Until fulfilled, avoided or the story ends</p></td>
 <td><p>Resolve + Oblivion</p></td>
@@ -382,8 +368,7 @@ title="Players Guide">Players Guide</a>, page 88</li>
 wraiths.</p></td>
 <td data-sort-value="2"><p>Free</p></td>
 <td><p>None</p></td>
-<td><p><a href="Fortitude" class="wikilink"
-title="Fortitude">Fortitude</a> ●●</p></td>
+<td><p>[Fortitude](./fortitude.md) ●●</p></td>
 <td><p>Passive</p></td>
 <td><p>Resolve + Oblivion</p></td>
 <td><p>Resolve + Composure</p></td>
@@ -422,8 +407,7 @@ sight.</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
 <td><p>The use of this power is undetectable in the shadow other than by
-supernatural means such as <a href="Auspex#Sense_the_Unseen"
-class="wikilink" title="Sense the Unseen">Sense the Unseen</a>.</p></td>
+supernatural means such as [Sense the Unseen](./auspex.md#sense-the-unseen).</p></td>
 <td><p>/ </p>
 <ul>
 <li><a href="Vampire:_The_Masquerade_Chicago_by_Night" class="wikilink"
@@ -438,7 +422,7 @@ title="Players Guide">Players Guide</a>, page 89</li>
 <td><p>Use a shadow to spy on or scare others.</p></td>
 <td><p>One Rouse Check</p></td>
 <td><p>None</p></td>
-<td><p><a href="Auspex" class="wikilink" title="Auspex">Auspex</a>
+<td><p>[Auspex](./auspex.md)
 ●</p></td>
 <td><p>One scene</p></td>
 <td><p>N/A</p></td>
@@ -757,9 +741,8 @@ Oblivion;
 <tbody>
 <tr>
 <td></td>
-<td><p><a href="Auspex#Fatal_Flaw" class="wikilink"
-title="Fatal Flaw"><strong>Fatal Flaw</strong></a></p></td>
-<td><p><a href="Auspex" class="wikilink" title="Auspex">Auspex</a>
+<td><p>[<strong>Fatal Flaw</strong>](./auspex.md#fatal-flaw)</p></td>
+<td><p>[Auspex](./auspex.md)
 ●●●</p></td>
 <td data-sort-value="1"><p>●</p></td>
 <td><p>Find the weakness of a target</p></td>
@@ -772,9 +755,8 @@ title="Players Guide">Players Guide</a>, page 71</li>
 </tr>
 <tr>
 <td></td>
-<td><p><a href="Auspex#Haruspex" class="wikilink"
-title="Haruspex"><strong>Haruspex</strong></a></p></td>
-<td><p><a href="Auspex" class="wikilink" title="Auspex">Auspex</a>
+<td><p>[<strong>Haruspex</strong>](./auspex.md#haruspex)</p></td>
+<td><p>[Auspex](./auspex.md)
 ●●●</p></td>
 <td data-sort-value="1"><p>●</p></td>
 <td><p>Use the recent dead to reroll dice before night's end.</p></td>

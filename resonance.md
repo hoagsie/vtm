@@ -6,8 +6,7 @@ victim or when they drink deep enough, they find something more, known
 as Resonance. This is a tool crucial to all vampires and not just the
 alchemists or blood mages who can utilize these emotions in their work.
 Resonances strengthen the Kindred's powers as determined by their
-<a href="Blood_Potency" class="wikilink" title="Blood Potency">Blood
-Potency</a> and sometimes, with the right amount of kick to it, can give
+[Blood Potency](./blood_potency.md) and sometimes, with the right amount of kick to it, can give
 other benefits known as **Dyscrasia**.[1]
 
 ## The Resonances
@@ -24,8 +23,8 @@ the will to fight back against whatever problems they face.[2]
 
 - Emotions: Angry, violent, bullying, passionate or envious.
 - Disciplines:
-  <a href="Celerity" class="wikilink" title="Celerity">Celerity</a> and
-  <a href="Potence" class="wikilink" title="Potence">Potence</a>.
+  [Celerity](./celerity.md) and
+  [Potence](./potence.md).
 
 ### Melancholy
 
@@ -36,9 +35,9 @@ gain of knowledge.[3]
 
 - Emotions: Sad, scared, depressed, intellectual, or grounded.
 - Disciplines:
-  <a href="Fortitude" class="wikilink" title="Fortitude">Fortitude</a>
+  [Fortitude](./fortitude.md)
   and
-  <a href="Obfuscate" class="wikilink" title="Obfuscate">Obfuscate</a>.
+  [Obfuscate](./obfuscate.md).
 
 ### Phlegmatic
 
@@ -49,8 +48,8 @@ moment.[4]
 
 - Emotions: Lazy, apathetic, calm, controlling, and sentimental.
 - Disciplines:
-  <a href="Auspex" class="wikilink" title="Auspex">Auspex</a> and
-  <a href="Dominate" class="wikilink" title="Dominate">Dominate</a>.
+  [Auspex](./auspex.md) and
+  [Dominate](./dominate.md).
 
 ### Sanguine
 
@@ -60,9 +59,8 @@ sexual interest in the vampire or are simply enjoying life itself.[5]
 
 - Emotions: Horny, happy, enthusiastic, addicted, active, and flighty.
 - Disciplines:
-  <a href="Blood_Sorcery" class="wikilink" title="Blood Sorcery">Blood
-  Sorcery</a> and
-  <a href="Presence" class="wikilink" title="Presence">Presence</a>.
+  [Blood Sorcery](./blood_sorcery.md) and
+  [Presence](./presence.md).
 
 ### "Empty"
 
@@ -70,7 +68,7 @@ This Resonance represents those who lack general emotions.[6]
 
 - Emotions: That of sociopaths or the emotionally detached.
 - Disciplines:
-  <a href="Oblivion" class="wikilink" title="Oblivion">Oblivion</a>.
+  [Oblivion](./oblivion.md).
 
 ### Animal Blood
 
@@ -81,8 +79,8 @@ to their chronicle. [7]
 
 - Emotions: None. Not tied to any emotion, simply animal blood.
 - Disciplines:
-  <a href="Animalism" class="wikilink" title="Animalism">Animalism</a>
-  and <a href="Protean" class="wikilink" title="Protean">Protean</a>.
+  [Animalism](./animalism.md)
+  and [Protean](./protean.md).
 
 ## Temperament and Dyscrasia
 

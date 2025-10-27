@@ -41,23 +41,22 @@ for a new Kindred to take their place. [3]
 
 The reaction has been all over the spectrum in Kindred society. The
 factions have had different responses to this, the
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a> are
+[Camarilla](./camarilla.md) are
 more guarded with technology, encouraging members to use old forms of
 spycraft,
-<a href="animalism" class="wikilink" title="animalism">animalism</a>,
+[animalism](./animalism.md),
 ciphers, etc. Some Princes even outright ban online presence. The Tower
 has essentially retreated to their old ways and wish to keep their
 chance of discover small in this new age, hoping to repeat how they
 defeat the First Inquisition. The
-<a href="Anarch" class="wikilink" title="Anarchs">Anarchs</a> are not as
+[Anarchs](./anarch.md) are not as
 shy about tech using their know how to avoid detection with burner
 phones,
-<a href="Dominate" class="wikilink" title="dominated">dominated</a>
+[dominated](./dominate.md)
 humans,
-<a href="Protean" class="wikilink" title="fleshcrafted">fleshcrafted</a>
+[fleshcrafted](./protean.md)
 body doubles, throw in with hackers, etc. Some
-<a href="Thin-blood" class="wikilink"
-title="Thin-bloods">Thin-bloods</a> can simply hide in plain sight or
+[Thin-bloods](./thinblood.md) can simply hide in plain sight or
 even corroborate with the SI.[4]
 
 ## History
@@ -66,15 +65,15 @@ Kindred have had the occasional pawn or crossed path with intelligence
 agencies, usually fleeing rogue agents. The Masquerade made the notion
 of the living dead ridiculous which served Kindred well, but after the
 War on Terror things changed. The
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>
+[Camarilla](./camarilla.md)
 took a gamble, throwing the
-<a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a> to the
+[Sabbat](./sabbat.md) to the
 intelligence agencies which wrecked havoc on the Cainites. As these
 agents did their work they started to find more Kindred evidence,
 impossibly old bank accounts and questionable records were discovered.
 Also the NSA was freed of most traditional restrictions allowed even
 more surveillance. As the hunted heated up the Tower threw the
-<a href="Anarch" class="wikilink" title="Anarchs">Anarchs</a> to the
+[Anarchs](./anarch.md) to the
 wolves, but the flame of the Inquisition was already lit.[5]
 
 The Information Awareness Office (IAO) was founded by Admiral John
@@ -83,7 +82,7 @@ USA. The program used investigations and advanced economic algorithms to
 find anomalies; Camarilla accounts and high profile contacts. A result
 of their attempt to manipulate the War on Terror.[6] This resulted in
 ghouls,
-<a href="Dominate" class="wikilink" title="dominated">dominated</a>
+[dominated](./dominate.md)
 thralls, and even Kindred captured and each were extracted for
 information. The Camarilla was able to defund the IAO officially by
 2003, by manipulating public opinion on human rights, but it was too
@@ -100,7 +99,7 @@ fit plausible operations.&lt;ref name="CAM69-70/&gt;
 
 Soon the Second Inquisition got a great gift in the freeing of Felicity
 Price, Associate Director of the NSA. She was a dominated thrall of a
-<a href="Nosferatu" class="wikilink" title="Nosferatu">Nosferatu</a>,
+[Nosferatu](./nosferatu.md),
 Xóchitl. This gave the SI first-hand information on the Nosferatu and
 some knowledge into the Camarilla structure, clan structures, and a good
 chunk of the Camarilla network. Price has been instrumental in the
@@ -108,7 +107,7 @@ formation of FIRSTLIGHT. She reaches out to international partners to
 join the coalition and share information.[8]
 
 The Second Inquisition cracked SchreckNET, Kindred internet overseen by
-<a href="Nosferatu" class="wikilink" title="Nosferatu">Nosferatu</a>,
+[Nosferatu](./nosferatu.md),
 which ignited the flames of the Second Inquisition once humans had
 access to so much Kindred information. Using shell organizations and
 secrecy they are able to operate without scrutiny from the public and
@@ -118,7 +117,7 @@ FIRSTLIGHT began to work with others like Russia’s GRU and the Vatican’s
 Service, the Entity, providing vital records from old Inquisition tales.
 Loose agents in these organization were able to ban together and
 accomplish major feats; 2008 saw the destruction of the
-<a href="Tremere" class="wikilink" title="Tremere">Tremere</a> Chantry
+[Tremere](./tremere.md) Chantry
 in Vienna, and 2013 is the date London was marked as Kindred free with
 the supposed death of Queen Anne, Prince of London. France had Marseille
 cleared by the DGSE forcing François Villon into hiding. Black sites are
@@ -131,10 +130,10 @@ In the opening acts of this new inquisition the Camarilla has taken
 heavy blows with London and Vienna, but many Sabbat and Anarch havens
 have been hit the hardest. These events even factor into the Giovanni
 inclination to form the
-<a href="Hecata" class="wikilink" title="Hecata">Hecata</a>.[13] The
-<a href="Banu_Haqim" class="wikilink" title="Banu Haqim">Banu Haqim</a>
+[Hecata](./hecata.md).[13] The
+[Banu Haqim](./banu.md)
 and
-<a href="The_Ministry" class="wikilink" title="Ministry">Ministry</a>
+[Ministry](./ministry.md)
 are finding being independent clans not as advantageous with domains
 between the Gehenna War and Second Inquisition.[14]
 
@@ -217,8 +216,7 @@ are always up for grabs.[25]
   touches many security agencies. It takes in information and either
   passes the targets to IAO, SAD or other agencies to strike, to have
   deniability. In special cases it sends in its own strike force for
-  high value targets. Recruits <a href="Thin-blood" class="wikilink"
-  title="Thin-bloods">Thin-bloods</a> with promises of revenge and cures
+  high value targets. Recruits [Thin-bloods](./thinblood.md) with promises of revenge and cures
   only to send them to experimentation sites. [27][28]
 - **FBI’s Special Affairs Division** - Also called SAD, headed by Deputy
   Director Marcus Questor. Originally formed by J. Edgar Hoover fought
@@ -276,7 +274,7 @@ in the Coalition for its tactics.[33]
 
 ##### Russia
 
-The <a href="Brujah" class="wikilink" title="Brujah">Brujah</a> used to
+The [Brujah](./brujah.md) used to
 have a tight grip on Russia’s KGB and information organizations. The GRU
 Fifth Directorate was formed to isolate influences by the KGB which
 discovered the Anarchs and Brujah pulling the strings. They started
@@ -320,8 +318,8 @@ jurisdiction, especially to UK and US agencies.[40]
 
 Brazil’s agencies are close allies to the Vatican, and also have years
 of experience fighting supernatural forces. Due to
-<a href="Lasombra" class="wikilink" title="Lasombra">Lasombra</a> and
-<a href="Toreador" class="wikilink" title="Toreador">Toreador</a>
+[Lasombra](./lasombra.md) and
+[Toreador](./toreador.md)
 warring over dominance, they were ignored and rather used by Princes as
 tools to attack their enemies. This allowed them to gain more experience
 and funds from plundered Kindred assets. The Vatican brought them fully
@@ -548,13 +546,11 @@ criminal protectors who see Kindred as monster or blasphemy to God.
 
 Given they do not know or care if an enemy is Kindred, what they do care
 about is when a Kindred disrupts their operations: a
-<a href="Hecata" class="wikilink"
-title="Puttanesca&#39;s">Puttanesca's</a> crew rivals their gang,
-<a href="Thin-blood" class="wikilink"
-title="Thin-bloods">Thin-bloods</a> deal on their block, supernaturally
-strong <a href="Brujah" class="wikilink" title="Brujah">Brujah</a>
+[Puttanesca's](./hecata.md) crew rivals their gang,
+[Thin-bloods](./thinblood.md) deal on their block, supernaturally
+strong [Brujah](./brujah.md)
 vigilantes, or even
-<a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a>
+[Ventrue](./ventrue.md)
 manipulating local politicians to hurt their rackets. Their bottom line
 and dominance is usually all they care about. They are wily antagonists,
 manipulating finances, blackmailing herds, and getting hands on high
@@ -604,8 +600,7 @@ which can make them actual threats.
 
 They complicate things, such as it not really self-defense if they never
 proved a threat. They can go after touchstones or the much weaker,
-vulnerable childe. If <a href="Thin-blood" class="wikilink"
-title="Thin-bloods">Thin-bloods</a> are important to a Kindred they may
+vulnerable childe. If [Thin-bloods](./thinblood.md) are important to a Kindred they may
 attack them on the streets with larger margins of success. They can even
 turn into accidental serial killers who make hunting harder. Some attack
 in public unafraid of arrest banking on Kindred holding back.
@@ -644,7 +639,7 @@ Occult agents can be varied and are largely up to the Storyteller to
 include them. On one hand they are something like occult advisors from
 the Arcanum or defecting Thin-bloods. They may be composed of enslaved
 Kindred, mystics, psychics, abandoned ghouls, or even old
-<a href="Tzimisce" class="wikilink" title="Tzimisce">Tzimisce</a>
+[Tzimisce](./tzimisce.md)
 monstrosities. [81]  
 
 ### Opposing Force
@@ -686,7 +681,7 @@ stakes. This proves very effective.[85]
 
 Phase Motion Detector - A device known as a screamer, as it lets out a
 high pitched sound when its microwaves detect motion.
-<a href="Obfuscate" class="wikilink" title="Obfuscated">Obfuscated</a>
+[Obfuscated](./obfuscate.md)
 Kindred do well to not be detected by such traps.[86]
 
 Velum Sanctuarii - Called “Holy Veil” in English, though known also as
@@ -711,7 +706,7 @@ for their game.
 The Vatican has a large store of Relics, loans them out usually only to
 BOES and seldomly IAO and FIRSTLIGHT. The Akritai have a collection that
 favors Icons, even though
-<a href="Brujah" class="wikilink" title="Brujah">Brujah</a> destroyed
+[Brujah](./brujah.md) destroyed
 many of them once upon a time. FBI’s SAD has a vault with many occult
 and esoteric items.[88][89][90]
 

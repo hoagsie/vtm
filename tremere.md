@@ -103,15 +103,13 @@ Thorn</a>**
 title="Safia Ulusoy"><strong>Safia Ulusoy</strong></a>
 
 **Carna** - She was once the Prince of Marseilles and the Primogen of
-<a href="Milwaukee,_Wisconsin" class="wikilink"
-title="Milwaukee">Milwaukee</a> and now has her own splinter cell of
+[Milwaukee](./milwaukee_wi.md) and now has her own splinter cell of
 Tremere called the House of Carna. Her group advocates for the freedom
 from the
-<a href="Blood_Bond" class="wikilink" title="Blood Bond">Blood Bond</a>
+[Blood Bond](./blood_bond.md)
 against the Pyramid's tyranny and the misogyny of the clan itself. When
 the Pyramid planned to eradicate Carna, it was raided by the
-<a href="Second_Inquisition" class="wikilink"
-title="Second Inquisition">Second Inquisition</a> at the Great
+[Second Inquisition](./second_inquisition.md) at the Great
 Chantry.[6]
 
 **Karl Schrekt** - Former Justicar who was a legend within his own clan
@@ -134,8 +132,7 @@ York by Night</a>.[8]
 
 **Meerlinda** - One of the founders of the clan, she has been missing
 since the attack on the Vienna Chantry by the
-<a href="Second_Inquisition" class="wikilink"
-title="Second Inquisition">Second Inquisition</a>. However, the
+[Second Inquisition](./second_inquisition.md). However, the
 <a href="Praesidium" class="wikilink" title="Praesidium">Praesidium</a>
 believes that she is still alive, and either in torpor or captured
 somewhere in Krakow, Rome or Moscow.[9]
@@ -155,18 +152,16 @@ in the experimentation and ritualistic practices to find the elixir of
 life. These actions eventually unveiled the curse of Caine, entering him
 and his followers into an eternity of unlife and hunger, unable to use
 practice their craft. Tremere and followers were able to use
-<a href="Blood_Sorcery" class="wikilink" title="Blood Sorcery">Blood
-Sorcery</a> to imitate their old magic and organized their newly turned
+[Blood Sorcery](./blood_sorcery.md) to imitate their old magic and organized their newly turned
 clan. The Tremere were once possibly the most organized clan by virtue
 of their Pyramid, a strict hierarchy with the
-<a href="Blood_Bond" class="wikilink" title="Blood Bond">Blood Bond</a>
+[Blood Bond](./blood_bond.md)
 and oaths enforcing loyalty so power was concentrated at the top and
 trickled down. They had ranks and chantries who all answered to the
 Council of Seven, who sat atop the Pyramid.
 
 In 2008 the Prime Chantry in Vienna was destroyed by the
-<a href="Second_Inquisition" class="wikilink"
-title="Second Inquisition">Second Inquisition</a>, and their ability to
+[Second Inquisition](./second_inquisition.md), and their ability to
 Blood Bond dissolved, it knocked them from their powerful status to
 unwelcome Kindred. The Usurpers had few friends from the arrogance of
 their Pyramid, still, the need for their Blood Sorcery hasn't
@@ -182,7 +177,7 @@ their occult knowledge, the Camarilla with Blood Sorcery, or, themselves
 to grasp at power. Even if they've shifted more towards the practice of
 their art rather than the theory of it, they still claim fewer thrones
 than the
-<a href="Nosferatu" class="wikilink" title="Nosferatu">Nosferatu</a>.
+[Nosferatu](./nosferatu.md).
 The reality is that most do not see a need to become Prince unless it
 serves to further their knowledge as to most, power is the knowledge of
 how to shape the world to their will and access to the rarest of ancient
@@ -192,8 +187,7 @@ Kindred seeking knowledge of their history will do well to approach the
 Tremere for answers. As long as they are at peace with knowing that
 they'll need to share some of their secrets, knowingly or not.[10][11]
 Many warlocks are active on the
-<a href="blood_craft_scene" class="wikilink"
-title="blood craft scene">blood craft scene</a>, searching for
+[blood craft scene](./blood_craft_scene.md), searching for
 knowledge, scrounging for ingredients, or leveraging their blood sorcery
 for profit. Some seek what was lost and other seek to build something
 new.[12]
@@ -231,7 +225,7 @@ After the fall of the Pyramid, this group attracts many Anarchs and
 disenfranchised Camarilla members. In the modern age, she pushes for the
 modernization and feminization of Clan Tremere. While they are
 officially Camarilla aligned, they do have
-<a href="Anarch" class="wikilink" title="Anarch">Anarch</a> leanings.
+[Anarch](./anarch.md) leanings.
 Those embraced in this house are usually unorthodox by old Pyramid
 standards: pagans, psychics, and chaos magicians. The House serves a
 cult of personality as a kink-forward, blood bond-like ritual ties the
@@ -263,7 +257,7 @@ calculated shows of strength to prove their legitimacy.[24]
 #### House Ipsissimus
 
 A faction the Tremere, existing within the
-<a href="Anarch" class="wikilink" title="Anarch">Anarch</a> sect after
+[Anarch](./anarch.md) sect after
 the fall of the Pyramid. Now free from their bonds of enslavement, they
 strive to find perfect balance in all things in order to reach
 enlightenment.[25] They are a well known example Solitarchies keeping to
@@ -286,20 +280,15 @@ research.[29]
 
 Tremere characters have special access to the following loresheets:
 
-• <a href="Loresheets#Descendant_of_Karl_Schrekt" class="wikilink"
-title="Descendant of Karl Schrekt">Descendant of Karl Schrekt</a>
+• [Descendant of Karl Schrekt](./loresheets.md#descendant-of-karl-schrekt)
 
-• <a href="Loresheets#Revenant_Family:_Ducheski" class="wikilink"
-title="Revenant Family: Ducheski">Revenant Family: Ducheski</a>
+• [Revenant Family: Ducheski](./loresheets.md#revenant-family-ducheski)
 
-• <a href="Loresheets#Occult_Artifacts" class="wikilink"
-title="Occult Artifacts">Occult Artifacts</a>
+• [Occult Artifacts](./loresheets.md#occult-artifacts)
 
-• <a href="Loresheets#Praepositor" class="wikilink"
-title="Praepositor">Praepositor</a>
+• [Praepositor](./loresheets.md#praepositor)
 
-• <a href="Loresheets#The_Pyramid" class="wikilink"
-title="The Pyramid">The Pyramid</a>
+• [The Pyramid](./loresheets.md#the-pyramid)
 
 ## Gallery
 

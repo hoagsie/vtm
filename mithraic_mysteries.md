@@ -4,7 +4,7 @@
 
 One of the most famous Methuselah cults, the Cult of Mithras, is
 centuries old, led by their
-<a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a> namesake.
+[Ventrue](./ventrue.md) namesake.
 Ever since
 <a href="Mithras" class="wikilink" title="Mithras’">Mithras’</a>
 disappearance the cult has been in disarray with no central figure to
@@ -17,7 +17,7 @@ for Mithras and to become significant power players in Kindred society.
 
 The cult has ties to the ancient Roman and Persia days through the
 founding of
-<a href="London,_UK" class="wikilink" title="Londinium">Londinium</a> to
+[Londinium](./london_uk.md) to
 modern night. Just as long lived as its central figure. Many cells fell
 to Mithras’ supposed destruction, but those that survived with strong
 leaders grew.
@@ -83,19 +83,18 @@ core.[4]
 
 - Bull Running - The Pater designates a target be it mortal, ghoul, or
   Kindred, which the initiates defeat. Defeat can by
-  <a href="Final_death" class="wikilink" title="Final Death">Final
-  Death</a> or murder, but can also be financial ruin or public
+  [Final Death](./final_death.md) or murder, but can also be financial ruin or public
   disgrace.[5]
 - Fertility Feasts - Purpose is to channel the divine fertility of
   Mithras. This can be in the form of drugs, sexual acts, or however the
   cell interprets fertility. Though Kindred with Kindred is rare due to
-  <a href="Blood_Bond" class="wikilink" title="Blood Bond">Blood Bond</a>
+  [Blood Bond](./blood_bond.md)
   concerns.[6]
 - Blood Equinox - Late spring fasting where mortal members abstain from
   some indulgence, but Kindred feed just enough to stave off the
   <a href="Beast" class="wikilink" title="Beast">Beast</a>. At the
   Summer Solstice feast they go into a divine
-  <a href="Frenzy" class="wikilink" title="Frenzy">Frenzy</a>. Frenzying
+  [Frenzy](./frenzy.md). Frenzying
   during the fast or not frenzying at the feast is looked down upon.[7]
 - The Blooding - Bathing a member of in the Blood of a Pater and Mithras
   to denote them as an elite soldier. Not in modern era until Mithras
@@ -103,54 +102,45 @@ core.[4]
 
 ## Exclusive Character Options
 
-<a href="Dominate#Slavish_Devotion" class="wikilink"
-title="Slavish Devotion">Slavish Devotion</a> - Level 1 Dominate with
-<a href="Presence" class="wikilink" title="Presence">Presence</a>
+[Slavish Devotion](./dominate.md#slavish-devotion) - Level 1 Dominate with
+[Presence](./presence.md)
 amalgam
 
-<a href="Dominate#Ancestral_Dominion" class="wikilink"
-title="Ancestral Dominion">Ancestral Dominion</a> - Level 4 Dominate
+[Ancestral Dominion](./dominate.md#ancestral-dominion) - Level 4 Dominate
 with
-<a href="Blood_Sorcery" class="wikilink" title="Blood Sorcery">Blood
-Sorcery</a> amalgam.
+[Blood Sorcery](./blood_sorcery.md) amalgam.
 
-<a href="Fortitude#Shatter" class="wikilink" title="Shatter">Shatter</a> -
+[Shatter](./fortitude.md#shatter) -
 Level 4 Fortitude[9]
 
-<a href="Merits_and_Flaws#Mithraic_Mysteries" class="wikilink"
-title="Exclusive merits and flaws">Exclusive merits and flaws</a>
+[Exclusive merits and flaws](./merits_flaws.md#mithraic-mysteries)
 
 ## Notable Members
 
 <a href="Mithras" class="wikilink" title="Mithras">Mithras</a>,
-<a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a> - Leader
+[Ventrue](./ventrue.md) - Leader
 and God-emperor of the cult. Former Prince of
-<a href="London,_UK" class="wikilink" title="London">London</a>.[10][11]
+[London](./london_uk.md).[10][11]
 
 <a href="Roger_de_Camden" class="wikilink" title="Roger de Camden">Roger
 de Camden</a>,
-<a href="Hecata" class="wikilink" title="Hecata">Hecata</a> - Pater and
+[Hecata](./hecata.md) - Pater and
 leader of cult. Leads now headquarters in
-<a href="Edinburgh,_Scotland" class="wikilink"
-title="Edinburgh">Edinburgh</a> as its Prince.[12][13]
+[Edinburgh](./edinburgh_scotland.md) as its Prince.[12][13]
 
 Arjun Shah,
-<a href="Banu_Haqim" class="wikilink" title="Banu Haqim">Banu Haqim</a> -
+[Banu Haqim](./banu.md) -
 Tasked with starting a cell in America. Enticing Prince Decker of
-<a href="Milwaukee,_Wisconsin" class="wikilink"
-title="Milwaukee">Milwaukee</a> with the cult. He has set up a
+[Milwaukee](./milwaukee_wi.md) with the cult. He has set up a
 Mithraeum, named Pater of the Milwaukee cell, and acquired rank of Judge
 in the city.[14][15]
 
-<a href="Boston,_Massachusetts#The_Triad" class="wikilink"
-title="The Triad">The Triad</a> - A coterie of three elders and their
-faction who influenced <a href="Boston,_Massachusetts" class="wikilink"
-title="Boston">Boston</a> and their Prince for decades. Remnants of
+[The Triad](./boston_mass.md#the-triad) - A coterie of three elders and their
+faction who influenced [Boston](./boston_mass.md) and their Prince for decades. Remnants of
 their order remain waiting to retake the city.[16]
 
 Terrence Rusk, Ventrue - Perses and representative of the Cult of
-Mithras in <a href="Munich,_Germany" class="wikilink"
-title="Munich, Germany">Munich, Germany</a>. Has a large network of
+Mithras in [Munich, Germany](./munich_germany.md). Has a large network of
 spies and assets. Seeks the Venetian jar to raise Mithras or one of
 Mithras' old followers.[17]
 
@@ -167,8 +157,7 @@ Mithraeum[22]
 
 ## Exclusive Loresheets
 
-• <a href="Loresheets#The_Cult_of_Mithras" class="wikilink"
-title="The Cult of Mithras">The Cult of Mithras</a>[23]
+• [The Cult of Mithras](./loresheets.md#the-cult-of-mithras)[23]
 
 ## References
 

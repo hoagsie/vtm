@@ -3,10 +3,9 @@
 <section begin=summary/>
 
 The Nephilim are devoted followers of the Dream of
-<a href="Constantinople" class="wikilink"
-title="Constantinople">Constantinople</a>, they are also called the
+[Constantinople](./constantinople.md), they are also called the
 Children of the Angel. Named for the Childer of the
-<a href="Toreador" class="wikilink" title="Toreador">Toreador</a>
+[Toreador](./toreador.md)
 methuselah, Michael, the Dream was an ideal of the perfect Kindred
 society lead by Michael and his Coterie; Michael was called the
 Archangel. The Nephilim is now a cult that wishes to embody the Dream
@@ -38,7 +37,7 @@ the clan by blood and beauty.
 
 - Apex - The True Nephilim, direct descendants of the Archangel the 5th
   or 7th
-  <a href="generation" class="wikilink" title="generation">generation</a>.
+  [generation](./generation.md).
 - Frescoes/artwork - The True Nephilim’s childers who don’t possess the
   special blood quirk of Michael.
 - Pillars - The adherent Kindred Toreadors outside the bloodline of
@@ -46,7 +45,7 @@ the clan by blood and beauty.
 - Columns - The ghoul and humans of the cults.
 - Foundation - Represented as the steps leading to the basilica, the
   Nosferatu cultists. While the
-  <a href="Nosferatu" class="wikilink" title="Nosferatu">Nosferatu</a>
+  [Nosferatu](./nosferatu.md)
   can’t attain beauty, they work as foot soldiers and spies treated as
   second class.
 
@@ -95,8 +94,7 @@ thee be purged by the fires of day
 
 ## Exclusive Loresheets
 
-• <a href="Loresheets#Child_of_the_Angel_Michael" class="wikilink"
-title="Child of the Angel Michael">Child of the Angel Michael</a>[4]
+• [Child of the Angel Michael](./loresheets.md#child-of-the-angel-michael)[4]
 
 ## References
 

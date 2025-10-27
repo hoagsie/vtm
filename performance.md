@@ -25,20 +25,19 @@ Rap, Singing, Violin, Wind Instruments. [4]
 
 ## Example pools
 
-- <a href="Charisma" class="wikilink" title="Charisma">Charisma</a> +
+- [Charisma](./charisma.md) +
   Performance
   - How good they look performing to have groupies [5]
   - Giving a speech [6]
   - Fight a rap battle with stage presence instead of rhyming [7]
   - Get someone to cross the line [8]
   - Dancing [9]
-- <a href="Manipulation" class="wikilink"
-  title="Manipulation">Manipulation</a> + Performance
+- [Manipulation](./manipulation.md) + Performance
   - To impersonate someone else [10]
   - Get someone to cross the line [11]
-- <a href="Wits" class="wikilink" title="Wits">Wits</a> + Performance
+- [Wits](./wits.md) + Performance
   - A rap battle or a duel of poesy [12]
-- <a href="Dexterity" class="wikilink" title="Dexterity">Dexterity</a> +
+- [Dexterity](./dexterity.md) +
   Performance
   - Dancing [13]
 

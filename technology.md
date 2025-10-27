@@ -21,8 +21,7 @@ Phones, Surveillance Systems. [3]
 
 ## Example pools
 
-- <a href="Intelligence" class="wikilink"
-  title="Intelligence">Intelligence</a> + Technology
+- [Intelligence](./intelligence.md) + Technology
   - Hacking into a computer system. [4]
   - Building clock part or colored wire bombs. [5]
   - Setting a car bomb.[6]

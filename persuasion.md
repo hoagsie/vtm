@@ -21,11 +21,10 @@ Rhetoric. [3]
 
 ## Example pools
 
-- <a href="Charisma" class="wikilink" title="Charisma">Charisma</a> +
+- [Charisma](./charisma.md) +
   Persuasion
   - In a debate [4]
-- <a href="Manipulation" class="wikilink"
-  title="Manipulation">Manipulation</a> + Persuasion
+- [Manipulation](./manipulation.md) + Persuasion
   - Which story will the Prince believe? [5]
   - Take blood by consent, by lying about the real reason via
     <a href="Predator_types#Consensualist" class="wikilink"
@@ -35,8 +34,7 @@ Rhetoric. [3]
     <a href="Predator_types#Scene_Queen" class="wikilink"
     title="Scene Queen">Scene Queen</a>. [7]
   - Convert onlookers in a mesage. [8]
-- <a href="Intelligence" class="wikilink"
-  title="Intelligence">Intelligence</a> + Persuasion
+- [Intelligence](./intelligence.md) + Persuasion
   - Convince the Prince the other is lying with ample research. [9]
 
 ## References

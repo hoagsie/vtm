@@ -1,12 +1,11 @@
 ## Overview
 
 Kharkiv is a domain that has experienced the odd shift from being a
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>
+[Camarilla](./camarilla.md)
 domain to being an
-<a href="Anarch" class="wikilink" title="Anarch">Anarch</a> domain. It
+[Anarch](./anarch.md) domain. It
 is a city that is under the influence of the
-<a href="Church_of_Set" class="wikilink" title="Church of Set">Church of
-Set</a>.
+[Church of Set](./church_set.md).
 
 The Prince abdicated their throne only for a Baron to immediately rise
 in their place. The Primogen Council dissolved, with the Primogen
@@ -25,24 +24,21 @@ of the Church.[1]
 
 ## Notable People and Groups
 
-- **<a href="Church_of_Set" class="wikilink" title="Church of Set">Church of
-  Set</a>** - The Church of Set in Kharkiv doesn't care which sect rules
+- **[Church of Set](./church_set.md)** - The Church of Set in Kharkiv doesn't care which sect rules
   the city, but that the
   <a href="Kindred" class="wikilink" title="Kindred">Kindred</a> left
   are followers of Set; lacking the desire for political positions or to
   be political advisors. Their tactics and methods were built off of and
-  improved upon <a href="Indianapolis,_Indiana" class="wikilink"
-  title="Indianapolis">Indianapolis</a>’ success, but improved upon the
+  improved upon [Indianapolis](./indianapolis_in.md)’ success, but improved upon the
   perceived failure in their eyes of the “all faiths accepted” approach.
   They use the terms “believer” for those saved, "non-believer" for
   those to be targeted, and “the lost” for those in need of pity,
   isolation, or to be erased. They are led by a loose hierarchy with
   priest role as the pinnacle and rest warriors role and believers.
   Three of the
-  <a href="Church_of_Set" class="wikilink" title="Setite">Setite</a>
+  [Setite](./church_set.md)
   priests are of
-  <a href="The_Ministry" class="wikilink" title="Clan Ministry">Clan
-  Ministry</a> and two are of other clans.[2]
+  [Clan Ministry](./ministry.md) and two are of other clans.[2]
 - **<a href="Oksana_Koblenko" class="wikilink"
   title="Oksana Koblenko">Oksana Koblenko</a>**
 - **Priest Akhtem Veksler** - One of the priests of Kharkiv, whose
@@ -69,7 +65,7 @@ of the Church.[1]
   to indulge in any desire, as long as they leave the temple the next
   night with no intention to give into that indulgence again. Acts such
   as drugs,
-  <a href="Resonance" class="wikilink" title="Resonances">Resonances</a>,
+  [Resonances](./resonance.md),
   and other base acts are conducted. The way to avoid temptation vary,
   but killing vessels to never be tempted again has occurred.[8]
 - **Temple of Gray Veils**  - The second Kharkiv temple in the back of

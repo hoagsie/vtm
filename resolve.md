@@ -3,14 +3,14 @@ their focus truly is. This Attribute powers the all-night stakeouts.
 Allowing the character to create a mental block from any distractions,
 showcasing their mental fortitude and concentration.
 
-<a href="Willpower" class="wikilink" title="Willpower">Willpower</a> is
+[Willpower](./willpower.md) is
 determined by the value of
-<a href="Composure" class="wikilink" title="Composure">Composure</a> +
+[Composure](./composure.md) +
 Resolve.[1]
 
 At the beginning of a session, characters heal Superficial Willpower
 damage up to the value of whichever is highest between
-<a href="Composure" class="wikilink" title="Composure">Composure</a> and
+[Composure](./composure.md) and
 Resolve. [2]
 
 ## Dot values
@@ -30,7 +30,7 @@ whatever mess follows impeccably. [3]
 ## Example pools
 
 - Resolve +
-  <a href="Composure" class="wikilink" title="Composure">Composure</a>
+  [Composure](./composure.md)
   - Used to resist many Disciplines. [4]
 
 ## References

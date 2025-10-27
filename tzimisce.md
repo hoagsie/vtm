@@ -55,7 +55,7 @@ find in it. [2]
 physical location, a group of people, or something even more esoteric.
 Each night they must sleep surrounded by their charge, if they do not,
 they sustain aggravated
-<a href="Willpower" class="wikilink" title="Willpower">Willpower</a>
+[Willpower](./willpower.md)
 damage equal to their Bane Severity upon waking the following night.
 
 <section end=bane/>
@@ -72,8 +72,7 @@ penalty also applies to their Discipline pools while they are there. The
 invitation inside can only be made by someone who lives there and this
 does not occur in uninhabited homes or public places. Tzimisce with this
 Bane cannot take the uninvited
-<a href="Merits_and_Flaws#Folkloric_Block" class="wikilink"
-title="Folkloric Block">Folkloric Block</a>.
+[Folkloric Block](./merits_flaws.md#folkloric-block).
 
 <section end="altbane" />
 
@@ -164,17 +163,14 @@ goal and watching each others back.
 The most infamous servants of the Tzimisce are the servitor ghouls,
 szlachta and vozhd. The former an inhuman ghouls with extreme loyalty.
 The Vozhd are relics of the past, stitching of dozens of szlachta with
-<a href="Protean#Fleshcrafting" class="wikilink"
-title="Fleshcrafting">Fleshcrafting</a> and
-<a href="Blood_Sorcery" class="wikilink" title="Blood Sorcery">Blood
-Sorcery</a> to create living war machines absent of thought but
+[Fleshcrafting](./protean.md#fleshcrafting) and
+[Blood Sorcery](./blood_sorcery.md) to create living war machines absent of thought but
 infinitely ravenous. Once used to fight their enemies, protect havens,
 or serve at their masters' pleasure. The extreme end of these servitor
 ghouls is now rare, save for elders who hoard the secrets. The young at
 times discover ways to make special szlachta for their purposes. Even
 stranger there are even rumors of
-<a href="Revenant#Revenant_ghouls" class="wikilink"
-title="families of ghouls">families of ghouls</a> in service of elders
+[families of ghouls](./revenant.md#revenant-ghouls) in service of elders
 their ghoul status passed on biologically, such ways this was achieved
 is known only to the oldest members of the clan.[11]
 
@@ -202,9 +198,9 @@ be an extension of their ownership.
 A major trait about the Tzimisce is their notorious vice of grudge
 bearing, said to even exceed that of Toreador Vendettas. The clan has a
 longstanding rivalry with the
-<a href="Tremere" class="wikilink" title="Tremere">Tremere</a>,
-<a href="Nosferatu" class="wikilink" title="Nosferatu">Nosferatu</a>,
-and <a href="Gangrel" class="wikilink" title="Gangrel">Gangrel</a>. Some
+[Tremere](./tremere.md),
+[Nosferatu](./nosferatu.md),
+and [Gangrel](./gangrel.md). Some
 they see as usurpers of the blood, the others they see as interlopers on
 their lands from age old conflicts. One of the oldest enemies the clans
 consider are the elders, which ironically differs depending on the
@@ -213,14 +209,12 @@ Dragon's age and sect alignment. [12][13]
 #### Kolduny
 
 Some Tzimisce may start with
-<a href="Blood_Sorcery" class="wikilink" title="Blood Sorcery">Blood
-Sorcery</a> and practice it. This type of blood sorcery is called a
+[Blood Sorcery](./blood_sorcery.md) and practice it. This type of blood sorcery is called a
 koldunic sorcery practiced by a koldun. Many kolduny consider themselves
 the oldest and best blood sorcerers long before the other clans. They
 practice a form of blood sorcery that thralls an element so they may
 perceive through it and build more
-<a href="Blood_Sorcery_Rituals" class="wikilink"
-title="Blood Sorcery Rituals">Blood Sorcery Rituals</a> allowing them
+[Blood Sorcery Rituals](./blood_sorcery_rituals.md) allowing them
 control their chosen elements. Each level they choose an element from
 air, water, fire, or earth to supposedly form a blood bond with so they
 may command it. Their preferred rituals are those that exert control on
@@ -230,27 +224,23 @@ Learning usually depends on a mentoring koldun, usually the sire. They
 usually go to a wild place under the new moon for a new initiate to bind
 the element of choice to them. The process can take weeks. In the past
 they needed to go to the Carpathian Mountains so they may find a
-<a href="Blood_craft_scene#Furcus" class="wikilink"
-title="furcus">furcus</a> with the right connection, but now many can go
+[furcus](./blood_craft_scene.md#furcus) with the right connection, but now many can go
 to a wild place already prepared by an older Tzimisce. The process is
 repeated for each element. Some push the limits of their craft like the
-<a href="Other_groups#Lui_Domien" class="wikilink"
-title="Lui Domien">Lui Domien</a> and others use the
-<a href="blood_craft_scene" class="wikilink"
-title="blood craft scene">blood craft scene</a> to profit or find
+[Lui Domien](./other_groups.md#lui-domien) and others use the
+[blood craft scene](./blood_craft_scene.md) to profit or find
 avenues for their experiments.[16][17]
 
 ### Faction Differences
 
 The division between the sects go along generational lines much more
 than other clans. These nights the clan is divided between the
-<a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a> and
-<a href="Anarch" class="wikilink" title="Anarch Movement">Anarch
-Movement</a> equally, and some few go towards the
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>.
+[Sabbat](./sabbat.md) and
+[Anarch Movement](./anarch.md) equally, and some few go towards the
+[Camarilla](./camarilla.md).
 
 The Tzimisce in the
-<a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a> are called
+[Sabbat](./sabbat.md) are called
 *Tzimisce antitribu*. This is where many of the older members of the
 clan still reside in the night. The Dragon’s hatred for elders is
 notorious, so much so they participated in the first Anarch Revolt and
@@ -275,10 +265,8 @@ personal investment will yield returns.[18]
 
 Tzimisce characters have special access to the following loresheets:
 
-- <a href="Loresheets#High_Clan" class="wikilink" title="High Clan">High
-  Clan</a>
-- <a href="Loresheets#Descendant_of_Dracula" class="wikilink"
-  title="Descendant of Dracula">Descendant of Dracula</a>
+- [High Clan](./loresheets.md#high-clan)
+- [Descendant of Dracula](./loresheets.md#descendant-of-dracula)
 
 ## Gallery
 

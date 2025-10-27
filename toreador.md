@@ -150,7 +150,7 @@ She is forbidden by the Camarilla to store her information online, so
 she keeps several "Neillson" libraries in hidden locations. [7]
 
 **Annabelle** - The French-born Primogen of
-<a href="Chicago,_Illinois" class="wikilink" title="Chicago">Chicago</a>
+[Chicago](./chicago_ill.md)
 is the grandchilde and secret pawn of Helena. She has been involved in
 politics with the Camarilla for nearly two centuries. She's served on
 the council through the reigns of four different princes, survived
@@ -212,7 +212,7 @@ Given the aims of their embrace it is not too surprising the Toreadors
 hold a lot of influence in mortal society. Toreadors clutch to the
 industries that grasp at human stimulation and culture: television,
 news, music, art, wine bars, nightclubs, etc. Many may only attribute
-<a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a> with
+[Ventrue](./ventrue.md) with
 financial acumen, but Toreadors own many properties and business on a
 global scale. Of course unlike the Clan of Kings, many don’t do this for
 money, they do it for the thrill. The chance to mingle with human
@@ -291,11 +291,9 @@ Toreadors in the war of ages is a common sight.[24]
 
 Toreador characters have special access to the following loresheets:
 
-• <a href="Loresheets#Descendant_of_Helena" class="wikilink"
-title="Descendant of Helena">Descendant of Helena</a>
+• [Descendant of Helena](./loresheets.md#descendant-of-helena)
 
-• <a href="Loresheets#Descendant_of_Baron_Vollgirre" class="wikilink"
-title="Descendant of Baron Vollgirre">Descendant of Baron Vollgirre</a>
+• [Descendant of Baron Vollgirre](./loresheets.md#descendant-of-baron-vollgirre)
 
 ## Gallery
 

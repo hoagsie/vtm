@@ -22,7 +22,7 @@ problem which they must then solve for themselves, be it terminal
 illness or an unquenchable drive to right a wrong done to them.
 
 It is believed that Saulot, their progenitor, was devoured by a
-<a href="Tremere" class="wikilink" title="Tremere">Tremere</a> to
+[Tremere](./tremere.md) to
 strengthen his own clan's Blood. It is also believed that Saulot was the
 first Kindred to ever reach Golconda, and so his lineage still attempts
 to walk in that same path centuries after his death. More often than
@@ -38,8 +38,8 @@ them.
 
 Very few domains allow them within their walls because they are running
 into trouble with others; neither
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>
-Princes nor <a href="Anarch" class="wikilink" title="Anarch">Anarch</a>
+[Camarilla](./camarilla.md)
+Princes nor [Anarch](./anarch.md)
 Barons are willing to keep them long. Many of the Salubri are still
 being hunted for actions of their sires centuries ago. Their fate in the
 modern night is grim. Still, they face this adversity with a perspective
@@ -71,7 +71,7 @@ partakes in their Blood, they find it difficult to pull away. Once a
 non-Salubri has consumed at least one
 <a href="Hunger_system" class="wikilink" title="Hunger">Hunger</a> level
 worth, they must make a Hunger
-<a href="Frenzy" class="wikilink" title="Frenzy">Frenzy</a> test at
+[Frenzy](./frenzy.md) test at
 difficulty 2 + the Salubri's Bane Severity (3 + the Salubri's Bane
 Severity for Banu Haqim). If they fail, they will continue to consume
 the Salubri until pried off. Additionally, each Salubri has a third eye,

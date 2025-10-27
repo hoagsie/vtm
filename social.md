@@ -6,12 +6,11 @@ motivate people. [1]
 
 The Social attributes are as follows:
 
-<a href="Charisma" class="wikilink" title="Charisma">Charisma</a>
+[Charisma](./charisma.md)
 
-<a href="Manipulation" class="wikilink"
-title="Manipulation">Manipulation</a>
+[Manipulation](./manipulation.md)
 
-<a href="Composure" class="wikilink" title="Composure">Composure</a>
+[Composure](./composure.md)
 
 ## Skills
 
@@ -21,25 +20,23 @@ tends to be negative.[2]
 
 The Social Skills are as below:
 
-<a href="Animal_Ken" class="wikilink" title="Animal Ken">Animal Ken</a>
+[Animal Ken](./animal_ken.md)
 
-<a href="Etiquette" class="wikilink" title="Etiquette">Etiquette</a>
+[Etiquette](./etiquette.md)
 
-<a href="Insight" class="wikilink" title="Insight">Insight</a>
+[Insight](./insight.md)
 
-<a href="Intimidation" class="wikilink"
-title="Intimidation">Intimidation</a>
+[Intimidation](./intimidation.md)
 
-<a href="Leadership" class="wikilink" title="Leadership">Leadership</a>
+[Leadership](./leadership.md)
 
-<a href="Performance" class="wikilink"
-title="Performance">Performance</a>
+[Performance](./performance.md)
 
-<a href="Persuasion" class="wikilink" title="Persuasion">Persuasion</a>
+[Persuasion](./persuasion.md)
 
-<a href="Streetwise" class="wikilink" title="Streetwise">Streetwise</a>
+[Streetwise](./streetwise.md)
 
-<a href="Subterfuge" class="wikilink" title="Subterfuge">Subterfuge</a>
+[Subterfuge](./subterfuge.md)
 
 ## References
 

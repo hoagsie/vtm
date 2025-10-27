@@ -22,27 +22,26 @@ Pickpocket, Safecracking, Security Analysis [3]
 
 ## Example pools
 
-- <a href="Intelligence" class="wikilink"
-  title="Intelligence">Intelligence</a> + Larceny
+- [Intelligence](./intelligence.md) + Larceny
   - Determining what type of alarm is it. [4]
   - Beating the roof alarm. [5]
   - Controlled demolitions. [6]
   - Bypassing an alarm circuit.[7]
   - Setting up a security system. [8]
-- <a href="Dexterity" class="wikilink" title="Dexterity">Dexterity</a> +
+- [Dexterity](./dexterity.md) +
   Larceny
   - Breaking in through the skylight. [9]
   - Cracking a safe. [10]
   - Sleight of hand. [11]
-- <a href="Composure" class="wikilink" title="Composure">Composure</a> +
+- [Composure](./composure.md) +
   Larceny
   - Extracting an item from a laser field.[12]
-- <a href="Resolve" class="wikilink" title="Resolve">Resolve</a> +
+- [Resolve](./resolve.md) +
   Larceny
   - Cleaning up a crime scene. [13]
-- <a href="Wits" class="wikilink" title="Wits">Wits</a> + Larceny
+- [Wits](./wits.md) + Larceny
   - Noticing a hidden camera. [14]
-- <a href="Strength" class="wikilink" title="Strength">Strength</a> +
+- [Strength](./strength.md) +
   Larceny
   - Breaking a lock cleanly. [15]
 

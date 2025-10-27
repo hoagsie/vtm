@@ -2,20 +2,19 @@
 
 Paris is one of the remaining traditional Camarilla strongholds in
 Europe; traditionally
-<a href="London,_UK" class="wikilink" title="London">London</a>,
+[London](./london_uk.md),
 <a href="Locations#Berlin,_Germany" class="wikilink"
 title="Berlin">Berlin</a>, and Paris were considered the strongest
 Camarilla domains. With London falling to the
-<a href="Second_Inquisition" class="wikilink"
-title="Second Inquisition">Second Inquisition</a> and Berlin falling to
+[Second Inquisition](./second_inquisition.md) and Berlin falling to
 an Anarch uprising. Paris still stands as the Camarilla last crown jewel
 in Europe.
 
 Though a strong domain it is repressive.
-<a href="Caitiff" class="wikilink" title="Caitiff">Caitiff</a>, the
-<a href="thin-blood" class="wikilink" title="thin-blood">thin-blood</a>,
-<a href="Anarch" class="wikilink" title="Anarch">Anarch</a> and even
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>
+[Caitiff](./caitiff.md), the
+[thin-blood](./thinblood.md),
+[Anarch](./anarch.md) and even
+[Camarilla](./camarilla.md)
 Kindred lacking proper connections can have a hard time. Prince Villon
 has gotten more powerful and more demanding. With the domain still
 strong and a strong sense of arrogance, the prince may even turn away
@@ -32,13 +31,13 @@ interesting can take advantage of.[1]
 
 - <a href="Francois_Villon" class="wikilink"
   title="François Villon">François Villon</a>,
-  <a href="Toreador" class="wikilink" title="Toreador">Toreador</a> -
+  [Toreador](./toreador.md) -
   Prince of Paris, has not been seen since 2022.[2]
 - Dahlia Gaudin,
-  <a href="Thin-blood" class="wikilink" title="Thin-blood">Thin-blood</a> -
+  [Thin-blood](./thinblood.md) -
   Seamstress and mistress to the Prince.[3]
 - Aristotle de Laurent,
-  <a href="Malkavian" class="wikilink" title="Malkavian">Malkavian</a> -
+  [Malkavian](./malkavian.md) -
   An Elder
   <a href="Noddist" class="wikilink" title="Noddist">Noddist</a> who is
   a writer, scholar and an antiquarian. He has Camarilla status as
@@ -47,12 +46,12 @@ interesting can take advantage of.[1]
   assembly of the Book is what many work off of.[4][5]
 - <a href="Dalia_Nakache" class="wikilink" title="Dalia Nakache">Dalia
   Nakache</a>,
-  <a href="Salubri" class="wikilink" title="Salubri">Salubri</a> -
+  [Salubri](./salubri.md) -
   French Ancilla from 1740s. An
-  <a href="anarch" class="wikilink" title="anarch">anarch</a>
+  [anarch](./anarch.md)
   revolutionary who often poses as a
-  <a href="Gangrel" class="wikilink" title="Gangrel">Gangrel</a> or
-  <a href="Brujah" class="wikilink" title="Brujah">Brujah</a> known as
+  [Gangrel](./gangrel.md) or
+  [Brujah](./brujah.md) known as
   Guillotine Virago. During the French Revolution she hunted counter
   revolutionaries and fallen aristocrats. Often travels with a retinue
   of ghoul followers.[6][7]
@@ -61,25 +60,24 @@ interesting can take advantage of.[1]
   Keeps pushing progressive agenda in the Camarilla, but fights against
   the Anarchs. Eventually becomes Steward post Revolution.[8]
 - Marie Antoinette - Queen of France and
-  <a href="Mortals_and_ghouls" class="wikilink" title="ghoul">ghoul</a>
+  [ghoul](./mortals_ghouls.md)
   to Francois during the Revolution. Presumably deceased.[9]
 - Suzanne Rochelle, Toreador - Once Handmaiden to Marie Antoinette and
   served in Villon’s court during the French Revolution. Departed for
   the Americas with her Ventrue lover, Vannevar Thomas.[10]
 - Louise Maria de Rambaud, Toreador -  Grandchilde of Villon. Nearly had
   a political
-  <a href="Blood_Bond" class="wikilink" title="Blood Marriage">Blood
-  Marriage</a> with Anne Bowesley. Its failure resulted in the Night of
+  [Blood Marriage](./blood_bond.md) with Anne Bowesley. Its failure resulted in the Night of
   Bloody Tears. During the Second Anarch Revolt she defected from the
   Camarilla to the Anarchs.[11]
 - Adolphe Thiers,
-  <a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a> -
+  [Ventrue](./ventrue.md) -
   Former President of France, embraced into clan Ventrue. He uses his
   oration and politics to galvanize the new money young kindred.[12]
 - Zora Jackson, Ventrue - Little sister and childe of
   <a href="Kevin_Jackson" class="wikilink"
   title="Prince Kevin Jackson">Prince Kevin Jackson</a> of
-  <a href="Chicago,_Illinois" class="wikilink" title="Chicago">Chicago</a>.
+  [Chicago](./chicago_ill.md).
   Embraced a year after Kevin's embrace to help extend his influence in
   Kindred society. She has built him a power base in Paris. Keeps him up
   to date on developments.[13]
@@ -107,8 +105,7 @@ interesting can take advantage of.[1]
   <a href="kine" class="wikilink" title="kine">kine</a> on the fringes
   haunt here.[18]
 - La Jardin: A casino where he Kindred of the city meet. It inspired the
-  La Jungle in <a href="Montreal,_Canada" class="wikilink"
-  title="Montreal">Montreal</a>, though the Canadian counterpart is more
+  La Jungle in [Montreal](./montreal_canada.md), though the Canadian counterpart is more
   flamboyant.[19]
 
 ## Important Events
@@ -116,27 +113,25 @@ interesting can take advantage of.[1]
 ### French Revolution
 
 By the 1700s, Paris was considered the heart of still young
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>.
-<a href="Second_Inquisition" class="wikilink"
-title="Inquisition">Inquisition</a> had settled, the Lupine were kept to
+[Camarilla](./camarilla.md).
+[Inquisition](./second_inquisition.md) had settled, the Lupine were kept to
 the wooded countryside, the
-<a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a> had never
+[Sabbat](./sabbat.md) had never
 made incursion, and the domain seemed safe from any crisis. With
 Villon’s rule it was essentially unchallenged.[20]
 
 In 1789, Prince <a href="Francois_Villon" class="wikilink"
 title="François Villon">François Villon</a> and his court members Maria
 Antoinette and Suzanne Rochelle met with Lucita of
-<a href="Lasombra" class="wikilink" title="Clan Lasombra">Clan
-Lasombra</a>, Karsh of
-<a href="Gangrel" class="wikilink" title="Clan Gangrel">Clan Gangrel</a>,
+[Clan Lasombra](./lasombra.md), Karsh of
+[Clan Gangrel](./gangrel.md),
 and Vannevar Thomas of
-<a href="Ventrue" class="wikilink" title="Clan Ventrue">Clan Ventrue</a>.
+[Clan Ventrue](./ventrue.md).
 Each comes from a different domain to warn the Prince of the turbulent
 political situation that is spreading throughout the world. Versailles
 is stormed by a mob with the aid of the Sabbat. They are forced to flee
 aided by the help of legendary
-<a href="Nosferatu" class="wikilink" title="Nosferatu">Nosferatu</a>
+[Nosferatu](./nosferatu.md)
 architect, Zelios.[21]
 
 The French Revolution was a time of mass changes and the uprooting of
@@ -144,8 +139,8 @@ old hierarchies. The human affair reverberated into Kindred affairs.
 Clans who usually held power tended to embrace from privileged groups to
 to leverage their connections and assets for the clan. These clans
 typically were the Toreador, Ventrue,
-<a href="Tremere" class="wikilink" title="Tremere">Tremere</a>, and
-<a href="Brujah" class="wikilink" title="Brujah">Brujah</a>. Soon the
+[Tremere](./tremere.md), and
+[Brujah](./brujah.md). Soon the
 Kindred started to embrace outside these ranks creating a new faction of
 Kindred who were younger and demanded reform, the Bohemians. The
 Bohemians petitions for more opportunity and mobility to younger kindred
@@ -174,8 +169,7 @@ affairs, others sought new ideas.[23]
 The Camarilla loyalists saw this time as a right for constant survival.
 Both Kindred and mortal proved dangerous. Some Camarilla kindred were
 dragged from their havens by mortal revolutionaries to meet
-<a href="Final_death" class="wikilink" title="Final Death">Final
-Death</a>. Félicien Beaumont and the Bohemians protected important
+[Final Death](./final_death.md). Félicien Beaumont and the Bohemians protected important
 assets and worked to keep the Camarilla alive in Paris. While keeping to
 the background they also formed important alliances.[24]
 
@@ -194,11 +188,10 @@ Elysium grounds as his steward of the Paris Court.[25]
 ### Night of Blood Tears
 
 In 1822, the grandchilde of Prince François Villon was to be married off
-in a <a href="Blood_Bond" class="wikilink" title="Blood Wedding">Blood
-Wedding</a> to childe of then Regent Valerius to secure an alliance;
+in a [Blood Wedding](./blood_bond.md) to childe of then Regent Valerius to secure an alliance;
 Louise Maria de Rambaud and Anne Bowelsey, respectively. The wedding was
 to take place in
-<a href="London,_UK" class="wikilink" title="London">London</a> overseen
+[London](./london_uk.md) overseen
 by Villon’s Childe then Justiciar Violetta, but many of the Parisian
 guests were destroyed by pro-Mithras followers' sudden attack. Louise
 Maria and Violetta survived  returning to Paris, this became an infamous
@@ -212,7 +205,7 @@ of  illegal Embraces  Prince Villon instituted a population control
 policy. First Kindred destroyed in secret, then high-profile Blood Hunts
 on violators, and finally the destruction of
 <a href="fledgling" class="wikilink" title="fledgling">fledgling</a>
-<a href="Coterie" class="wikilink" title="coteries">coteries</a>. The
+[coteries](./coterie.md). The
 latter done by either fire or the blade of the Scourge.  This systemic
 culling became known as the Montmartre Massacre. Some believe it was a
 right of a Prince, Anarchs see it as a reason for revolution the
@@ -286,20 +279,17 @@ Sometime after the Beckoning began the Ministry met with Camarilla
 officials in a Parisian hotel to negotiate entry into the Ivory Tower.
 As the meeting commenced the building was bombed using a domestic attack
 as cover. The Kindred assailants were never discovered, some blame the
-<a href="Banu_Haqim" class="wikilink" title="Banu Haqim">Banu Haqim</a>,
+[Banu Haqim](./banu.md),
 some the
-<a href="Church_of_Set" class="wikilink" title="Church of Set">Church of
-Set</a>, and many others. This pushed
-<a href="The_Ministry" class="wikilink" title="the Ministry">the
-Ministry</a> to join the Anarchs.[34][35]
+[Church of Set](./church_set.md), and many others. This pushed
+[the Ministry](./ministry.md) to join the Anarchs.[34][35]
 
 France’s
-<a href="Second_Inquisition#Partner_Organizations" class="wikilink"
-title="Calcédoine">Calcédoine</a> program within DGSE has forced the
+[Calcédoine](./second_inquisition.md#partner-organizations) program within DGSE has forced the
 Prince into hiding as it operates throughout France and beyond.[36][37]
 
 At some point, Aristotle de Laurent brought the sarcophagus of
-<a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a>
+[Ventrue](./ventrue.md)
 Methuselah, Tiamat, to Villon's court. Many suffered memory loss of the
 event and claim coffin was empty all along.[38]
 

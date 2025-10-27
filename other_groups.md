@@ -1,16 +1,13 @@
 There are many other groups and factions with their own desires and
 motivations. While nowhere near the same size or power as the
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a> or
-the <a href="Anarch" class="wikilink" title="Anarch Movement">Anarch
-Movement</a>, they can still have an impact on Kindred Society.
+[Camarilla](./camarilla.md) or
+the [Anarch Movement](./anarch.md), they can still have an impact on Kindred Society.
 
 ## Blood Sigils
 
 The various groups in Blood Sigils are focused on the
-<a href="Blood_craft_scene" class="wikilink"
-title="Blood Craft scene">Blood Craft scene</a>, either through
-<a href="Blood_Sorcery" class="wikilink" title="Blood Sorcery">Blood
-Sorcery</a> or <a href="Thin-blood_Alchemy" class="wikilink"
+[Blood Craft scene](./blood_craft_scene.md), either through
+[Blood Sorcery](./blood_sorcery.md) or <a href="Thin-blood_Alchemy" class="wikilink"
 title="Thin-blood Alchemy">Thin-blood Alchemy</a>.
 
 ### The Almost Assembly
@@ -19,14 +16,14 @@ A loose network of thin-blood pursuing evolution through alchemy. They
 are more science-minded in their pursuits.[1] They focus not on
 returning to humanity,
 <a href="Golconda" class="wikilink" title="Golconda">Golconda</a>, or
-<a href="diablerie" class="wikilink" title="diablerie">diablerie</a> to
+[diablerie](./diablerie.md) to
 be true Kindred, but rather a true state of immortality as Neo-Humans.
 They are technocratic, secretive, and passionate. They are usually
 detached from the wider blood craft scene, being an ivory tower-like
 organization.
 
 They were formed in the mid-2000s, when
-<a href="thin-blood" class="wikilink" title="thin-blood">thin-blood</a>
+[thin-blood](./thinblood.md)
 doctors, scientists, and occultist discussed their condition on an old
 USENET newgroup. When Dr. Douglas Netchurch wrote the paper
 *Thin-Blooded Syndrome*, the goal of the group shifted. The support
@@ -47,9 +44,9 @@ weakness and perfecting Thin-Blood Alchemy.[2]
 ### The Calderone
 
 Originating in the Valle d’Aosta region of Italy, the Claderone is a
-<a href="The_Ministry" class="wikilink" title="Ministry">Ministry</a>
+[Ministry](./ministry.md)
 subsect with a focus on Blood Sorcery. Their name means “the Cauldron.”
-The <a href="Tremere" class="wikilink" title="Tremere">Tremere</a> claim
+The [Tremere](./tremere.md) claim
 the small group got their thaumaturgy from diablerie, but the group
 smugly deny such claims. They show an interest in thin-blood alchemy and
 experimentation.
@@ -73,7 +70,7 @@ invitation, as they fiercely protect their members and records.
 They focus on experimentation that can help alchemists fight or flee
 enemies. They share new formulae and experiments on their chat servers
 which are wiped daily. They have developed codewords to try to avoid
-<a href="Second_Inquisition" class="wikilink" title="SI">SI</a>
+[SI](./second_inquisition.md)
 detection or prying eyes. Many have a crossover in the designer drug
 scene.[4]
 
@@ -84,7 +81,7 @@ work for a more aggressive experimentation and defense. They are based
 in Lagos, and meet in person. They focus more on why alchemy works.
 Combing over historical alchemist and old recipes to understand the
 process. When it comes to the
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a> or
+[Camarilla](./camarilla.md) or
 any other opponent they aim to win their conflicts, not flee.[5]
 
 ### Lui Domien
@@ -93,14 +90,14 @@ A circle of koldunic sorcerers, attempting to awaken a new toxic element
 in the earth.
 
 In the 1740s, a
-<a href="Tzimisce" class="wikilink" title="Tzimisce">Tzimisce</a>
+[Tzimisce](./tzimisce.md)
 Koldunic sorcerer, Domien, settled in the swamps between Virginia and
 North Carolina. He stayed apolitical for two centuries, but kept siring
 childer. These childer soon traveled to the Great Lake cities of
 Cleveland,
-<a href="Gary,_Indiana" class="wikilink" title="Gary">Gary</a>, Erie,
+[Gary](./gary_in.md), Erie,
 and
-<a href="Chicago,_Illinois" class="wikilink" title="Chicago">Chicago</a>
+[Chicago](./chicago_ill.md)
 in the 1930s feasting and mingling with Romanian communities.
 
 They worked and analyzed the toxic waste from the industry of the area
@@ -118,7 +115,7 @@ Thin-bloods are usually hesitant to answer such invitations.[6][7]
 ### The Plague Oracles
 
 A collection of
-<a href="Malkavian" class="wikilink" title="Malkavian">Malkavian</a>
+[Malkavian](./malkavian.md)
 redworkers who use blood sorcery and disease to gain information. It was
 started in Spanish Chantry with the fall of the Pyramid, when they
 turned to the Malkavians for a new form of Blood Sorcery. They spread
@@ -133,14 +130,13 @@ or knowledge of everyone with a flu in a certain city.
 Most stay unopposed as outsiders are unsure of what they are doing.
 During rituals many wear the infamous plague doctor masks. They have
 developed such rituals as
-<a href="Blood_Sorcery_Rituals" class="wikilink"
-title="Viral Haruspex">Viral Haruspex</a> and Egregore
+[Viral Haruspex](./blood_sorcery_rituals.md) and Egregore
 Consultation.[8][9]
 
 ### Sunburners
 
 A faction of the
-<a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a> composed of
+[Sabbat](./sabbat.md) composed of
 thin-bloods who relish the burns from the sun on their flesh. They walk
 the Path of Sun and may also be called Heliophiles. They follow a new
 religious movement and see those who died from the short lifespan of
@@ -168,7 +164,7 @@ In reality, Mrs. Chopra’s crusade is an effort to save her ailing
 husband, Satyavan Chopra. Satyavan was the founder and half the mind
 behind Xtend. One day he got sick in ways medical science couldn’t
 explain and went comatose forcing Saviti to take control. She discovered
-a <a href="Hecata" class="wikilink" title="Nagaraja">Nagaraja</a>, Diya
+a [Nagaraja](./hecata.md), Diya
 Yadav, working in her Mumbai office and captured her. Here Chopra
 learned of vampirism and saw the similarity in her husband’s condition.
 Diya told of the chantry in Goa which led to raid by Xtend agents and
@@ -204,7 +200,7 @@ Hijos de Si</a> are also listed in this book.
 ### The Cartographers
 
 A decentralised network of
-<a href="Nosferatu" class="wikilink" title="Nosferatu">Nosferatu</a> who
+[Nosferatu](./nosferatu.md) who
 seek profit by gathering and selling information, particularly
 information related to the Gehenna War. This group tries to stay neutral
 but many Nosferatu of influence do try to sway the group to fulfil their
@@ -217,10 +213,8 @@ Believing themselves to be descendants of an apocryphal Methuselah,
 Wepwawet. Hardliners from within the Church of Set originally tasked
 with protecting the cult’s Egyptian holdings. The Cohort's main goal is
 to ensure that all members of
-<a href="The_Ministry" class="wikilink" title="The Ministry">The
-Ministry</a> belong to the
-<a href="Church_of_Set" class="wikilink" title="Church of Set">Church of
-Set</a>, usually by forceful methods. They also wish to prove Wepwawet's
+[The Ministry](./ministry.md) belong to the
+[Church of Set](./church_set.md), usually by forceful methods. They also wish to prove Wepwawet's
 existence and awaken him to turn the tides of the Gehenna War in Set's
 favour.[13]
 
@@ -228,7 +222,7 @@ favour.[13]
 
 Found by former Archon Tabitha Delmare of Clan Toreador, the faction is
 based in
-<a href="Singapore" class="wikilink" title="Singapore">Singapore</a>.
+[Singapore](./singapore.md).
 The goal of the sect is to have a haven for kindred disenchanted with
 the sects and be free to fight against the methuselah's machinations.
 Ironically the methuselah Tiamat is rumored to have taken an
@@ -246,10 +240,10 @@ meet Final Death.[15]
 
 ### Moon's Army
 
-A <a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a> pack that
+A [Sabbat](./sabbat.md) pack that
 seeks to hunt down and terminate
-<a href="Tremere" class="wikilink" title="Tremere">Tremere</a> and
-<a href="Salubri" class="wikilink" title="Salubri">Salubri</a> who are
+[Tremere](./tremere.md) and
+[Salubri](./salubri.md) who are
 pawns of their methuselahs. They operate mostly in Central and South
 America led by Jeong-Bae Moon. Rigoberto Vindel is the lieutenant who
 see visions of these enemy havens, though unbeknownst to the group
@@ -267,7 +261,7 @@ sometimes International ones. They have proved to be a safe financial
 institution to hide and launder money from the SI. They also have hoards
 of <a href="Noddist" class="wikilink" title="Noddist">Noddist</a> and
 possibly Tremere artifacts. They do business with
-<a href="Anarch" class="wikilink" title="Anarchs">Anarchs</a> and
+[Anarchs](./anarch.md) and
 Camarilla mostly. Sometimes Ashirra, and officially do not do business
 with the Sabbat. They are defensive, but have hit squads, bribery, and
 financial warfare in their toolbox.[17]
@@ -275,13 +269,12 @@ financial warfare in their toolbox.[17]
 ### The Circulatory System Board of Trust
 
   
-*Main article: <a href="Circulatory_System" class="wikilink"
-title="Circulatory System">Circulatory System</a>*
+*Main article: [Circulatory System](./circulatory_system.md)*
 
 ### Mora's Death Seers
 
 There are many
-<a href="Hecata" class="wikilink" title="Hecata">Hecata</a> who have
+[Hecata](./hecata.md) who have
 rejected the Family Reunion and hold their cousins still responsible for
 past crimes. One such group is a faction of Harbingers of Ashur led by
 Mora. The group seeks to travel the world and end the Giovanni bloodline
@@ -293,9 +286,9 @@ of knowledge of his faction.[18]
 
 Originally based on the Carpathian Oradea League, an alliance between
 domains of
-<a href="Tzimisce" class="wikilink" title="Tzimisce">Tzimisce</a>
+[Tzimisce](./tzimisce.md)
 elders, who rivaled the Camarilla. Now typically composed of Nosferatu,
-<a href="Gangrel" class="wikilink" title="Gangrel">Gangrel</a>, and
+[Gangrel](./gangrel.md), and
 Tzimisce along with their servants and allies. It is an old form of
 kindred rule before the Camarilla's growth; medieval ruling tactics of
 absolute rule and overuse of supernatural powers to control the
@@ -327,8 +320,7 @@ the edge on a longer conflict.
 
 Membership has surged in modern nights and is strongest in North
 America, Eastern Europe, and West Asia. The
-<a href="Second_Inquisition" class="wikilink"
-title="Second Inquisition">Second Inquisition</a> sees the group as a
+[Second Inquisition](./second_inquisition.md) sees the group as a
 useful tool and agent may discreetly fund a cell. Other SI Agents may
 send tip to the group so they can act or even take the blame for SI
 attacks. [22][23]
@@ -340,7 +332,7 @@ terracotta figurine of a mysterious goddess. Both discovery of the
 figurine and discovery of the methuselah happened in the Yugoslavia
 years which had many kindred fall under the figurine’s sway of this
 “Goddess” and god her supernatural hardiness. The
-<a href="Malkavian" class="wikilink" title="Malkavian">Malkavian</a>
+[Malkavian](./malkavian.md)
 Besim Sopi, acts as speaker to the Goddess and leader of the faction.
 The group was a stabilizing force over the years of human wars, becoming
 more than a mere cult and an actual faction in the region over the
@@ -350,7 +342,7 @@ and followed by new orders from their faction: defend the domain no
 matter what. They have taken to staunch defense and even launch
 preemptive strikes on supposed threats. They have friendly relations
 with the
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a> and
+[Camarilla](./camarilla.md) and
 Ashirra, but their preemptive strikes may soon sour that.
 
 The city holds a blood sport, The Sanguine Race, where kindred teams

@@ -14,9 +14,9 @@ devious type, tricksters, tempters and liars. Due to this their
 relationships in the modern age and in the past are rocky at best, given
 their tendencies to play all sides during major conflicts. Their entry
 into the
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a> was
+[Camarilla](./camarilla.md) was
 rejected, leaving most to side up with the
-<a href="Anarch" class="wikilink" title="Anarchs">Anarchs</a>.
+[Anarchs](./anarch.md).
 
 With the creed not forced upon their childer, that does not stop their
 lineage from influencing them and enticing them to gravitate towards the
@@ -54,7 +54,7 @@ find in it. [3]
 illumination, be it naturally caused or artificial, they receive a
 penalty equal to their Bane Severity to all dice pools while subject to
 the light. They also add their Bane Severity to Aggravated
-<a href="Health" class="wikilink" title="damage">damage</a> taken from
+[damage](./health.md) taken from
 sunlight.
 
 <section end=bane/>
@@ -66,8 +66,7 @@ sunlight.
 <section begin="altbane" />
 
 **Cold-Blooded** - They can only use
-<a href="Blush_of_Life" class="wikilink" title="Blush of Life">Blush of
-Life</a> if they have recently fed from a living vessel in the same
+[Blush of Life](./blush_of_life.md) if they have recently fed from a living vessel in the same
 scene or up to roughly an hour ago, Storytellers discretion. When they
 do so, it requires a number of Rouse Checks equal to their Bane Severity
 rather than just one.
@@ -123,7 +122,7 @@ mortal life for Algerian Independence, he almost died when the French
 secret service discovered his operations. His future sire was able to
 turn him and connect him to the heroin trade, based in Haiti, where he
 flourished. Then embraced, and left the Caribbean for
-<a href="Chicago,_Illinois" class="wikilink" title="Chicago">Chicago</a>,
+[Chicago](./chicago_ill.md),
 noting the power vacuum after Lodin’s death. There he operated and gave
 support to the Camarilla with his gambit paying off. While not an
 official member of the Primogen he has worked his way as a sort of
@@ -182,18 +181,17 @@ to understand their mortal vice. [12]
 ### Kindred society
 
 Refused entry into the Camarilla 500 years ago. Now with the Gehenna
-War, <a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a> packs,
+War, [Sabbat](./sabbat.md) packs,
 and Beckoning in the Middle East, the Ministry decided it may be time to
 find allies. In recent nights talks of the Ministry joining the
 Camarilla were underway. An ornate meeting in Paris, France where the
 Camarilla were gifted objects and Ventrue portfolios invested in by the
 Ministry; the meeting ended with it being firebombed. The Camarilla went
 silent and instead inducted their mortal enemies, the
-<a href="Banu_Haqim" class="wikilink" title="Banu Haqim">Banu Haqim</a>.
+[Banu Haqim](./banu.md).
 Suspect to be meddling by either the Banu Haqim, the
-<a href="Toreador" class="wikilink" title="Toreadors">Toreadors</a>,
-<a href="Second_Inquisition" class="wikilink"
-title="Second inquisition">Second inquisition</a>, a Camarilla set up,
+[Toreadors](./toreador.md),
+[Second inquisition](./second_inquisition.md), a Camarilla set up,
 or simply lone mortals actors with bad timing, this pushed many Minister
 who were outside the Church of Set to go Anarch. There is a going theory
 the Church of Set itself did this or even the Ministry did to get into
@@ -267,8 +265,7 @@ back for their services of course.[16]
 #### Orthodox Setites
 
 > *Main Article:
-> <a href="Church_of_Set" class="wikilink" title="Church of Set">Church of
-> Set</a>*
+> [Church of > Set](./church_set.md)*
 
 {{#lst:Church of Set|summary}}
 
@@ -280,8 +277,7 @@ past. Stuck in actual temples and associated with mummies feels very
 much like they aren’t able to keep up with the times. Outsiders are
 unsure if the divide is a rebrand or a schism. Those of the Ministry
 have largely gone Anarch though some deal with the Camarilla and
-<a href="Camarilla#The_Ashirra" class="wikilink"
-title="Ashirra">Ashirra</a>. They have various branches in belief and
+[Ashirra](./camarilla.md#the-ashirra). They have various branches in belief and
 non belief, even going so far as taking roles of factional leadership
 leadership. Anarchs have noted the Ministers have allowed to spread in
 places they never dreamed of in the past.[17]
@@ -310,8 +306,7 @@ power.[20]
 
 Ministry characters have special access to the following loresheets:
 
-• <a href="Loresheets#Hesha_Ruhadze" class="wikilink"
-title="Hesha Ruhadze">Hesha Ruhadze</a>
+• [Hesha Ruhadze](./loresheets.md#hesha-ruhadze)
 
 ## Gallery
 

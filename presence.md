@@ -11,56 +11,47 @@ as subtle as presence. Presence isn’t direct control, but influence
 leaves victims with their ability to think; making those affected more
 useful for manipulation, but unpredictable. To use this discipline, the
 victim needs to be physically present or within earshot of the Kindred.
-Without <a href="Presence#Star_Magnetism" class="wikilink"
-title="Star Magnetism">Star Magnetism</a> the power cannot transmit over
+Without [Star Magnetism](./presence.md#star-magnetism) the power cannot transmit over
 electronics. While Presence is a subtle Discipline without overt uses or
 obvious clues,
-<a href="Auspex" class="wikilink" title="Auspex">Auspex</a> such as
-<a href="Auspex#Sense_the_Unseen" class="wikilink"
-title="Sense the Unseen">Sense the Unseen</a> can detect its use at the
-moment, and <a href="Fortitude#Unswayable_Mind" class="wikilink"
-title="Unswayable Mind">Unswayable Mind</a> can be used when contesting
+[Auspex](./auspex.md) such as
+[Sense the Unseen](./auspex.md#sense-the-unseen) can detect its use at the
+moment, and [Unswayable Mind](./fortitude.md#unswayable-mind) can be used when contesting
 the supernatural influence. Presence powers do not stack and only
-<a href="Presence#Dread_Gaze" class="wikilink" title="Dread Gaze">Dread
-Gaze</a> and
-<a href="Presence#Majesty" class="wikilink" title="Majesty">Majesty</a>
+[Dread Gaze](./presence.md#dread-gaze) and
+[Majesty](./presence.md#majesty)
 can be used on violent enemies, as their minds can’t be charmed when
 they have decided to hurt the Kindred.
 
 To sway the crowd either towards violence or towards their own goals,
-the <a href="Brujah" class="wikilink" title="Brujah">Brujah</a> find use
+the [Brujah](./brujah.md) find use
 in this power. The intellectual types in the clan use this power to
 convince their victims to give up blood voluntarily while others use it
 to terrify their prey before they feed.[1]
-<a href="Ravnos" class="wikilink" title="Ravnos">Ravnos</a> use this
+[Ravnos](./ravnos.md) use this
 when their natural charm isn't enough. Few Ravnos exist without some
 skill in this power and make frequent use of it to find a victim in a
 short amount of time, it also plays its part in their illusion magics in
-<a href="Obfuscate" class="wikilink" title="Obfuscate">Obfuscate</a>.
-[2] <a href="Toreador" class="wikilink" title="Toreador">Toreador</a>
+[Obfuscate](./obfuscate.md).
+[2] [Toreador](./toreador.md)
 are thought to be masters of this discipline, spurring the audience to
 cheer a performer, lure victims, or to make unnaturally devoted thralls.
 They are known to use it alongside Auspex to manipulate others such as
 crystallizing their presence in creations with
-<a href="Presence#Magnus_Opus" class="wikilink"
-title="Magnus Opus">Magnus Opus</a>.[3] Within
-<a href="The_Ministry" class="wikilink" title="The Ministry">The
-Ministry</a> the ability to influence emotions is vital, used with
+[Magnus Opus](./presence.md#magnus-opus).[3] Within
+[The Ministry](./ministry.md) the ability to influence emotions is vital, used with
 subtle tactics they rally their congregations and pierce their heart
 strings or target someone looking for their next fix. Mixed with their
 mastery of
-<a href="Protean" class="wikilink" title="Protean">Protean</a> they
+[Protean](./protean.md) they
 contain the ability to use
-<a href="Presence#Eyes_of_the_Serpent" class="wikilink"
-title="Eyes of the Serpent">Eyes of the Serpent</a> to control those who
+[Eyes of the Serpent](./presence.md#eyes-of-the-serpent) to control those who
 retaliate against them.[4] Building love and admiration in their courts
-<a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a> find this
+[Ventrue](./ventrue.md) find this
 a useful tool at their disposal. With their natural affinity within
-<a href="Dominate" class="wikilink" title="Dominate">Dominate</a>, the
-use of <a href="Presence#Clear_the_Field" class="wikilink"
-title="Clear the Field">Clear the Field</a> and
-<a href="Presence#Irresistible_Voice" class="wikilink"
-title="Irresistible Voice">Irresistible Voice</a> aids them when things
+[Dominate](./dominate.md), the
+use of [Clear the Field](./presence.md#clear-the-field) and
+[Irresistible Voice](./presence.md#irresistible-voice) aids them when things
 are going south. With the clan valuing time and resources, Presence
 allows them to make hunting nothing more than a quick stop and be
 efficient.[5]
@@ -136,8 +127,7 @@ title="Corebook">Corebook</a>, page 267</li>
 <td><p>Immobilize a victim by making eye contact.</p></td>
 <td data-sort-value="3"><p>Free</p></td>
 <td class="hidem"><p>None</p></td>
-<td class="hidem"><p><a href="Protean" class="wikilink"
-title="Protean">Protean</a> ●</p></td>
+<td class="hidem"><p>[Protean](./protean.md) ●</p></td>
 <td><p>Until eye contact is broken or the scene ends</p></td>
 <td><p>Charisma + Presence</p></td>
 <td><p>Wits + Composure</p></td>
@@ -262,8 +252,7 @@ title="Players Guide">Players Guide</a>, page 80</li>
 <td><p>Clear a space in a calm and orderly manner.</p></td>
 <td data-sort-value="1"><p>One Rouse Check</p></td>
 <td class="hidem"><p>None</p></td>
-<td class="hidem"><p><a href="Dominate" class="wikilink"
-title="Dominate">Dominate</a> ●●●</p></td>
+<td class="hidem"><p>[Dominate](./dominate.md) ●●●</p></td>
 <td><p>N/A</p></td>
 <td><p>Composure + Presence</p></td>
 <td><p>Wits + Composure</p></td>
@@ -318,7 +307,7 @@ title="Corebook">Corebook</a>, page 268</li>
 Humanity 10 temporarily.</p></td>
 <td><p>One Rouse Check</p></td>
 <td><p>None</p></td>
-<td><p><a href="Auspex" class="wikilink" title="Auspex">Auspex</a>
+<td><p>[Auspex](./auspex.md)
 ●●</p></td>
 <td><p>Until Sunset for the vampire, 3 nights for the victim.</p></td>
 <td><p>Composure + Auspex</p></td>
@@ -334,7 +323,7 @@ class="wikilink" title="Tattered Façade">Tattered Façade</a>, page
 there.</p></td>
 <td><p>One Rouse Check</p></td>
 <td><p>None</p></td>
-<td><p><a href="Auspex" class="wikilink" title="Auspex">Auspex</a>
+<td><p>[Auspex](./auspex.md)
 ●</p></td>
 <td><p>One scene</p></td>
 <td><p>N/A</p></td>
@@ -364,8 +353,7 @@ title="Players Guide">Players Guide</a>, page 80</li>
 emotional ties with, be it hatred or love.</p></td>
 <td data-sort-value="4"><p>One Rouse Check</p></td>
 <td class="hidem"><p>None</p></td>
-<td class="hidem"><p><a href="Obfuscate" class="wikilink"
-title="Obfuscate">Obfuscate</a> ●●●</p></td>
+<td class="hidem"><p>[Obfuscate](./obfuscate.md) ●●●</p></td>
 <td><p>One scene</p></td>
 <td><p>Manipulation + Presence</p></td>
 <td><p>Composure + Wits</p></td>
@@ -417,13 +405,11 @@ Gods</a>, page 85</li>
 it</p></td>
 <td><p>One Rouse Check</p></td>
 <td><p>None</p></td>
-<td><p><a href="Obfuscate" class="wikilink"
-title="Obfuscate">Obfuscate</a> ●</p></td>
+<td><p>[Obfuscate](./obfuscate.md) ●</p></td>
 <td><p>One scene</p></td>
 <td><p>Manipulation + Presence</p></td>
 <td><p>Composure + Resolve</p></td>
-<td><p>Inflicts the <a href="Compulsion#Need" class="wikilink"
-title="Need">Need</a> Compulsion on the victim</p></td>
+<td><p>Inflicts the [Need](./compulsion.md#need) Compulsion on the victim</p></td>
 <td><p><a href="Vampire:_The_Masquerade_Tattered_Façade"
 class="wikilink" title="Tattered Façade">Tattered Façade</a>, page
 104</p></td>
@@ -434,8 +420,7 @@ class="wikilink" title="Tattered Façade">Tattered Façade</a>, page
 target.</p></td>
 <td data-sort-value="1"><p>No additional cost</p></td>
 <td class="hidem"><p>None</p></td>
-<td class="hidem"><p><a href="Dominate" class="wikilink"
-title="Dominate">Dominate</a> ●</p></td>
+<td class="hidem"><p>[Dominate](./dominate.md) ●</p></td>
 <td><p>Passive</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
@@ -451,8 +436,7 @@ title="Corebook">Corebook</a>, page 268</li>
 <td><p>Infusing Presence into artwork.</p></td>
 <td data-sort-value="2"><p>One or more Rouse Checks</p></td>
 <td class="hidem"><p>None</p></td>
-<td class="hidem"><p><a href="Auspex" class="wikilink"
-title="Auspex">Auspex</a> ●●●</p></td>
+<td class="hidem"><p>[Auspex](./auspex.md) ●●●</p></td>
 <td><p>N/A</p></td>
 <td><p>Charisma/Manipulation + Craft</p></td>
 <td><p>N/A</p></td>
@@ -575,8 +559,7 @@ work on recorded content.</p></td>
 <td><p>As power used</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
-<td><p>If using <a href="Presence#Entrancement" class="wikilink"
-title="Entrancement">Entrancement</a> the user must speak the targets
+<td><p>If using [Entrancement](./presence.md#entrancement) the user must speak the targets
 name clearly.</p></td>
 <td class="hidem"><p>/ </p>
 <ul>
@@ -622,10 +605,8 @@ Presence;
 width="42" />
 <figcaption>Obfuscate_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Obfuscate#Chimestry" class="wikilink"
-title="Chimestry"><strong>Chimestry</strong></a></p></td>
-<td><p><a href="Obfuscate" class="wikilink"
-title="Obfuscate">Obfuscate</a> ●●</p></td>
+<td><p>[<strong>Chimestry</strong>](./obfuscate.md#chimestry)</p></td>
+<td><p>[Obfuscate](./obfuscate.md) ●●</p></td>
 <td data-sort-value="1"><p>●</p></td>
 <td><p>Create brief but realistic hallucinations</p></td>
 <td><p>One Rouse Check</p></td>
@@ -644,9 +625,8 @@ title="Companion">Companion</a>, page 25</li>
 <img src="Dominate_symbol.png" title="Dominate_symbol.png" width="42" />
 <figcaption>Dominate_symbol.png</figcaption>
 </figure></td>
-<td><p><strong><a href="Dominate#Implant_Suggestion" class="wikilink"
-title="Implant Suggestion">Implant Suggestion</a></strong></p></td>
-<td><p><a href="Dominate" class="wikilink" title="Dominate">Dominate</a>
+<td><p><strong>[Implant Suggestion](./dominate.md#implant-suggestion)</strong></p></td>
+<td><p>[Dominate](./dominate.md)
 ●●●●</p></td>
 <td><p>●</p></td>
 <td><p>Change another’s personality or opinion temporarily.</p></td>
@@ -663,10 +643,8 @@ title="Players Guide">Players Guide</a>, page 74</li>
 width="42" />
 <figcaption>Obfuscate_symbol.png</figcaption>
 </figure></td>
-<td><p><strong><a href="Obfuscate#Fata_Morgana" class="wikilink"
-title="Fata Morgana">Fata Morgana</a></strong></p></td>
-<td><p><a href="Obfuscate" class="wikilink"
-title="Obfuscate">Obfuscate</a> ●●●</p></td>
+<td><p><strong>[Fata Morgana](./obfuscate.md#fata-morgana)</strong></p></td>
+<td><p>[Obfuscate](./obfuscate.md) ●●●</p></td>
 <td data-sort-value="3"><p>●●</p></td>
 <td><p>Elaborate hallucinations</p></td>
 <td><p>One Rouse Check</p></td>
@@ -682,9 +660,8 @@ title="Companion">Companion</a>, page 26</li>
 <img src="Potence_symbol.png" title="Potence_symbol.png" width="42" />
 <figcaption>Potence_symbol.png</figcaption>
 </figure></td>
-<td><p><strong><a href="Potence#Spark_of_Rage" class="wikilink"
-title="Spark of Rage">Spark of Rage</a></strong></p></td>
-<td><p><a href="Potence" class="wikilink" title="Potence">Potence</a>
+<td><p><strong>[Spark of Rage](./potence.md#spark-of-rage)</strong></p></td>
+<td><p>[Potence](./potence.md)
 ●●●</p></td>
 <td data-sort-value="4"><p>●●●</p></td>
 <td><p>Incite anger or frenzy onto onlookers</p></td>

@@ -20,11 +20,11 @@ Weapons, Knives, Stakes, Swords. [3]
 
 ## Example pools
 
-- <a href="Strength" class="wikilink" title="Strength">Strength</a> +
+- [Strength](./strength.md) +
   Melee
   - Used when attempting to stake someone. [4]
   - Two-handed melee weapons. [5]
-- <a href="Dexterity" class="wikilink" title="Dexterity">Dexterity</a> +
+- [Dexterity](./dexterity.md) +
   Melee
   - One-handed weapons. [6]
 

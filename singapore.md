@@ -7,12 +7,11 @@ vibrant city that combines modern sensibilities with time-honored
 traditions. Singapore does not have traditional
 <a href="Kindred" class="wikilink" title="Kindred">Kindred</a> power
 structures, such as the
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a> and
+[Camarilla](./camarilla.md) and
 their Prince or
-<a href="Anarch" class="wikilink" title="Anarch">Anarch</a> gangs.
+[Anarch](./anarch.md) gangs.
 Instead, it is a stronghold for the
-<a href="Other_groups#The_Dead_Lions" class="wikilink"
-title="Dead Lions">Dead Lions</a>.
+[Dead Lions](./other_groups.md#the-dead-lions).
 
 <section end=summary/>
 
@@ -23,12 +22,12 @@ title="Dead Lions">Dead Lions</a>.
 ### The Dead Lions
 
 - Tabitha Delmare,
-  <a href="Toreador" class="wikilink" title="Toreador">Toreador</a> -
+  [Toreador](./toreador.md) -
   Fallen
-  <a href="Camarilla#Archons" class="wikilink" title="Archon">Archon</a>,
+  [Archon](./camarilla.md#archons),
   de facto ruler of Singapore, Boss of the Dead Lions[2]
 - Huang Yue Lai Luna,
-  <a href="Toreador" class="wikilink" title="Toreador">Toreador</a> -
+  [Toreador](./toreador.md) -
   <a href="childe" class="wikilink" title="childe">childe</a> of Tabitha
   Delmare, financier of the Dead Lions[3]
 - Marguerite, a free spirit who joins the Dead Lions, not believing the
@@ -60,8 +59,7 @@ acquired one. The Dead Lions base of operations is located in District
 At an initial inspection, the Pacific Gale, appears to be an
 unremarkable steel-hulled container ship with nothing going on. This
 ship is docked in the Port of Singapore and owned by a
-<a href="Church_of_Set" class="wikilink" title="Church of Set">Church of
-Set</a> front. Inside of the ship is a sleeping methuselah, which is
+[Church of Set](./church_set.md) front. Inside of the ship is a sleeping methuselah, which is
 currently enroute from Hong Kong to Jebel Ali. Deep in the bowels of the
 ship is the highly sophisticated, well-hidden and strong security
 chamber that houses the sleeping methuselah. [7]

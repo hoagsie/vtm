@@ -26,11 +26,10 @@ Geology, Mathematics, Physics. [4]
 
 ## Example pools
 
-- <a href="Resolve" class="wikilink" title="Resolve">Resolve</a> +
+- [Resolve](./resolve.md) +
   Science
   - Example of a scrounging roll. [5]
-- <a href="Intelligence" class="wikilink"
-  title="Intelligence">Intelligence</a> + Science
+- [Intelligence](./intelligence.md) + Science
   - Creating explosives. [6]
   - Controlled demolitions. [7]
 

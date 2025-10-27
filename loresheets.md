@@ -44,8 +44,7 @@ Corebook</a>*
 <tr>
 <td><p><strong>The Bahari</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>Connected to the cult of the <a href="Bahari" class="wikilink"
-title="Bahari">Bahari</a>. Different levels grant bonuses based on their
+<td><p>Connected to the cult of the [Bahari](./bahari.md). Different levels grant bonuses based on their
 beliefs and ideology when embracing it.</p></td>
 <td><ul>
 <li>Page 382</li>
@@ -54,9 +53,7 @@ beliefs and ideology when embracing it.</p></td>
 <tr>
 <td><p><strong>Theo Bell</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>Connected to the <a href="Anarch" class="wikilink"
-title="Anarchs">Anarchs</a> and <a href="Brujah#Notable_characters"
-class="wikilink" title="Theo Bell">Theo Bell</a>. Different levels grant
+<td><p>Connected to the [Anarchs](./anarch.md) and [Theo Bell](./brujah.md#notable-characters). Different levels grant
 bonuses related to commanding a group, gaining information on Anarch
 defectors, or contacting Theo himself.</p></td>
 <td><ul>
@@ -67,8 +64,7 @@ defectors, or contacting Theo himself.</p></td>
 <tr>
 <td><p><strong>Cainite Heresy</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>Connected to the <a href="Church_of_Caine" class="wikilink"
-title="Church of Caine">Church of Caine</a>. Different levels grant
+<td><p>Connected to the [Church of Caine](./church_caine.md). Different levels grant
 bonuses related to finding other Church of Caine, representing the
 character's role within the city's diaconate, sensing True Faith,
 inducing the Red Pentecost, or the possession of a rare
@@ -80,8 +76,7 @@ testimony.</p></td>
 <tr>
 <td><p><strong>Carna</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>Connected to the <a href="Tremere#Houses" class="wikilink"
-title="House of Carna">House of Carna</a> and Carna herself. Different
+<td><p>Connected to the [House of Carna](./tremere.md#houses) and Carna herself. Different
 levels grant bonuses related to other members of the House,
 strengthening pools against Blood Bonds, aids in Rituals, creating a
 Blood Bond, or owning a copy of a rare book.</p></td>
@@ -92,8 +87,7 @@ Blood Bond, or owning a copy of a rare book.</p></td>
 <tr>
 <td><p><strong>The Circulatory System</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>Connected to the <a href="Circulatory_System" class="wikilink"
-title="Circulatory System">Circulatory System</a> and their mortal
+<td><p>Connected to the [Circulatory System](./circulatory_system.md) and their mortal
 trafficking. Different levels grant vessels to feed from, it aids in
 learning alchemy, securing safe travel for kindred, or learning the
 resonance properties of blood.</p></td>
@@ -104,8 +98,7 @@ resonance properties of blood.</p></td>
 <tr>
 <td><p><strong>Convention of Thorns</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>Connected to the <a href="Anarch#Convention_of_Thorns"
-class="wikilink" title="Convention of Thorn">Convention of Thorn</a>.
+<td><p>Connected to the [Convention of Thorn](./anarch.md#convention-of-thorns).
 Different levels grant the character information surrounding the events
 which they can use for their gains.</p></td>
 <td><ul>
@@ -116,9 +109,7 @@ which they can use for their gains.</p></td>
 <td><p><strong>The First Inquisition</strong></p></td>
 <td><p>N/A</p></td>
 <td><p>Connected to the Inquisition and its history. Different levels
-grant knowledge about the original hunters and in turn about the <a
-href="Second_Inquisition" class="wikilink"
-title="Second Inquisition">Second Inquisition</a>.</p></td>
+grant knowledge about the original hunters and in turn about the [Second Inquisition](./second_inquisition.md).</p></td>
 <td><ul>
 <li>Page 388</li>
 </ul></td>
@@ -128,9 +119,7 @@ title="Second Inquisition">Second Inquisition</a>.</p></td>
 <td><p>N/A</p></td>
 <td><p>Connected to the Golconda and its enlightenment. Different levels
 grant knowledge of it, copies of its information to learn it, the
-ability to utilize some of the beliefs from <a
-href="Salubri#Notable_characters" class="wikilink"
-title="Saulot">Saulot</a> to stave off hunger, or the ability to walk in
+ability to utilize some of the beliefs from [Saulot](./salubri.md#notable-characters) to stave off hunger, or the ability to walk in
 the sunlight without harm.</p></td>
 <td><ul>
 <li>Page 389</li>
@@ -138,10 +127,8 @@ the sunlight without harm.</p></td>
 </tr>
 <tr>
 <td><p><strong>Descendant of Hardestadt</strong></p></td>
-<td data-sort-value="7"><p><a href="Ventrue" class="wikilink"
-title="Ventrue">Ventrue</a> only</p></td>
-<td><p>Connected to the <a href="Ventrue#Notable_characters"
-class="wikilink" title="Hardestadt">Hardestadt</a> and his descendants.
+<td data-sort-value="7"><p>[Ventrue](./ventrue.md) only</p></td>
+<td><p>Connected to the [Hardestadt](./ventrue.md#notable-characters) and his descendants.
 Different levels grant the ability to speak over any noise, strengthen
 the pools when sending others into danger, grant status due to lineage,
 contact one of the Camarilla's founders, or take on the name of
@@ -152,10 +139,8 @@ Hardestadt and be his successor.</p></td>
 </tr>
 <tr>
 <td><p><strong>Descendant of Helena</strong></p></td>
-<td data-sort-value="5"><p><a href="Toreador" class="wikilink"
-title="Toreador">Toreador</a> only</p></td>
-<td><p>Connected to <a href="Toreador#Notable_characters"
-class="wikilink" title="Helena">Helena</a> and her descendants.
+<td data-sort-value="5"><p>[Toreador](./toreador.md) only</p></td>
+<td><p>Connected to [Helena](./toreador.md#notable-characters) and her descendants.
 Different levels grant the ability to alter the character's status by
 uttering her name, decrease the experience cost of specific talents, aid
 pools when making rolls to avoid blame, or open a Succubus Club in the
@@ -167,9 +152,7 @@ character's domain.</p></td>
 <tr>
 <td><p><strong>Sect War Veteran</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>Connected to the war between the <a href="Camarilla"
-class="wikilink" title="Camarilla">Camarilla</a> and the <a
-href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a>. Different
+<td><p>Connected to the war between the [Camarilla](./camarilla.md) and the [Sabbat](./sabbat.md). Different
 levels grant the ability to gain information about the wars in the
 character's domain, gain status for the character's bravery during the
 war, claim trophy kills, aid in setting up ambushes or attacks, or know
@@ -181,8 +164,7 @@ how to ignite sect wars.</p></td>
 <tr>
 <td><p><strong>The Trinity</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>Connected to the Golden Age of <a href="Constantinople"
-class="wikilink" title="Constantinople">Constantinople</a> and the
+<td><p>Connected to the Golden Age of [Constantinople](./constantinople.md) and the
 vampire utopia it once was. Different levels grant the knowledge of
 Constantinople's past, calming a violent court, inspiring others,
 allowing the character to find and contact Dracon, or rebuilding the
@@ -194,8 +176,7 @@ Trinity with two others.</p></td>
 <tr>
 <td><p><strong>Jeanette/Therese Voerman</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>Connected to the <a href="Malkavian#Notable_characters"
-class="wikilink" title="Voerman Sisters">Voerman Sisters</a>. Different
+<td><p>Connected to the [Voerman Sisters](./malkavian.md#notable-characters). Different
 levels grant the character varying levels of connections with the
 sisters up to ownership of an Asylum club within the character's
 domain.</p></td>
@@ -218,8 +199,7 @@ Antediluvian.</p></td>
 <tr>
 <td><p><strong>Rudi</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>Connected to <a href="Gangrel#Notable_characters"
-class="wikilink" title="Rudi">Rudi</a>. Different levels grant the
+<td><p>Connected to [Rudi](./gangrel.md#notable-characters). Different levels grant the
 character varying abilities when working against oppressive powers to
 organize groups towards a specific goal.</p></td>
 <td><ul>
@@ -228,10 +208,8 @@ organize groups towards a specific goal.</p></td>
 </tr>
 <tr>
 <td><p><strong>Descendant of Tyler</strong></p></td>
-<td data-sort-value="1"><p><a href="Brujah" class="wikilink"
-title="Brujah">Brujah</a> only</p></td>
-<td><p>Connected to <a href="Brujah#Notable_characters" class="wikilink"
-title="Tyler">Tyler</a>. Different levels grant the character varying
+<td data-sort-value="1"><p>[Brujah](./brujah.md) only</p></td>
+<td><p>Connected to [Tyler](./brujah.md#notable-characters). Different levels grant the character varying
 abilities to channel the ambition of Tyler in their blood when
 persuading others, the skill to redirect a frenzy into a compulsion,
 having contact with the Furores, or the back-history of taking down a
@@ -243,10 +221,8 @@ class="wikilink" title="Anarch">Anarch</a>, page 195</li>
 </tr>
 <tr>
 <td><p><strong>Descendant of Zelios</strong></p></td>
-<td data-sort-value="4"><p><a href="Nosferatu" class="wikilink"
-title="Nosferatu">Nosferatu</a> only</p></td>
-<td><p>Connected to <a href="Nosferatu#Notable_characters"
-class="wikilink" title="Zelios">Zelios</a>. Different levels grant the
+<td data-sort-value="4"><p>[Nosferatu](./nosferatu.md) only</p></td>
+<td><p>Connected to [Zelios](./nosferatu.md#notable-characters). Different levels grant the
 character varying abilities to secure their havens, demolish buildings,
 construct a labyrinth, or discover ley lines.</p></td>
 <td><ul>
@@ -255,10 +231,8 @@ construct a labyrinth, or discover ley lines.</p></td>
 </tr>
 <tr>
 <td><p><strong>Descendant of Vasantasena</strong></p></td>
-<td data-sort-value="3"><p><a href="Malkavian" class="wikilink"
-title="Malkavian">Malkavian</a> only</p></td>
-<td><p>Connected to <a href="Malkavian#Notable_characters"
-class="wikilink" title="Vasantasena">Vasantasena</a>. Different levels
+<td data-sort-value="3"><p>[Malkavian](./malkavian.md) only</p></td>
+<td><p>Connected to [Vasantasena](./malkavian.md#notable-characters). Different levels
 grant the character the ability to survive through dangerous or chaotic
 situations, recognize bonds, destroy bonds or help deprogram another
 vampire.</p></td>
@@ -268,18 +242,8 @@ vampire.</p></td>
 </tr>
 <tr>
 <td><p><strong>High Clan</strong></p></td>
-<td data-sort-value="8"><p>Must be a member of the High Clans. <a
-href="Lasombra" class="wikilink" title="Lasombra">Lasombra</a>, <a
-href="Toreador" class="wikilink" title="Toreador">Toreador</a>, <a
-href="Tzimisce" class="wikilink" title="Tzimisce">Tzimisce</a>, and <a
-href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a> are
-historically high. <a href="Brujah" class="wikilink"
-title="Brujah">Brujah</a> and some <a href="Hecata" class="wikilink"
-title="Hecata">Hecata</a> are also considered high. Occasionally <a
-href="Banu_Haqim" class="wikilink" title="Banu Haqim">Banu Haqim</a>, <a
-href="The_Ministry" class="wikilink" title="The Ministry">The
-Ministry</a>, and very rarely <a href="Tremere" class="wikilink"
-title="Tremere">Tremere</a> are also high depending on the
+<td data-sort-value="8"><p>Must be a member of the High Clans. [Lasombra](./lasombra.md), [Toreador](./toreador.md), [Tzimisce](./tzimisce.md), and [Ventrue](./ventrue.md) are
+historically high. [Brujah](./brujah.md) and some [Hecata](./hecata.md) are also considered high. Occasionally [Banu Haqim](./banu.md), [The Ministry](./ministry.md), and very rarely [Tremere](./tremere.md) are also high depending on the
 Domain.</p></td>
 <td><p>Connected to the clans regarded as high in the hierarchy.
 Different levels grant the character the ability to command others, gain
@@ -292,12 +256,9 @@ of the clan bane.</p></td>
 <tr>
 <td><p><strong>Low Clan</strong></p></td>
 <td data-sort-value="9"><p>Must be a member of the Low Clans which is
-defined by their geographical region. <a href="Gangrel" class="wikilink"
-title="Gangrel">Gangrel</a>, <a href="Malkavian" class="wikilink"
-title="Malkavian">Malkavian</a>, and <a href="Nosferatu"
-class="wikilink" title="Nosferatu">Nosferatu</a> are almost always low.
-Occasionally <a href="Brujah" class="wikilink" title="Brujah">Brujah</a>
-and <a href="Tremere" class="wikilink" title="Tremere">Tremere</a> are
+defined by their geographical region. [Gangrel](./gangrel.md), [Malkavian](./malkavian.md), and [Nosferatu](./nosferatu.md) are almost always low.
+Occasionally [Brujah](./brujah.md)
+and [Tremere](./tremere.md) are
 also low depending on the Domain.</p></td>
 <td><p>Connected to the clans regarded as low in the hierarchy.
 Different levels grant the character the ability to shrug off
@@ -311,8 +272,7 @@ Kindred in a coup.</p></td>
 <tr>
 <td><p><strong>Ambrus Maropis</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>Connected to <a href="Nosferatu#Notable_characters"
-class="wikilink" title="Ambrus Maropis">Ambrus Maropis</a>. Different
+<td><p>Connected to [Ambrus Maropis](./nosferatu.md#notable-characters). Different
 levels grant the character information regarding security, a connection
 directly to Ambrus, gain additional dice to related tests, or
 well-protected fake identities.</p></td>
@@ -323,8 +283,7 @@ well-protected fake identities.</p></td>
 <tr>
 <td><p><strong>Carmelita Neillson</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>Connected to <a href="Toreador#Notable_characters"
-class="wikilink" title="Carmelita Neillson">Carmelita Neillson</a>.
+<td><p>Connected to [Carmelita Neillson](./toreador.md#notable-characters).
 Different levels grant the character varying abilities of storytelling,
 meditating on an object for benefits, the allowance to run one of her
 libraries, secrets from her interviews, or the privilege to guard one of
@@ -336,8 +295,7 @@ the character's ancestors.</p></td>
 <tr>
 <td><p><strong>Fiorenza Savona</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>Connected to <a href="Ventrue#Notable_characters"
-class="wikilink" title="Fiorenza Savona">Fiorenza Savona</a>. Different
+<td><p>Connected to [Fiorenza Savona](./ventrue.md#notable-characters). Different
 levels grant the character varying levels of relationship with Fiorenza
 and gain benefits from her, be it a ghoul or other benefits.</p></td>
 <td><ul>
@@ -346,10 +304,8 @@ and gain benefits from her, be it a ghoul or other benefits.</p></td>
 </tr>
 <tr>
 <td><p><strong>Descendant of Karl Schrekt</strong></p></td>
-<td data-sort-value="6"><p><a href="Tremere" class="wikilink"
-title="Tremere">Tremere</a> only</p></td>
-<td><p>Connected to <a href="Tremere#Notable_characters"
-class="wikilink" title="Karl Schrekt">Karl Schrekt</a>. Different levels
+<td data-sort-value="6"><p>[Tremere](./tremere.md) only</p></td>
+<td><p>Connected to [Karl Schrekt](./tremere.md#notable-characters). Different levels
 grant the character information regarding House Tremere, bonuses for
 working towards Schrekt's goals, reduce the effort needed for a ritual,
 find aid in an unlikely ally, or gain information on those same
@@ -360,10 +316,8 @@ allies.</p></td>
 </tr>
 <tr>
 <td><p><strong>Descendant of Xaviar</strong></p></td>
-<td data-sort-value="2"><p><a href="Gangrel" class="wikilink"
-title="Gangrel">Gangrel</a> only</p></td>
-<td><p>Connected to <a href="Gangrel#Notable_characters"
-class="wikilink" title="Xaviar">Xaviar</a>. Different levels grant the
+<td data-sort-value="2"><p>[Gangrel](./gangrel.md) only</p></td>
+<td><p>Connected to [Xaviar](./gangrel.md#notable-characters). Different levels grant the
 character respect from other Gangrel, detect other vampires in the
 ground, gain benefits with the Camarilla, turn into a man-sized bat, or
 have experience with the Antediluvian.</p></td>
@@ -403,8 +357,7 @@ Anarch</a>*
 <td><p>N/A</p></td>
 <td><p>Connected to <a href="Salvador_Garcia" class="wikilink"
 title="Salvador Garcia">Salvador Garcia</a>. Different levels grant the
-character bonuses when using <a href="Anarch" class="wikilink"
-title="Anarch">Anarch</a> principles, gain a Mawla to aid them, turn
+character bonuses when using [Anarch](./anarch.md) principles, gain a Mawla to aid them, turn
 information gathering against them difficult, become known across Anarch
 territories, or have the skill to rile up the local Anarchs.</p></td>
 <td><ul>
@@ -418,18 +371,15 @@ territories, or have the skill to rile up the local Anarchs.</p></td>
 bonuses when threatening someone of greater means than themselves,
 exposing the weakness of enemies, being given hard-to-obtain blood,
 turning an enemy's minion to the character's side, or suffering less
-loss from <a href="Diablerie" class="wikilink"
-title="Diablerie">Diablerie</a>.</p></td>
+loss from [Diablerie](./diablerie.md).</p></td>
 <td><ul>
 <li>Page 191</li>
 </ul></td>
 </tr>
 <tr>
 <td><p><strong>Hesha Ruhadze</strong></p></td>
-<td data-sort-value="3"><p>(••••) and (•••••) are <a href="The_Ministry"
-class="wikilink" title="Ministry">Ministry</a> characters only.</p></td>
-<td><p>Connected to <a href="The_Ministry#Notable_characters"
-class="wikilink" title="Hesha Ruhadze">Hesha Ruhadze</a>. Different
+<td data-sort-value="3"><p>(••••) and (•••••) are [Ministry](./ministry.md) characters only.</p></td>
+<td><p>Connected to [Hesha Ruhadze](./ministry.md#notable-characters). Different
 levels grant the character ownership of one of Hesha's treatises,
 knowledge about what Hesha is seeking or ownership of it already, the
 rare privilege of membership to one of the Ministry's museums, having
@@ -441,14 +391,10 @@ guidance and aid.</p></td>
 </tr>
 <tr>
 <td><p><strong>The Church of Set</strong></p></td>
-<td data-sort-value="4"><p><a href="Church_of_Set" class="wikilink"
-title="Church of Set">Church of Set</a> members</p></td>
-<td><p>Connected to the <a href="Church_of_Set" class="wikilink"
-title="Church of Set">Church of Set</a>. Different levels grant the
+<td data-sort-value="4"><p>[Church of Set](./church_set.md) members</p></td>
+<td><p>Connected to the [Church of Set](./church_set.md). Different levels grant the
 character a congregation of mortals to feed from, bonuses to tell when
-someone is lying, bonuses against other clans <a href="Dominate"
-class="wikilink" title="Dominate">Dominate</a> or <a href="Presence"
-class="wikilink" title="Presence">Presence</a> attempts, help others
+someone is lying, bonuses against other clans [Dominate](./dominate.md) or [Presence](./presence.md) attempts, help others
 indulge in corruption to only come out clean, or ownership of Set's
 skeleton, sarcophagus or burial robes.</p></td>
 <td><ul>
@@ -457,10 +403,8 @@ skeleton, sarcophagus or burial robes.</p></td>
 </tr>
 <tr>
 <td><p><strong>Descendant of Xaviar</strong></p></td>
-<td data-sort-value="2"><p><a href="Gangrel" class="wikilink"
-title="Gangrel">Gangrel</a> only</p></td>
-<td><p>Connected to <a href="Gangrel#Notable_characters"
-class="wikilink" title="Xaviar">Xaviar</a>. Different levels grant the
+<td data-sort-value="2"><p>[Gangrel](./gangrel.md) only</p></td>
+<td><p>Connected to [Xaviar](./gangrel.md#notable-characters). Different levels grant the
 character respect from other Gangrel, detect other vampires in the
 ground, gain benefits with the Camarilla, turn into a man-sized bat, or
 have experience with the Antediluvian.</p></td>
@@ -471,10 +415,8 @@ class="wikilink" title="Corebook">Corebook</a>, page 406</li>
 </tr>
 <tr>
 <td><p><strong>Descendant of Tyler</strong></p></td>
-<td data-sort-value="1"><p><a href="Brujah" class="wikilink"
-title="Brujah">Brujah</a> only</p></td>
-<td><p>Connected to <a href="Brujah#Notable_characters" class="wikilink"
-title="Tyler">Tyler</a>. Different levels grant the character varying
+<td data-sort-value="1"><p>[Brujah](./brujah.md) only</p></td>
+<td><p>Connected to [Tyler](./brujah.md#notable-characters). Different levels grant the character varying
 abilities to channel the ambition of Tyler in their blood when
 persuading others, the skill to redirect a frenzy into a compulsion,
 having contact with the Furores, or the back-history of taking down a
@@ -553,8 +495,7 @@ Camarilla</a>*
 <tr>
 <td><p><strong>Carmelita Neillson</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>Connected to <a href="Toreador#Notable_characters"
-class="wikilink" title="Carmelita Neillson">Carmelita Neillson</a>.
+<td><p>Connected to [Carmelita Neillson](./toreador.md#notable-characters).
 Different levels grant the character varying abilities of storytelling,
 meditating on an object for benefits, the allowance to run one of her
 libraries, secrets from her interviews, or the privilege to guard one of
@@ -567,8 +508,7 @@ class="wikilink" title="Corebook">Corebook</a>, page 403</li>
 <tr>
 <td><p><strong>Fatima Al-Faqadi</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>Connected to <a href="Banu_Haqim#Notable_characters"
-class="wikilink" title="Fatima al-Faqadi">Fatima al-Faqadi</a>.
+<td><p>Connected to [Fatima al-Faqadi](./banu.md#notable-characters).
 Different levels grant the character access to a weapons locker,
 connection to the Extended Web, survive a hit by Fatima, the ability to
 execute a kindred without retaliation from the Camarilla, or a
@@ -581,8 +521,7 @@ character.</p></td>
 <tr>
 <td><p><strong>Fiorenza Savona</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>Connected to <a href="Ventrue#Notable_characters"
-class="wikilink" title="Fiorenza Savona">Fiorenza Savona</a>. Different
+<td><p>Connected to [Fiorenza Savona](./ventrue.md#notable-characters). Different
 levels grant the character varying levels of relationship with Fiorenza
 and gain benefits from her, be it a ghoul or other benefits.</p></td>
 <td><ul>
@@ -592,8 +531,7 @@ class="wikilink" title="Corebook">Corebook</a>, page 404</li>
 </tr>
 <tr>
 <td><p><strong>Pure Ventrue Lineage</strong></p></td>
-<td data-sort-value="1"><p><a href="Ventrue" class="wikilink"
-title="Ventrue">Ventrue</a> only</p></td>
+<td data-sort-value="1"><p>[Ventrue](./ventrue.md) only</p></td>
 <td><p>Connected to the lineage of the Ventrue and the importance they
 find in their history. Different levels grant the character different
 lineages, either as a nobility or Prince or clear to Methusulah's as
@@ -606,8 +544,7 @@ lines.</p></td>
 <tr>
 <td><p><strong>The Cult of Mithras</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>Connected to the cult of <a href="Mithraic_Mysteries"
-class="wikilink" title="Mithras">Mithras</a>. Different levels grant the
+<td><p>Connected to the cult of [Mithras](./mithraic_mysteries.md). Different levels grant the
 character varying levels of relationship and knowledge of the cult and
 its functions with bonuses related.</p></td>
 <td><ul>
@@ -616,10 +553,9 @@ its functions with bonuses related.</p></td>
 </tr>
 <tr>
 <td><p><strong>The Pyramid</strong></p></td>
-<td><p><a href="Tremere" class="wikilink" title="Tremere">Tremere</a>
+<td><p>[Tremere](./tremere.md)
 only</p></td>
-<td><p>Connected to the <a href="Tremere" class="wikilink"
-title="Tremere">Tremere</a>'s Pyramid and its inner workings. Different
+<td><p>Connected to the [Tremere](./tremere.md)'s Pyramid and its inner workings. Different
 levels grant the character varying levels of relationships and ranks as
 they progress through the rebuild of a chantry in this loresheet and
 garner them bonuses.</p></td>
@@ -670,8 +606,7 @@ Chicago by Night</a>*
 <tr>
 <td><p><strong>Annabelle</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>Connected to <a href="Toreador#Notable_characters"
-class="wikilink" title="Annabelle">Annabelle</a>. Different levels grant
+<td><p>Connected to [Annabelle](./toreador.md#notable-characters). Different levels grant
 the character varying levels of relationship with Annabelle with her
 ability to pull strings for specific requests or aid them in other
 ways.</p></td>
@@ -695,8 +630,7 @@ company.</p></td>
 <td><p><strong>Blacksite 24</strong></p></td>
 <td><p>N/A</p></td>
 <td><p>Connected to Blacksite 24, military and medical installation
-currently controlled by <a href="Second_Inquisition" class="wikilink"
-title="FIRSTLIGHT">FIRSTLIGHT</a>. Different levels grant the character
+currently controlled by [FIRSTLIGHT](./second_inquisition.md). Different levels grant the character
 knowledge of this site's existence, through knowing others who have been
 taken or being taken themselves, or granting information about the
 hunters.</p></td>
@@ -741,8 +675,7 @@ the gang and even the prodigal child of the leader, Eddie Wu.</p></td>
 </tr>
 <tr>
 <td><p><strong>The Cobweb</strong></p></td>
-<td data-sort-value="2"><p><a href="Malkavian" class="wikilink"
-title="Malkavian">Malkavian</a> only</p></td>
+<td data-sort-value="2"><p>[Malkavian](./malkavian.md) only</p></td>
 <td><p>Connected to the Cobweb, a mystical force that connects all
 Malkavians. Different levels grant the character varying abilities to
 tap into this mystical source, such as the ability to hear the shattered
@@ -756,8 +689,7 @@ them.</p></td>
 <td><p><strong>Cultivar</strong></p></td>
 <td data-sort-value="6"><p><a href="Cultivar" class="wikilink"
 title="Cultivar">Cultivar</a> member</p></td>
-<td><p>Connected to the Cultivars, who are similar to the <a
-href="Bahari" class="wikilink" title="Bahari">Bahari</a>. Different
+<td><p>Connected to the Cultivars, who are similar to the [Bahari](./bahari.md). Different
 levels grant the character varying progression through the cult with
 related perks from their joining with the dark mother.</p></td>
 <td><ul>
@@ -777,10 +709,8 @@ further into the group.</p></td>
 </tr>
 <tr>
 <td><p><strong>Descendant of Lodin</strong></p></td>
-<td data-sort-value="4"><p><a href="Ventrue" class="wikilink"
-title="Ventrue">Ventrue</a> only</p></td>
-<td><p>Connected to <a href="Ventrue#Notable_characters"
-class="wikilink" title="Lodin">Lodin</a>. Different levels grant the
+<td data-sort-value="4"><p>[Ventrue](./ventrue.md) only</p></td>
+<td><p>Connected to [Lodin](./ventrue.md#notable-characters). Different levels grant the
 character varying connections in lineage to Lodin and the benefits from
 such a title.</p></td>
 <td><ul>
@@ -789,10 +719,8 @@ such a title.</p></td>
 </tr>
 <tr>
 <td><p><strong>Descendant of Montano</strong></p></td>
-<td data-sort-value="1"><p><a href="Lasombra" class="wikilink"
-title="Lasombra">Lasombra</a> only</p></td>
-<td><p>Connected to <a href="Lasombra#Notable_characters"
-class="wikilink" title="Montano">Montano</a>. Different levels grant the
+<td data-sort-value="1"><p>[Lasombra](./lasombra.md) only</p></td>
+<td><p>Connected to [Montano](./lasombra.md#notable-characters). Different levels grant the
 character varying levels of relationship with Montano to learn from him
 or status within the Lasombra as a whole regardless of sect.</p></td>
 <td><ul>
@@ -815,8 +743,7 @@ of these events.</p></td>
 <tr>
 <td><p><strong>Firstlight</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>Connected to <a href="Second_Inquisition" class="wikilink"
-title="FIRSTLIGHT">FIRSTLIGHT</a>. Different levels grant the character
+<td><p>Connected to [FIRSTLIGHT](./second_inquisition.md). Different levels grant the character
 varying skills in evasion of hunters, information about them, the
 ability to erase the character's records from the group, or a connection
 on the inside.</p></td>
@@ -827,8 +754,7 @@ on the inside.</p></td>
 <tr>
 <td><p><strong>Kevin Jackson</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>Connected to <a href="Ventrue#Notable_characters"
-class="wikilink" title="Kevin Jackson">Kevin Jackson</a>. Different
+<td><p>Connected to [Kevin Jackson](./ventrue.md#notable-characters). Different
 levels grant the character connections to the Prince, either as a new
 arrival as part of his service, as a student from one of his schools, or
 up to being the right-hand man.</p></td>
@@ -854,8 +780,7 @@ Primogens.</p></td>
 <td><p>Connected to a series of abandoned tunnels beneath Chicago.
 Different levels grant the character the ability to traverse through the
 tunnels safely, understand the culture that's been built beneath the
-city, and participate even, connect with a <a href="Tremere"
-class="wikilink" title="Tremere">Tremere</a> named Lydia who lives there
+city, and participate even, connect with a [Tremere](./tremere.md) named Lydia who lives there
 or hide out safely and without being caught.</p></td>
 <td><ul>
 <li>Page 279</li>
@@ -877,8 +802,7 @@ and Lupines.</p></td>
 <tr>
 <td><p><strong>Nathaniel Bordruff</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>Connected to <a href="Nosferatu#Notable_characters"
-class="wikilink" title="Nathaniel Bordruff">Nathaniel Bordruff</a>.
+<td><p>Connected to [Nathaniel Bordruff](./nosferatu.md#notable-characters).
 Different levels of this loresheet grants you access to Nathaniel’s
 expansive influence in the city. Though the more the character benefits
 from his association the more they learn of the Nosferatu’s mad grand
@@ -901,11 +825,8 @@ boosts to the characters social standing and body modification.</p></td>
 </tr>
 <tr>
 <td><p><strong>Revenant Family: Ducheski</strong></p></td>
-<td data-sort-value="3"><p><a href="Tremere" class="wikilink"
-title="Tremere">Tremere</a> only</p></td>
-<td><p>This lore sheet allows a Tremere character to access a rare <a
-href="Revenant#Revenant_ghouls" class="wikilink"
-title="revenant">revenant</a> retainer of the Ducheski family. Each
+<td data-sort-value="3"><p>[Tremere](./tremere.md) only</p></td>
+<td><p>This lore sheet allows a Tremere character to access a rare [revenant](./revenant.md#revenant-ghouls) retainer of the Ducheski family. Each
 level of this lore sheet allows for more use and exploitation of their
 retainer. The Duscheki are keen assistants in the ways of academics and
 the occult able to help kindred in either area or impress their master
@@ -917,9 +838,7 @@ with their creation.</p></td>
 <tr>
 <td><p><strong>The Society of St. Leopold</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>This loresheet gives the character knowledge of how the <a
-href="Second_Inquisition" class="wikilink"
-title="Society of St. Leopold">Society of St. Leopold</a> be that
+<td><p>This loresheet gives the character knowledge of how the [Society of St. Leopold](./second_inquisition.md) be that
 current knowledge or past organizational knowledge. This may even be for
 former religious associations. Each increased level gives the character
 more knowledge of the diocese and the double edged sword of having
@@ -931,9 +850,7 @@ deeper connection to a pious old life.</p></td>
 <tr>
 <td><p><strong>Talley</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>This connects the character with <a
-href="Lasombra#Notable_characters" class="wikilink"
-title="Talley">Talley</a>. The different levels confer different
+<td><p>This connects the character with [Talley](./lasombra.md#notable-characters). The different levels confer different
 benefits with lower levels merely having the player emulate cunning
 tactics the Shadow has used to survive for centuries. Higher levels the
 loresheet allows more direct interaction with Talley himself and access
@@ -945,8 +862,7 @@ to his skills in combat and politics.</p></td>
 <tr>
 <td><p><strong>Wauneka</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>This loresheet connects to <a href="Nosferatu#Notable_characters"
-class="wikilink" title="Wauneka">Wauneka</a>, an information broker and
+<td><p>This loresheet connects to [Wauneka](./nosferatu.md#notable-characters), an information broker and
 protector of the downtrodden and vulnerable. The character develops more
 connections with the outcasts and invisibles of the city allowing the
 character to use Wauneka’s network. The more the character gains trust
@@ -986,13 +902,11 @@ Chicago Folios</a>*
 <tr>
 <td><p><strong>Archons</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>This Loresheet connects the character to the <a href="Camarilla"
-class="wikilink" title="Archons">Archons</a> as an agent or potential
+<td><p>This Loresheet connects the character to the [Archons](./camarilla.md) as an agent or potential
 recruit of the elite Camarilla guard. The levels of this loresheet gives
 benefits to any on going investigations one would have in their nights.
 Higher levels of the loresheet allows the player to have more pull in
-the sect, communication with reigning <a href="Camarilla"
-class="wikilink" title="justicars">justicars</a>, and even an official
+the sect, communication with reigning [justicars](./camarilla.md), and even an official
 appointment.</p></td>
 <td><ul>
 <li>Page 158</li>
@@ -1015,7 +929,7 @@ invested.</p></td>
 </tr>
 <tr>
 <td><p><strong>Descendant of Menele</strong></p></td>
-<td><p><a href="Brujah" class="wikilink" title="Brujah">Brujah</a>
+<td><p>[Brujah](./brujah.md)
 only</p></td>
 <td><p>Places <a href="Menele" class="wikilink"
 title="Menele">Menele</a> as the character's ancient vampiric ancestor.
@@ -1032,8 +946,7 @@ ways of clan Brujah.</p></td>
 <td><p>N/A</p></td>
 <td><p>The loresheet relates to the supernatural route between Milwaukee
 and Chicago known as the Goblin Road. The levels confer the ease with
-traveling this route and connections to <a href="Gangrel"
-class="wikilink" title="Gangrel">Gangrel</a> and their allies who know
+traveling this route and connections to [Gangrel](./gangrel.md) and their allies who know
 of the route’s nature. Higher levels allow the character to interact
 with the oddity of the road.</p></td>
 <td><ul>
@@ -1044,7 +957,7 @@ with the oddity of the road.</p></td>
 <td><p><strong>Justicar Lucinde</strong></p></td>
 <td><p>N/A</p></td>
 <td><p>Gives the character some form of past association with Justicar
-<a href="Ventrue" class="wikilink" title="Lucinde">Lucinde</a>. Low
+[Lucinde](./ventrue.md). Low
 levels gives the character some skills in investigation like the
 renowned justicar. Higher levels give the character benefits from
 working under Lucinde on her various missions.</p></td>
@@ -1055,8 +968,7 @@ working under Lucinde on her various missions.</p></td>
 <tr>
 <td><p><strong>Khalid Al-Rashid</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>Connects the player character to <a href="Nosferatu"
-class="wikilink" title="Khalid Al-Rashid">Khalid Al-Rashid</a> by blood
+<td><p>Connects the player character to [Khalid Al-Rashid](./nosferatu.md) by blood
 or through mundane association. Low levels of the nosferatu sheet will
 allow skills in areas of the former primogen’s expertise. The higher
 levels of this loresheets begins to give the character clues in the
@@ -1078,8 +990,7 @@ to form a character’s own secret fight club.</p></td>
 </tr>
 <tr>
 <td><p><strong>Malkavian Family</strong></p></td>
-<td><p><a href="Malkavian" class="wikilink"
-title="Malkavian">Malkavian</a> only</p></td>
+<td><p>[Malkavian](./malkavian.md) only</p></td>
 <td><p>The Malkavians of Chicago have a family and communal structure
 sharing resources, havens, and secrets. Lower levels benefit the Malk
 with insight and merits with other members of the clan. Higher levels
@@ -1091,9 +1002,7 @@ setting.</p></td>
 </tr>
 <tr>
 <td><p><strong>Occult Artifacts</strong></p></td>
-<td><p><a href="Banu_Haqim" class="wikilink" title="Banu Haqim">Banu
-Haqim</a> or <a href="Tremere" class="wikilink"
-title="Tremere">Tremere</a> only</p></td>
+<td><p>[Banu Haqim](./banu.md) or [Tremere](./tremere.md) only</p></td>
 <td><p>This loresheets allows certain characters access to different
 magic items either left behind in a chantry, discovered by chance, or
 entrusted to the character. The artifacts details comes from the likes
@@ -1118,9 +1027,7 @@ special clients of the service.</p></td>
 <tr>
 <td><p><strong>Sheriff Damien</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>Connects to the Brujah <a href="Camarilla" class="wikilink"
-title="Sheriff">Sheriff</a> of Chicago and famous musician, <a
-href="Brujah" class="wikilink" title="Damien">Damien</a>. The character
+<td><p>Connects to the Brujah [Sheriff](./camarilla.md) of Chicago and famous musician, [Damien](./brujah.md). The character
 can be connected to Damien’s band as an admirer or be the muscles that
 he sees as reliable. Higher levels of the loresheet bring the character
 closer to Sheriff and offer more benefits.</p></td>
@@ -1181,9 +1088,7 @@ information, diplomacy, or precautionary measures.</p></td>
 <tr>
 <td><p><strong>Eletria</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>This loresheets the character former association with <a
-href="Toreador#Notable_characters" class="wikilink"
-title="Eletria">Eletria</a> in the character’s backstory. How the
+<td><p>This loresheets the character former association with [Eletria](./toreador.md#notable-characters) in the character’s backstory. How the
 character knew the Toreador depends on the level. Lower levels allude to
 connection from artist to artist and high levels allude to a deeper
 connection that has left a lasting impact.</p></td>
@@ -1206,9 +1111,7 @@ though it poses a danger of course.</p></td>
 <tr>
 <td><p><strong>Juggler</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>A loresheet that connects the kindred to both <a
-href="Brujah#Notable_characters" class="wikilink"
-title="Juggler">Juggler</a> and the domain of Gary, Indiana. The levels
+<td><p>A loresheet that connects the kindred to both [Juggler](./brujah.md#notable-characters) and the domain of Gary, Indiana. The levels
 of this lore sheet allows a character to gain an edge over Camarilla
 loyalists, gain benefits from former association with Juggler, and
 companion to aid the character’s actions for the Movement.</p></td>
@@ -1219,12 +1122,9 @@ companion to aid the character’s actions for the Movement.</p></td>
 <tr>
 <td><p><strong>Lost Secrets of the Milwaukee Chantry</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>Secrets of the Null Zone and work of the former chantry <a
-href="Tremere" class="wikilink" title="Carna">Carna</a> used to belong
+<td><p>Secrets of the Null Zone and work of the former chantry [Carna](./tremere.md) used to belong
 to are detailed in this Loresheet. Characters with this loresheet can
-benefit can find the files of long gone Tremere for various merits, <a
-href="Blood_Sorcery" class="wikilink" title="blood sorcery">blood
-sorcery</a> knowledge, or hidden magical knowledge. Higher levels give
+benefit can find the files of long gone Tremere for various merits, [blood sorcery](./blood_sorcery.md) knowledge, or hidden magical knowledge. Higher levels give
 more occult secrets at a price.</p></td>
 <td><ul>
 <li>Page 228</li>
@@ -1232,11 +1132,8 @@ more occult secrets at a price.</p></td>
 </tr>
 <tr>
 <td><p><strong>Mark Decker</strong></p></td>
-<td><p>(•••••) is <a href="Gangrel" class="wikilink"
-title="Gangrel">Gangrel</a> only</p></td>
-<td><p>This loresheet forges a connection between the character and <a
-href="Gangrel#Notable_characters" class="wikilink"
-title="Mark Decker">Mark Decker</a>. The character get the benefits of
+<td><p>(•••••) is [Gangrel](./gangrel.md) only</p></td>
+<td><p>This loresheet forges a connection between the character and [Mark Decker](./gangrel.md#notable-characters). The character get the benefits of
 allying with the paranoid Prince from favor to leniency in his
 tyrannical rule. Higher levels allows you deeper connection with the
 Prince.</p></td>
@@ -1247,9 +1144,7 @@ Prince.</p></td>
 <tr>
 <td><p><strong>Maxwell</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>This loresheets yields a connection to <a
-href="Brujah#Notable_characters" class="wikilink"
-title="Maxwell">Maxwell</a>. This loresheets gives you access to the
+<td><p>This loresheets yields a connection to [Maxwell](./brujah.md#notable-characters). This loresheets gives you access to the
 former Prince's hidden power base or some of his skills he used to
 outsmart his enemies. Higher levels of this loresheet allows a closer
 connection and more direct help from Maxwell.</p></td>
@@ -1272,9 +1167,7 @@ parties, magical and non-magical will oppose the character.</p></td>
 <tr>
 <td><p><strong>Modius</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>A loresheet that connects the kindred to both <a
-href="Toreador#Notable_characters" class="wikilink"
-title="Modius">Modius</a> and the domain, Gary, Indiana. Low levels
+<td><p>A loresheet that connects the kindred to both [Modius](./toreador.md#notable-characters) and the domain, Gary, Indiana. Low levels
 award the character for their support of Modius’ political aspirations.
 Higher levels of the lore sheet allude to a stronger connection and more
 benefits over the city and the Toreador’s support in the character’s one
@@ -1312,8 +1205,7 @@ Masquerade Cults of the Blood Gods</a>*
 <tbody>
 <tr>
 <td><p><strong>Bankers of Dunsirn</strong></p></td>
-<td data-sort-value="1"><p><a href="Hecata" class="wikilink"
-title="Hecata">Hecata</a> only</p></td>
+<td data-sort-value="1"><p>[Hecata](./hecata.md) only</p></td>
 <td><p>Connected to the Dunsirn bloodline. Different levels grant the
 character connections to the lineage and the skills the line generally
 possesses such as access to money and making it.</p></td>
@@ -1323,20 +1215,17 @@ possesses such as access to money and making it.</p></td>
 </tr>
 <tr>
 <td><p><strong>Children of Tenochtitlan</strong></p></td>
-<td data-sort-value="2"><p><a href="Hecata" class="wikilink"
-title="Hecata">Hecata</a> only</p></td>
+<td data-sort-value="2"><p>[Hecata](./hecata.md) only</p></td>
 <td><p>Connected to the Pisanob bloodline. Different levels grant the
 character connections to the lineage and the skills the line generally
-possesses such as Necromancy with <a href="Oblivion" class="wikilink"
-title="Oblivion">Oblivion</a> and surviving.</p></td>
+possesses such as Necromancy with [Oblivion](./oblivion.md) and surviving.</p></td>
 <td><ul>
 <li>Page 221</li>
 </ul></td>
 </tr>
 <tr>
 <td><p><strong>The Nation of Blood</strong> </p></td>
-<td data-sort-value="3"><p><a href="Hecata" class="wikilink"
-title="Hecata">Hecata</a> only</p></td>
+<td data-sort-value="3"><p>[Hecata](./hecata.md) only</p></td>
 <td><p>Connected to the Samedi bloodline. Different levels grant the
 character connections to the lineage and the skills the line generally
 possesses such as working with corpses and surpassing physical
@@ -1347,8 +1236,7 @@ impairment.</p></td>
 </tr>
 <tr>
 <td><p><strong>Flesh-Eaters</strong></p></td>
-<td data-sort-value="4"><p><a href="Hecata" class="wikilink"
-title="Hecata">Hecata</a> only</p></td>
+<td data-sort-value="4"><p>[Hecata](./hecata.md) only</p></td>
 <td><p>Connected to the Nagaraja bloodline. Different levels grant the
 character connections to the lineage and the skills the line generally
 possesses such as their extended fangs and ability to eat
@@ -1359,8 +1247,7 @@ corpses.</p></td>
 </tr>
 <tr>
 <td><p><strong>Harbingers of Ashur</strong></p></td>
-<td data-sort-value="5"><p><a href="Hecata" class="wikilink"
-title="Hecata">Hecata</a> only</p></td>
+<td data-sort-value="5"><p>[Hecata](./hecata.md) only</p></td>
 <td><p>Connected to the Harbinger bloodline. Different levels grant the
 character connections to the lineage and the skills the line generally
 possesses such as their masks that denote their strengths and
@@ -1371,8 +1258,7 @@ standing.</p></td>
 </tr>
 <tr>
 <td><p><strong>La Famiglia Giovanni</strong></p></td>
-<td data-sort-value="6"><p><a href="Hecata" class="wikilink"
-title="Hecata">Hecata</a> only</p></td>
+<td data-sort-value="6"><p>[Hecata](./hecata.md) only</p></td>
 <td><p>Connected to the Giovanni bloodline. Different levels grant the
 character connections to the lineage and the skills the line generally
 possesses such as nepotism to access certain information and
@@ -1383,8 +1269,7 @@ generational wealth being accessible.</p></td>
 </tr>
 <tr>
 <td><p><strong>The Criminal Puttanesca</strong></p></td>
-<td data-sort-value="7"><p><a href="Hecata" class="wikilink"
-title="Hecata">Hecata</a> only</p></td>
+<td data-sort-value="7"><p>[Hecata](./hecata.md) only</p></td>
 <td><p>Connected to the Puttanesca bloodline. Different levels grant the
 character connections to the lineage and the skills the line generally
 possesses such as ties to the criminal underworld and the allies it
@@ -1395,20 +1280,17 @@ contains.</p></td>
 </tr>
 <tr>
 <td><p><strong>The Gorgons</strong></p></td>
-<td data-sort-value="8"><p><a href="Hecata" class="wikilink"
-title="Hecata">Hecata</a> only</p></td>
+<td data-sort-value="8"><p>[Hecata](./hecata.md) only</p></td>
 <td><p>Connected to the Lamia bloodline. Different levels grant the
 character connections to the lineage and the skills the line generally
-possesses such as diseases and <a href="Resonance" class="wikilink"
-title="Resonance">Resonance</a>s.</p></td>
+possesses such as diseases and [Resonance](./resonance.md)s.</p></td>
 <td><ul>
 <li>Page 227</li>
 </ul></td>
 </tr>
 <tr>
 <td><p><strong>Calling the Family Reunion</strong></p></td>
-<td data-sort-value="9"><p><a href="Hecata" class="wikilink"
-title="Hecata">Hecata</a> only</p></td>
+<td data-sort-value="9"><p>[Hecata](./hecata.md) only</p></td>
 <td><p>Connected to the Family Reunion, an event where elders of the
 bloodlines were removed and the bloodlines were reunited. Different
 levels grant the character varying connections to the details of that
@@ -1421,8 +1303,7 @@ bonuses against antagonistic ghosts in ceremonies.</p></td>
 </tr>
 <tr>
 <td><p><strong>Child of the Angel Michael</strong></p></td>
-<td data-sort-value="10"><p><a href="Nosferatu" class="wikilink"
-title="Nosferatu">Nosferatu</a> cannot take this</p></td>
+<td data-sort-value="10"><p>[Nosferatu](./nosferatu.md) cannot take this</p></td>
 <td><p>Connected to a cult dedicated to bringing the idea of
 Constantinople to reality once more. Different levels grant the
 character merits to represent their followers, beauty beyond compare,
@@ -1485,20 +1366,17 @@ Masquerade Children of the Blood</a>*
 <tbody>
 <tr>
 <td><p><strong>Little Siblings</strong></p></td>
-<td data-sort-value="1"><p><a href="Hecata" class="wikilink"
-title="Hecata">Hecata</a> only</p></td>
+<td data-sort-value="1"><p>[Hecata](./hecata.md) only</p></td>
 <td><p>Connected to the Rossellini bloodline. Different levels grant the
 character experience with commanding wraiths and other dealings with
-them, or <a href="Oblivion_Ceremonies" class="wikilink"
-title="Oblivion Ceremonies">Oblivion Ceremonies</a> benefits.</p></td>
+them, or [Oblivion Ceremonies](./oblivion_ceremonies.md) benefits.</p></td>
 <td><ul>
 <li>Page 101</li>
 </ul></td>
 </tr>
 <tr>
 <td><p><strong>Grudge Masters</strong></p></td>
-<td data-sort-value="2"><p><a href="Hecata" class="wikilink"
-title="Hecata">Hecata</a> only</p></td>
+<td data-sort-value="2"><p>[Hecata](./hecata.md) only</p></td>
 <td><p>Connected to the Milliner bloodline. Different levels grant the
 characters status from the lineage, money from the family, bonuses for
 projects, declare debts owed, or connections within law
@@ -1509,10 +1387,8 @@ enforcement.</p></td>
 </tr>
 <tr>
 <td><p><strong>The Ashfinders</strong></p></td>
-<td data-sort-value="5"><p><a href="Thin-blood" class="wikilink"
-title="Thin-blood">Thin-blood</a> only</p></td>
-<td><p>Connected to the <a href="Ashfinders" class="wikilink"
-title="Ashfinders">Ashfinders</a> cults. Different levels grant the
+<td data-sort-value="5"><p>[Thin-blood](./thinblood.md) only</p></td>
+<td><p>Connected to the [Ashfinders](./ashfinders.md) cults. Different levels grant the
 character different bonuses as they progress through the cult and the
 skills that are honed during the process.</p></td>
 <td><ul>
@@ -1533,8 +1409,7 @@ Diablerie attempts.</p></td>
 </tr>
 <tr>
 <td><p><strong>Cleopatras</strong></p></td>
-<td data-sort-value="4"><p><a href="Nosferatu" class="wikilink"
-title="Nosferatu">Nosferatu</a> only</p></td>
+<td data-sort-value="4"><p>[Nosferatu](./nosferatu.md) only</p></td>
 <td><p>Connected to the <a href="Cleopatrans" class="wikilink"
 title="Cleopatrans">Cleopatrans</a>. Different levels grant the
 character bonuses against discovering another's most profound flaws, the
@@ -1572,8 +1447,7 @@ control over it and the character's humanity.</p></td>
 </tr>
 <tr>
 <td><p><strong>Starfall Ranch</strong></p></td>
-<td data-sort-value="3"><p><a href="Malkavian" class="wikilink"
-title="Malkavian">Malkavian</a> only</p></td>
+<td data-sort-value="3"><p>[Malkavian](./malkavian.md) only</p></td>
 <td><p>Connected to Starfall Ranch in the Northeastern United States
 owed by Malkavian Starr. Different levels grant the character
 connections to this place and those who were once there, gain bonuses
@@ -1611,8 +1485,7 @@ Masquerade Forbidden Religions</a>*
 <tbody>
 <tr>
 <td><p><strong>1444 Chamber</strong></p></td>
-<td data-sort-value="1"><p><a href="Hecata" class="wikilink"
-title="Hecata">Hecata</a> only</p></td>
+<td data-sort-value="1"><p>[Hecata](./hecata.md) only</p></td>
 <td><p>Connected to the 1444 Chamber. The once advisor to Augustus
 Giovanni who is now in the modern age leading the Hecata. Different
 levels grant the character connection to the chamber to carry out their
@@ -1663,8 +1536,7 @@ blood.</p></td>
 </tr>
 <tr>
 <td><p><strong>Praepositor</strong></p></td>
-<td data-sort-value="2"><p><a href="Tremere" class="wikilink"
-title="Tremere">Tremere</a> only</p></td>
+<td data-sort-value="2"><p>[Tremere](./tremere.md) only</p></td>
 <td><p>Connected to the <a href="Praesidium" class="wikilink"
 title="Praesidium">Praesidium</a> and the devotion to restoring the clan
 to its old power. Different levels grant the character bonuses against
@@ -1678,8 +1550,7 @@ officialized by a blood bond.</p></td>
 </tr>
 <tr>
 <td><p><strong>Spear of Orthia</strong></p></td>
-<td data-sort-value="3"><p><a href="Ventrue" class="wikilink"
-title="Ventrue">Ventrue</a> only</p></td>
+<td data-sort-value="3"><p>[Ventrue](./ventrue.md) only</p></td>
 <td><p>Connected to Artemis Orthia, the first childe of Ventrue.
 Different levels grant the character membership to the <a
 href="Shattered_Spear" class="wikilink"
@@ -1732,7 +1603,7 @@ an important table.</p></td>
 </tr>
 <tr>
 <td><p><strong>Descendant of Roger de Camden</strong></p></td>
-<td><p><a href="Hecata" class="wikilink" title="Hecata">Hecata</a>
+<td><p>[Hecata](./hecata.md)
 only</p></td>
 <td><p>Connected to Roger De Camden, the current prince of Edinburgh.
 Different levels grant the character connections to him as part of his
@@ -1746,8 +1617,7 @@ lineage and bonuses from being a part of his bloodline.</p></td>
 <td><p>N/A</p></td>
 <td><p>Connected to objects of supernatural properties. Different levels
 grant the character different items each with their own properties such
-as bonuses to <a href="Oblivion" class="wikilink"
-title="Oblivion">Oblivion</a>, healing at faster than usual rates,
+as bonuses to [Oblivion](./oblivion.md), healing at faster than usual rates,
 bonuses against wraiths, a dangerous stake, or a sacred book of coded
 passages to unlock powerful secrets of the dead.</p></td>
 <td><ul>
@@ -1784,9 +1654,7 @@ Boston by Night</a>*
 <tr>
 <td><p><strong>The Hartford Chantry</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>Connected to the <a href="Tremere" class="wikilink"
-title="Tremere">Tremere</a> Chantry in <a href="Boston,_Massachusetts"
-class="wikilink" title="Boston">Boston</a>. Different levels grant the
+<td><p>Connected to the [Tremere](./tremere.md) Chantry in [Boston](./boston_mass.md). Different levels grant the
 character bonuses for revealing the properties of an object, revealing
 if someone is a member of a secret society, gaining a strong ally,
 access to the chantry as a haven and library, or becoming a factional
@@ -1796,8 +1664,7 @@ authority.</p></td>
 <tr>
 <td><p><strong>The Boston Camarilla</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>Connected to the <a href="Camarilla" class="wikilink"
-title="Camarilla">Camarilla</a> in Boston. Different levels grant the
+<td><p>Connected to the [Camarilla](./camarilla.md) in Boston. Different levels grant the
 character bonuses when with their coterie, call for a sit-down with
 high-ranking members of other domains, gain a conviction in order to
 better protect their neighborhood, or obtain a retainer from the
@@ -1845,8 +1712,7 @@ information, aid in tasks, or being an Archon underneath her.</p></td>
 <td><p><strong>Court of Shadows</strong></p></td>
 <td><p>N/A</p></td>
 <td><p>Connected to The King of Shadows and the mysterious figure they
-are within <a href="London,_UK" class="wikilink"
-title="London">London</a>'s secret vampire society. Different levels
+are within [London](./london_uk.md)'s secret vampire society. Different levels
 grant the character access to this network for nourishment, information,
 or other forms of aid for the character's goals.</p></td>
 <td><ul>
@@ -1868,8 +1734,7 @@ vampires.</p></td>
 </tr>
 <tr>
 <td><p><strong>London under London</strong></p></td>
-<td data-sort-value="1"><p><a href="Nosferatu" class="wikilink"
-title="Nosferatu">Nosferatu</a> only</p></td>
+<td data-sort-value="1"><p>[Nosferatu](./nosferatu.md) only</p></td>
 <td><p>Connected to the underground tunnels beneath London. Different
 levels grant the character knowledge and experience beneath the city
 allowing them to navigate, find safety beneath the earth, or find
@@ -1893,10 +1758,7 @@ benefits related to classified information.</p></td>
 <tr>
 <td><p><strong>Oskar Anasov</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>Connected to the <a href="Nosferatu" class="wikilink"
-title="Nosferatu">Nosferatu</a> Oskar Anasov, a once <a href="Anarch"
-class="wikilink" title="Anarch">Anarch</a> was forced to serve the <a
-href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a> or be
+<td><p>Connected to the [Nosferatu](./nosferatu.md) Oskar Anasov, a once [Anarch](./anarch.md) was forced to serve the [Camarilla](./camarilla.md) or be
 executed. Different levels of this loresheet grant the character access
 to his services, be it reliable and safe message delivery, arrangement
 of meetings with other kindred, smuggling bodies through the city, or
@@ -1944,8 +1806,7 @@ magic, and won't stop, for the hunger grows.</p></td>
 </tr>
 <tr>
 <td><p><strong>The Nictuku</strong></p></td>
-<td data-sort-value="1"><p><a href="Nosferatu" class="wikilink"
-title="Nosferatu">Nosferatu</a> only</p></td>
+<td data-sort-value="1"><p>[Nosferatu](./nosferatu.md) only</p></td>
 <td><p>In the darkness of their warren, Nosferatu tell gruesome tales
 about their mad with fury offspring, the Nictuku. Some of the Nosferatu
 clan would later decide that these stories are just that. But others
@@ -1959,7 +1820,7 @@ warning.</p></td>
 <td><p>Younger, but bigger and louder of the Twin Cities, Minneapolis
 used to be the Domain of local Anarchs, standing in opposition to Prince
 Merrain's court, on the other side of river Mississippi. Nowadays, the
-<a href="Anarch" class="wikilink" title="Anarch">Anarch</a> population
+[Anarch](./anarch.md) population
 lays low, wondering if what was achieved in Berlin, could be replicated
 on their turf.</p></td>
 <td><p>Issue 2, page 32</p></td>
@@ -1968,10 +1829,8 @@ on their turf.</p></td>
 <td><p><strong>St. Paul</strong></p></td>
 <td><p>N/A</p></td>
 <td><p>Older, although less famous of the Twin Cities, St. Paul is the
-heart of the local <a href="Camarilla" class="wikilink"
-title="Camarilla">Camarilla</a>. Its artistic soul being the main reason
-for Prince Samantha Merrain of clan <a href="Toreador" class="wikilink"
-title="Toreador">Toreador</a> to make the older sibling her preferred
+heart of the local [Camarilla](./camarilla.md). Its artistic soul being the main reason
+for Prince Samantha Merrain of clan [Toreador](./toreador.md) to make the older sibling her preferred
 domain.</p></td>
 <td><p>Issue 2, page 33</p></td>
 </tr>
@@ -2014,10 +1873,8 @@ Blood Sigils</a>*
 <tbody>
 <tr>
 <td><p><strong>Descendant of Al-Ashrad</strong></p></td>
-<td><p><a href="Banu_Haqim" class="wikilink" title="Banu Haqim">Banu
-Haqim</a> only</p></td>
-<td><p>Connected to <a href="Banu_Haqim#Notable_characters"
-class="wikilink" title="Al-Ashrad">Al-Ashrad</a>. Different levels
+<td><p>[Banu Haqim](./banu.md) only</p></td>
+<td><p>Connected to [Al-Ashrad](./banu.md#notable-characters). Different levels
 provide bonuses to Leadership, access or improvement to Sense the Unseen
 (Auspex ●), easier time using Blood Sorcery to harm Kindred, the ability
 to harm incorporeal creatures, or become next in line for being the most
@@ -2027,9 +1884,7 @@ respected sorcerer</p></td>
 <tr>
 <td><p><strong>Student of Kirin Taunk</strong></p></td>
 <td data-sort-value="1"><p>Thin-Blood Alchemists only</p></td>
-<td><p>Connected to the legacy of <a
-href="Thin-blood#Notable_characters" class="wikilink"
-title="Kirin Taunk">Kirin Taunk</a>. Different levels provide quicker
+<td><p>Connected to the legacy of [Kirin Taunk](./thinblood.md#notable-characters). Different levels provide quicker
 creation of formulas, the ability to use your alchemical skill in social
 situations, easier access and bonus to a formula, Status among both the
 Anarchs and the Camarilla, and a Mawla of one of her patrons.</p></td>
@@ -2135,8 +1990,7 @@ Final Death from violent conflict</p></td>
 </tr>
 <tr>
 <td><p><strong>Tegyrius the Vizier</strong></p></td>
-<td><p>(••••) is <a href="Banu_Haqim" class="wikilink"
-title="Banu Haqim">Banu Haqim</a> only</p></td>
+<td><p>(••••) is [Banu Haqim](./banu.md) only</p></td>
 <td><p>Connected to Tegyrius, the Banu Haqim Vizier.</p></td>
 <td><p>Page 159</p></td>
 </tr>
@@ -2169,8 +2023,7 @@ Memoriam</a>*
 <tr>
 <td><p><strong>Birth of the Anarch Free States</strong></p></td>
 <td><p>N/A</p></td>
-<td><p>Connected to the <a href="Anarch" class="wikilink"
-title="Anarchs">Anarchs</a>. Different levels grant the ability to rouse
+<td><p>Connected to the [Anarchs](./anarch.md). Different levels grant the ability to rouse
 Anarchs to action and general status benefits.</p></td>
 <td><p>Page 149</p></td>
 </tr>
@@ -2183,7 +2036,7 @@ ability to engage or withstand a chaotic revolution.</p></td>
 </tr>
 <tr>
 <td><p><strong>Descendant of Dracula</strong></p></td>
-<td><p><a href="Tzimisce" class="wikilink" title="Tzimisce">Tzimisce</a>
+<td><p>[Tzimisce](./tzimisce.md)
 only</p></td>
 <td><p>Connected to <a href="Dracula" class="wikilink"
 title="Dracula">Dracula</a>. Different levels grant abilities relating
@@ -2210,7 +2063,7 @@ of diablerie.</p></td>
 </tr>
 <tr>
 <td><p><strong>The Vanderbilt Ventrue</strong></p></td>
-<td><p><a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a>
+<td><p>[Ventrue](./ventrue.md)
 only</p></td>
 <td><p>Connected to the <a href="Venderbilt_family" class="wikilink"
 title="Venderbilt family">Venderbilt family</a>. Different levels grant
@@ -2246,28 +2099,27 @@ Tattered Façade</a>*
 <tbody>
 <tr>
 <td><p><strong>Descendant of the Ankou</strong></p></td>
-<td><p><a href="Malkavian" class="wikilink"
-title="Malkavian">Malkavian</a> only</p></td>
+<td><p>[Malkavian](./malkavian.md) only</p></td>
 <td><p>Connected to the Ankou.</p></td>
 <td><p>Page 171</p></td>
 </tr>
 <tr>
 <td><p><strong>Descendant of Baron Vollgirre</strong></p></td>
-<td><p><a href="Toreador" class="wikilink" title="Toreador">Toreador</a>
+<td><p>[Toreador](./toreador.md)
 only</p></td>
 <td><p>Connected to the Baron Vollgirre.</p></td>
 <td><p>Page 172</p></td>
 </tr>
 <tr>
 <td><p><strong>Descendant of Montano</strong></p></td>
-<td><p><a href="Lasombra" class="wikilink" title="Lasombra">Lasombra</a>
+<td><p>[Lasombra](./lasombra.md)
 only</p></td>
 <td><p>Connected to Montano.</p></td>
 <td><p>Page 173</p></td>
 </tr>
 <tr>
 <td><p><strong>Little Siblings</strong></p></td>
-<td><p><a href="Hecata" class="wikilink" title="Hecata">Hecata</a>
+<td><p>[Hecata](./hecata.md)
 only</p></td>
 <td><p>Connected to the Rossellini and the Giovanni.</p></td>
 <td><p>Page 174</p></td>
@@ -2307,9 +2159,7 @@ Darkness</a></p></td>
 <td><p><strong>Amanda Chastain</strong></p></td>
 <td><p>N/A</p></td>
 <td><p>Amanda Chastain is a powerful Camarilla Toreador based out of the
-small city of Jericho Heights. Cryptocurrencies, the <a
-href="Circulatory_System" class="wikilink"
-title="Circulatory System">Circulatory System</a>, and podcasts are just
+small city of Jericho Heights. Cryptocurrencies, the [Circulatory System](./circulatory_system.md), and podcasts are just
 a small sample of her areas of influence.</p></td>
 <td><p>Free download on <a
 href="https://www.worldofdarkness.com/account">World of

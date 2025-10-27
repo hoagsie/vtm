@@ -3,10 +3,8 @@ dark alley or seducing a mortal to follow them into a dimly lit bathroom
 at a club. What they choose will affect starting
 <a href="Character_creation#Skills" class="wikilink"
 title="specializations">specializations</a>,
-<a href="Disciplines" class="wikilink"
-title="Disciplines">Disciplines</a>,
-<a href="Merits_and_Flaws" class="wikilink"
-title="Merits and Flaws">Merits and Flaws</a>, as their experience
+[Disciplines](./disciplines.md),
+[Merits and Flaws](./merits_flaws.md), as their experience
 hunting blood shapes their skillset. When selecting a Predator type
 consider what led them to take this approach, what shaped them in their
 unlife or even mortal life, and into being comfortable with this style
@@ -34,10 +32,10 @@ can be used to find criminals as if a vigilante figure. [2]
 - Gain one specialty in either Intimidation (Stickups) or Brawl
   (Grappling)
 - Gain one dot of either
-  <a href="Celerity" class="wikilink" title="Celerity">Celerity</a> or
-  <a href="Potence" class="wikilink" title="Potence">Potence</a>
+  [Celerity](./celerity.md) or
+  [Potence](./potence.md)
 - Lose one dot of
-  <a href="Humanity" class="wikilink" title="Humanity">Humanity</a>
+  [Humanity](./humanity.md)
 - Gain three dots of Criminal Contacts
 
 ## Bagger
@@ -48,7 +46,7 @@ consume preserved, defractionated or rancid blood through (•••) Iron
 Gullet, allowing them to feed from unusual sources such as blood bags or
 corpses. Perhaps they work in a hospital or blood bank or they might
 even have enough knowledge about the black market to obtain their blood.
-<a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a> are
+[Ventrue](./ventrue.md) are
 unable to pick this Predator type. [3]
 
 Intelligence + Streetwise can be used to find, gain access and purchase
@@ -57,15 +55,14 @@ the goods. [4]
 - Gain one specialty in either Larceny (Lock Picking) or Streetwise
   (Black Market)
 - Gain one dot of
-  <a href="Blood_Sorcery" class="wikilink" title="Blood Sorcery">Blood
-  Sorcery</a>
-  (<a href="Tremere" class="wikilink" title="Tremere">Tremere</a> and
-  <a href="Banu_Haqim" class="wikilink" title="Banu Haqim">Banu Haqim</a>
+  [Blood Sorcery](./blood_sorcery.md)
+  ([Tremere](./tremere.md) and
+  [Banu Haqim](./banu.md)
   only)[5],
-  <a href="Oblivion" class="wikilink" title="Oblivion">Oblivion</a>
-  (<a href="Hecata" class="wikilink" title="Hecata">Hecata</a> only)[6],
+  [Oblivion](./oblivion.md)
+  ([Hecata](./hecata.md) only)[6],
   or
-  <a href="Obfuscate" class="wikilink" title="Obfuscate">Obfuscate</a>
+  [Obfuscate](./obfuscate.md)
 - Gain the Feeding Merit (•••) Iron Gullet
 - Gain an Enemy Flaw (••) of someone who believes this vampire owes them
   something or there's another reason to hunt them down
@@ -86,10 +83,10 @@ pool. [8]
 - Gain one specialty in either Brawl (Kindred) or Stealth (Against
   Kindred)
 - Gain one dot of
-  <a href="Celerity" class="wikilink" title="Celerity">Celerity</a> or
-  <a href="Protean" class="wikilink" title="Protean">Protean</a>
+  [Celerity](./celerity.md) or
+  [Protean](./protean.md)
 - Lose one dot of
-  <a href="Humanity" class="wikilink" title="Humanity">Humanity</a>
+  [Humanity](./humanity.md)
 - Increase blood potency by one
 - Gain the Dark Secret Flaw: Diablerist (••), or the Shunned Flaw (••)
 - Gain the Feeding Flaw: (••) Prey Exclusion (Mortals)
@@ -103,7 +100,7 @@ stealing the blood from their victims while still maintaining ties to
 them. Cleavers will go to extreme lengths to keep their condition a
 secret from their victims but some may instead take a less than pleasant
 route. The
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>
+[Camarilla](./camarilla.md)
 forbids the practice of taking a human family in this fashion, as it's a
 breach waiting to happen. [9]
 
@@ -116,8 +113,8 @@ to inherent risk or becoming otherwise unsustainable over time. [11]
 - Gain one specialty in either Persuasion (Gaslighting) or Subterfuge
   (Coverups)
 - Gain one dot of
-  <a href="Dominate" class="wikilink" title="Dominate">Dominate</a> or
-  <a href="Animalism" class="wikilink" title="Animalism">Animalism</a>
+  [Dominate](./dominate.md) or
+  [Animalism](./animalism.md)
 - Gain the Dark Secret Flaw (•) Cleaver
 - Gain the Herd Advantage (••)
 
@@ -130,7 +127,7 @@ charity blood drive, someone with a blood kink within the kink
 community, or blatantly admitting to their victims what they are and
 getting their permission to feed. To the Camarilla, the last method is
 considered a masquerade breach but perhaps to a philosophical
-<a href="Anarch" class="wikilink" title="Anarch">Anarch</a>, it might be
+[Anarch](./anarch.md), it might be
 an acceptable risk to take. [12]
 
 This hunting style is typically rare for ancilla or older characters due
@@ -142,10 +139,10 @@ under the guide of medical work or mutual kink. [14]
 - Gain one specialty in either Medicine (Phlebotomy) or Persuasion
   (Vessels)
 - Gain one dot of
-  <a href="Auspex" class="wikilink" title="Auspex">Auspex</a> or
-  <a href="Fortitude" class="wikilink" title="Fortitude">Fortitude</a>
+  [Auspex](./auspex.md) or
+  [Fortitude](./fortitude.md)
 - Gain one dot of
-  <a href="Humanity" class="wikilink" title="Humanity">Humanity</a>
+  [Humanity](./humanity.md)
 - Gain the Dark Secret Flaw: (•) Masquerade Breacher
 - Gain the Feeding Flaw: (•) Prey Exclusion (Non-consenting)
 
@@ -168,10 +165,10 @@ Composure + Animal Ken is the roll to find and catch the chosen animal.
 - Gain one specialty in either Animal Ken (specific animal) or Survival
   (Hunting)
 - Gain one dot of
-  <a href="Animalism" class="wikilink" title="Animalism">Animalism</a>
-  or <a href="Protean" class="wikilink" title="Protean">Protean</a>
+  [Animalism](./animalism.md)
+  or [Protean](./protean.md)
 - Gain one dot of
-  <a href="Humanity" class="wikilink" title="Humanity">Humanity</a>
+  [Humanity](./humanity.md)
 - Gain the Feeding Flaw: (••) Farmer
 
 ## Osiris
@@ -189,9 +186,8 @@ from the adoring fans. [19]
 - Gain one specialty in either Occult (specific tradition) or
   Performance (specific entertainment field)
 - Gain one dot of
-  <a href="Blood_Sorcery" class="wikilink" title="Blood Sorcery">Blood
-  Sorcery</a> (Tremere or Banu Haqim only)[20] or
-  <a href="Presence" class="wikilink" title="Presence">Presence</a>
+  [Blood Sorcery](./blood_sorcery.md) (Tremere or Banu Haqim only)[20] or
+  [Presence](./presence.md)
 - Spend three dots between the Fame and Herd Backgrounds
 - Spend two dots between Enemies and Mythic Flaws
 
@@ -211,8 +207,8 @@ without leaving a trace. [22]
 - Gain one specialty in either Medicine (Anesthetics) or Stealth
   (Break-in)
 - Gain one dot of
-  <a href="Auspex" class="wikilink" title="Auspex">Auspex</a> or
-  <a href="Obfuscate" class="wikilink" title="Obfuscate">Obfuscate</a>
+  [Auspex](./auspex.md) or
+  [Obfuscate](./obfuscate.md)
 - Gain one dot of Resources
 
 ## Scene Queen
@@ -232,8 +228,8 @@ gaslighting or forced silence. [24]
 - Gain one specialty in either Etiquette (specific scene), Leadership
   (specific scene), or Streetwise (specific scene)
 - Gain one dot of
-  <a href="Dominate" class="wikilink" title="Dominate">Dominate</a> or
-  <a href="Potence" class="wikilink" title="Potence">Potence</a>
+  [Dominate](./dominate.md) or
+  [Potence](./potence.md)
 - Gain the Fame Advantage (•)
 - Gain the Contact Advantage (•)
 - Gain either the Influence Flaw: (•) Disliked (outside their
@@ -258,8 +254,8 @@ Charisma + Subterfuge is how sirens feed under the guise of sexual acts.
 - Gain one specialty in either Persuasion (Seduction) or Subterfuge
   (Seduction)
 - Gain one dot of
-  <a href="Fortitude" class="wikilink" title="Fortitude">Fortitude</a>
-  or <a href="Presence" class="wikilink" title="Presence">Presence</a>
+  [Fortitude](./fortitude.md)
+  or [Presence](./presence.md)
 - Gain the Looks Merit: (••) Beautiful
 - Gain the Enemy Flaw (•) A spurned lover or jealous partner
 
@@ -278,8 +274,8 @@ Strength/Manipulation + Intimidation to feed through coercion. [27]
 - Gain one specialty in either Intimidation(Coercion) or
   Larceny(Security)
 - Gain one dot of
-  <a href="Dominate" class="wikilink" title="Dominate">Dominate</a> or
-  <a href="Potence" class="wikilink" title="Potence">Potence</a>
+  [Dominate](./dominate.md) or
+  [Potence](./potence.md)
 - Spend three dots between the Contacts and Resources Backgrounds
 - Gain the Enemy Flaw (••) The police or a victim who escaped the
   character's extortion and wants revenge
@@ -300,8 +296,8 @@ Manipulation + Insight for moving among miserable mortals. [28]
 - Gain one in specialty either Occult (Grave Rituals) or Medicine
   (Cadavers)
 - Gain one dot of
-  <a href="Fortitude" class="wikilink" title="Fortitude">Fortitude</a>
-  or <a href="Oblivion" class="wikilink" title="Oblivion">Oblivion</a>
+  [Fortitude](./fortitude.md)
+  or [Oblivion](./oblivion.md)
 - Gain the Feeding Merit (•••) Iron Gullet
 - Gain the Haven Advantage (•)
 - Gain the Herd Flaw: (••) Obvious Predator
@@ -322,8 +318,8 @@ other options. [29]
 - Gain one in specialty either Survival (the road) or Investigation
   (vampire cant)
 - Gain one dot of
-  <a href="Fortitude" class="wikilink" title="Fortitude">Fortitude</a>
-  or <a href="Protean" class="wikilink" title="Protean">Protean</a>
+  [Fortitude](./fortitude.md)
+  or [Protean](./protean.md)
 - Gain two additional dots of migrating Herd
 - Gain the Feeding Flaw: Prey Exclusion (locals)
 
@@ -339,12 +335,12 @@ Intelligence + Awareness/Medicine in order to find victims.
 
 - Gain one specialty in either Awareness (Death) or Larceny (Forgery)
 - Gain one dot of
-  <a href="Auspex" class="wikilink" title="Auspex">Auspex</a> or
-  <a href="Oblivion" class="wikilink" title="Oblivion">Oblivion</a>
+  [Auspex](./auspex.md) or
+  [Oblivion](./oblivion.md)
 - Gain one dot of Allies or Influence associated with the medical
   community
 - Gain one dot of
-  <a href="Humanity" class="wikilink" title="Humanity">Humanity</a>
+  [Humanity](./humanity.md)
 - Gain the Feeding Flaw: (•) Prey Exclusion (Healthy Mortals)[30]
 
 ## Montero
@@ -362,11 +358,11 @@ represented by Resolve + Stealth
 - Gain one specialty in either Leadership (Hunting Pack) or Stealth
   (Stakeout)
 - Gain one dot of
-  <a href="Dominate" class="wikilink" title="Dominate">Dominate</a> or
-  <a href="Obfuscate" class="wikilink" title="Obfuscate">Obfuscate</a>
+  [Dominate](./dominate.md) or
+  [Obfuscate](./obfuscate.md)
 - Gain two dots of Retainers
 - Lose one dot of
-  <a href="Humanity" class="wikilink" title="Humanity">Humanity</a>[31]
+  [Humanity](./humanity.md)[31]
 
 ## Pursuer
 
@@ -382,13 +378,13 @@ victims.
 - Gain one specialty in either Investigation (Profiling) or Stealth
   (Shadowing)
 - Gain one dot of
-  <a href="Animalism" class="wikilink" title="Animalism">Animalism</a>
-  or <a href="Auspex" class="wikilink" title="Auspex">Auspex</a>
+  [Animalism](./animalism.md)
+  or [Auspex](./auspex.md)
 - Gain the Merit: (•) Bloodhound
 - Gain one dot of Contacts from the morally flexible inhabitants where
   the vampire primarily hunts.
 - Lose one dot of
-  <a href="Humanity" class="wikilink" title="Humanity">Humanity</a>[32]
+  [Humanity](./humanity.md)[32]
 
 ## Trapdoor
 
@@ -405,8 +401,8 @@ Haven dots is used to navigate the maze of the den itself.
 - Gain one specialty in either Persuasion (Marketing) or Stealth
   (Ambushes or Traps)
 - Gain one dot of
-  <a href="Protean" class="wikilink" title="Protean">Protean</a> or
-  <a href="Obfuscate" class="wikilink" title="Obfuscate">Obfuscate</a>
+  [Protean](./protean.md) or
+  [Obfuscate](./obfuscate.md)
 - Gain one dot of Haven
 - Gain one dot of either Retainers or Herd, or a second Haven dot.
 
@@ -424,8 +420,8 @@ but otherwise the Masquerade is everyone else's problem.
 - Gain one speciality in either Intimidation (Kindred) or Leadership
   (Kindred)
 - Gain one dot of
-  <a href="Dominate" class="wikilink" title="Dominate">Dominate</a> or
-  <a href="Presence" class="wikilink" title="Presence">Presence</a>
+  [Dominate](./dominate.md) or
+  [Presence](./presence.md)
 - Gain three dots of Domain or Status, to represent a large enough
   domain to share or a specific location within the community.
 - Gain a (••) Adversary [34]

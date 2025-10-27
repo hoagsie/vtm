@@ -12,9 +12,9 @@ standards.
 
 ● ● ● ● They can name most of the Antediluvians.
 
-● ● ● ● ● <a href="Tremere" class="wikilink" title="Tremere">Tremere</a>
+● ● ● ● ● [Tremere](./tremere.md)
 and
-<a href="Banu_Haqim" class="wikilink" title="Banu Haqim">Banu Haqim</a>
+[Banu Haqim](./banu.md)
 consult with them for rare lore.[2]
 
 ## Example specs
@@ -25,8 +25,7 @@ Tradition [4]
 
 ## Example pools
 
-- <a href="Intelligence" class="wikilink"
-  title="Intelligence">Intelligence</a> + Occult
+- [Intelligence](./intelligence.md) + Occult
   - Reading a different language version of the
     <a href="Noddist" class="wikilink" title="Book of Nod">Book of Nod</a>
     without losing anything. [5]

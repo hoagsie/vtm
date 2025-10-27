@@ -94,9 +94,9 @@ same action still.
 modern night they now sing his praises. Some claim that it was by his
 will that Christianity rose to its prominence. When the vampire society
 originally split, he was one of the few to not join the
-<a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a>, but join
+[Sabbat](./sabbat.md), but join
 the newly formed
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a> and
+[Camarilla](./camarilla.md) and
 . [7]
 
 **Talley** - The cold, professional hitman and former high ranking
@@ -105,8 +105,7 @@ in Washington DC defending major Lasombra powerbases. Soon the elders of
 the clan approached him with a special job. The brutal Shadow began to
 work on facilitating the Lasombra's entry into the Chicago Camarilla. In
 this efforts, he is said to have defeated Lucita in battle and brought
-her <a href="Final_death" class="wikilink" title="Final Death">Final
-Death</a>. [8]
+her [Final Death](./final_death.md). [8]
 
 **Lucita** **de Aragón** - Lasombra Antitribu, and Archbishop of Madrid
 and follower of the Path of Night, a variant of the Path of Cathari. The
@@ -123,15 +122,14 @@ restraint rather than follow other Lasombra in degeneration, increasing
 her resources and influence. Even while bound to a pack, she still
 showed loyalty to her sire and the Amici Noctis. For this she and her
 brother-in-vitae were eventually selected for the Lasombra delegation to
-<a href="Chicago,_Illinois" class="wikilink" title="Chicago">Chicago</a>
+[Chicago](./chicago_ill.md)
 Camarilla. With this offer on the table she sent her pack on a suicide
 mission so she can be free pursue her new duties as ambassador.[12]
 
 **Malenkov** - Childe of Talley and war hero of the Sabbat for his
 service in the Sect war. A survivalist to the core he had long fought to
 survive and succeed. His years of wars and bloodlust had slide him
-dangerously close to <a href="Humanity#Humanity_0" class="wikilink"
-title="Wassail">Wassail</a> for ages even with the path system. He
+dangerously close to [Wassail](./humanity.md#humanity-0) for ages even with the path system. He
 thought he would meet his end in the Gehenna war, but instead Talley has
 selected him and Sierra, his sister-in-vitae, to act as envoys to the
 Chicago Camarilla.[13]
@@ -159,8 +157,7 @@ The Lasombra most infamous realm of influence is the Church. Many
 younger members may not know or have yet adopted the religious strategy,
 but the Clan of Night’s method is effective. They can’t elect a pope, or
 influence body wide doctrine, but they can access secret
-<a href="Second_Inquisition#The_Vatican" class="wikilink"
-title="Vatican">Vatican</a> files, have religious institutions work as
+[Vatican](./second_inquisition.md#the-vatican) files, have religious institutions work as
 their eyes and ears, or even manipulate a religious body at a regional
 level. This still proves effective in the New World with the dominance
 of the Catholic Church in Central and South America as well as the
@@ -193,7 +190,7 @@ wasn’t just supported by the elders, some of the younger members saw
 this as an opportunity. No longer forced to be Bound to each other and
 some pact priest just to be used solely to fight the crusade. They also
 appreciate the blood tax the Camarilla may call for, the sacrifice of an
-elder <a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a>
+elder [Sabbat](./sabbat.md)
 member.
 
 The Lasombra has made diplomatic meetings all over with Chicago is being
@@ -201,7 +198,7 @@ of the famous ones. The induction of the Keepers is not without a cost,
 some cities call for different stipulations and tributes than others.
 Some domains may call for a moratorium for Lasombra to be able to hold
 titles, limit the number of Keepers,
-<a href="Blood_Bond" class="wikilink" title="Blood Bond">Blood Bond</a>,
+[Blood Bond](./blood_bond.md),
 or even ask for an elder to sacrifice. Of course this differs from
 domain to domain, some Prince in dire straits may be more lenient on
 what they impose as entry fees.
@@ -211,27 +208,26 @@ Shadows are willing to prove their worth as ruthless strategists. In
 domains where they are allowed to hold titles, they have made fast gains
 both by virtue of their need to triumph and by the current state of the
 Camarilla. Clan
-<a href="Tremere" class="wikilink" title="Tremere">Tremere</a>’s
+[Tremere](./tremere.md)’s
 fracturing has offered a break in the Warlock’s influence that the
-<a href="Banu_Haqim" class="wikilink" title="Banu Haqim">Banu Haqim</a>
+[Banu Haqim](./banu.md)
 and Lasombra compete for. In some domains this has become the case as
 Ventrue Princes love to lord over Lasombra, placing them as advisors,
 personal bodyguards, regents, etc. Many Lasombra are happy to take the
 titles given and slowly carve a place for themselves in the sect. This
 act has caused Clan
-<a href="Toreador" class="wikilink" title="Toreador">Toreador</a> much
+[Toreador](./toreador.md) much
 annoyance, being rivals and passed over by newcomers when Roses were
 Camarilla founders.
 
 Plenty members of Clan Lasombra are at war with themselves. Pushing to
 grasp at titles, outmaneuver their foes and succeed. There are parallels
-to the <a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a>,
+to the [Ventrue](./ventrue.md),
 but power is only a byproduct of the Lasombra needing to triumph and be
 on top. Many are aware of how their Blood pushes and the restraint they
 need to exercise. Though they can be feral beasts doing anything to win
 they usually settle to take up a more calculated and safe approach. With
-the nights filled with the <a href="Second_Inquisition" class="wikilink"
-title="Second Inquisition">Second Inquisition</a> surveillance and the
+the nights filled with the [Second Inquisition](./second_inquisition.md) surveillance and the
 Camarilla’s wary eye, they need to adapt to survive.[17]
 
 In coteries, the Lasombra are known to be ruthlessly efficient. They
@@ -253,7 +249,7 @@ keep a wary eye on these Kindred. [18]
 Lasombra’s inner council of vampires chosen from the most capable for
 clan interests above all. Traditionally they are a stabilizing force
 banning in-clan assassination,
-<a href="diablerie" class="wikilink" title="diablerie">diablerie</a>, or
+[diablerie](./diablerie.md), or
 power grabs without them sanctioning such actions. If they are going to
 do it, might as well be productive about it.
 
@@ -270,9 +266,8 @@ unknown, they have made a backroom deal to exclude themselves as
 tributes for entry to the Camarilla.
 
 They are similar to the shadowy
-<a href="Ventrue#The_Directorate" class="wikilink"
-title="Directorate">Directorate</a> of Clan
-<a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a>.[19]
+[Directorate](./ventrue.md#the-directorate) of Clan
+[Ventrue](./ventrue.md).[19]
 
 ### Factional differences
 
@@ -287,7 +282,7 @@ soldier Lasombra adamant that the Sabbat are doomed. Leading to them
 working to advance their place in the Camarilla.
 
 Many Lasombra turn their noses up at the
-<a href="Anarch" class="wikilink" title="Anarchs">Anarchs</a>, they want
+[Anarchs](./anarch.md), they want
 to be free of their elders control but want to rule a hierarchy not get
 rid of it. They would rather throw in the with High Clans than go Anarch
 and “lay with the dogs.” [20]
@@ -302,8 +297,7 @@ Lasombra with disdain and suspicion now.[21][22]
 
 Lasombra characters have special access to the following loresheets:
 
-• <a href="Loresheets#Descendant_of_Montano" class="wikilink"
-title="Descendant of Montano">Descendant of Montano</a>
+• [Descendant of Montano](./loresheets.md#descendant-of-montano)
 
 ## Gallery
 

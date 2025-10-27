@@ -5,12 +5,11 @@ intuition, and focus. [1]
 
 The Mental attributes are as follows:
 
-<a href="Intelligence" class="wikilink"
-title="Intelligence">Intelligence</a>
+[Intelligence](./intelligence.md)
 
-<a href="Wits" class="wikilink" title="Wits">Wits</a>
+[Wits](./wits.md)
 
-<a href="Resolve" class="wikilink" title="Resolve">Resolve</a>
+[Resolve](./resolve.md)
 
 ## Skills
 
@@ -19,24 +18,23 @@ potential intellectual abilities. [2]
 
 The Mental Skills are as follows:
 
-<a href="Academics" class="wikilink" title="Academics">Academics</a>
+[Academics](./academics.md)
 
-<a href="Awareness" class="wikilink" title="Awareness">Awareness</a>
+[Awareness](./awareness.md)
 
-<a href="Finance" class="wikilink" title="Finance">Finance</a>
+[Finance](./finance.md)
 
-<a href="Investigation" class="wikilink"
-title="Investigation">Investigation</a>
+[Investigation](./investigation.md)
 
-<a href="Medicine" class="wikilink" title="Medicine">Medicine</a>
+[Medicine](./medicine.md)
 
-<a href="Occult" class="wikilink" title="Occult">Occult</a>
+[Occult](./occult.md)
 
-<a href="Politics" class="wikilink" title="Politics">Politics</a>
+[Politics](./politics.md)
 
-<a href="Science" class="wikilink" title="Science">Science</a>
+[Science](./science.md)
 
-<a href="Technology" class="wikilink" title="Technology">Technology</a>
+[Technology](./technology.md)
 
 ## References
 

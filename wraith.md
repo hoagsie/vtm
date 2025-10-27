@@ -9,21 +9,17 @@ has
 Spirits hardly show well on camera but can risk the
 <a href="Masquerade" class="wikilink" title="Masquerade">Masquerade</a>
 to those who witness it.
-<a href="Oblivion" class="wikilink" title="Oblivion">Oblivion</a> and
-<a href="Oblivion_Ceremonies" class="wikilink"
-title="Oblivion Ceremonies">Oblivion Ceremonies</a> can be used to
+[Oblivion](./oblivion.md) and
+[Oblivion Ceremonies](./oblivion_ceremonies.md) can be used to
 manipulate and harm ghosts.[1][2][3]
 
 ## In the Underworld
 
 Many dwell in the
-<a href="The_Underworld#The_Shadowlands" class="wikilink"
-title="Shadowlands">Shadowlands</a> unable to interact with the world of
+[Shadowlands](./underworld.md#the-shadowlands) unable to interact with the world of
 the living, but confined to watching. They look at loved ones or hated
-enemies. Use of <a href="Oblivion_Ceremonies" class="wikilink"
-title="Ceremonies">Ceremonies</a> can pull wraiths from across the
-<a href="The_Underworld#The_Shroud" class="wikilink"
-title="Shroud">Shroud</a>. Though those called like this, without
+enemies. Use of [Ceremonies](./oblivion_ceremonies.md) can pull wraiths from across the
+[Shroud](./underworld.md#the-shroud). Though those called like this, without
 Ceremony binding them or a tear in the Shroud, they are pulled back to
 the Underworld after a scene.[4][5]
 
@@ -39,7 +35,7 @@ necropoli. Only those with extremely sophisticated Ceremonies and a
 ghostly sponsor may enter this level. They can be dangerous to
 <a href="Kindred" class="wikilink" title="Kindred">Kindred</a> as they
 can drain a vampire’s
-<a href="Willpower" class="wikilink" title="Willpower">Willpower</a> in
+[Willpower](./willpower.md) in
 the land of the dead and have the Abyss consume them.[7][8]
 
 ## Parts of a Wraith
@@ -48,15 +44,14 @@ the land of the dead and have the Abyss consume them.[7][8]
 
 A fetter can be an object, location, or even people that are important
 to a wraith. It is integral ingredient in many
-<a href="Oblivion_Ceremonies" class="wikilink"
-title="Oblivion Ceremonies">Oblivion Ceremonies</a>, especially if one
+[Oblivion Ceremonies](./oblivion_ceremonies.md), especially if one
 is to simply call a particular wraith.[9]
 
 Knowing a ghost’s fetters enables necromancers to manipulate the dead
 better. Fetters can also be used to enslave ghosts to a necromancer’s
 will through Ceremonies. Those utilized this way have an eternal
 vendetta against such
-<a href="Oblivion" class="wikilink" title="Oblivion">Oblivion</a> users.
+[Oblivion](./oblivion.md) users.
 Harming a fetter in front of a called ghost can can damage it sense of
 being so severely it is sent back to the Underworld and devolves into a
 spectre.[10]
@@ -84,9 +79,8 @@ There are many types of spirits that go beyond this list.[12]
   living in the Skinlands. Very outspoken and hurls self-deprecating
   insults in the Shadowlands.[14]
 - **Puppeteer** - Able to possess mortals similar to
-  <a href="Auspex#Possession" class="wikilink"
-  title="Possession">Possession</a>
-  <a href="Disciplines" class="wikilink" title="Discipline">Discipline</a>
+  [Possession](./auspex.md#possession)
+  [Discipline](./disciplines.md)
   power. In the Shadowlands, they have control issues.[15]
 - **Screamer** - These wraiths are angry manifestations as yells, wails,
   and more in the Skinlands. In the Shadowlands, they are charming
@@ -98,8 +92,7 @@ There are many types of spirits that go beyond this list.[12]
 - **Gede** - Not all loa are ghosts, some ghosts are loa according to
   the Samedi/Nayson San an. A gede is an ancestor spirit the bloodline
   often called on to commune with and even allow a
-  <a href="Oblivion_Ceremonies#Host_Spirit" class="wikilink"
-  title="possession">possession</a>; they prefer usually this over
+  [possession](./oblivion_ceremonies.md#host-spirit); they prefer usually this over
   enslaving ghosts.[19]
 - **Fury** - A usually invisible spirit bound by a sorcerer or
   necromancer to a location. Attacks trespassers after a warning, then

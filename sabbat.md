@@ -28,12 +28,11 @@ it is easy to run into a variety of cainites from faction. [2]
 
 The Sabbat has shrunk in size in recent nights compared to the others.
 Due to the
-<a href="Lasombra" class="wikilink" title="Lasombra">Lasombra</a>
-exodus, the fierce <a href="Second_Inquisition" class="wikilink"
-title="Second Inquisition">Second Inquisition</a> targeting from their
+[Lasombra](./lasombra.md)
+exodus, the fierce [Second Inquisition](./second_inquisition.md) targeting from their
 breaches, the
-<a href="Anarch" class="wikilink" title="Anarchs">Anarchs</a> and
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>
+[Anarchs](./anarch.md) and
+[Camarilla](./camarilla.md)
 willingness to combine efforts against the Sabbat, and with high Final
 Death rate due to the Gehenna War the sects find many sources of peril
 in modern nights. Even then the challenge only enhances their fervor.
@@ -57,16 +56,16 @@ Enlightenment and even the leadership structure and titles.[6]
 Clan is thought to be irrelevant to the Sword of Caine, those are the
 simple names and structures left over by the Antediluvians they want to
 overthrow. The culture hardly acknowledges clans even in the cases of
-<a href="Nosferatu" class="wikilink" title="Nosferatu">Nosferatu</a>.
+[Nosferatu](./nosferatu.md).
 This approach has yielded them to consider their identities in this
 order: vampires, Sabbat, and then their Path. This aids in suppressing
 individualism in the sect and makes them alien to outside Kindred.
 
 When they do need to disclose their clan they always use antitribu at
 the end of clan names, even former Sabbat-dominant clans: Lucita is a
-<a href="Lasombra" class="wikilink" title="Lasombra">Lasombra</a>
+[Lasombra](./lasombra.md)
 antitribu, Sascha Vykos a
-<a href="Tzimisce" class="wikilink" title="Tzimisce">Tzimisce</a>
+[Tzimisce](./tzimisce.md)
 antitribu. Of course they still use enemy and rivals banes to their
 advantage.[7]
 
@@ -189,8 +188,7 @@ looked down upon, but useful.
 
 The Sabbat appeared from the destruction of the (first) Inquisition but
 in ironic fashion took the most casualties as a sect from the
-<a href="Second_Inquisition" class="wikilink"
-title="Second Inquisition">Second Inquisition</a>. Before they were a
+[Second Inquisition](./second_inquisition.md). Before they were a
 recognized sect they were small localized cults that adopted their own
 ways to deal with the beast. Their methods had no sympathy for mortals
 and out of the things that have changed, this has not.
@@ -215,8 +213,8 @@ The control the elders held was broken as the younger vampires broke
 free from their oppressive bonds and created unshakeable bonds of
 loyalty to one another. These actions eventually lead to the rumors of
 antediluvians being destroyed. Notably, it's rumored that the
-<a href="Lasombra" class="wikilink" title="Lasombra">Lasombra</a> and
-<a href="Tzimisce" class="wikilink" title="Tzimisce">Tzimisce</a>
+[Lasombra](./lasombra.md) and
+[Tzimisce](./tzimisce.md)
 antediluvians were the first to go. The prior actions and the
 destruction of ancients elevated the Anarchs to be seen as kinslayers by
 the elders who planned to bring this to an end.
@@ -226,7 +224,7 @@ created a counter-rebellion that brought the Anarch Movement to its
 knees. The conflict ended with the Convention of Thorns in 1493. Where
 the Anarch leaders signed a peace treaty that acknowledged the primacy
 of the Camarilla. However, not all agreed and signed as the next night
-<a href="Anarch" class="wikilink" title="Anarchs">Anarchs</a> raged
+[Anarchs](./anarch.md) raged
 against the city of Silchester in an intentional violation of the
 Masquerade. Those that participated or later joined after hearing about
 the massacre that occurred and rejected the "new" Camarilla were marked
@@ -306,13 +304,11 @@ their own personal gain.
   them.
 
 **Disciplines:**
-<a href="Blood_Sorcery" class="wikilink" title="Blood Sorcery">Blood
-Sorcery</a> and <a href="Blood_Sorcery_Rituals" class="wikilink"
-title="Blood Sorcery Rituals">Blood Sorcery Rituals</a>,
-<a href="Animalism" class="wikilink" title="Animalism">Animalism</a>,
-<a href="Obfuscate" class="wikilink" title="Obfuscate">Obfuscate</a>,
-<a href="Potence" class="wikilink" title="Potence">Potence</a> and
-<a href="Protean" class="wikilink" title="Protean">Protean</a>.[18]
+[Blood Sorcery](./blood_sorcery.md) and [Blood Sorcery Rituals](./blood_sorcery_rituals.md),
+[Animalism](./animalism.md),
+[Obfuscate](./obfuscate.md),
+[Potence](./potence.md) and
+[Protean](./protean.md).[18]
 
 ### The Path of Cathari
 
@@ -337,9 +333,9 @@ the virtuous, or anyone they want, really.
 - Indulge all temptations, give oneself wholly to the beast.
 
 **Disciplines:** Physical disciplines,
-<a href="Auspex" class="wikilink" title="Auspex">Auspex</a>,
-<a href="Obfuscate" class="wikilink" title="Obfuscate">Obfuscate</a> and
-<a href="Presence" class="wikilink" title="Presence">Presence</a>.[19]
+[Auspex](./auspex.md),
+[Obfuscate](./obfuscate.md) and
+[Presence](./presence.md).[19]
 
 ### The Path of Death and the Soul
 
@@ -367,13 +363,11 @@ advantage.
   flower of human life.
 
 **Disciplines:**
-<a href="Oblivion" class="wikilink" title="Oblivion">Oblivion</a> and
-<a href="Oblivion_Ceremonies" class="wikilink"
-title="Ceremonies">Ceremonies</a>,
-<a href="Auspex" class="wikilink" title="Auspex">Auspex</a>,
-<a href="Blood_Sorcery" class="wikilink" title="Blood Sorcery">Blood
-Sorcery</a>, and
-<a href="Dominate" class="wikilink" title="Dominate">Dominate</a>.[20]
+[Oblivion](./oblivion.md) and
+[Ceremonies](./oblivion_ceremonies.md),
+[Auspex](./auspex.md),
+[Blood Sorcery](./blood_sorcery.md), and
+[Dominate](./dominate.md).[20]
 
 ### The Path of Power and the Inner Voice
 

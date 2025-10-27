@@ -18,19 +18,19 @@ many will destroy them if given the opportunity. Thin-bloods can be of
 any mortal origin and are not affected by their sire's bloodline.
 
 In 2009 the Inner Circle of the
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>
+[Camarilla](./camarilla.md)
 issued an edict that all Thin-bloods must be branded. A task
 accomplished by a
-<a href="Tremere" class="wikilink" title="Tremere">Tremere</a> tattoo
+[Tremere](./tremere.md) tattoo
 artist or even scorched into their skin using the sun. Even
-<a href="Anarch" class="wikilink" title="Anarch">Anarch</a> and
+[Anarch](./anarch.md) and
 <a href="Autarkis" class="wikilink" title="Autarkis">Autarkis</a> will
 think twice before mingling with a branded thin-blood. [2]
 
 Through rumors and stories, there are tales of thin-bloods finding a way
 out. Even if they do not age, eventually they must decide to remain
 within the night or adapt to their new lifestyle and remain in the sun.
-<a href="Diablerie" class="wikilink" title="Diablerie">Diablerie</a> is
+[Diablerie](./diablerie.md) is
 the first choice, upon taking the soul of another vampire they join
 their clan and inch closer to Caine. Removing all Thin-blood traits and
 characteristics as they become a fully-fledged vampire. Sometimes this
@@ -55,28 +55,25 @@ succumbing to frenzies and they remain almost lifelike compared to most
 vampires. However, the negatives outweigh the cost. This distance also
 removes their ability to learn and master Disciplines, instead only able
 to utilize them if their Blood flows with the proper
-<a href="Resonance" class="wikilink" title="Resonance">Resonance</a>
+[Resonance](./resonance.md)
 from their last feed. They are also weaker than the average Kindred and
 take damage as if they were still mortal. Due to their Blood Potency of
 0, they cannot create
-<a href="Blood_Bond" class="wikilink" title="Blood Bonds">Blood
-Bonds</a> nor Embrace with any certainty, only able to ghoul a mortal
+[Blood Bonds](./blood_bond.md) nor Embrace with any certainty, only able to ghoul a mortal
 for the duration of one night with enough Blood. [4]
 
 Thin-Bloods, unlike the rest of the clans they do hold a unique trait.
 Known as Thin-blood Merits and Flaws, they can be curated by the player
 to pick and choose different advantages and weaknesses unique to only
 them and create the perfect almost vampire. See
-<a href="Merits_and_Flaws#Thin-Blood" class="wikilink"
-title="Merits and Flaws">Merits and Flaws</a>.
+[Merits and Flaws](./merits_flaws.md#thin-blood).
 
 ## Disciplines
 
 Thin-bloods created the art of thin-blood alchemy, granting them the
 potential to create new and replicate existing Disciplines from vitae
 and other sources. The Merit
-<a href="Merits_and_Flaws#Thin-blood_Alchemist" class="wikilink"
-title="Thin-blood Alchemist">Thin-blood Alchemist</a> can be taken at
+[Thin-blood Alchemist](./merits_flaws.md#thin-blood-alchemist) can be taken at
 Character Creation to begin with level 1 in the Discipline and one
 formulae, however, if it is not taken they can still traverse Alchemy at
 the in-clan experience rate. [5]
@@ -87,8 +84,7 @@ Resonance is Intense or stronger, they gain an additional dot in
 conjunction with a second power. This, however, is only temporary as the
 rating cannot be increased with experience points and is lost upon
 hitting Hunger 5 or the next feeding. With the thin-blood Merit
-<a href="Merits_and_Flaws#Discipline_Affinity" class="wikilink"
-title="Discipline Affinity">Discipline Affinity</a>, they are able to
+[Discipline Affinity](./merits_flaws.md#discipline-affinity), they are able to
 select one Discipline and traverse the tree as if a True Kindred.[6]
 
 - **Thin-blood Alchemy** is created from the thin vitae only thin-bloods
@@ -99,8 +95,7 @@ select one Discipline and traverse the tree as if a True Kindred.[6]
 <section begin=bane/>
 
 Thin-bloods do not suffer from a Bane unless the
-<a href="Merits_and_Flaws#Thin-blood" class="wikilink"
-title="thin-blood Flaw Clan Curse">thin-blood Flaw Clan Curse</a> is
+[thin-blood Flaw Clan Curse](./merits_flaws.md#thin-blood) is
 taken.
 
 <section end=bane/>
@@ -157,8 +152,7 @@ used in formulas to this day
 
 **Alex Simard** - A pawn shop owner, smuggler, and merchant. Alex is
 able to get his hands various items for the Kindred of
-<a href="Montreal,_Canada" class="wikilink"
-title="Montreal">Montreal</a>.[12]
+[Montreal](./montreal_canada.md).[12]
 
 ## Culture
 
@@ -170,11 +164,11 @@ political capital to integrate them within Kindred society.Instead they
 assemble themselves inside a domain, where the degree of organization
 and amount of groups is dictated on local conditions. Nearly all cities
 have at least one thin-blood soviet or gang of self-radicalized
-<a href="Anarch" class="wikilink" title="Anarchs">Anarchs</a>. It's
+[Anarchs](./anarch.md). It's
 possible one may even be recognized by the real Anarch committee in
 town, but they are often isolated both politically and geographically. A
 big city that has a lot of thin-bloods and a powerful
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>
+[Camarilla](./camarilla.md)
 presence influences there to be many different small gangs and groups.
 If the city is smaller with a power vacuum larger networks of Duskborn
 can be created, but they will eventually split into smaller groups after
@@ -222,8 +216,7 @@ sticking to the outskirts of the city, or stick to an unpromising domain
 they have set up in. This means that the Scourge is often the Duskborn's
 contact point for the Camarilla. These enforcers flip flop between being
 threatening and guiding the Duskborn to remain in line with the city's
-<a href="Camarilla#The_Traditions" class="wikilink"
-title="traditions">traditions</a>. At best the Scourge acts as a
+[traditions](./camarilla.md#the-traditions). At best the Scourge acts as a
 reluctant bully, at worst they are a violent butcher looking for an
 excuse to tear them apart.
 
@@ -241,11 +234,9 @@ the chance to join the Camarilla as a full member. [16]
 
 Thin-blood characters have special access to the following loresheets:
 
-• <a href="Loresheets#The_Ashfinders" class="wikilink"
-title="The Ashfinders">The Ashfinders</a>
+• [The Ashfinders](./loresheets.md#the-ashfinders)
 
-• <a href="Loresheets#Student_of_Kirin_Taunk" class="wikilink"
-title="Student of Kirin Taunk">Student of Kirin Taunk</a>
+• [Student of Kirin Taunk](./loresheets.md#student-of-kirin-taunk)
 
 ## Gallery
 

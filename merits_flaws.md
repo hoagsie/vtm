@@ -1,5 +1,5 @@
 For other Advantages see
-<a href="Loresheets" class="wikilink" title="Loresheets">Loresheets</a>
+[Loresheets](./loresheets.md)
 or <a href="Coterie_Backgrounds_and_Merits" class="wikilink"
 title="Coterie Backgrounds and Merits">Coterie Backgrounds and
 Merits</a>.
@@ -757,8 +757,7 @@ damage.</p></td>
 <td id="Horrible Scars of Penitence"><p><strong>Horrible Scars of
 Penitence</strong></p></td>
 <td><p><strong>(•)</strong></p></td>
-<td><p>This flaw is equivalent to <a href="Merits_and_Flaws#Repulsive"
-class="wikilink" title="Repulsive">Repulsive</a> when around those not
+<td><p>This flaw is equivalent to [Repulsive](./merits_flaws.md#repulsive) when around those not
 within the cult.</p></td>
 </tr>
 <tr>
@@ -1354,13 +1353,7 @@ communication.</p></td>
 <td><p><strong>(• - ••)</strong></p></td>
 <td><p>The character experiences the bane of their first domitor, this
 does not change if they get a new domitor. The domitor must be of Clan
-<a href="Lasombra" class="wikilink" title="Lasombra">Lasombra</a>, <a
-href="Malkavian" class="wikilink" title="Malkavian">Malkavian</a>, <a
-href="The_Ministry" class="wikilink" title="Ministry">Ministry</a>, <a
-href="Nosferatu" class="wikilink" title="Nosferatu">Nosferatu</a>, <a
-href="Ravnos" class="wikilink" title="Ravnos">Ravnos</a>, <a
-href="Salubri" class="wikilink" title="Salubri">Salubri</a>, or <a
-href="Toreador" class="wikilink" title="Toreador">Toreador</a>.</p></td>
+[Lasombra](./lasombra.md), [Malkavian](./malkavian.md), [Ministry](./ministry.md), [Nosferatu](./nosferatu.md), [Ravnos](./ravnos.md), [Salubri](./salubri.md), or [Toreador](./toreador.md).</p></td>
 </tr>
 <tr>
 <td id="Unseemly Aura"><p><strong>Unseemly Aura</strong></p></td>
@@ -1407,8 +1400,7 @@ fit within their chronicle.[16]
 <td><p><strong>•</strong></p></td>
 <td><p>The character possesses writings from one of the church's leaders
 or prominent figures. On applicable rolls gain two dice Intelligence
-rolls. As a 1 dot optional flaw that can come with this merit the <a
-href="Willpower" class="wikilink" title="Willpower">Willpower</a> damage
+rolls. As a 1 dot optional flaw that can come with this merit the [Willpower](./willpower.md) damage
 modifier for social combat is increased by 1.</p></td>
 <td id="Excommunicated"><p><strong>Excommunicated</strong></p></td>
 <td><p><strong>(• - ••)</strong></p></td>
@@ -1425,10 +1417,7 @@ penalty to onlookers to resist Social rolls from cult members.</p></td>
 <td><p><strong>(••)</strong></p></td>
 <td><p>Being a member for the benefits instead of being a true believer.
 Lose two dice on rolls pertaining to the Cult from Resolve and Composure
-rolls. Cannot learn any <a href="Blood_Sorcery_Rituals" class="wikilink"
-title="Rituals">Rituals</a>, <a href="Oblivion_Ceremonies"
-class="wikilink" title="Ceremonies">Ceremonies</a>, and <a
-href="Loresheets" class="wikilink" title="Loresheets">Loresheets</a>
+rolls. Cannot learn any [Rituals](./blood_sorcery_rituals.md), [Ceremonies](./oblivion_ceremonies.md), and [Loresheets](./loresheets.md)
 higher than level 2.</p></td>
 </tr>
 <tr>
@@ -1436,8 +1425,7 @@ higher than level 2.</p></td>
 Preacher</strong></p></td>
 <td><p><strong>••</strong></p></td>
 <td><p>Having spread the cult's message where they go, reduce the
-difficulty on rolls to avoid the <a href="Second_Inquisition"
-class="wikilink" title="Second Inquisition">Second Inquisition</a> by
+difficulty on rolls to avoid the [Second Inquisition](./second_inquisition.md) by
 1.</p></td>
 <td style="border:none;"></td>
 <td style="border:none;"></td>
@@ -2050,8 +2038,7 @@ role="doc-noteref"><sup>4</sup></a></p></td>
 <tr>
 <td><p><strong>Furcus</strong></p></td>
 <td><p><strong>• - •••</strong></p></td>
-<td><p>The haven is located on <a href="Blood_craft_scene#Furcus"
-class="wikilink" title="veins of the earth">veins of the earth</a> or a
+<td><p>The haven is located on [veins of the earth](./blood_craft_scene.md#furcus) or a
 frayed spot in the Veil. Each dot in this merit adds one die to Rituals
 or Ceremony dice pools used at the furcus.<a href="#fn5"
 class="footnote-ref" id="fnref5"
@@ -2384,23 +2371,20 @@ the Streets Run Red</a> for Kindred living in smaller towns where a
 storyteller may decide the number of certain backgrounds are limited in
 the smaller populated setting between their vampiric inhabitants. [30]
 
-<a href="Merits_and_Flaws#Contacts" class="wikilink"
-title="Contacts">Contacts</a> - A certain amount may be rewarded freely,
+[Contacts](./merits_flaws.md#contacts) - A certain amount may be rewarded freely,
 but largely the rest are opposed by other Kindred of the domain.
 
-<a href="Merits_and_Flaws#Influence" class="wikilink"
-title="Influence">Influence</a> - Similar Contacts scarcity, but also
+[Influence](./merits_flaws.md#influence) - Similar Contacts scarcity, but also
 attempts to grow Influence comes with the need for defense rolls. Online
 or location-agnostic Influence may not be affected depending on the
 storyteller.
 
-<a href="Merits_and_Flaws#Herd" class="wikilink" title="Herd">Herd</a>
+[Herd](./merits_flaws.md#herd)
 and Feeding - Storytellers may have Herd operate in a limited in size,
 migrating Herds faces a degree of fluctuations, and failed hunts may
 have repercussions for the setting.
 
-<a href="Merits_and_Flaws#Haven" class="wikilink"
-title="Haven">Haven</a> - Kindred struggles in sharing the prime real
+[Haven](./merits_flaws.md#haven) - Kindred struggles in sharing the prime real
 estate in this setting.
 
 ## References

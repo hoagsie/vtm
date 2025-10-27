@@ -19,15 +19,14 @@ using an "X" in each box per point taken.
 - They may use Willpower to reroll up to three dice (the dice cannot be
   Hunger dice) in any pool, except when the rules specifically exclude
   Willpower such as tracker rolls
-  (<a href="Humanity#Remorse" class="wikilink" title="Remorse">Remorse</a>
-  tests, <a href="Frenzy" class="wikilink" title="Frenzy">Frenzy</a>
+  ([Remorse](./humanity.md#remorse)
+  tests, [Frenzy](./frenzy.md)
   tests), or One-Roll Conflict), etc.
 - Willpower may be spent to take control of their character for one turn
   during a frenzy or when under the influence of certain
-  <a href="Disciplines" class="wikilink"
-  title="Disciplines">Disciplines</a>.
+  [Disciplines](./disciplines.md).
 - To perform minor movements, such as movement of a finger while staked.
-- To ignore <a href="Health" class="wikilink" title="Health">Health</a>
+- To ignore [Health](./health.md)
   damage penalties, including Impairment, for one turn.
 
 ### Recovering Superficial Willpower damage
@@ -46,8 +45,8 @@ using an "X" in each box per point taken.
   title="messy critical">messy critical</a>,
   <a href="Hunger_system#Bestial_Failure" class="wikilink"
   title="bestial failure">bestial failure</a>,
-  <a href="Frenzy" class="wikilink" title="frenzy">frenzy</a>, or
-  <a href="Compulsion" class="wikilink" title="Compulsion">Compulsion</a>
+  [frenzy](./frenzy.md), or
+  [Compulsion](./compulsion.md)
   in a dramatic way can recover one or more Superficial Willpower
   damage.
 

@@ -6,17 +6,17 @@ the Shadowlands. But some of the names have specific definitions
 corresponding to different portions to the lands of the dead. The place
 is fraught with dangers as Wraiths can physically attack and drain
 Willpower in these lands, it is hard to feed, and those that
-<a href="torpor" class="wikilink" title="torpor">torpor</a> or lose all
+[torpor](./torpor.md) or lose all
 their
-<a href="Willpower" class="wikilink" title="Willpower">Willpower</a> are
+[Willpower](./willpower.md) are
 devoured by the Abyss. Those in the
-<a href="Hecata" class="wikilink" title="Hecata">Hecata</a> elders in
+[Hecata](./hecata.md) elders in
 the Anziani Council at the Mausoleum of Venice eagerly pursue study of
 the lands of the dead.
-<a href="Lasombra" class="wikilink" title="Lasombra">Lasombra</a>
+[Lasombra](./lasombra.md)
 Abyssal mystics also eagerly study this realm. Both clans are said to
 have some faucet of the Underworld fuel their
-<a href="Oblivion" class="wikilink" title="Oblivion">Oblivion</a>
+[Oblivion](./oblivion.md)
 Discipline.[1][2][3][4][5]
 
 ## Layers
@@ -31,8 +31,7 @@ The land of the living, called the Skinlands. This is where
 
 The Shroud, veil, or sudario is the barrier between the Skinlands and
 the Shadowlands. If a Wraith lacks a power to allow it to cross, then it
-needs a <a href="Oblivion_Ceremonies" class="wikilink"
-title="Ceremony">Ceremony</a> or a tear in the Shroud to do so. When a
+needs a [Ceremony](./oblivion_ceremonies.md) or a tear in the Shroud to do so. When a
 tear is severe, human health suffers and Wraiths may be able to cross.
 The more torn the shroud the more easy it is to do Oblivion
 Ceremonies.[7][8][9][10]
@@ -78,7 +77,7 @@ made of glass and memories.[17][18][19]
 The Abyss is the darkest place beneath and around the Underworld is
 called many names: Oblivion, the Void, or the Labyrinth. It is believed
 this is where the
-<a href="Lasombra" class="wikilink" title="Lasombra">Lasombra</a> gain
+[Lasombra](./lasombra.md) gain
 the power for their mastery over shadows. Many assume to enter Oblivion
 is to be erased from existence.[20][21]
 

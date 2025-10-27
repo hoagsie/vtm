@@ -20,8 +20,7 @@ This is the court before the main events in
 <a href="Vampire:_The_Masquerade_Fall_of_London" class="wikilink"
 title="Vampire: the Masquerade Fall of London">Vampire: the Masquerade
 Fall of London</a>. Before the
-<a href="Second_Inquisition" class="wikilink"
-title="Second Inquisition">Second Inquisition</a> attack in 2012.[3]
+[Second Inquisition](./second_inquisition.md) attack in 2012.[3]
 
 **Prince:** Queen
 <a href="Anne_Bowesley" class="wikilink" title="Anne Bowesley">Anne
@@ -29,7 +28,7 @@ Bowesley</a>, Ventrue, Ruler of London and Avalon[4][5]
 
 **Seneschal:**
 <a href="Valerius" class="wikilink" title="Valerius">Valerius</a>,
-<a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a>, Sire of
+[Ventrue](./ventrue.md), Sire of
 Queen Anne[6][7]
 
 **Primogen:**
@@ -39,17 +38,17 @@ Before the Fall of London, they enjoyed a steady gain of power due to
 swelling kindred numbers in London, much to Queen Anne’s chagrin.[8]
 
 - Reginald Moore,
-  <a href="Brujah" class="wikilink" title="Brujah">Brujah</a>
+  [Brujah](./brujah.md)
 - Madame Rosna,
-  <a href="Malkavian" class="wikilink" title="Malkavian">Malkavian</a>
+  [Malkavian](./malkavian.md)
 - Nicholas,
-  <a href="Nosferatu" class="wikilink" title="Nosferatu">Nosferatu</a>
+  [Nosferatu](./nosferatu.md)
 - Lianna Seabright,
-  <a href="Toreador" class="wikilink" title="Toreador">Toreador</a>
+  [Toreador](./toreador.md)
 - Edward Bainbridge,
-  <a href="Tremere" class="wikilink" title="Tremere">Tremere</a>
+  [Tremere](./tremere.md)
 - Sydney Buckingham,
-  <a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a>
+  [Ventrue](./ventrue.md)
 
 **Herald of London:** Oskar Anasov, Nosferatu[9][10]
 
@@ -66,7 +65,7 @@ Ash</a>[13][14]
 Parr</a>[17][18]
 
 **Sheriff of West London:** Rowena,
-<a href="Gangrel" class="wikilink" title="Gangrel">Gangrel</a>[19][20]
+[Gangrel](./gangrel.md)[19][20]
 
 **Sheriff of South London:** Marcus Kiley†, Brujah[21][22]
 
@@ -81,7 +80,7 @@ London.*
   supports Queen Anna’s claim to London. Her fate in London is currently
   unknown, rumors says she secretly aiding Queen Anne.[25]
 - Hafsa,
-  <a href="Banu_Haqim" class="wikilink" title="Banu Haqim">Banu Haqim</a> -
+  [Banu Haqim](./banu.md) -
   Archon of Juliette Parr. Monitors the Kindred of London. Goes into
   hiding after Fall of London.[26][27]
 - Lady Scarlett Churchill, Ventrue - Childe and mortal descendant of
@@ -102,12 +101,11 @@ London.*
 ### Cult of Mithras
 
 - Mithras, Ventrue - The ancient methuselah center of the
-  <a href="Mithraic_Mysteries" class="wikilink"
-  title="Cult of Mithras">Cult of Mithras</a>' worship. Former Prince
+  [Cult of Mithras](./mithraic_mysteries.md)' worship. Former Prince
   and God-Emperor of London; he’s ruled London since the Londinium days.
   A plot to destroy him led him to barely surviving Valerius’
   assassination attempt, werewolves, and the
-  <a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a> only to be
+  [Sabbat](./sabbat.md) only to be
   accidentally diablerized by Monty Covens. The methuselah survives in a
   weakened state and plots his revenge. He uses Monty's body to get
   allies in the Sabbat.[31][32]
@@ -115,7 +113,7 @@ London.*
   diablerist of Mithras from the Sabbat. Mithras has most control, but
   there are moments his persona can assert dominance.[33]
 - Roger de Camden, Cappadocian - Prince of Edinburgh, member of the
-  <a href="Hecata" class="wikilink" title="Hecata">Hecata</a>, and Pater
+  [Hecata](./hecata.md), and Pater
   of their Cult of Mithras. Formerly advisor and lover to Mithras, seeks
   to aid him in getting revenge. He faked his death to avoid the
   Giovanni purge centuries ago and has the alias “Pater Thomas.” He
@@ -150,12 +148,12 @@ London.*
   Counter-Terrorism Unit (ECTU). His group worked with other London
   groups to plan Operation Antigen which led to the Fall of London to
   the
-  <a href="Second_Inquisition" class="wikilink" title="SI">SI</a>.[41]
+  [SI](./second_inquisition.md).[41]
 
 ### Groups
 
 - Brixton Massive - An
-  <a href="Anarch" class="wikilink" title="Anarch">Anarch</a> group in
+  [Anarch](./anarch.md) group in
   Brixton.[42]
 - Southwark Council - An Anarch Group in South London.[43]
 - Hunt Club - Secret organization who love to hunt  and diablerize
@@ -190,7 +188,7 @@ London.*
   War II. This large shelter is tucked under Chancery Lane station and
   has a secret hotel and meeting venue for visiting kindred diplomats
   and their retainers. It is run by Camarilla-aligned
-  <a href="Lasombra" class="wikilink" title="Lasombra">Lasombra</a>,
+  [Lasombra](./lasombra.md),
   Stephen Lenoir and invite only.[50]
 - The Trunk - A popular LGBTQ+ friendly night club in the Dalton area
   with nightly themes. It is ruled by Reginia Blake, as it resides in
@@ -216,7 +214,7 @@ London.*
 - Roti Mojo - A loud fast food joint in the suburb of Southall, while
   True Kindred would not find it interesting it is a meeting spot for
   London’s
-  <a href="Thin-blood" class="wikilink" title="Duskborn">Duskborn</a>.
+  [Duskborn](./thinblood.md).
   It operates as the thin-bloods unsanctioned, unofficial Elysium.[58]
 
 ### Anarch Locations
@@ -248,13 +246,10 @@ London acts as the central domain of a larger domain made up of
 tributaries. The smaller domains are called baronies, but not in the
 Anarch sense. These are other domains in the UK called the Baronies of
 Avalon. The other cities and Princes in the UK such as Liverpool,
-Manchester, <a href="Edinburgh,_Scotland" class="wikilink"
-title="Edinburgh">Edinburgh</a>, and
-<a href="Birmingham,_England" class="wikilink"
-title="Birmingham">Birmingham</a> pay tribute and defer to London. Once
+Manchester, [Edinburgh](./edinburgh_scotland.md), and
+[Birmingham](./birmingham_uk.md) pay tribute and defer to London. Once
 the London court even stretched power to New England, encompassing
-<a href="Boston,_Massachusetts" class="wikilink"
-title="Boston">Boston</a>.
+[Boston](./boston_mass.md).
 
 In recent nights before 2012, the baronies pushed for more autonomy
 which <a href="Anne_Bowesley" class="wikilink" title="Queen Anne">Queen
@@ -272,9 +267,9 @@ Camden</a> and
 <a href="Mithras" class="wikilink" title="Mithras">Mithras</a> provided.
 
 Because of London's fall,
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>
+[Camarilla](./camarilla.md)
 Barons of Avalon now call themselves Princes and the few
-<a href="Anarch" class="wikilink" title="Anarch">Anarch</a> cities keep
+[Anarch](./anarch.md) cities keep
 the title Baron.[69]
 
 ## Important Events
@@ -289,7 +284,7 @@ became entrenched in London around 313 CE and was able to bring
 followers from Rome to London establishing the most important Mithraic
 cell. He established blood Laws for his domains, something some think
 were appropriate by the
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>
+[Camarilla](./camarilla.md)
 centuries later; other kindred could only stay if they did so under his
 rule. Londinium was ruled with an iron fist and he slowly collected
 Kindred and Kine cultists loyal to him. When the Romans withdrew from
@@ -298,7 +293,7 @@ but fell into torpor. His cult largely ruled in his stead.[71][72]
 
 Mithras awoke again 1066 CE, finding his cult diminished. The following
 years saw London experience the fighting between Mithras’ followers and
-local <a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a>
+local [Ventrue](./ventrue.md)
 lords for dominance. The local lords' grievances and in fighting allowed
 Mithras to get the support of younger kindred and dominate the island.
 More Kindred started to come to London intrigued by Mithras; one
@@ -316,9 +311,9 @@ hold the Giovanni in poor standing forever after.  The two clans that
 often were at odds with London were Toreadors and Tremere. Toreadors
 aligned with Scotland and France  often interpreted that Ventrue
 dominated England’s plots. The
-<a href="Tremere" class="wikilink" title="Tremere">Tremere</a> were a
+[Tremere](./tremere.md) were a
 new clan he disliked that also often sided with the
-<a href="Toreador" class="wikilink" title="Toreador">Toreador</a>. This
+[Toreador](./toreador.md). This
 came to an end in the 17th century when Mithras had the Toreadors elders
 of Scotland sign the Treaty of Durham. The treaty was a pact of mutual
 non-interference which brought an end to the Toreador-led political
@@ -329,7 +324,7 @@ plays against the Ventrue. They traded hostages to seal this treaty.[76]
 In 1798, Mithras left
 <a href="Valerius" class="wikilink" title="Valerius">Valerius</a> as the
 regent of the domain while the methuselah went into
-<a href="Torpor" class="wikilink" title="Torpor">Torpor</a>. He was even
+[Torpor](./torpor.md). He was even
 given the official seal of Mithras for his documents.  Mithras’ absence
 went on longer than his previous one, which made Valerius have to truly
 take control. His childe,
@@ -337,7 +332,7 @@ take control. His childe,
 him with the city plotting to be more influential. Valerius started to
 see Mithras saw the city possessively and made decisions for it to grow
 to prominence. He made concessions to the
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a> in
+[Camarilla](./camarilla.md) in
 exchange for their aid in consolidation of more power in Britain.
 Valerius envisioned making the whole island a single domain with London
 as the heart.
@@ -352,7 +347,7 @@ the city from now on over Valerius.[77][78]
 ### Victorian Era
 
 In the Victorian Era, there was a time when the
-<a href="The_Ministry" class="wikilink" title="Minister">Minister</a>
+[Minister](./ministry.md)
 methuselah and old lover of Mithras, Kemintiri, came to London under the
 Guise of Lady Ophelia Merritt. Her plots allowed her to have Mithras
 fall into madness and corrupt the kindred of London. Mithras temporarily
@@ -371,7 +366,7 @@ city.[79][80][81]
 In the 1940, Valerius realized Pater Thomas was secretly Mithras’ lover.
 Furthermore Mithras’ old spy master, de Worde, revealed Pater Thomas was
 de Camden having cheated death. Valerius and de Worde  took the
-<a href="Hecata" class="wikilink" title="Cappadocian">Cappadocian</a>
+[Cappadocian](./hecata.md)
 hostage to lure Mithras into a trap. They hid the staked de Camden at
 Gunpowder Mills. When Mithras arrived Valerius watched from a safe
 distance as the facility exploded certain of Mithras’ and de Camden’s
@@ -387,7 +382,7 @@ quiet cells were disconnected.[82][83]
 What Valerius didn’t account for was Mithras’ survival. He had enough
 time to free de Camden allowing the Cappadocian to slip into the
 Shadowlands. Mithras couldn’t escape, but his elder
-<a href="Fortitude" class="wikilink" title="Fortitude">Fortitude</a>
+[Fortitude](./fortitude.md)
 saved him from destruction. He fled south to lupine territory where he
 succumbed to his wounds and fell into torpor. De Camden used his
 necromancy to interrogate spirits and confirm Mithras has survived.
@@ -395,7 +390,7 @@ Without allies, cult, or resources and his identity was known, he had to
 bide his time, the Cappadocian laid low for 50 years.[84]
 
 At the turn of the 21st century, de Camden and a
-<a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a> Harbinger,
+[Sabbat](./sabbat.md) Harbinger,
 Alcoan, struck a deal. Her pack would look for Mithras for months
 eventually finding him buried in the earth. She and most of her pack
 died by the Lupines. The survivor, Monty Covens, attempted to diablerize
@@ -416,7 +411,7 @@ London’s Fall started with an attack on the Shard, the Ventrue symbol of
 power in London. Unbeknownst to others, Queen Anne escaped the attack on
 the Shard, rumors swirling that she is hiding to recover power with help
 of Justiciar Parr. Tremere primogen Edward Bainbridge and
-<a href="Brujah" class="wikilink" title="Brujah">Brujah</a> Primogen
+[Brujah](./brujah.md) Primogen
 Reginald Moore have a tenuous alliance between their clans. Other
 kindred call “Landlords” fight over territory from the shadows. The
 throne of London is empty and many kindred have fled the domain. It is
@@ -427,9 +422,8 @@ zone.[86]
 
 Seven years after the fall in 2019, Kindred lives in the domain
 regardless of the rumors, but there are rules they live by now. Many are
-<a href="Thin-blood" class="wikilink"
-title="thin-bloods">thin-bloods</a>, Toreador, and
-<a href="Nosferatu" class="wikilink" title="Nosferatu">Nosferatu</a>,
+[thin-bloods](./thinblood.md), Toreador, and
+[Nosferatu](./nosferatu.md),
 but there are others.  A major meeting with the Landlords of London and
 the King of Shadows lead to the formation of the Compact; rules they
 agreed on how to live in London. Oskar Anasov, former Herald, was

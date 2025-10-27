@@ -19,83 +19,76 @@ honest.
 ## Example pools
 
 - Manipulation +
-  <a href="Etiquette" class="wikilink" title="Etiquette">Etiquette</a>
+  [Etiquette](./etiquette.md)
   - Used in a debate. [3]
   - Gossip and undermine a rival rather than engaging them in public
     display. [4]
-- Manipulation + <a href="Intimidation" class="wikilink"
-  title="Intimidation">Intimidation</a>
+- Manipulation + [Intimidation](./intimidation.md)
   - To give veiled threats. [5]
   - Violent interrogation. [6]
   - Subtle coercion that uses a percieved threat. [7]
 - Manipulation +
-  <a href="Animal_Ken" class="wikilink" title="Animal Ken">Animal Ken</a>
+  [Animal Ken](./animal_ken.md)
   - Distract an animal. [8]
 - Manipulation +
-  <a href="Finance" class="wikilink" title="Finance">Finance</a>
+  [Finance](./finance.md)
   - Convince the the clerk they are a IRS auditor. [9]
 - Manipulation +
-  <a href="Persuasion" class="wikilink" title="Persuasion">Persuasion</a>
+  [Persuasion](./persuasion.md)
   - Whose story will the Prince believe? [10]
   - Convince someone the other person is lying. [11]
   - Taking blood through consent, under the guise of medical work or
     kink.[12]
   - Feeding from a subculture they have high status in. [13]
 - Manipulation +
-  <a href="Insight" class="wikilink" title="Insight">Insight</a>
+  [Insight](./insight.md)
   - Change the
-    <a href="Resonance" class="wikilink" title="Resonance">Resonance</a>
+    [Resonance](./resonance.md)
     of a victim once a month. [14]
 - Manipulation +
-  <a href="Animalism" class="wikilink" title="Animalism">Animalism</a>
+  [Animalism](./animalism.md)
   - Used in Animalism powers such as
-    <a href="Animalism#Feral_Whispers" class="wikilink"
-    title="Feral Whispers">Feral Whispers</a>. [15]
-- Manipulation + <a href="Performance" class="wikilink"
-  title="Performance">Performance</a>
+    [Feral Whispers](./animalism.md#feral-whispers). [15]
+- Manipulation + [Performance](./performance.md)
   - Used to impersonate the victim's manners in
-    <a href="Auspex#Possession" class="wikilink"
-    title="Possession">Possession</a>. [16]
+    [Possession](./auspex.md#possession). [16]
   - Or with
-    <a href="Obfuscate" class="wikilink" title="Obfuscate">Obfuscate</a>
-    <a href="Obfuscate#Imposter&#39;s_Guide" class="wikilink"
-    title="Imposter&#39;s Guide">Imposter's Guide</a>. [17]
+    [Obfuscate](./obfuscate.md)
+    [Imposter's Guide](./obfuscate.md#imposter39s-guide). [17]
 - Manipulation +
-  <a href="Dominate" class="wikilink" title="Dominate">Dominate</a>
+  [Dominate](./dominate.md)
   - Used in Dominate powers such as
-    <a href="Dominate#Mesmerize" class="wikilink"
-    title="Mesmerize">Mesmerize</a>.[18]
+    [Mesmerize](./dominate.md#mesmerize).[18]
 - Manipluation +
-  <a href="Potence" class="wikilink" title="Potence">Potence</a>
+  [Potence](./potence.md)
   - Used in Potence powers such as
-    <a href="Potence#Spark_of_Rage" class="wikilink"
-    title="Spark of Rage">Spark of Rage</a>. [19]
+    [Spark of Rage](./potence.md#spark-of-rage). [19]
 - Manipulation +
-  <a href="Presence" class="wikilink" title="Presence">Presence</a>
+  [Presence](./presence.md)
   - Used in Presence powers such as
-    <a href="Presence#Awe" class="wikilink" title="Awe">Awe</a>. [20]
+    [Awe](./presence.md#awe). [20]
 - Manipulation +
-  <a href="Alchemy" class="wikilink" title="Alchemy">Alchemy</a>
+  [Alchemy](./alchemy.md)
   - Used in the distillation method Calcinatio. [21]
 - Manipulation +
-  <a href="Politics" class="wikilink" title="Politics">Politics</a>
+  [Politics](./politics.md)
   - Convince the city that other designs fit their plans. [22]
 - Manipulation +
-  <a href="Insight" class="wikilink" title="Insight">Insight</a>
+  [Insight](./insight.md)
   - Play on their rival's vanities and desires while involving third
     parties. [23]
   - Peaceful interrogation. [24]
 - Manipulation +
-  <a href="Academics" class="wikilink" title="Academics">Academics</a>
+  [Academics](./academics.md)
   - Don't play chess to win; play to convince the Ventrue that their
     ruthless enough for a promotion.[25]
 - Manipulation +
-  <a href="Subterfuge" class="wikilink" title="Subterfuge">Subterfuge</a>
+  [Subterfuge](./subterfuge.md)
   - Taking blood covertly from their mortal friends and family. [26]
   - Feed from their fans or an adoring crowd.[27]
   - Conning someone or impersonating an official. [28]
 - Manipulation +
-  <a href="Athletics" class="wikilink" title="Athletics">Athletics</a>
+  [Athletics](./athletics.md)
   - Picking someone up at a gym. [29]
 
 ## References

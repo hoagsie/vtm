@@ -3,9 +3,9 @@
 The capital of the German federal state of Bavaria. The city hosts many
 universities, museums, theaters, and centers of industry. The city has
 an agreement between the dominant
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>
-with the <a href="Anarch" class="wikilink" title="Anarchs">Anarchs</a>
-and <a href="Hecata" class="wikilink" title="Hecata">Hecata</a>
+[Camarilla](./camarilla.md)
+with the [Anarchs](./anarch.md)
+and [Hecata](./hecata.md)
 factions.[1]
 
 ## Important People in the City
@@ -16,16 +16,16 @@ The Munich Carmilla is said to not rule through fear, but intelligence
 and practicality.[2]
 
 **Prince:** Ursula Eisenstadt,
-<a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a>
+[Ventrue](./ventrue.md)
 
 **Seneschal:** Mehmet Sumal,
-<a href="Tremere" class="wikilink" title="Tremere">Tremere</a>
+[Tremere](./tremere.md)
 
 **Sheriff:** Gerhard Röhrich,
-<a href="Nosferatu" class="wikilink" title="Nosferatu">Nosferatu</a>
+[Nosferatu](./nosferatu.md)
 
 **Herald:** Pearl,
-<a href="Toreador" class="wikilink" title="Toreador">Toreador</a>
+[Toreador](./toreador.md)
 
 ### Clan of Death
 
@@ -39,26 +39,24 @@ and practicality.[2]
 ### Anarchs
 
 - Dieter Straub -
-  <a href="Gangrel" class="wikilink" title="Gangrel">Gangrel</a>,
+  [Gangrel](./gangrel.md),
   unofficial Baron of the Anarch Movement in Munich. Leader of the the 3
   or 4 Anarch gangs of Munich. Dieter want to expand Anarchs
   influence.[6]
 - Peter Bohn -
-  <a href="Brujah" class="wikilink" title="Brujah">Brujah</a>, wants a
+  [Brujah](./brujah.md), wants a
   good treaty between the Camarilla and Anarchs for peace in Munich.[7]
 
 ### Second Inquisition
 
 Grenzschutzgruppe 10 (GSG 10) - A new Border Guard Group formed for
 Germany. They get secret orders and funding to hunt Kindred within the
-country part of the <a href="Second_Inquisition" class="wikilink"
-title="Second Inquisition">Second Inquisition</a>.[8]
+country part of the [Second Inquisition](./second_inquisition.md).[8]
 
 ### Other notable Kindred
 
 - Terrence Rusk - Ventrue, Perses in the
-  <a href="Mithraic_Mysteries" class="wikilink"
-  title="Cult of Mithras">Cult of Mithras</a>.[9][10]
+  [Cult of Mithras](./mithraic_mysteries.md).[9][10]
 - Anna Fleischer - Ventrue, an investigator in the Cult of Mithras.[11]
 - Mathieu Cassel - French Autark who runs an auction house.[12]
 
@@ -98,7 +96,7 @@ title="Second Inquisition">Second Inquisition</a>.[8]
 In the 13th century Munich was part of the Fiefdoms of the Black Cross,
 ruled by Hardestadt of clan Ventrue. In the following two centuries
 Munich Kindred fought against many enemies: prominent Italian Brujah and
-<a href="Lasombra" class="wikilink" title="Lasombra">Lasombra</a>,
+[Lasombra](./lasombra.md),
 Toreador dominated Courts of Love, and Lupine. After the formation of
 the Camarilla the first Prince of that sect was a Brujah, Jann Berger,
 in the 16th century. Berger was a tyrant and zealot executing or
@@ -111,7 +109,7 @@ who survived many coups.
 
 After the dissolution of the Holy Roman Empire, the Tremere, Felix
 Ritter, served as Prince. Ritter was famed for his successful campaigns
-against the <a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a>.
+against the [Sabbat](./sabbat.md).
 Ritter was callous, but willing to temper his brutality with diplomacy.
 This allowed for a golden age of Camarilla influence in the city and
 many in Ritter’s inner circle saw mobility in the sect. The Conclave of

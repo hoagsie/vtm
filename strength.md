@@ -18,40 +18,36 @@ hit, and how much force they can exert with their body. [1]
 
 - Strength + Strength
   - To lift a heavy beam. [3]
-- Strength + <a href="Brawl" class="wikilink" title="Brawl">Brawl</a>
+- Strength + [Brawl](./brawl.md)
   - Conflict pool for fighting or grappling. [4]
-- Strength + <a href="Melee" class="wikilink" title="Melee">Melee</a>
+- Strength + [Melee](./melee.md)
   - Using a knife or other weapon such as a stake. [5]
 - Strength +
-  <a href="Athletics" class="wikilink" title="Athletics">Athletics</a>
+  [Athletics](./athletics.md)
   - Fleeing to break conflict[6]
   - Throwing heavy things. [7]
 - Strength +
-  <a href="Stamina" class="wikilink" title="Stamina">Stamina</a>
+  [Stamina](./stamina.md)
   - Used by mortals to survive blood loss after a harmful drink. [8]
 - Strength +
-  <a href="Resolve" class="wikilink" title="Resolve">Resolve</a>
+  [Resolve](./resolve.md)
   - A roll made during Diablerie. [9]
 - Strength +
-  <a href="Blood_Sorcery" class="wikilink" title="Blood Sorcery">Blood
-  Sorcery</a>
+  [Blood Sorcery](./blood_sorcery.md)
   - Used by Blood Sorcerers who use powers like
-    <a href="Blood_Sorcery#Scorpion&#39;s_Touch" class="wikilink"
-    title="Scorpion&#39;s Touch">Scorpion's Touch</a> or
-    <a href="Blood_Sorcery#Baal&#39;s_Caress" class="wikilink"
-    title="Baal&#39;s Caress">Baal's Caress</a>. [10]
+    [Scorpion's Touch](./blood_sorcery.md#scorpion39s-touch) or
+    [Baal's Caress](./blood_sorcery.md#baal39s-caress). [10]
 - Strength +
-  <a href="Alchemy" class="wikilink" title="Alchemy">Alchemy</a>
+  [Alchemy](./alchemy.md)
   - Used by alchemists who use powers such as Airborne Momentum. [11]
 - Strength +
-  <a href="Firearms" class="wikilink" title="Firearms">Firearms</a>
+  [Firearms](./firearms.md)
   - For a firearm user who is engaging in close combat. [12]
-- Strength + <a href="Intimidation" class="wikilink"
-  title="Intimidation">Intimidation</a>
+- Strength + [Intimidation](./intimidation.md)
   - Using physical strength to intimidate someone such as crunching a
     trashcan while staring them down. [13]
 - Strength +
-  <a href="Larceny" class="wikilink" title="Larceny">Larceny</a>
+  [Larceny](./larceny.md)
   - To break a lock cleanly. [14]
 
 ## References

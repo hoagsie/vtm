@@ -25,26 +25,24 @@ Graffiti, Personal Rep, Sex Trade, Urban Survival. [3]
 
 ## Example pools
 
-- <a href="Charisma" class="wikilink" title="Charisma">Charisma</a> +
+- [Charisma](./charisma.md) +
   Streetwise
   - To learn more about a new gang in town. [4]
-- <a href="Manipulation" class="wikilink"
-  title="Manipulation">Manipulation</a> + Streetwise
+- [Manipulation](./manipulation.md) + Streetwise
   - A test to determine if they have access to something. [5]
   - Locate someone. [6]
-- <a href="Wits" class="wikilink" title="Wits">Wits</a> + Streetwise
+- [Wits](./wits.md) + Streetwise
   - Find a criminal victim to feed upon via
     <a href="Predator_types#Alleycat" class="wikilink"
     title="Alleycat">Alleycat</a>. [7]
   - Disguising marks as normal graffiti. [8]
   - Shake someone shadowing. [9]
-- <a href="Intelligence" class="wikilink"
-  title="Intelligence">Intelligence</a> + Streetwise
+- [Intelligence](./intelligence.md) + Streetwise
   - Acquire preserved blood instead of hunting, or feed from the dying
     or dead via <a href="Predator_types#Bagger" class="wikilink"
     title="Bagger">Bagger</a>. [10]
   - To spot, recognize or decipher street tags. [11]
-- <a href="Resolve" class="wikilink" title="Resolve">Resolve</a> +
+- [Resolve](./resolve.md) +
   Streetwise
   - For looking for something or someone through legwork. [12]
   - Scrounge for a specific designer drug. [13]

@@ -14,43 +14,38 @@ there are limitations to this power. The power will fail if the victim
 cannot ignore the user such as being backed into a corner or being
 blocked from a doorway they wish to walk through. As well as violent
 actions, loud noises or failed rolls to tamper with items. Without
-<a href="Obfuscate#Ghost_in_the_Machine" class="wikilink"
-title="Ghost in the Machine">Ghost in the Machine</a>, the kindred is
+[Ghost in the Machine](./obfuscate.md#ghost-in-the-machine), the kindred is
 easily recognized by machine surveillance. Users of
-<a href="Auspex#Sense_the_Unseen" class="wikilink"
-title="Sense the Unseen">Sense the Unseen</a>, are able to roll against
+[Sense the Unseen](./auspex.md#sense-the-unseen), are able to roll against
 these powers, as well as those about to be struck by a sneak attack.
 Without the use of
-<a href="Obfuscate#Vanish" class="wikilink" title="Vanish">Vanish</a>,
+[Vanish](./obfuscate.md#vanish),
 users are unable to use Obfuscate while under observation from others.
 [1]
 
 The
-<a href="Banu_Haqim" class="wikilink" title="Banu Haqim">Banu Haqim</a>
+[Banu Haqim](./banu.md)
 stalk prey from the shadows and deliver cloaked judgment to those they
 feel need it.[2] Many forget that the
-<a href="Malkavian" class="wikilink" title="Malkavians">Malkavians</a>
+[Malkavians](./malkavian.md)
 possess this ability and use it in a variety of ways, most notably in
 conjunction with
-<a href="Dominate" class="wikilink" title="Dominate">Dominate</a> to
+[Dominate](./dominate.md) to
 mentally torture their opponents.[3] Meanwhile,
-<a href="The_Ministry" class="wikilink" title="Ministers">Ministers</a>
+[Ministers](./ministry.md)
 use this skill to discover vice or lure victims to a secluded spot and
 use that information against them.
-<a href="Church_of_Set" class="wikilink" title="Setites">Setites</a> use
+[Setites](./church_set.md) use
 obfuscate to mentally tear down opponents known as
-<a href="Obfuscate#Mental_Maze" class="wikilink"
-title="Mental Maze">Mental Maze</a> and
-<a href="Presence#True_Love&#39;s_Face" class="wikilink"
-title="True Love&#39;s Face">True Love's Face</a>.[4] The
-<a href="Nosferatu" class="wikilink" title="Nosferatu">Nosferatu</a> are
+[Mental Maze](./obfuscate.md#mental-maze) and
+[True Love's Face](./presence.md#true-love39s-face).[4] The
+[Nosferatu](./nosferatu.md) are
 most known for mastering this Discipline to remain hidden or disguised
 while collecting information on others, later to be used against them or
 sold to others as boons.[5] Members of the
-<a href="Ravnos" class="wikilink" title="Ravnos">Ravnos</a> clan are
+[Ravnos](./ravnos.md) clan are
 known to utilize this power to conjure illusions called
-<a href="Obfuscate#Chimestry" class="wikilink"
-title="Chimestry">Chimestry</a> to shape reality or strike fear into
+[Chimestry](./obfuscate.md#chimestry) to shape reality or strike fear into
 others.[6]
 
 ## List of available powers
@@ -183,7 +178,7 @@ rouse check.</p></td>
 <td><p>Create brief but realistic hallucinations.</p></td>
 <td data-sort-value="1"><p>One Rouse Check</p></td>
 <td><p>None</p></td>
-<td><p><a href="Presence" class="wikilink" title="Presence">Presence</a>
+<td><p>[Presence](./presence.md)
 ●</p></td>
 <td><p>One turn</p></td>
 <td><p>Manipulation + Obfuscate</p></td>
@@ -202,13 +197,11 @@ title="Players Guide">Players Guide</a>, page 76</p></li>
 <td><p>The user can bestow Obfuscate onto an animal's tracks.</p></td>
 <td data-sort-value="2"><p>One Rouse Check</p></td>
 <td><p>None</p></td>
-<td><p><a href="Animalism" class="wikilink"
-title="Animalism">Animalism</a> ●</p></td>
+<td><p>[Animalism](./animalism.md) ●</p></td>
 <td><p>One session</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
-<td><p><a href="Auspex#Sense_the_Unseen" class="wikilink"
-title="Sense the Unseen">Sense the Unseen</a> can discern signs as per
+<td><p>[Sense the Unseen](./auspex.md#sense-the-unseen) can discern signs as per
 general Obfuscate rules</p></td>
 <td><ul>
 <li><a href="Vampire:_The_Masquerade_Forbidden_Religions"
@@ -239,7 +232,7 @@ title="Corebook">Corebook</a>, page 261</li>
 it.</p></td>
 <td data-sort-value="4"><p>One Rouse Check</p></td>
 <td><p>None</p></td>
-<td><p><a href="Auspex" class="wikilink" title="Auspex">Auspex</a>
+<td><p>[Auspex](./auspex.md)
 ●●</p></td>
 <td><p>One scene </p></td>
 <td><p>Wits + Obfuscate</p></td>
@@ -256,7 +249,7 @@ title="Fall of London">Fall of London</a>, page 31 </li>
 <td><p>Say one thing but convey something else in secret.</p></td>
 <td><p>One Rouse Check</p></td>
 <td><p>None</p></td>
-<td><p><a href="Auspex" class="wikilink" title="Auspex">Auspex</a>
+<td><p>[Auspex](./auspex.md)
 ●</p></td>
 <td><p>One utterance</p></td>
 <td><p>Composure + Obfuscate</p></td>
@@ -306,7 +299,7 @@ class="wikilink" title="Blood Stained Love">Blood Stained Love</a>, page
 <td><p>Elaborate hallucinations.</p></td>
 <td data-sort-value="1"><p>One Rouse Check</p></td>
 <td><p>None</p></td>
-<td><p><a href="Presence" class="wikilink" title="Presence">Presence</a>
+<td><p>[Presence](./presence.md)
 ●●</p></td>
 <td><p>One scene, unless let to lapse</p></td>
 <td><p>Manipulation + Obfuscate</p></td>
@@ -360,9 +353,8 @@ title="Corebook">Corebook</a>, page 262</li>
 <td><p><strong>Mask of Isolation</strong></p></td>
 <td><p>Force Mask of a Thousand Faces onto a victim.</p></td>
 <td data-sort-value="4"><p>One Rouse Check</p></td>
-<td><p><a href="Obfuscate#Mask_of_a_Thousand_Faces" class="wikilink"
-title="Mask of a Thousand Faces">Mask of a Thousand Faces</a></p></td>
-<td><p><a href="Dominate" class="wikilink" title="Dominate">Dominate</a>
+<td><p>[Mask of a Thousand Faces](./obfuscate.md#mask-of-a-thousand-faces)</p></td>
+<td><p>[Dominate](./dominate.md)
 ●</p></td>
 <td><p>One night plus one additional night per margin of
 success</p></td>
@@ -382,7 +374,7 @@ class="wikilink" title="Sabbat">Sabbat</a>, page 48</li>
 location.</p></td>
 <td data-sort-value="5"><p>One or Three Rouse Checks</p></td>
 <td><p>None</p></td>
-<td><p><a href="Dominate" class="wikilink" title="Dominate">Dominate</a>
+<td><p>[Dominate](./dominate.md)
 ●</p></td>
 <td><p>One night</p></td>
 <td><p>Charisma + Obfuscate</p></td>
@@ -403,7 +395,7 @@ title="Players Guide">Players Guide</a>, page 77</p></li>
 read them through supernatural means.</p></td>
 <td><p>One Rouse Check</p></td>
 <td><p>None</p></td>
-<td><p><a href="Dominate" class="wikilink" title="Dominate">Dominate</a>
+<td><p>[Dominate](./dominate.md)
 ●●</p></td>
 <td><p>One scene</p></td>
 <td><p>Intelligence + Obfuscate</p></td>
@@ -421,13 +413,12 @@ title="Players Guide">Players Guide</a>, page 78</li>
 <td><p>Copy appearance and mannerism of a recently dead mortal.</p></td>
 <td><p>One Rouse Check</p></td>
 <td><p>None</p></td>
-<td><p><a href="Oblivion" class="wikilink" title="Oblivion">Oblivion</a>
+<td><p>[Oblivion](./oblivion.md)
 ●</p></td>
 <td><p>Until Dawn</p></td>
 <td><p>Wits + Obfuscate</p></td>
 <td><p>N/A</p></td>
-<td><p>Sense the Unseen (<a href="Auspex" class="wikilink"
-title="Auspex">Auspex</a> 1) can pierce the mask</p></td>
+<td><p>Sense the Unseen ([Auspex](./auspex.md) 1) can pierce the mask</p></td>
 <td><ul>
 <li></li>
 <li><a href="Vampire:_The_Masquerade_Tattered_Facade" class="wikilink"
@@ -472,7 +463,7 @@ title="Tattered Facade">Tattered Facade</a>, page 98-99</li>
 <td><p>Cloak an inanimate object.</p></td>
 <td data-sort-value="1"><p>One Rouse Check</p></td>
 <td><p>None</p></td>
-<td><p><a href="Auspex" class="wikilink" title="Auspex">Auspex</a>
+<td><p>[Auspex](./auspex.md)
 ●●●</p></td>
 <td><p>One night plus one additional night per margin of
 success</p></td>
@@ -491,8 +482,7 @@ title="Corebook">Corebook</a>, page 262</li>
 <td><p>Activate Cloak of Shadows or Unseen Passage while being
 observed.</p></td>
 <td data-sort-value="2"><p>As per power augmented</p></td>
-<td><p><a href="Obfuscate#Cloak_of_Shadows" class="wikilink"
-title="Cloak of Shadows">Cloak of Shadows</a></p></td>
+<td><p>[Cloak of Shadows](./obfuscate.md#cloak-of-shadows)</p></td>
 <td><p>No</p></td>
 <td><p>As per power augmented</p></td>
 <td><p>Wits + Obfuscate</p></td>
@@ -511,7 +501,7 @@ title="Corebook">Corebook</a>, page 262</li>
 unliving.</p></td>
 <td data-sort-value="3"><p>One Rouse check</p></td>
 <td><p>None</p></td>
-<td><p><a href="Dominate" class="wikilink" title="Dominate">Dominate</a>
+<td><p>[Dominate](./dominate.md)
 ●</p></td>
 <td><p>Margin number of scenes or nights, or until broken</p></td>
 <td><p>Manipulation + Obfuscate</p></td>
@@ -579,8 +569,7 @@ title="Corebook">Corebook</a>, page 263</li>
 <td><p><strong>Impostor's Guise</strong></p></td>
 <td><p>Appear as someone else.</p></td>
 <td data-sort-value="2"><p>One Rouse Check</p></td>
-<td><p><a href="Obfuscate#Mask_of_a_Thousand_Faces" class="wikilink"
-title="Mask of a Thousand Faces">Mask of a Thousand Faces</a></p></td>
+<td><p>[Mask of a Thousand Faces](./obfuscate.md#mask-of-a-thousand-faces)</p></td>
 <td><p>No</p></td>
 <td><p>One scene</p></td>
 <td><p>Wits + Obfuscate</p></td>
@@ -630,9 +619,8 @@ Obfuscate;
 <img src="Dominate_symbol.png" title="Dominate_symbol.png" width="42" />
 <figcaption>Dominate_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Dominate#Dementation" class="wikilink"
-title="Dementation"><strong>Dementation</strong></a></p></td>
-<td><p><a href="Dominate" class="wikilink" title="Dominate">Dominate</a>
+<td><p>[<strong>Dementation</strong>](./dominate.md#dementation)</p></td>
+<td><p>[Dominate](./dominate.md)
 ●●</p></td>
 <td data-sort-value="1"><p>●●</p></td>
 <td><p>Drive others insane</p></td>
@@ -650,10 +638,8 @@ title="Corebook">Corebook</a>, page 255</li>
 width="42" />
 <figcaption>Animalism_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Animalism#Unliving_Hive" class="wikilink"
-title="Unliving Hive"><strong>Unliving Hive</strong></a></p></td>
-<td><p><a href="Animalism" class="wikilink"
-title="Animalism">Animalism</a> ●●●</p></td>
+<td><p>[<strong>Unliving Hive</strong>](./animalism.md#unliving-hive)</p></td>
+<td><p>[Animalism](./animalism.md) ●●●</p></td>
 <td data-sort-value="2"><p>●●</p></td>
 <td><p>Extend animal influence to swarms of insects</p></td>
 <td><p>Free</p></td>
@@ -669,10 +655,8 @@ title="Corebook">Corebook</a>, page 246</li>
 <img src="Presence_symbol.png" title="Presence_symbol.png" width="42" />
 <figcaption>Presence_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Presence#True_Love&#39;s_Face" class="wikilink"
-title="True Love&#39;s Face"><strong>True Love's
-Face</strong></a></p></td>
-<td><p><a href="Presence" class="wikilink" title="Presence">Presence</a>
+<td><p>[<strong>True Love's Face</strong>](./presence.md#true-love39s-face)</p></td>
+<td><p>[Presence](./presence.md)
 ●●●</p></td>
 <td data-sort-value="3"><p>●●●</p></td>
 <td><p>The victim will perceive the user as a mortal they have strong
@@ -691,9 +675,8 @@ Gods</a>, page 85</li>
 <img src="Celerity_symbol.png" title="Celerity_symbol.png" width="42" />
 <figcaption>Celerity_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Celerity#Unseen_Strike" class="wikilink"
-title="Unseen Strike"><strong>Unseen Strike</strong></a></p></td>
-<td><p><a href="Celerity" class="wikilink" title="Celerity">Celerity</a>
+<td><p>[<strong>Unseen Strike</strong>](./celerity.md#unseen-strike)</p></td>
+<td><p>[Celerity](./celerity.md)
 ●●●●</p></td>
 <td data-sort-value="1"><p>●●●●</p></td>
 <td><p>Vanish, blink forwards, and surprise attack an enemy.</p></td>

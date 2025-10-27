@@ -22,35 +22,33 @@ Seduction,[3] Coverups, [4] Seduction [5]
 
 ## Example pools
 
-- <a href="Dexterity" class="wikilink" title="Dexterity">Dexterity</a> +
+- [Dexterity](./dexterity.md) +
   Subterfuge
   - Distract someone to not notice a knife. [6]
-- <a href="Composure" class="wikilink" title="Composure">Composure</a> +
+- [Composure](./composure.md) +
   Subterfuge
   - Used to resist powers in
-    <a href="Animalism" class="wikilink" title="Animalism">Animalism</a>
+    [Animalism](./animalism.md)
     such as Sense the Beast [7]
   - Used to resist powers in
-    <a href="Auspex" class="wikilink" title="Auspex">Auspex</a> such as
+    [Auspex](./auspex.md) such as
     Scry the Soul. [8]
   - Faking a direct sip during a
-    <a href="Blood_Bond" class="wikilink" title="Blood Bond">Blood Bond</a>.
+    [Blood Bond](./blood_bond.md).
     [9]
-- <a href="Wits" class="wikilink" title="Wits">Wits</a> + Subterfuge
+- [Wits](./wits.md) + Subterfuge
   - Used to resist powers in
-    <a href="Auspex" class="wikilink" title="Auspex">Auspex</a> such as
+    [Auspex](./auspex.md) such as
     Telepathy. [10]
   - Used to resist powers in
-    <a href="Blood_Sorcery" class="wikilink" title="Blood Sorcery">Blood
-    Sorcery</a> such as Extinguish Vitae. [11]
+    [Blood Sorcery](./blood_sorcery.md) such as Extinguish Vitae. [11]
   - Picking up someone at a coffee shop. [12]
-- <a href="Charisma" class="wikilink" title="Charisma">Charisma</a> +
+- [Charisma](./charisma.md) +
   Subterfuge
   - Convince another into a Blood Bond. [13]
   - Feeding from the guise of sex. [14]
   - Fast talking. [15]
-- <a href="Manipulation" class="wikilink"
-  title="Manipulation">Manipulation</a> + Subterfuge
+- [Manipulation](./manipulation.md) + Subterfuge
   - Feeding from their mortal friends and family via
     <a href="Predator_types#Cleaver" class="wikilink"
     title="Cleaver">Cleaver</a>. [16]

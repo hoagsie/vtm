@@ -7,11 +7,11 @@ Kindred may in fact be a brutal and unstoppable force. [1]
 
 The Physical attributes are as follows:
 
-<a href="Strength" class="wikilink" title="Strength">Strength</a>
+[Strength](./strength.md)
 
-<a href="Dexterity" class="wikilink" title="Dexterity">Dexterity</a>
+[Dexterity](./dexterity.md)
 
-<a href="Stamina" class="wikilink" title="Stamina">Stamina</a>
+[Stamina](./stamina.md)
 
 ## Skills
 
@@ -20,23 +20,23 @@ aptitude, or physical effort. [2]
 
 The physical Skills are as follows:
 
-<a href="Athletics" class="wikilink" title="Athletics">Athletics</a>
+[Athletics](./athletics.md)
 
-<a href="Brawl" class="wikilink" title="Brawl">Brawl</a>
+[Brawl](./brawl.md)
 
-<a href="Craft" class="wikilink" title="Craft">Craft</a>
+[Craft](./craft.md)
 
-<a href="Drive" class="wikilink" title="Drive">Drive</a>
+[Drive](./drive.md)
 
-<a href="Firearms" class="wikilink" title="Firearms">Firearms</a>
+[Firearms](./firearms.md)
 
-<a href="Larceny" class="wikilink" title="Larceny">Larceny</a>
+[Larceny](./larceny.md)
 
-<a href="Melee" class="wikilink" title="Melee">Melee</a>
+[Melee](./melee.md)
 
-<a href="Stealth" class="wikilink" title="Stealth">Stealth</a>
+[Stealth](./stealth.md)
 
-<a href="Survival" class="wikilink" title="Survival">Survival</a>
+[Survival](./survival.md)
 
 ## References
 

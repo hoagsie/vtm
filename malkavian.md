@@ -76,7 +76,7 @@ penalty.
 extrasensory perception of the truths. For one scene, the Malkavian
 suffers a 2 dice penalty to rolls involving Dexterity, Manipulation,
 Composure, and Wits. As well as rolls to resist terror
-<a href="Frenzy" class="wikilink" title="Frenzy">Frenzy</a>.
+[Frenzy](./frenzy.md).
 
 <section end="compulsion" />
 
@@ -123,8 +123,7 @@ friend and became part of the Vamily in
 Night</a>. Though he may have more going on than meets the eye as he
 works under the Baron of Santa Monica, Therese Voerman.
 
-**Leysha** - Resides in <a href="Boston,_Massachusetts" class="wikilink"
-title="Boston, Massachusetts">Boston, Massachusetts</a> with powerful
+**Leysha** - Resides in [Boston, Massachusetts](./boston_mass.md) with powerful
 precognitive and investigative abilities utilized by the Boston Court.
 Much of her past is unknown other than her being from Lyon, France and
 saved by her sire. Due to her gifts and importance, she experienced a
@@ -135,7 +134,7 @@ Swansong</a>.[10]
 
 **Juliet Parr -** Current Malkavian Justicar, hailing from London as
 former Sheriff of North
-<a href="London,_UK" class="wikilink" title="London">London</a>. She has
+[London](./london_uk.md). She has
 the power to investigate and apprehend enemies of the Tower. She uses
 her skill in interrogation and near obsessive fixation on details to her
 advantage. She attempts to aid
@@ -200,8 +199,8 @@ reason though some find it a chance to learn unseeable truths. The clan
 has been known to make discoveries of Vitae and blood. Experiments on
 their own clan lead to discoveries of mystical properties conferred to
 Kindred by resonances of the blood. This discovery still frustrates the
-<a href="Tremere" class="wikilink" title="Tremere">Tremere</a>.
-<a href="Nosferatu" class="wikilink" title="Nosferatu">Nosferatu</a>
+[Tremere](./tremere.md).
+[Nosferatu](./nosferatu.md)
 sometimes act as shepherd for Malkavians being two groups often looked
 down on in the Kindred world.[17] For this reason coteries are often
 seen as a chance to interact and break out of their social struggles due
@@ -213,8 +212,7 @@ fledgling Oracles.[18]
 
 It is said the Children of Malkav are all connected to one another in
 what is called the
-<a href="Loresheets#Chicago_by_Night_Loresheets" class="wikilink"
-title="Cobweb">Cobweb</a> or Madness Network. They are never really
+[Cobweb](./loresheets.md#chicago-by-night-loresheets) or Madness Network. They are never really
 alone as their minds are psychically connected to each other’s mind. To
 some it may be hardly noticeable, but for others it is like having a
 second mind running in the background of their mind. Most can ignore it
@@ -244,21 +242,16 @@ off bravely where their clan fears to tread.
 
 Malkavian characters have special access to the following loresheets:
 
-• <a href="Loresheets#Descendant_of_Vasantasena" class="wikilink"
-title="Descendant of Vasantasena">Descendant of Vasantasena</a>
+• [Descendant of Vasantasena](./loresheets.md#descendant-of-vasantasena)
 
 •
-<a href="Loresheets#The_Cobweb" class="wikilink" title="The Cobweb">The
-Cobweb</a>
+[The Cobweb](./loresheets.md#the-cobweb)
 
-• <a href="Loresheets#Malkavian_Family" class="wikilink"
-title="Malkavian Family">Malkavian Family</a>
+• [Malkavian Family](./loresheets.md#malkavian-family)
 
-• <a href="Loresheets#Starfall_Ranch" class="wikilink"
-title="Starfall Ranch">Starfall Ranch</a>
+• [Starfall Ranch](./loresheets.md#starfall-ranch)
 
-• <a href="Loresheets#Descendant_of_the_Ankou" class="wikilink"
-title="Descendant of the Ankou">Descendant of the Ankou</a>
+• [Descendant of the Ankou](./loresheets.md#descendant-of-the-ankou)
 
 ## Gallery
 

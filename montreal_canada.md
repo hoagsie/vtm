@@ -3,11 +3,10 @@
 <section begin="summary" />
 
 Montreal is a former
-<a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a> spiritual
+[Sabbat](./sabbat.md) spiritual
 capital in the Quebec province of Canada. The Sabbat's rule was
-violently ended by the <a href="Second_Inquisition" class="wikilink"
-title="Second Inquisition">Second Inquisition</a>. Now the
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a> has
+violently ended by the [Second Inquisition](./second_inquisition.md). Now the
+[Camarilla](./camarilla.md) has
 moved in and established a new order in the city. Montreal is known as
 the “City of Thousand Steeples” and “City of Saints” as well as having a
 strong French influence.
@@ -23,83 +22,82 @@ strong French influence.
 (Before the events of VTM Chapters)
 
 **Prince:** Martin Hilkers,
-<a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a>
+[Ventrue](./ventrue.md)
 
 **Lieutenant:** Carl Johnson,
-<a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a>
+[Ventrue](./ventrue.md)
 
 **Sheriff:** Caleb Duval,
-<a href="Nosferatu" class="wikilink" title="Nosferatu">Nosferatu</a>
+[Nosferatu](./nosferatu.md)
 
 **Herald of the City:** Betty Duhamel,
-<a href="Toreador" class="wikilink" title="Toreador">Toreador</a>
+[Toreador](./toreador.md)
 
 **Quartermaster:** Jimmy Smythe,
-<a href="Nosferatu" class="wikilink" title="Nosferatu">Nosferatu</a>
+[Nosferatu](./nosferatu.md)
 
 **Known Hounds**
 
-- Sid, <a href="Tremere" class="wikilink" title="Tremere">Tremere</a>
+- Sid, [Tremere](./tremere.md)
 - Sylvester
 
 **Known Primogen**
 
 - Valois Sang,
-  <a href="Tremere" class="wikilink" title="Tremere">Tremere</a>
+  [Tremere](./tremere.md)
 
 ### Anarchs
 
 - Yuma McKinzie,
-  <a href="Gangrel" class="wikilink" title="Gangrel">Gangrel</a> - local
+  [Gangrel](./gangrel.md) - local
   leader
 - Melkiah,
-  <a href="Gangrel" class="wikilink" title="Gangrel">Gangrel</a>
+  [Gangrel](./gangrel.md)
 
 ### Other Notable Kindred
 
 - <a href="Thomas_Chartrand" class="wikilink"
   title="Thomas Chartrand">Thomas Chartrand</a>,
-  <a href="Brujah" class="wikilink" title="Brujah">Brujah</a>
+  [Brujah](./brujah.md)
 - <a href="Aren_Konway" class="wikilink" title="Aren Konway">Aren
   Konway</a>,
-  <a href="Gangrel" class="wikilink" title="Gangrel">Gangrel</a>
+  [Gangrel](./gangrel.md)
 - <a href="Harold_Beaulieu" class="wikilink"
   title="Harold Beaulieu">Harold Beaulieu</a>,
-  <a href="Malkavian" class="wikilink" title="Malkavian">Malkavian</a>
+  [Malkavian](./malkavian.md)
 - <a href="Lucianna_Ricci" class="wikilink"
   title="Lucianna Ricci">Lucianna Ricci</a>,
-  <a href="Nosferatu" class="wikilink" title="Nosferatu">Nosferatu</a>
+  [Nosferatu](./nosferatu.md)
 - <a href="Nico_Miller" class="wikilink" title="Nico Miller">Nico
   Miller</a>,
-  <a href="Toreador" class="wikilink" title="Toreador">Toreador</a>
+  [Toreador](./toreador.md)
 - <a href="Jade_Linh-Duplessis" class="wikilink"
   title="Jade Linh-Duplessis">Jade Linh-Duplessis</a>,
-  <a href="Tremere" class="wikilink" title="Tremere">Tremere</a>
+  [Tremere](./tremere.md)
 - <a href="Samuel_Armstrong" class="wikilink"
   title="Samuel Armstrong">Samuel Armstrong</a>,
-  <a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a>
+  [Ventrue](./ventrue.md)
 - <a href="Gabe_Tremblay" class="wikilink" title="Gabe Tremblay">Gabe
   Tremblay</a>,
-  <a href="Caitiff" class="wikilink" title="Caitiff">Caitiff</a>
+  [Caitiff](./caitiff.md)
 
 <!-- -->
 
 - <a href="Aaron_Wissal" class="wikilink" title="Aaron Wissal">Aaron
   Wissal</a>,
-  <a href="Banu_Haqim" class="wikilink" title="Banu Haqim">Banu Haqim</a>
+  [Banu Haqim](./banu.md)
 - <a href="Aurora_Rosselini" class="wikilink"
   title="Aurora Rosselini">Aurora Rosselini</a>,
-  <a href="Hecata" class="wikilink" title="Hecata">Hecata</a>
+  [Hecata](./hecata.md)
 - <a href="Edward_Harvey" class="wikilink" title="Edward Harvey">Edward
   Harvey</a>,
-  <a href="Lasombra" class="wikilink" title="Lasombra">Lasombra</a>
+  [Lasombra](./lasombra.md)
 - <a href="Melissa_Santos" class="wikilink" title="Melissa Santos">Melissa
   Santos</a>,
-  <a href="The_Ministry" class="wikilink" title="The Ministry">The
-  Ministry</a>
+  [The Ministry](./ministry.md)
 - <a href="Alex_Simard" class="wikilink" title="Alex Simard">Alex
   Simard</a>,
-  <a href="Thin-blood" class="wikilink" title="Thin-blood">Thin-blood</a>
+  [Thin-blood](./thinblood.md)
 
 ## Prominent Locations
 
@@ -109,13 +107,13 @@ strong French influence.
   under duress under order of Cardinal Kyle Strathcona. The temple
   venerated Strathcona and holds the last screams of those kine
   eternally immured in the walls. It was a pseudo-Elysium for the
-  <a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a>. Buried
+  [Sabbat](./sabbat.md). Buried
   after Night of Ashes.[4]
 - La Jungle - also called “the Jungle, is a private casino where
   Montreal’s Kindred so often prefer to meet. The casino is based on the
   one built by <a href="Francois_Villon" class="wikilink"
   title="François Villon">François Villon</a>, called La Jardin, in
-  <a href="Paris,_France" class="wikilink" title="Paris">Paris</a>.[5]
+  [Paris](./paris_france.md).[5]
 - Redpath Museum - A museum in downtown Montreal.[6]
 - The Hollow - A subterranean cathedral with pane glass. Sometimes it is
   utilized as an Elysium, but many times as an arena. Accessible by a
@@ -141,16 +139,16 @@ Kindred were already in Quebec, back when it was called New France. In
 1763, a year after control of New France was handed over from France to
 England, Kyle Strathcona arrived in the city. Strathcona had already
 garnered a reputation that was feared in both
-<a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a> and
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>
+[Sabbat](./sabbat.md) and
+[Camarilla](./camarilla.md)
 circles from his status as a
-<a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a> war hero.
+[Ventrue](./ventrue.md) war hero.
 After his arrival he dissolved the Montreal Primogen council and placed
 himself as the dictator of Montreal. Other Camarilla members disliked
 this act and made a move to dispose of the Ventrue tyrant.
 
 Strathcona was victorious, able to destroy or committed
-<a href="diablerie" class="wikilink" title="diablerie">diablerie</a> on
+[diablerie](./diablerie.md) on
 those that stood against him. Those that survived fled to Quebec City.
 He revealed his Sabbat leanings, always preferring their ideology.
 Montreal changed hands to the Sabbat with him as the Archbishop. He
@@ -186,8 +184,7 @@ attacked by the Second Inquisition. A mix of hunter cells and FIRSTLIGHT
 were able to systematically burn out the havens of Sabbat packs. Those
 that survived either hid or were forewarned of such an attack. The
 Cardinal Kyle Strathcona was said to have met
-<a href="Final_death" class="wikilink" title="Final Death">Final
-Death</a>.[18][19]
+[Final Death](./final_death.md).[18][19]
 
 Unbeknownst to many, the Night of Ashes was orchestrated by
 <a href="Francois_Villon" class="wikilink"
@@ -205,17 +202,17 @@ installed as Prince with <a href="Francois_Villon" class="wikilink"
 title="François Villon">François Villon</a> as his backer. Though some
 say Prince Hilkers is nothing more than a puppet. While the Camarilla
 controlled most of Montreal there is an
-<a href="Anarch" class="wikilink" title="Anarch">Anarch</a> presence led
+[Anarch](./anarch.md) presence led
 by Yuma McKinzie, former Sabbat
-<a href="Gangrel" class="wikilink" title="Gangrel">Gangrel</a>. The two
+[Gangrel](./gangrel.md). The two
 sects are tense, but not at war. The
-<a href="Hecata" class="wikilink" title="Hecata">Hecata</a> wait in the
+[Hecata](./hecata.md) wait in the
 wings seeing which side is most advantageous.[21][22]
 
 ### Events of Vampire: The Masquerade Chapters
 
 Kindred of Clan
-<a href="Toreador" class="wikilink" title="Toreador">Toreador</a> begin
+[Toreador](./toreador.md) begin
 to disappear around Montreal and there is the appearance of a suspicious
 white van. Taking a more than a week to follower up, Prince Hilkers
 finally assembles a team of neonates to investigate these
@@ -226,7 +223,7 @@ fragment on their person. They compete with the Sabbat priest to acquire
 the rest of these key fragments. The race became more dire when Elysium
 was defiled with the decaying body of a missing Toreador, falling victim
 to
-<a href="Diablerie" class="wikilink" title="Diablerie">Diablerie</a>.[23][24][25]
+[Diablerie](./diablerie.md).[23][24][25]
 
 The investigation turns to collecting the key fragments. These nights
 include a heist of the Redpath Museum for a fragment and a trip to the
@@ -237,7 +234,7 @@ enlisted <a href="Aurora_Rosselini" class="wikilink"
 title="Aurora Rosselini">Aurora Rosselini</a> and
 <a href="Edward_Harvey" class="wikilink" title="Edward Harvey">Edward
 Harvey</a> to stop a possible massive breach with their
-<a href="Oblivion" class="wikilink" title="Oblivion">Oblivion</a>
+[Oblivion](./oblivion.md)
 powers.[26]
 
 The key fragments all align and reveal that Mary, Queen of the World is
@@ -254,7 +251,7 @@ locked in the depths. The rescue of Dumas is never reported, in fact the
 attack on the hunters was blamed on the coterie for needlessly attacking
 hunters. The Montreal coterie is marked by the Montreal Camarilla as
 person non grata by Caleb and told to leave. The group goes to the
-<a href="Anarch" class="wikilink" title="Anarchs">Anarchs</a> for
+[Anarchs](./anarch.md) for
 sanctuary.[27][28]
 
 The coterie breaks into the Ivory Tower city headquarters in an attempt
@@ -264,7 +261,7 @@ Hunt is called on the coterie. The coterie has to avoid being destroyed
 and try to once again negotiate asylum with the Anarchs. François Villon
 is said to be visiting town. The coterie is able to have a clandestine
 meeting with the Prince of
-<a href="Paris,_France" class="wikilink" title="Paris">Paris</a> and
+[Paris](./paris_france.md) and
 Caleb for a final confrontation and resolution. The nature of the
 meeting shapes Montreal.[29][30]
 

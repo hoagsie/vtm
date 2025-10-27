@@ -5,13 +5,13 @@
 A city on the edge of Lake Michigan, to Kindred it is known as a
 Orwellian Domain, claimed to be a necessary evil to keep
 <a href="Lupine" class="wikilink" title="Lupines">Lupines</a>, fanatical
-<a href="Anarch" class="wikilink" title="Anarchs">Anarchs</a>, and
-<a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a> from the
+[Anarchs](./anarch.md), and
+[Sabbat](./sabbat.md) from the
 domain. Its proximity to
-<a href="Chicago,_Illinois" class="wikilink" title="Chicago">Chicago</a>
+[Chicago](./chicago_ill.md)
 and distaste for Anarchs have made it an important city for the
 Camarilla. It is strongly a
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>
+[Camarilla](./camarilla.md)
 city.
 
 <section end=summary/>
@@ -21,7 +21,7 @@ city.
 ## Notable Kindred of the City
 
 **Prince:** Mark Decker,
-<a href="Gangrel" class="wikilink" title="Gangrel">Gangrel</a> [3][4]
+[Gangrel](./gangrel.md) [3][4]
 
 **Primogen:** Disbanded by Decker
 
@@ -29,11 +29,11 @@ city.
 also peacekeepers.
 
 - Hrothulf,
-  <a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a> [5]
+  [Ventrue](./ventrue.md) [5]
 - Rubianna,
-  <a href="Nosferatu" class="wikilink" title="Nosferatu">Nosferatu</a>
+  [Nosferatu](./nosferatu.md)
   [6]
-- Akawa, <a href="Brujah" class="wikilink" title="Brujah">Brujah</a> [7]
+- Akawa, [Brujah](./brujah.md) [7]
 - Thomas Gerhieren, Gangrel [8]
 - Julia Calvin, Gangrel [9]
 
@@ -42,7 +42,7 @@ positions, with the Prince as the third Judge.
 
 - Anastasia, Nosferatu [10]
 - Arjun Shah,
-  <a href="Banu_Haqim" class="wikilink" title="Banu Haqim">Banu Haqim</a>
+  [Banu Haqim](./banu.md)
   [11]
 
 **Executioner:** Unknown, kept secret under pain of final death. They
@@ -51,10 +51,10 @@ enforce sentences of the Judges. [12]
 **Harpies:**
 
 - J.W. Blue,
-  <a href="Caitiff" class="wikilink" title="Caitiff">Caitiff</a>
+  [Caitiff](./caitiff.md)
   [13][14][15]
 - Barth,
-  <a href="Toreador" class="wikilink" title="Toreador">Toreador</a> [16]
+  [Toreador](./toreador.md) [16]
 
 ## Notable Kindred
 
@@ -63,27 +63,25 @@ enforce sentences of the Judges. [12]
 - Honor Mercer, Gangrel - Decker’s youngest childe who fled her tyrant
   sire for the Anarchs. [19][20]
 - Tessa Greene,
-  <a href="Tremere" class="wikilink" title="Tremere">Tremere</a> -
+  [Tremere](./tremere.md) -
   Carna’s childe whom Carna
-  <a href="Blood_Bond" class="wikilink" title="bonded">bonded</a> and
+  [bonded](./blood_bond.md) and
   manipulated for years, then abandoned. Tessa has sharp enough occult
   knowledge to decipher Book of the Grave-War out of spite, and yearns
   to learn more
-  <a href="Blood_Sorcery" class="wikilink" title="Blood Sorcery">Blood
-  Sorcery</a>. [21][22]
+  [Blood Sorcery](./blood_sorcery.md). [21][22]
 - Dr. Mortius, Tremere - Survived Carna’s rebellion and Vienna’s Fall.
   Thought dead, he broke off joining House Ipsissimus, focusing on being
   a contributor to a cult, the Ashfinders. [23][24]
 - Mike Rancher - A former
-  <a href="Mortals_and_ghouls" class="wikilink" title="ghoul">ghoul</a>
+  [ghoul](./mortals_ghouls.md)
   of Hrothulf, but freed when the ancient Ventrue grew bored. Mike now
   works at helping Kindred travel across the country in exchange for
   vitae. Especially valuable in Milwaukee. [25]
 
 ## Important groups
 
-<a href="Mithraic_Mysteries" class="wikilink"
-title="Cult of Mithras">Cult of Mithras</a> - With Arjun at the helm as
+[Cult of Mithras](./mithraic_mysteries.md) - With Arjun at the helm as
 Pater, he seeks to induct the Anubi into the cult and courts Prince
 Decker’s favor. &lt;ref
 name"CF97"&gt;<a href="Vampire:_The_Masquerade_Chicago_Folios" class="wikilink"
@@ -92,9 +90,8 @@ Chicago Folios</a>, page 97
 
 </ref>
 
-<a href="Ashfinders" class="wikilink" title="Ashfinders">Ashfinders</a> -
-Cult of <a href="Thin-blood" class="wikilink"
-title="Thin-bloods">Thin-bloods</a> Mortius sponsors in a way and
+[Ashfinders](./ashfinders.md) -
+Cult of [Thin-bloods](./thinblood.md) Mortius sponsors in a way and
 leader. He has given them thaumaturgy secrets in exchange for ashe and a
 chance to study its effects. [26][27]
 
@@ -127,7 +124,7 @@ ballroom and gymnasium, it has been converted into a modern six-tier
 music venue. Two main stages, a pool area, and several bars are
 amenities that have made it well known in the music community and
 attracted celebrities. The
-<a href="Bahari" class="wikilink" title="Bahari">Bahari</a> love coming
+[Bahari](./bahari.md) love coming
 to this venue, especially since the Toreador owner descended into torpor
 when Decker decreed no Kindred can solely own a club. [31]
 

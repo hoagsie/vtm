@@ -6,20 +6,19 @@ This vitae-fueled power up goes beyond simply being useful in a fight,
 as it also enables the user to force their body into actions impossible
 for most to replicate without it. [1]
 
-The <a href="Brujah" class="wikilink" title="Brujah">Brujah</a> use this
+The [Brujah](./brujah.md) use this
 power as a lethal weapon to cut short any confrontation they don't want
 to deal with and crack any skulls in their way. They also utilize their
 strengths with
-<a href="Presence" class="wikilink" title="Presence">Presence</a> to
-sway the crowds through <a href="Potence#Spark_of_Rage" class="wikilink"
-title="Spark of Rage">Spark of Rage</a>. While they may still feel a
+[Presence](./presence.md) to
+sway the crowds through [Spark of Rage](./potence.md#spark-of-rage). While they may still feel a
 deeper connection to Humanity, in their hands this power is a
 devastating force. [2]Many
-<a href="Nosferatu" class="wikilink" title="Nosferatu">Nosferatu</a>
+[Nosferatu](./nosferatu.md)
 hesitate to use this power in front of mortals as it will break their
 deceptive nature. However, when given no choice they understand better
 than most clans the need to hit and run. [3] Few
-<a href="Lasombra" class="wikilink" title="Lasombra">Lasombra</a> use
+[Lasombra](./lasombra.md) use
 this power to feed, instead favoring it for the eradication of an enemy
 with their hands or ripping through a door to command fear and
 respect.[4]
@@ -243,8 +242,7 @@ class="wikilink" title="Tattered Façade">Tattered Façade</a>, page
 or crowd to violent actions.</p></td>
 <td data-sort-value="2"><p>One Rouse Check</p></td>
 <td><p>None</p></td>
-<td><p><a href="Presence" class="wikilink" title="Presence ●●●">Presence
-●●●</a></p></td>
+<td><p>[Presence ●●●](./presence.md)</p></td>
 <td><p>One scene</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
@@ -290,11 +288,9 @@ title="Corebook">Corebook</a>, page 265</li>
 <td><p><strong>Wrecker</strong></p></td>
 <td><p>Double Potence rating when used for feats of strength</p></td>
 <td><p>Free</p></td>
-<td><p><a href="Potence#Prowess" class="wikilink"
-title="Prowess">Prowess</a></p></td>
+<td><p>[Prowess](./potence.md#prowess)</p></td>
 <td><p>No</p></td>
-<td><p>Refer <a href="Potence#Prowess" class="wikilink"
-title="Prowess">Prowess</a></p></td>
+<td><p>Refer [Prowess](./potence.md#prowess)</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
 <td><p>It cannot be used against living targets.</p></td>
@@ -369,8 +365,7 @@ title="Corebook">Corebook</a>, page 265</li>
 <td><p><strong>Crash Down</strong></p></td>
 <td><p>Deal damage to a small area when using Soaring Leap.</p></td>
 <td><p>One Rouse Check</p></td>
-<td><p><a href="Potence#Soaring_Leap" class="wikilink"
-title="Soaring Leap">Soaring Leap</a></p></td>
+<td><p>[Soaring Leap](./potence.md#soaring-leap)</p></td>
 <td><p>No</p></td>
 <td><p>N/A</p></td>
 <td><p>Strength + Potence</p></td>
@@ -502,9 +497,8 @@ Below are the amalgams from other Discipline trees that require Potence;
 <img src="Oblivion_symbol.png" title="Oblivion_symbol.png" width="42" />
 <figcaption>Oblivion_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Oblivion#Arms_of_Ahriman" class="wikilink"
-title="Arms of Ahriman"><strong>Arms of Ahriman</strong></a></p></td>
-<td><p><a href="Oblivion" class="wikilink" title="Oblivion">Oblivion</a>
+<td><p>[<strong>Arms of Ahriman</strong>](./oblivion.md#arms-of-ahriman)</p></td>
+<td><p>[Oblivion](./oblivion.md)
 ●●</p></td>
 <td data-sort-value="1"><p>●●</p></td>
 <td><p>Conjures shadow appendages which the user can control</p></td>
@@ -522,10 +516,8 @@ title="Chicago by Night">Chicago by Night</a>, page 294</li>
 width="42" />
 <figcaption>Fortitude_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Fortitude#Obdurate" class="wikilink"
-title="Obdurate"><strong>Obdurate</strong></a></p></td>
-<td><p><a href="Fortitude" class="wikilink"
-title="Fortitude">Fortitude</a> ●●</p></td>
+<td><p>[<strong>Obdurate</strong>](./fortitude.md#obdurate)</p></td>
+<td><p>[Fortitude](./fortitude.md) ●●</p></td>
 <td data-sort-value="2"><p>●●</p></td>
 <td><p>Maintain footing when hit with a massive force</p></td>
 <td><p>One Rouse Check</p></td>

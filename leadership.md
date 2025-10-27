@@ -21,8 +21,7 @@ Command, Inspiration, Oratory, Praxis, Team Dynamics, War Pack [3]
 
 ## Example pools
 
-- <a href="Manipulation" class="wikilink"
-  title="Manipulation">Manipulation</a> + Leadership
+- [Manipulation](./manipulation.md) + Leadership
   - To rally allies in a message. [4]
 
 ## References

@@ -19,7 +19,7 @@ Mortals serve as a key element in World of Darkness and using them as a
 focus in stories, about their lives and who they are, can amplify the
 aspect of personal horror for players. Many Kindred, either through a
 spiralling
-<a href="Humanity" class="wikilink" title="Humanity">Humanity</a>, a
+[Humanity](./humanity.md), a
 naivety, or something else see them as nothing more than food to be
 preyed upon and when they do create relationships with mortals, they are
 the ones who set the terms.[1]
@@ -27,12 +27,11 @@ the ones who set the terms.[1]
 From the moment a mortal drinks the vitae of a vampire they become a
 ghoul, starting a process that simultaneously makes them more and less
 than they originally were. Ghouls are often taken as
-<a href="Merits_and_Flaws#Retainers" class="wikilink"
-title="retainers">retainers</a> in cases where their loyalty is required
+[retainers](./merits_flaws.md#retainers) in cases where their loyalty is required
 regardless of the
 <a href="Masquerade" class="wikilink" title="Masquerade">Masquerade</a>,
 especially as Kindred can
-<a href="Blood_Bond" class="wikilink" title="Blood Bond">Blood Bond</a>
+[Blood Bond](./blood_bond.md)
 as many ghouls as they can effectively manage. Unlike the vitae used in
 the <a href="Embrace" class="wikilink" title="Embrace">Embrace</a> or
 Blood Bonds, the Blood retains its ability to ghoul a mortal when stored
@@ -43,12 +42,12 @@ Check</a> worth of vitae grants the mortal, or animal, the following
 benefits for roughly one month.
 
 - The mortal gains the first dot of a
-  <a href="Disciplines" class="wikilink" title="Discipline">Discipline</a>
+  [Discipline](./disciplines.md)
   known by the vampire, called a domitor, and then one level 1 power
   from that discipline.
 - If a ghoul uses a power that costs a rouse check, they instead will
   take 1 point of Aggravated
-  <a href="Health" class="wikilink" title="Health">Health</a> damage
+  [Health](./health.md) damage
   rather than making the Rouse Check.
 - Their aging process stops, sometimes even bringing the clock back a
   few years.
@@ -81,28 +80,20 @@ are noted below.
   Disciplines as described above.
 - With Advantages and Flaws, mortals are limited in those that they can
   take however they do have specific
-  <a href="Merits_and_Flaws#Ghouls_and_Mortals" class="wikilink"
-  title="Flaws">Flaws</a> they may access. Ghouls also have specific
-  <a href="Merits_and_Flaws#Ghouls" class="wikilink"
-  title="Merits and Flaws">Merits and Flaws</a> they may access. Mortals
-  are unable to take <a href="Merits_and_Flaws#Archaic" class="wikilink"
-  title="Archaic">Archaic</a>,
-  <a href="Merits_and_Flaws#Feeding" class="wikilink"
-  title="Feeding">Feeding</a>,
-  <a href="Merits_and_Flaws#Herd" class="wikilink" title="Herd">Herd</a>,
-  <a href="Merits_and_Flaws#Mythic" class="wikilink"
-  title="Mythic">Mythic</a>,
-  <a href="Merits_and_Flaws#Status" class="wikilink"
-  title="Status">Status</a>,
-  <a href="Merits_and_Flaws#Thin-blood" class="wikilink"
-  title="thin-blood">thin-blood</a>,
+  [Flaws](./merits_flaws.md#ghouls-and-mortals) they may access. Ghouls also have specific
+  [Merits and Flaws](./merits_flaws.md#ghouls) they may access. Mortals
+  are unable to take [Archaic](./merits_flaws.md#archaic),
+  [Feeding](./merits_flaws.md#feeding),
+  [Herd](./merits_flaws.md#herd),
+  [Mythic](./merits_flaws.md#mythic),
+  [Status](./merits_flaws.md#status),
+  [thin-blood](./merits_flaws.md#thin-blood),
   <a href="Coterie_Backgrounds_and_Merits" class="wikilink"
   title="Domain">Domain</a>, or other vampiric or supernaturally leaning
   traits. They can take
-  <a href="Merits_and_Flaws#Haven" class="wikilink"
-  title="Haven">Haven</a> even if they wouldn't call it by that name.
+  [Haven](./merits_flaws.md#haven) even if they wouldn't call it by that name.
 - Kindred-exclusive
-  <a href="Loresheets" class="wikilink" title="Loresheets">Loresheets</a>
+  [Loresheets](./loresheets.md)
   may not grant them any mechanical benefit, but players are encouraged
   to work with their <a href="Storyteller" class="wikilink"
   title="Storyteller">Storyteller</a> to ensure that a character with
@@ -113,7 +104,7 @@ are noted below.
   would, though their connection to the Touchstone would be more
   immediate and personal as they still live within mortal society.
   Mortals begin their
-  <a href="Humanity" class="wikilink" title="Humanity">Humanity</a>
+  [Humanity](./humanity.md)
   rating at 7.[3]
 
 ## References

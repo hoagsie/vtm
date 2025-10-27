@@ -16,7 +16,7 @@ most Ventrue tighten their grasp, willing to fight fang and claw to keep
 hold.
 
 Clan Ventrue has long been the leader of the
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>,
+[Camarilla](./camarilla.md),
 even after losing their most prominent representative, Hardestat, to a
 Brujah assassination. A majority of the clan believes that the strength
 of tradition and lineage is what holds them above the rest. Though these
@@ -75,9 +75,9 @@ character creation, their preference should be selected.
 **Hierarchy** - The Ventrue suffer a penalty equal to their Bane
 Severity to their Discipline dice pools when using them against a
 vampire of a lower
-<a href="generation" class="wikilink" title="generation">generation</a>.
+[generation](./generation.md).
 They must also spend
-<a href="Willpower" class="wikilink" title="Willpower">Willpower</a>
+[Willpower](./willpower.md)
 equal to this penalty if they wish to directly attack other vampires of
 a lower generation.
 
@@ -92,7 +92,7 @@ a lower generation.
 **Arrogance** - Fueled by the beast and their natural desire for power,
 the Ventrue must force someone to obey a command given. The order cannot
 be given through supernatural means such as
-<a href="Dominate" class="wikilink" title="Dominate">Dominate</a>. Until
+[Dominate](./dominate.md). Until
 they satisfy the requirements, they receive a two-dice penalty for any
 actions not directly related to leadership.
 
@@ -148,19 +148,17 @@ Graham</strong></a>
 **<a href="Fletcher" class="wikilink" title="Fletcher">Fletcher</a>**
 
 **Hardestadt** - The name of a sire and childe. Hardestadt the Elder met
-<a href="Final_death" class="wikilink" title="Final Death">Final
-Death</a> at the hands of the Brujah,
-<a href="Brujah" class="wikilink" title="Tyler">Tyler</a>. This left
+[Final Death](./final_death.md) at the hands of the Brujah,
+[Tyler](./brujah.md). This left
 Hardestadt the Younger room to run the Camarilla with the foundation his
 sire laid while impersonating him. Until his destruction at the hands of
 Brujah rebels lead by
-<a href="Brujah#Notable_Characters" class="wikilink"
-title="Theo Bell">Theo Bell</a> during the Convention of Prague in 2012,
+[Theo Bell](./brujah.md#notable-characters) during the Convention of Prague in 2012,
 he was the most important Ventrue for eight centuries. He, alongside six
 others, was a founder of the Camarilla. Hardestadt did not
 <a href="Embrace" class="wikilink" title="Embrace">Embrace</a> many
 mortals and never confirmed his lineage to a Fourth
-<a href="Generation" class="wikilink" title="Generation">Generation</a>
+[Generation](./generation.md)
 methuselah. None who have come before or after could stand to the power
 and influence he held and as far as he was concerned he was the be-all
 end-all of the clan.[7]
@@ -181,7 +179,7 @@ banks, real estate, and construction companies collectively known as
 Ballard Industries. A childe of Lodin with a large sum of wealth and
 political power which he used to support his sire’s rule. After Lodin’s
 supposed death, he backed Kevin Jackson’s bid for Prince in
-<a href="Chicago,_Illinois" class="wikilink" title="Chicago">Chicago</a>.
+[Chicago](./chicago_ill.md).
 The crash of the housing market didn’t hurt his companies due to keen
 business acumen, but his personal wealth and reputation took a massive
 hit. This leaves the Ventrue ready for an ambitious rebuilding
@@ -192,7 +190,7 @@ reaching many ranks in the Camarilla. She first worked as an Archons and
 later an Alastor the first of its kind. Alastor is a role where she
 hunts down the Camarilla's most dangerous and most wanted on the "Red
 List". The role is also tasked with hunting down illegal
-<a href="Diablerie" class="wikilink" title="diablerists">diablerists</a>.
+[diablerists](./diablerie.md).
 She specializes in deep undercover investigations and biding her time to
 strike her enemies. Her background has allowed her to raise to the role
 of Justicar and be named Justicar for life. Her Archons often work out
@@ -239,8 +237,7 @@ with this arrogance and distaste for other mortals who mean little to
 them.[15][16]
 
 The clan is among the best customers of the
-<a href="Circulatory_System" class="wikilink"
-title="Circulatory System">Circulatory System</a>. Their bane has made
+[Circulatory System](./circulatory_system.md). Their bane has made
 them need to look carefully at their victims. Sometimes the Childe and
 Sire share the same restriction or the restriction is linked to a
 Ventrue’s past. They can be all over the place factoring in employment,
@@ -255,17 +252,17 @@ Bloods.[17][18]
 ### Kindred society
 
 To many Ventrue without them there is no
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>.
+[Camarilla](./camarilla.md).
 They see themselves as the leaders of the Kindred and it is not just a
 notion to them, but their destiny. To them no other clan has the wisdom,
 restraint, control, and lineage to take on such a mantle. The Ventrue
 also know they have some of the most influence in the sect and even with
 the exodus of the
-<a href="Brujah" class="wikilink" title="Brujah">Brujah</a> and the
+[Brujah](./brujah.md) and the
 incoming of the
-<a href="Lasombra" class="wikilink" title="Lasombra">Lasombra</a> and
+[Lasombra](./lasombra.md) and
 the
-<a href="Banu_Haqim" class="wikilink" title="Banu Haqim">Banu Haqim</a>.
+[Banu Haqim](./banu.md).
 The group of self-interested motivated Kindred are said to be the
 wealthiest Kindred. They don’t share their wealth freely, but put it to
 use to buy influence, quiet opponents, gain followers, and live the high
@@ -287,14 +284,13 @@ in turns benefits from their allies falling in line under them.[22]
 The Ventrue have an inner body of elders and high ranking members called
 the Directorate. They watch over clan affairs and even instruct high
 profile Blue Bloods; the Directorate tapped Kevin Jackson to introduce
-the <a href="Lasombra" class="wikilink" title="Lasombra">Lasombra</a>
+the [Lasombra](./lasombra.md)
 into the
-<a href="Chicago,_Illinois" class="wikilink" title="Chicago">Chicago</a>
+[Chicago](./chicago_ill.md)
 Camarilla and they have a wary eye on Fiorenza Savona’s rapid growing
 success. Little is known of them and it is said to be one of many
 shadowy inner clan councils similar to the
-<a href="Lasombra" class="wikilink"
-title="Lasombra&#39;s">Lasombra's</a> Amici Noctis.[23][24][25]
+[Lasombra's](./lasombra.md) Amici Noctis.[23][24][25]
 
 ### Factional differences
 
@@ -323,18 +319,12 @@ faction’s enemies or grind a kine’s will into growing its powerbase.[29]
 
 Ventrue characters have special access to the following loresheets:
 
-- <a href="Loresheets#High%20Clan" class="wikilink" title="High Clan">High
-  Clan</a>
-- <a href="Loresheets#Descendant_of_Hardestadt" class="wikilink"
-  title="Descendant of Hardestadt">Descendant of Hardestadt</a>
-- <a href="Loresheets#Pure_Ventrue_Lineage" class="wikilink"
-  title="Pure Ventrue Lineage">Pure Ventrue Lineage</a>
-- <a href="Loresheets#Descendant_of_Lodin" class="wikilink"
-  title="Descendant of Lodin">Descendant of Lodin</a>
-- <a href="Loresheets#Spear_of_Orthia" class="wikilink"
-  title="Spear of Orthia">Spear of Orthia</a>
-- <a href="Loresheets#The_Vanderbilt_Ventrue" class="wikilink"
-  title="The Vanderbilt Ventrue">The Vanderbilt Ventrue</a>
+- [High Clan](./loresheets.md#high20clan)
+- [Descendant of Hardestadt](./loresheets.md#descendant-of-hardestadt)
+- [Pure Ventrue Lineage](./loresheets.md#pure-ventrue-lineage)
+- [Descendant of Lodin](./loresheets.md#descendant-of-lodin)
+- [Spear of Orthia](./loresheets.md#spear-of-orthia)
+- [The Vanderbilt Ventrue](./loresheets.md#the-vanderbilt-ventrue)
 
 ## Gallery
 

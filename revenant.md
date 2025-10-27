@@ -2,7 +2,7 @@
 
 Revenant is a term that can refer to either the infamous families of
 lines of
-<a href="Mortals_and_ghouls" class="wikilink" title="ghoul">ghoul</a>
+[ghoul](./mortals_ghouls.md)
 who developed a natural craving for
 <a href="vitae" class="wikilink" title="vitae">vitae</a> or the risen
 dead composed of body parts or whole corpses due necromancy.[1][2]
@@ -13,9 +13,9 @@ dead composed of body parts or whole corpses due necromancy.[1][2]
 
 Revenant ghouls are made when constant ingestion of vitae alters DNA and
 the ghouls procreate with each other. Those like the
-<a href="Tzimisce" class="wikilink" title="Tzimisce">Tzimisce</a> did
+[Tzimisce](./tzimisce.md) did
 this practice on purpose with breeding and experimentation. Others like
-the <a href="Hecata" class="wikilink" title="Hecata">Hecata</a> happen
+the [Hecata](./hecata.md) happen
 by nature of their familial culture and closeness to
 <a href="Kindred" class="wikilink" title="Kindred">Kindred</a> side of
 the family. There are small pockets of some that are accidents of ghouls
@@ -23,7 +23,7 @@ marrying ghouls in a small town over generations by chance.
 
 Dhampir is an urban myth of a special kind of revenant. Said to be the
 mortal offspring of a
-<a href="Thin-blood" class="wikilink" title="Thin-blood">Thin-blood</a>,
+[Thin-blood](./thinblood.md),
 if such a being is possible. Their existence is largely controversial in
 Kindred societies and are said to not make it to adulthood.[3][4]
 
@@ -42,21 +42,18 @@ unnaturally healthy, tough, and age a quarter of the rate of humans.
 Their natural life span becomes 250-300 years.
 
 Revenants can have one level 1
-<a href="Disciplines" class="wikilink" title="Discipline">Discipline</a>
+[Discipline](./disciplines.md)
 at start, up to 5 of such at level 1. They may learn
-<a href="Blood_Sorcery_Rituals" class="wikilink"
-title="Rituals">Rituals</a> or
-<a href="Oblivion_Ceremonies" class="wikilink"
-title="Ceremonies">Ceremonies</a>, but not
-<a href="Alchemy" class="wikilink" title="Alchemy">Alchemy</a>. If
+[Rituals](./blood_sorcery_rituals.md) or
+[Ceremonies](./oblivion_ceremonies.md), but not
+[Alchemy](./alchemy.md). If
 dhampirs do exist, then they may access thin-blood alchemy. Revenants
 can fall into
-<a href="Frenzy" class="wikilink" title="Frenzy">Frenzy</a> as they have
+[Frenzy](./frenzy.md) as they have
 an echo of the <a href="Beast" class="wikilink" title="Beast">Beast</a>
-and may be affected by a few <a href="Compulsion" class="wikilink"
-title="Compulsions">Compulsions</a>. Their Compulsion emerges when their
-<a href="Willpower" class="wikilink" title="Willpower">Willpower</a> or
-<a href="Health" class="wikilink" title="Health">Health</a> drops
+and may be affected by a few [Compulsions](./compulsion.md). Their Compulsion emerges when their
+[Willpower](./willpower.md) or
+[Health](./health.md) drops
 dangerously low.[5]
 
 ### Known revenant families
@@ -65,50 +62,45 @@ Most families are usually lineages manipulated and affected by Kindred
 creators and masters. In the past 50 years, stillborn children have
 become more common and the ability to reliably create a revenant has
 decreased in these families.
-<a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a> aligned
+[Sabbat](./sabbat.md) aligned
 families are forced to adapt or even face abandonment while other
 families are in decline simply being denied continuation of their line
 or the <a href="Embrace" class="wikilink" title="Embrace">Embrace</a>.
 Some families exist among the
 <a href="clans" class="wikilink" title="clans">clans</a> who practice
-<a href="Blood_Sorcery" class="wikilink" title="Blood Sorcery">Blood
-Sorcery</a> and
-<a href="Protean" class="wikilink" title="Protean">Protean</a>.[6][7]
+[Blood Sorcery](./blood_sorcery.md) and
+[Protean](./protean.md).[6][7]
 
 - **Bratovich** - Rural revenant family in thrall to various
-  <a href="Tzimisce" class="wikilink" title="Tzimisce">Tzimisce</a> as
+  [Tzimisce](./tzimisce.md) as
   famulus breeders and muscles.[8]
 - **Grimaldi** - An affluent family of wealth and privilege. Branches of
   the family are free of the Sabbat and now serve
   <a href="Autarkis" class="wikilink" title="Autarkis">Autarkis</a>
   Kindred and
-  <a href="Anarch" class="wikilink" title="Anarch">Anarch</a> lords.
+  [Anarch](./anarch.md) lords.
   Some rumors even state they have contracts with the
-  <a href="Hecata" class="wikilink" title="Hecata">Hecata</a> and
-  <a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a> in
+  [Hecata](./hecata.md) and
+  [Ventrue](./ventrue.md) in
   exchange for vitae.[9]
 - **Ducheski** - Once the scholarly Krevcheski patronized by Eastern
   European nobles. The Tzimisce subjugated them and experimented on them
   until they became revenants. They served the Dragons well, often
   making clock-work machines for their lords’ sieges and torture
   machines. When the Tzimisce warred with the
-  <a href="Tremere" class="wikilink" title="Tremere">Tremere</a>, the
+  [Tremere](./tremere.md), the
   Krevcheski betrayed the Dragons for the Warlocks; they took their
   modern name Ducheski. They have served the Tremere ever since as
-  researchers. Since the <a href="Tremere#History" class="wikilink"
-  title="fall of the Pyramid">fall of the Pyramid</a> they have been on
+  researchers. Since the [fall of the Pyramid](./tremere.md#history) they have been on
   hard times and in decline.[10][11]
-- **La Famiglias <a href="Hecata#Bloodlines" class="wikilink"
-  title="Giovanni and Rossellini">Giovanni and Rossellini</a>** - After
+- **La Famiglias [Giovanni and Rossellini](./hecata.md#bloodlines)** - After
   years of making ghouls of their family members and tangling lines of
   marriages between different bloodline families, revenants have begun
   forming. Unlike other revenant families, they are not in decline. With
-  the <a href="Hecata#The_Family_Reunion" class="wikilink"
-  title="family reunion">family reunion</a>, some have gone unnoticed,
+  the [family reunion](./hecata.md#the-family-reunion), some have gone unnoticed,
   free of a vampiric master.[12]
 - **Obertus** - Originating from
-  <a href="Constantinople" class="wikilink"
-  title="Constantinople">Constantinople</a> as a monastic line of
+  [Constantinople](./constantinople.md) as a monastic line of
   ghouls. Few remain, but they have clung to their scholarly
   inclinations. They serve Tzimisce as librarians and custodians.[13]
 - **Zantosa** - They are an old money family with extravagant and
@@ -118,18 +110,16 @@ Sorcery</a> and
   <a href="Masquerade" class="wikilink" title="Masquerade">Masquerade</a>.
   Otherwise they were left alone. They once had a great secret task but
   only Tzimisce elders in the
-  <a href="Other_groups#Oradea_League" class="wikilink"
-  title="Oradea League">Oradea League</a> or
-  <a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a>
+  [Oradea League](./other_groups.md#oradea-league) or
+  [Sabbat](./sabbat.md)
   remember.[14]
 
 ## The risen dead
 
-<a href="Oblivion" class="wikilink" title="Oblivion">Oblivion</a> users,
+[Oblivion](./oblivion.md) users,
 such as the infamous
-<a href="Hecata" class="wikilink" title="Hecata">Hecata</a>, can raise
-the dead with <a href="Oblivion_Ceremonies" class="wikilink"
-title="Oblivion Ceremonies">Oblivion Ceremonies</a>, even
+[Hecata](./hecata.md), can raise
+the dead with [Oblivion Ceremonies](./oblivion_ceremonies.md), even
 <a href="Magician#Necromancer" class="wikilink"
 title="mortal necromancers">mortal necromancers</a> may create similar
 entities through their craft. These entities are made with corpses or
@@ -158,14 +148,12 @@ roaming city crypts, sewers, or even a destroyed necromancer's lab.[15]
   sunlight. They are both unable to mend. These do not decay or sit idle
   like the mindless corpses, but attack anyone but their master when
   without a command. They will only rest if the vampire commands it or
-  meets <a href="Final_death" class="wikilink" title="Final Death">Final
-  Death</a>. They do not need ears or eyes to perceive their
+  meets [Final Death](./final_death.md). They do not need ears or eyes to perceive their
   surroundings. These revenants can follow moderately complex commands
   from their creator. Their bites do aggravated damage to mortals. They
   do not decay.[20][21]
 - **Flesh Golem** - A creature made of stitched together body parts of
-  corpses. Even <a href="Protean#Fleshcrafting" class="wikilink"
-  title="Fleshcrafting">Fleshcrafting</a> can aid if their body parts
+  corpses. Even [Fleshcrafting](./protean.md#fleshcrafting) can aid if their body parts
   are still alive during stitching and it does not rot. Then a corrupted
   mock version of Kabbalistic ritual to make golems creates this
   creature. The being is soulless instead driven by shadows bound from

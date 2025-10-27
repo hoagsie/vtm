@@ -14,20 +14,19 @@ guy who could.
 area.
 
 ● ● ● ● ● They could guess at the amount of members within the
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>'s
+[Camarilla](./camarilla.md)'s
 Inner Circle.[2]
 
 ## Example specs
 
-<a href="Anarch" class="wikilink" title="Anarchs">Anarchs</a>,
+[Anarchs](./anarch.md),
 Camarilla, City Government,
 <a href="Clans" class="wikilink" title="Clan">Clan</a> (specific),
 Diplomacy, Media, National Politics, State/Provincial Politics. [3]
 
 ## Example pools
 
-- <a href="Manipulation" class="wikilink"
-  title="Manipulation">Manipulation</a> + Politics
+- [Manipulation](./manipulation.md) + Politics
   - Have their agents pull strings behind closed doors. [4]
   - Convince the city to use a design that fits their plans. [5]
 

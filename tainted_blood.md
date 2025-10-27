@@ -18,48 +18,37 @@ the amount consumed.[1]
 <tbody>
 <tr>
 <td><p>Alcohol</p></td>
-<td><p>Lowers <a href="Dexterity" class="wikilink"
-title="Dexterity">Dexterity</a> and <a href="Intelligence"
-class="wikilink" title="Intelligence">Intelligence</a> pools by 1
+<td><p>Lowers [Dexterity](./dexterity.md) and [Intelligence](./intelligence.md) pools by 1
 dice.</p></td>
 </tr>
 <tr>
 <td><p>Cocaine/Meth/Speed</p></td>
-<td><p>Spend two <a href="Willpower" class="wikilink"
-title="Willpower">Willpower</a> to reroll <a
+<td><p>Spend two [Willpower](./willpower.md) to reroll <a
 href="Hunger_system#Messy_Critical" class="wikilink"
 title="messy criticals">messy criticals</a> or <a
 href="Hunger_system#Bestial_Failure" class="wikilink"
 title="bestial failures">bestial failures</a>. The Difficulty to resist
-a <a href="Frenzy" class="wikilink" title="Frenzy">Frenzy</a> is
+a [Frenzy](./frenzy.md) is
 increased by 1.</p></td>
 </tr>
 <tr>
 <td><p>Hallucinogens</p></td>
-<td><p><a href="Wits" class="wikilink" title="Wits">Wits</a>, <a
-href="Resolve" class="wikilink" title="Resolve">Resolve</a>, and <a
-href="Manipulation" class="wikilink"
-title="Manipulation">Manipulation</a> pools are lowered by 2
+<td><p>[Wits](./wits.md), [Resolve](./resolve.md), and [Manipulation](./manipulation.md) pools are lowered by 2
 dice.</p></td>
 </tr>
 <tr>
 <td><p>Heroin/Morphine/Oxy/Opiates</p></td>
-<td><p>Remove two dice from all <a href="Physical" class="wikilink"
-title="Physical">Physical</a> rolls. The Difficulty to resist a <a
-href="Frenzy" class="wikilink" title="Frenzy">Frenzy</a> is decreased by
+<td><p>Remove two dice from all [Physical](./physical.md) rolls. The Difficulty to resist a [Frenzy](./frenzy.md) is decreased by
 1.</p></td>
 </tr>
 <tr>
 <td><p>Marijuana</p></td>
-<td><p><a href="Wits" class="wikilink" title="Wits">Wits</a> pools are
-reduced by 1. The Difficulty to resist a <a href="Frenzy"
-class="wikilink" title="Frenzy">Frenzy</a> is decreased by 1.</p></td>
+<td><p>[Wits](./wits.md) pools are
+reduced by 1. The Difficulty to resist a [Frenzy](./frenzy.md) is decreased by 1.</p></td>
 </tr>
 <tr>
 <td><p>Poison</p></td>
-<td><p>Lose one die from all pools. Take 1-3 points of <a
-href="Health#Superficial_damage" class="wikilink"
-title="Superficial damage">Superficial damage</a> per scene. In cases
+<td><p>Lose one die from all pools. Take 1-3 points of [Superficial damage](./health.md#superficial-damage) per scene. In cases
 where it is an extremely fast-acting or lethal poison they may take the
 damage per turn instead. The poison leaves the vampire's system when
 they reach Hunger 5, or upon the next feed.</p></td>

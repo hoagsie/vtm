@@ -13,7 +13,7 @@ presence either by sight or sound.[1]
 ● ● ● ● They are subtle with silent movement.
 
 ● ● ● ● ● The
-<a href="Banu_Haqim" class="wikilink" title="Banu Haqim">Banu Haqim</a>
+[Banu Haqim](./banu.md)
 come to them for advise. [2]
 
 ## Example specs
@@ -23,24 +23,23 @@ Wilderness[3]
 
 ## Example pools
 
-- <a href="Dexterity" class="wikilink" title="Dexterity">Dexterity</a> +
+- [Dexterity](./dexterity.md) +
   Stealth
   - Sneaking. [4]
   - Surprise attacks [5]
   - Break in and feed from the sleeping as a
     <a href="Predator_types#Sandman" class="wikilink"
     title="Sandman">Sandman</a>. [6]
-- <a href="Stamina" class="wikilink" title="Stamina">Stamina</a> +
+- [Stamina](./stamina.md) +
   Stealth
   - Remain motionless while in hiding. [7]
-- <a href="Wits" class="wikilink" title="Wits">Wits</a> + Stealth
+- [Wits](./wits.md) + Stealth
   - Used with
-    <a href="Obfuscate" class="wikilink" title="Obfuscate">Obfuscate</a>
+    [Obfuscate](./obfuscate.md)
     powers to hide from active searchers with
-    <a href="Auspex#Sense_the_Unseen" class="wikilink"
-    title="Sense the Unseen">Sense the Unseen</a>. [8]
+    [Sense the Unseen](./auspex.md#sense-the-unseen). [8]
   - Shake surveillance. [9]
-- <a href="Resolve" class="wikilink" title="Resolve">Resolve</a> +
+- [Resolve](./resolve.md) +
   Stealth
   - Wait in an alleyway to feed off an unsuspecting victim. [10]
 

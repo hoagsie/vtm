@@ -25,7 +25,7 @@ regions do well to set up multiple havens and don multiple masks. No
 clan is as skilled as the Haunted when it comes to blending into
 society, be it mortal or Kindred. Due to the mistrust they may face,
 some display themselves as
-<a href="Caitiff" class="wikilink" title="Caitiff">Caitiff</a> in order
+[Caitiff](./caitiff.md) in order
 to find a place within Kindred society, but those who do not and show
 their true colors often take an
 <a href="Autarkis" class="wikilink" title="Autarkis">Autarkis</a>
@@ -55,14 +55,13 @@ in it. [4]
 **Doomed** - Anytime they daysleep within the same place more than once
 in seven nights, roll a number of dice equal to their Bane Severity. If
 they receive any 10's they then take 1 Aggravated
-<a href="Health" class="wikilink" title="damage">damage</a> for each as
+[damage](./health.md) for each as
 they are scorched from within. What constitutes as the same place is
 defined by the chronicle, but generally will need a mile distance
 between the two resting places before the bane is triggered. Mobile
 havens do work as long as the haven is moved a mile away. Due to this,
 the Ravnos may not take the
-<a href="Merits_and_Flaws#No_Haven" class="wikilink"
-title="No Haven Flaw">No Haven Flaw</a>.
+[No Haven Flaw](./merits_flaws.md#no-haven).
 
 <section end="bane" />
 
@@ -135,7 +134,7 @@ these fantasies saved her from meeting her end like many did during
 Zapathasura's wake. When she finished an episode of indulgence she
 realized many of her clan had disappeared. With another lost family she
 took to calling her
-<a href="Caitiff" class="wikilink" title="Caitiff">Caitiff</a>,
+[Caitiff](./caitiff.md),
 operating as a Mercenary in the Chicago area.[10][11]
 
 **<a href="Serif" class="wikilink" title="Serif">Serif</a>** - A young
@@ -181,7 +180,7 @@ agents, cruise line organizers, and people movers.[13]
 
 Very rare is it for a Ravnos vampire to advertise their clan, some
 prefer to pose as
-<a href="Caitiff" class="wikilink" title="Caitiff">Caitiff</a>. When
+[Caitiff](./caitiff.md). When
 their true identity is revealed or even worse their agenda, many already
 have a few escape plans at the ready. There are some who will advertise
 what they are proudly, often taking an independent position in politics,
@@ -207,7 +206,7 @@ if their progenitor has passed some even going as far to set up coteries
 around such figures.[14]
 
 While the
-<a href="Gangrel" class="wikilink" title="Gangrel">Gangrel</a>’s urge to
+[Gangrel](./gangrel.md)’s urge to
 travel gets a pass, the Ravnos aren't given such service. The Ravens can
 be found all over the world, but many Kindred see them as too much of an
 unstable force in their domains. The clans look down on the Ravnos for
@@ -220,8 +219,8 @@ collecting, and knowing threats before they have come to pass.[15]
 ### Factional differences
 
 There are no difference observed between
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a> and
-<a href="Anarch" class="wikilink" title="Anarch">Anarch</a>. Most opt
+[Camarilla](./camarilla.md) and
+[Anarch](./anarch.md). Most opt
 for Autarkis operate for the highest bidder.[16]
 
 ## Gallery

@@ -16,17 +16,16 @@ unlucky as hideous monsters or normal looking humans with conditions.
 Regardless of their monstrous appearance, they are often some of the
 most compassionate kindred from wearing their curse on the outside
 rather than inside. To blend in some will use their abilities within
-<a href="Obfuscate" class="wikilink" title="Obfuscate">Obfuscate</a> or
+[Obfuscate](./obfuscate.md) or
 heavy make-up and prosthetics. Some believe that when trouble is about
 to come knocking, it's best to slink down into the underground and
 sewers to avoid detection. Sending others to report into the tower
 rather than face the
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>
+[Camarilla](./camarilla.md)
 themselves and be caught out by the hunters storming or being faced by
 their beautiful counterparts.
 
-The <a href="Second_Inquisition" class="wikilink"
-title="Second Inquisition">Second Inquisition</a> have noted that this
+The [Second Inquisition](./second_inquisition.md) have noted that this
 clan lingers around social outcasts, building rapport with them and
 earning their compassion in trade to better hide from the hunters. The
 Nosferatu have taken to communicating via codes and dead languages
@@ -57,13 +56,11 @@ find in it. [3]
 
 **Repulsiveness** - Cursed by their blood, when they are Embraced they
 are twisted into revolting monsters. They can never raise their rating
-in the <a href="Merits_and_Flaws#Looks" class="wikilink"
-title="Looks merits">Looks merits</a> and instead must take the (••)
+in the [Looks merits](./merits_flaws.md#looks) and instead must take the (••)
 **Repulsive** flaw. Any attempt to disguise themselves incurs a penalty
 equal to the character's Bane Severity, this also includes the use of
 Disciplines such as
-<a href="Obfuscate#Mask_of_a_Thousand_Faces" class="wikilink"
-title="Mask of a Thousand Faces">Mask of a Thousand Faces</a>. However,
+[Mask of a Thousand Faces](./obfuscate.md#mask-of-a-thousand-faces). However,
 most Nosferatu do not breach the
 <a href="Masquerade" class="wikilink" title="Masquerade">Masquerade</a>
 by being seen, they are instead perceived as gross or terrifying.
@@ -134,7 +131,7 @@ geometry.[7]
 **Ambrus Maropis** - His reputation as a trend-setter and Masquerade
 protector is well-known in Kindred society. With a reputation of being
 on the cutting edge of technology and culture, the
-<a href="Toreador" class="wikilink" title="Toreador">Toreador</a> that
+[Toreador](./toreador.md) that
 know he's a Nosferatu loathe him. His persona allows him to sell
 software he hacks into including the information, advise on security
 methods stolen from governments or corporations or simply talk about
@@ -144,8 +141,7 @@ upcoming trends in Elysia.[8]
 harbored his hatred for kindred society throughout the centuries. He
 served high profile kindred in Chicago gaining influence, while secretly
 subverting attempts to confound the
-<a href="Second_Inquisition" class="wikilink"
-title="Second Inquisition">Second Inquisition</a>. His end goal is death
+[Second Inquisition](./second_inquisition.md). His end goal is death
 to all kindred society.[9]
 
 **Wauneka** - A Vietnam veteran turned information broker, Wauneka has a
@@ -164,7 +160,7 @@ Night</a> where he is shown to be a major asset to his coterie having a
 humane side and plenty of dark secrets.
 
 **Khalid Al-Rashid** - A well-respected
-<a href="Chicago,_Illinois" class="wikilink" title="Chicago">Chicago</a>
+[Chicago](./chicago_ill.md)
 primogen and master swordsman. An elder of the clan who had long
 searched for a way to win the battle with his Beast, but he never quite
 reach Golconda. Even when Chicago was dominated by Menele’s and Helena’s
@@ -240,14 +236,14 @@ they saved secrets of their own clan, their credibility was called into
 question and as their clan members died  The Nosferatu bunkered down and
 began to plot. As the Camarilla and the Anarchs started to drift,
 Nosferatu made a secret pact with the
-<a href="Brujah" class="wikilink" title="Brujah">Brujah</a> to leave the
+[Brujah](./brujah.md) to leave the
 Camarilla as well. They lied, selling out the Brujah instead to secure
 their place in the Camarilla.
 
 The Nosferatu now have a stigma of backstabbing behavior with a new clan
 and faction as an enemy, but they still benefitted.[20]   With the loss
-of the <a href="Gangrel" class="wikilink" title="Gangrel">Gangrel</a>
-and <a href="Brujah" class="wikilink" title="Brujah">Brujah</a>, the
+of the [Gangrel](./gangrel.md)
+and [Brujah](./brujah.md), the
 Camarilla had to turn to the Nosferatu for their strength. Enforcers,
 hunters, and spies all fit perfectly for a Sewer Rat trying to advance
 these nights. They plan to continue their stance of bunkering down and
@@ -297,17 +293,13 @@ times when the clan should focus hunker down in the shadows.[23]
 
 Nosferatu characters have special access to the following loresheets:
 
-• <a href="Loresheets#Descendant_of_Zelios" class="wikilink"
-title="Descendant of Zelios">Descendant of Zelios</a>
+• [Descendant of Zelios](./loresheets.md#descendant-of-zelios)
 
-• <a href="Loresheets#Cleopatras" class="wikilink"
-title="Cleopatras">Cleopatras</a>
+• [Cleopatras](./loresheets.md#cleopatras)
 
-• <a href="Loresheets#London_under_London" class="wikilink"
-title="London under London">London under London</a>
+• [London under London](./loresheets.md#london-under-london)
 
-• <a href="Loresheets#The_Nictuku" class="wikilink"
-title="The Nictuku">The Nictuku</a>
+• [The Nictuku](./loresheets.md#the-nictuku)
 
 ## Gallery
 
