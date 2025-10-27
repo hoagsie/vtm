@@ -22,7 +22,7 @@ Unarmed Mortals, Werewolves, While in Protean Beast Form [3]
 
 ## Example pools
 
-- <a href="Strength" class="wikilink" title="Strength">Strength</a> +
+- [Strength](./strength.md) +
   Brawl
   - A conflict pool for a fight. [4]
   - Escape a foe biting them. [5]

@@ -3,9 +3,9 @@
 The Blood Bond is a system of control, making the victim (thrall)
 infatuated or obsessed with their master (regnant) against their will.
 This practice is feared by most, though the
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>
+[Camarilla](./camarilla.md)
 utilizes it against both Kindred and mortal servants. Most
-<a href="Anarch" class="wikilink" title="Anarch">Anarch</a> will refuse
+[Anarch](./anarch.md) will refuse
 to use such methods, though there is the rare occasion where they view
 its practice as crucial for the cause's safety.
 
@@ -26,15 +26,12 @@ instead, it is an obsession and addiction between the two Kindred. One
 that turns into an abusive and dysfunctional relationship as the years
 go one which makes them strongly disliked by the Camarilla.
 
-Unlike <a href="Dominate" class="wikilink" title="Dominate">Dominate</a>
-or other <a href="Disciplines" class="wikilink"
-title="Disciplines">Disciplines</a>, the level of the thrall's
-<a href="Generation" class="wikilink" title="Generation">Generation</a>
-or <a href="Blood_Potency" class="wikilink" title="Blood Potency">Blood
-Potency</a> does not matter, making it an effective yet cruel tool.
+Unlike [Dominate](./dominate.md)
+or other [Disciplines](./disciplines.md), the level of the thrall's
+[Generation](./generation.md)
+or [Blood Potency](./blood_potency.md) does not matter, making it an effective yet cruel tool.
 Kindred may only bond as many vampire thralls as they have dots of
-<a href="Blood_Potency" class="wikilink" title="Blood Potency">Blood
-Potency</a>, and a thrall may only have one regnant which makes them
+[Blood Potency](./blood_potency.md), and a thrall may only have one regnant which makes them
 immune to other Bonding attempts while still Bound. Should a vampire
 attempt to bond another thrall above their maximum Blood Potency limit,
 their oldest thrall's Blood Bond will fade over the course of a week.
@@ -73,20 +70,20 @@ a corruption of emotion just see a poor imitation of love that lacks the
 genuine love.
 
 Among the
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>
+[Camarilla](./camarilla.md)
 sires use the Bond on their
 <a href="Childe" class="wikilink" title="childer">childer</a> often
 enough, but many
-<a href="Anarch" class="wikilink" title="Anarchs">Anarchs</a> find the
+[Anarchs](./anarch.md) find the
 Bond immoral and reviled.[3] 
 
 ## Blood Wedding
 
 Blood Marriage or Blood Wedding is the Blood Bond between two (or more)
 mutual parties. The practice is rumored to have concurrently started by
-the <a href="Toreador" class="wikilink" title="Toreador">Toreador</a>
+the [Toreador](./toreador.md)
 and
-<a href="Banu_Haqim" class="wikilink" title="Banu Haqim">Banu Haqim</a>
+[Banu Haqim](./banu.md)
 in the 11th century. It fell out of fashion in the Victorian era. The
 Blood Wedding has come back in vogue in various domains, thanks to the
 Vermillion Wedding. While the view of Blood Wedding is as conflicted as
@@ -118,7 +115,7 @@ Ashirra, as well as welcomed the Banu Haqim into the Tower. The Blood
 Wedding between
 <a href="Anne_Bowesley" class="wikilink" title="Anne Bowesley">Anne
 Bowesley</a> and Louise Maria de Rambaud  was supposed to cement
-<a href="London,_UK" class="wikilink" title="London">London</a> closer
+[London](./london_uk.md) closer
 to the Camarilla, but it ended in a massacre, now called the Night of
 Bloody Tears. The name is now an idiom of ill omen kindred saying with
 Kindred hoping Blood Weddings aren’t “like the Night of Bloody

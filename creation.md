@@ -31,14 +31,13 @@ to begin.
 - **<a href="Clans" class="wikilink" title="Clan">Clan</a>:** What
   vampire clan they belong to.
 - **<a href="Sire" class="wikilink" title="Sire">Sire</a>:** The vampire
-  who <a href="Beginner&#39;s_guide#Vampires_of_the_World_of_Darkness"
-  class="wikilink" title="Embraced">Embraced</a> the character, their
+  who [Embraced](./beginners.md#39s-guidevampires-of-the-world-of-darkness) the character, their
   sire.
 - **Desire:** A short term goal, similar to ambition, which reflects
   more of their momentary wants. [2]
-- **<a href="Generation" class="wikilink" title="Generation">Generation</a>:**
+- **[Generation](./generation.md):**
   How close they are to the mythical vampire progenitor, Caine. See
-  <a href="Generation" class="wikilink" title="Generation">Generation</a>.
+  [Generation](./generation.md).
 
 ## Clans
 
@@ -69,116 +68,91 @@ title="Players Guide">Players Guide</a></p></th>
 <tbody>
 <tr>
 <td style="white-space: nowrap;"><p><img src="Brujah_icon.png"
-title="Brujah_icon.png" alt="Brujah_icon.png" /> <a href="Brujah"
-class="wikilink" title="Brujah">Brujah</a></p></td>
+title="Brujah_icon.png" alt="Brujah_icon.png" /> [Brujah](./brujah.md)</p></td>
 <td style="white-space: nowrap;"><p><img src="Banu_icon.png"
-title="Banu_icon.png" alt="Banu_icon.png" /> <a href="Banu_Haqim"
-class="wikilink" title="Banu Haqim">Banu Haqim</a></p></td>
+title="Banu_icon.png" alt="Banu_icon.png" /> [Banu Haqim](./banu.md)</p></td>
 <td style="white-space: nowrap;"><p><img src="Ministry_icon.png"
-title="Ministry_icon.png" alt="Ministry_icon.png" /> <a
-href="The_Ministry" class="wikilink" title="The Ministry">The
-Ministry</a></p></td>
+title="Ministry_icon.png" alt="Ministry_icon.png" /> [The Ministry](./ministry.md)</p></td>
 <td style="white-space: nowrap;"><p><img src="Lasombra_icon.png"
-title="Lasombra_icon.png" alt="Lasombra_icon.png" /> <a href="Lasombra"
-class="wikilink" title="Lasombra">Lasombra</a></p></td>
+title="Lasombra_icon.png" alt="Lasombra_icon.png" /> [Lasombra](./lasombra.md)</p></td>
 <td style="white-space: nowrap;"><p><img src="Hecata_icon.png"
-title="Hecata_icon.png" alt="Hecata_icon.png" /> <a href="Hecata"
-class="wikilink" title="Hecata">Hecata</a></p></td>
+title="Hecata_icon.png" alt="Hecata_icon.png" /> [Hecata](./hecata.md)</p></td>
 <td style="white-space: nowrap;"><p><img src="Ravnos_icon.png"
-title="Ravnos_icon.png" alt="Ravnos_icon.png" /> <a href="Ravnos"
-class="wikilink" title="Ravnos">Ravnos</a></p></td>
+title="Ravnos_icon.png" alt="Ravnos_icon.png" /> [Ravnos](./ravnos.md)</p></td>
 <td><p><img src="Banu_icon.png" title="Banu_icon.png"
-alt="Banu_icon.png" /> <a href="Banu_Haqim" class="wikilink"
-title="Banu Haqim">Banu Haqim</a></p></td>
+alt="Banu_icon.png" /> [Banu Haqim](./banu.md)</p></td>
 </tr>
 <tr>
 <td style="white-space: nowrap;"><p><img src="Gangrel_icon.png"
-title="Gangrel_icon.png" alt="Gangrel_icon.png" /> <a href="Gangrel"
-class="wikilink" title="Gangrel">Gangrel</a></p></td>
+title="Gangrel_icon.png" alt="Gangrel_icon.png" /> [Gangrel](./gangrel.md)</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td style="white-space: nowrap;"><p><img src="Salubri_icon.png"
-title="Salubri_icon.png" alt="Salubri_icon.png" /> <a href="Salubri"
-class="wikilink" title="Salubri">Salubri</a></p></td>
+title="Salubri_icon.png" alt="Salubri_icon.png" /> [Salubri](./salubri.md)</p></td>
 <td><p><img src="Hecata_icon.png" title="Hecata_icon.png"
-alt="Hecata_icon.png" /> <a href="Hecata" class="wikilink"
-title="Hecata">Hecata</a></p></td>
+alt="Hecata_icon.png" /> [Hecata](./hecata.md)</p></td>
 </tr>
 <tr>
 <td style="white-space: nowrap;"><p><img src="Malkavian_icon.png"
-title="Malkavian_icon.png" alt="Malkavian_icon.png" /> <a
-href="Malkavian" class="wikilink"
-title="Malkavian">Malkavian</a></p></td>
+title="Malkavian_icon.png" alt="Malkavian_icon.png" /> [Malkavian](./malkavian.md)</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td style="white-space: nowrap;"><p><img src="Tzimisce_icon.png"
-title="Tzimisce_icon.png" alt="Tzimisce_icon.png" /> <a href="Tzimisce"
-class="wikilink" title="Tzimisce">Tzimisce</a></p></td>
+title="Tzimisce_icon.png" alt="Tzimisce_icon.png" /> [Tzimisce](./tzimisce.md)</p></td>
 <td><p><img src="Lasombra_icon.png" title="Lasombra_icon.png"
-alt="Lasombra_icon.png" /> <a href="Lasombra" class="wikilink"
-title="Lasombra">Lasombra</a></p></td>
+alt="Lasombra_icon.png" /> [Lasombra](./lasombra.md)</p></td>
 </tr>
 <tr>
 <td style="white-space: nowrap;"><p><img src="Nosferatu_icon.png"
-title="Nosferatu_icon.png" alt="Nosferatu_icon.png" /> <a
-href="Nosferatu" class="wikilink"
-title="Nosferatu">Nosferatu</a></p></td>
+title="Nosferatu_icon.png" alt="Nosferatu_icon.png" /> [Nosferatu](./nosferatu.md)</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td><p><img src="Ministry_icon.png" title="Ministry_icon.png"
-alt="Ministry_icon.png" /> <a href="The_Ministry" class="wikilink"
-title="The Ministry">The Ministry</a></p></td>
+alt="Ministry_icon.png" /> [The Ministry](./ministry.md)</p></td>
 </tr>
 <tr>
 <td style="white-space: nowrap;"><p><img src="Toreador_icon.png"
-title="Toreador_icon.png" alt="Toreador_icon.png" /> <a href="Toreador"
-class="wikilink" title="Toreador">Toreador</a></p></td>
+title="Toreador_icon.png" alt="Toreador_icon.png" /> [Toreador](./toreador.md)</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td><p><img src="Ravnos_icon.png" title="Ravnos_icon.png"
-alt="Ravnos_icon.png" /> <a href="Ravnos" class="wikilink"
-title="Ravnos">Ravnos</a></p></td>
+alt="Ravnos_icon.png" /> [Ravnos](./ravnos.md)</p></td>
 </tr>
 <tr>
 <td style="white-space: nowrap;"><p><img src="Tremere_icon.png"
-title="Tremere_icon.png" alt="Tremere_icon.png" /> <a href="Tremere"
-class="wikilink" title="Tremere">Tremere</a></p></td>
+title="Tremere_icon.png" alt="Tremere_icon.png" /> [Tremere](./tremere.md)</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td><p><img src="Salubri_icon.png" title="Salubri_icon.png"
-alt="Salubri_icon.png" /> <a href="Salubri" class="wikilink"
-title="Salubri">Salubri</a></p></td>
+alt="Salubri_icon.png" /> [Salubri](./salubri.md)</p></td>
 </tr>
 <tr>
 <td style="white-space: nowrap;"><p><img src="Ventrue_icon.png"
-title="Ventrue_icon.png" alt="Ventrue_icon.png" /> <a href="Ventrue"
-class="wikilink" title="Ventrue">Ventrue</a></p></td>
+title="Ventrue_icon.png" alt="Ventrue_icon.png" /> [Ventrue](./ventrue.md)</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td><p><img src="Tzimisce_icon.png" title="Tzimisce_icon.png"
-alt="Tzimisce_icon.png" /> <a href="Tzimisce" class="wikilink"
-title="Tzimisce">Tzimisce</a></p></td>
+alt="Tzimisce_icon.png" /> [Tzimisce](./tzimisce.md)</p></td>
 </tr>
 <tr>
 <td style="white-space: nowrap;"><p><img src="Caitiff_icon.png"
-title="Caitiff_icon.png" alt="Caitiff_icon.png" /> <a href="Caitiff"
-class="wikilink" title="Caitiff">Caitiff</a></p></td>
+title="Caitiff_icon.png" alt="Caitiff_icon.png" /> [Caitiff](./caitiff.md)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -188,9 +162,7 @@ class="wikilink" title="Caitiff">Caitiff</a></p></td>
 </tr>
 <tr>
 <td style="white-space: nowrap;"><p><img src="Thinblood_icon.png"
-title="Thinblood_icon.png" alt="Thinblood_icon.png" /> <a
-href="Thin-blood" class="wikilink"
-title="Thin-blood">Thin-blood</a></p></td>
+title="Thinblood_icon.png" alt="Thinblood_icon.png" /> [Thin-blood](./thinblood.md)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -268,7 +240,7 @@ When building the sheet; the player will place one attribute at 1 dot,
 four attributes at 2 dots, three attributes at 3 dots, and one final
 attribute at 4 dots with this being the vampire's best trait.
 
-### <a href="Physical" class="wikilink" title="Physical">Physical</a>
+### [Physical](./physical.md)
 
 The Physical Attributes measure the general Strength, Dexterity, and
 Stamina of a character. These Attributes represent the mortal prowess of
@@ -276,20 +248,20 @@ a vampire's body. Though through the use of certain Disciplines,
 vampires often exceed the abilities of an otherwise frail-looking
 physique.
 
-**<a href="Strength" class="wikilink" title="Strength">Strength</a>:**
+**[Strength](./strength.md):**
 How strong the character is, how much they can lift, and how much force
 they can exert.
 
-**<a href="Dexterity" class="wikilink" title="Dexterity">Dexterity</a>:**
+**[Dexterity](./dexterity.md):**
 How agile a character is, how graceful they can be, or how nimble those
 fingers are.
 
-**<a href="Stamina" class="wikilink" title="Stamina">Stamina</a>:** The
+**[Stamina](./stamina.md):** The
 character's physical resistance, how long they can persevere through
 hazards and other strenuous activities, or how much damage they can
 absorb.
 
-### <a href="Social" class="wikilink" title="Social">Social</a>
+### [Social](./social.md)
 
 The Social Attributes reflect how easily the character can communicate
 with vampires and mortals alike to achieve their goals. Through
@@ -299,37 +271,35 @@ interactions are shaped through their ability to charm, persuade and
 motivate others to help them; though it is not always as wholesome as it
 may seem.
 
-**<a href="Charisma" class="wikilink" title="Charisma">Charisma</a>:**
+**[Charisma](./charisma.md):**
 Determines the character's natural appeal, charm and grace. With this
 attribute they'll be able to draw people into them although do not
 mistake this for good looks, that is a merit all on it's own. [5]
 
-**<a href="Manipulation" class="wikilink"
-title="Manipulation">Manipulation</a>:** Showcases how skilled the
+**[Manipulation](./manipulation.md):** Showcases how skilled the
 character is at being an effective liar, their ability to twist others
 to a winning point of view, and how deceptive they are.
 
-**<a href="Composure" class="wikilink" title="Composure">Composure</a>:**
+**[Composure](./composure.md):**
 Reflects how well the character can maintain and command their own
 emotions. As well as how easily they can calm nerves and the anxieties
 of others. It also represents their ability to stay calm-headed in
 heated situations such as verbal fights and even firefights.
 
-### <a href="Mental" class="wikilink" title="Mental">Mental</a>
+### [Mental](./mental.md)
 
 The Mental Attributes represent the character's natural intuition, the
 ability to learn quickly and react quickly with thoughts rather than
 their bodies. It also represents their determination and dedication to
 accomplishing something.
 
-**<a href="Intelligence" class="wikilink"
-title="Intelligence">Intelligence</a>:** Represents the character's
+**[Intelligence](./intelligence.md):** Represents the character's
 ability to gather knowledge through research or reason as well as apply
 logic to an ongoing problem. They have an easier time recalling
 information they have gathered before and can analyze information from
 the world around them or the books they've read.
 
-**<a href="Wits" class="wikilink" title="Wits">Wits</a>:** Reflects the
+**[Wits](./wits.md):** Reflects the
 character's ability to think quickly on their feet and make decisions
 based on the information around them or from prior knowledge. Wits allow
 the character to pick up sounds and smells around them, perhaps
@@ -339,7 +309,7 @@ the heat of the moment. Rather than mulling on it the next night and
 realizing they had the perfect comeback to that snobby harpy the entire
 time.
 
-**<a href="Resolve" class="wikilink" title="Resolve">Resolve</a>:**
+**[Resolve](./resolve.md):**
 Measures the raw determination of a character and how strong their focus
 truly is. This Attribute powers the all-night stakeouts. Allowing the
 character to create a mental block from any distractions, showcasing
@@ -347,11 +317,11 @@ their mental fortitude and concentration.
 
 From these players can derive a few more traits.
 
-- **<a href="Health" class="wikilink" title="Health">Health</a>:**
+- **[Health](./health.md):**
   Stamina+3
-- **<a href="Willpower" class="wikilink" title="Willpower">Willpower</a>:**
+- **[Willpower](./willpower.md):**
   Composure + Resolve [6]
-- **<a href="Humanity" class="wikilink" title="Humanity">Humanity</a>:**
+- **[Humanity](./humanity.md):**
   The base Humanity for a neonate and lower is 7, not including any
   changes from their Predator types. It is possible for a fresh embrace
   to begin at Humanity 8. [7]
@@ -386,121 +356,117 @@ specialty can instead be converted to the first dot of one Skill. [9]
 
 ### Physical
 
-**<a href="Athletics" class="wikilink" title="Athletics">Athletics</a>:**
+**[Athletics](./athletics.md):**
 Running, jumping, and climbing are all actions within Athletics. Dodging
 a well-thrown punch in the heat of combat and throwing an item or weapon
 is also Athletics.
 
-**<a href="Brawl" class="wikilink" title="Brawl">Brawl</a>:** Combat
+**[Brawl](./brawl.md):** Combat
 focused on using the body as a weapon rather than an item.
 
-**<a href="Craft" class="wikilink" title="Craft">Craft</a>:** Creating,
+**[Craft](./craft.md):** Creating,
 building, or shaping items such as artwork but also making a makeshift
 catapult.
 
-**<a href="Drive" class="wikilink" title="Drive">Drive</a>:** Driving
+**[Drive](./drive.md):** Driving
 vehicles specifically under duress and adverse or difficult conditions.
 Also used for working on cars or general mechanic skills.
 
-**<a href="Firearms" class="wikilink" title="Firearms">Firearms</a>:**
+**[Firearms](./firearms.md):**
 Using ranged weaponry such as bows and guns as well as gunsmithing and
 repair of said items.
 
-**<a href="Larceny" class="wikilink" title="Larceny">Larceny</a>:**
+**[Larceny](./larceny.md):**
 Lockpicking a locked door or breaking in other ways, pickpocketing and
 sleight of hand.
 
-**<a href="Melee" class="wikilink" title="Melee">Melee</a>:** Combat
+**[Melee](./melee.md):** Combat
 focused around using handheld weaponry such as a lead pipe or a baseball
 bat.
 
-**<a href="Stealth" class="wikilink" title="Stealth">Stealth</a>:**
+**[Stealth](./stealth.md):**
 Blending into surroundings to either not be seen or not be recognized,
 allows characters to move around without alerting anyone of their
 presence either by sight or sound.
 
-**<a href="Survival" class="wikilink" title="Survival">Survival</a>:**
+**[Survival](./survival.md):**
 Using nature to find shelter, tracking animals or people, and general
 survival in the wilderness.
 
 ### Social
 
-**<a href="Animal_Ken" class="wikilink" title="Animal Ken">Animal Ken</a>:**
+**[Animal Ken](./animal_ken.md):**
 Understanding and reading animal behavior to handle them and work with
 them.
 
-**<a href="Etiquette" class="wikilink" title="Etiquette">Etiquette</a>:**
+**[Etiquette](./etiquette.md):**
 The ability to interact in social settings or blend into different
 groups.
 
-**<a href="Insight" class="wikilink" title="Insight">Insight</a>:**
+**[Insight](./insight.md):**
 Reading body language and other cues to discern emotions, thoughts, or
 motives.
 
-**<a href="Intimidation" class="wikilink"
-title="Intimidation">Intimidation</a>:** Using menacing presence or
+**[Intimidation](./intimidation.md):** Using menacing presence or
 direct force to ensure compliance, submission, or fear from others. As
 well as using threats to persuade them to back down.
 
-**<a href="Leadership" class="wikilink" title="Leadership">Leadership</a>:**
+**[Leadership](./leadership.md):**
 Motivating, inspiring, or commanding the character's followers.
 
-**<a href="Performance" class="wikilink"
-title="Performance">Performance</a>:** Showcasing the character's art in
+**[Performance](./performance.md):** Showcasing the character's art in
 front of a crowd regardless of size. Singing, acting, and oration are
 all examples of this.
 
-**<a href="Persuasion" class="wikilink" title="Persuasion">Persuasion</a>:**
+**[Persuasion](./persuasion.md):**
 Convincing or swaying others to do the character's will or at least
 agree with their stance.
 
-**<a href="Streetwise" class="wikilink" title="Streetwise">Streetwise</a>:**
+**[Streetwise](./streetwise.md):**
 Knowledge of the streets in criminal and urban societies, being able to
 locate a gang or dealer, knowing which shortcut will be the fastest.
 
-**<a href="Subterfuge" class="wikilink" title="Subterfuge">Subterfuge</a>:**
+**[Subterfuge](./subterfuge.md):**
 Deceiving others to complete the character's desires or agree with them
 or manipulating the truth to further their goals.
 
 ### Mental
 
-**<a href="Academics" class="wikilink" title="Academics">Academics</a>:**
+**[Academics](./academics.md):**
 Topics surrounding the humanities and liberal arts.
 
-**<a href="Awareness" class="wikilink" title="Awareness">Awareness</a>:**
+**[Awareness](./awareness.md):**
 Vigilant to their surroundings and the ability to understand/react to
 threats.
 
-**<a href="Finance" class="wikilink" title="Finance">Finance</a>:**
+**[Finance](./finance.md):**
 Knowing how to move and make money legally or not, being able to handle
 finances and their taxes.
 
-**<a href="Investigation" class="wikilink"
-title="Investigation">Investigation</a>:** Being able to find and follow
+**[Investigation](./investigation.md):** Being able to find and follow
 clues, decipher their meaning and solve a mystery.
 
-**<a href="Medicine" class="wikilink" title="Medicine">Medicine</a>:**
+**[Medicine](./medicine.md):**
 Handling mortal injuries and diagnosing/treating diseases.
 
-**<a href="Occult" class="wikilink" title="Occult">Occult</a>:**
+**[Occult](./occult.md):**
 Mystical knowledge of the supernatural and rituals, Kindred related or
 not.
 
-**<a href="Politics" class="wikilink" title="Politics">Politics</a>:**
+**[Politics](./politics.md):**
 Knowing the inner workings of the government, mortal or not.
 
-**<a href="Science" class="wikilink" title="Science">Science</a>:**
+**[Science](./science.md):**
 Scientific knowledge and theory of the real world.
 
-**<a href="Technology" class="wikilink" title="Technology">Technology</a>:**
+**[Technology](./technology.md):**
 Internet and computer comprehension, hacking and breaking into secure
 information through the use of technology.
 
 ## Disciplines
 
   
-*Main Article: <a href="Disciplines" class="wikilink"
-title="Disciplines">Disciplines</a>*
+*Main Article: [Disciplines](./disciplines.md)*
 
 Disciplines are selected from the character's three clan Disciplines.
 Pick two of them; one of the two chosen Disciplines starts at level 2,
@@ -512,13 +478,12 @@ total of five powers if the Discipline is maxed out.
 
 The Caitiff do not have in-clan Disciplines and instead can pick from
 all Disciplines. Thin-bloods, unless they have
-<a href="Merits_and_Flaws#Discipline_Affinity" class="wikilink"
-title="Discipline Affinity">Discipline Affinity</a>, do not have
+[Discipline Affinity](./merits_flaws.md#discipline-affinity), do not have
 permanent access to Disciplines other than
 <a href="Thin-blood_Alchemy" class="wikilink"
 title="Thin-blood Alchemy">Thin-blood Alchemy</a>, relying instead on
 temporarily gaining Disciplines from feeding from mortals with different
-<a href="Resonance" class="wikilink" title="Resonances">Resonances</a>.
+[Resonances](./resonance.md).
 
 ## Chronicle Tenets
 
@@ -562,8 +527,7 @@ with each Conviction being tied directly to a Touchstone.
 ### Merits and Flaws
 
   
-*Main Article: <a href="Merits_and_Flaws" class="wikilink"
-title="Merits and Flaws">Merits and Flaws</a>*
+*Main Article: [Merits and Flaws](./merits_flaws.md)*
 
 Alongside their Attributes, Skills, and Disciplines, Kindred also have
 Advantages from the time before they started the Chronicle. Advantages
@@ -581,7 +545,7 @@ problems for the characters.
 
   
 *Main Article:
-<a href="Loresheets" class="wikilink" title="Loresheets">Loresheets</a>*
+[Loresheets](./loresheets.md)*
 
 Loresheets can be purchased using the 7 dots of Advantages listed above
 or with Experience Points.
@@ -599,8 +563,7 @@ Merits</a>*
 
   
 *Main Article:
-<a href="Blood_Potency" class="wikilink" title="Blood Potency">Blood
-Potency</a>*
+[Blood Potency](./blood_potency.md)*
 
 The character sheet contains a chart which should be filled out
 according to what Blood Potency the character is, this is usually

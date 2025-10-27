@@ -1,14 +1,13 @@
 Each clan has a unique clan curse, known as a Bane. These are
 limitations and weaknesses of the clan that can never be removed. The
 curses vary depending on the clan and set the main clans apart from the
-<a href="Caitiff" class="wikilink" title="Caitiff">Caitiff</a> and
-<a href="Thin-blood" class="wikilink" title="Thin-blood">Thin-blood</a>.
+[Caitiff](./caitiff.md) and
+[Thin-blood](./thinblood.md).
 
 ## Bane severity
 
 A number calculated from the character's
-<a href="Blood_Potency" class="wikilink" title="Blood Potency">Blood
-Potency</a> which determines how damaging or dangerous their Bane may be
+[Blood Potency](./blood_potency.md) which determines how damaging or dangerous their Bane may be
 to them.
 
 ## Clan Banes

@@ -27,10 +27,9 @@ Carpentry, Carving, Design, Painting, Sculpting, Sewing, Weaponsmith [4]
 
 ## Example pools
 
-- <a href="Wits" class="wikilink" title="Wits">Wits</a> + Craft
+- [Wits](./wits.md) + Craft
   - Board up a door in record speed and it can hold. [5]
-- <a href="Intelligence" class="wikilink"
-  title="Intelligence">Intelligence</a> + Craft
+- [Intelligence](./intelligence.md) + Craft
   - Convince the city to build something with magical geometry. [6]
   - Tagging something with graffiti, or making poster art/painting. [7]
   - Build false compartments. [8]

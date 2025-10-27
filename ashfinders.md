@@ -5,7 +5,7 @@
 <section begin=summary/>
 
 The Ashfinders are a cult built up primarily by
-<a href="Thin-blood" class="wikilink" title="thin-blood">thin-blood</a>
+[thin-blood](./thinblood.md)
 who utilize social media to revel in unlife's greatest pleasures and in
 doing so strike back at the elders who oppress them. Within this cult,
 they've also found a way to cultivate their powers and gain strength
@@ -15,7 +15,7 @@ factions. While there may be Kindred who understand or sympathize with
 the struggles of the thin-bloods, this cult is seen as a threat to
 vampiric society. Ashfinder ranks are primarily thin-bloods, however,
 there are a few true Kindred who support them and, those that do tend to
-have <a href="Anarch" class="wikilink" title="Anarch">Anarch</a> leaning
+have [Anarch](./anarch.md) leaning
 tendencies.
 
 <section end=summary/>
@@ -26,15 +26,13 @@ With the aid of a Tremere vampire known as Dr. Mortius, the thin-blood
 were given thaumaturgical ability and information in trade for their
 Ashe. The Ashe is a drug created from vampire remains using the
 necromantic side of
-<a href="Oblivion" class="wikilink" title="Oblivion">Oblivion</a>,
+[Oblivion](./oblivion.md),
 <a href="Thin-blood_Alchemy" class="wikilink"
 title="Thin-blood Alchemy">Thin-blood Alchemy</a>, and
-<a href="Blood_Sorcery" class="wikilink" title="Blood Sorcery">Blood
-Sorcery</a> combined to consume the shattered remains of the Beast. This
+[Blood Sorcery](./blood_sorcery.md) combined to consume the shattered remains of the Beast. This
 drug can be consumed however one prefers, whether eaten, injected,
 snorted, or rubbed into the skin. Ashe allows them to share the
-memories, abilities, and <a href="Disciplines" class="wikilink"
-title="Disciplines">Disciplines</a> of dead Kindred, all blended
+memories, abilities, and [Disciplines](./disciplines.md) of dead Kindred, all blended
 together in a euphoric experience. Rumors exist that the drug might
 offer a brief reprieve from the ever-gnawing Hunger the undead face. The
 drug itself is highly addictive with dangerous side effects if taken in
@@ -87,8 +85,7 @@ power located in Ibiza.[8]
 
 ## Exclusive Loresheets
 
-• <a href="Loresheets#The_Ashfinders" class="wikilink"
-title="The Ashfinders">The Ashfinders</a> [9]
+• [The Ashfinders](./loresheets.md#the-ashfinders) [9]
 
 ## References
 

@@ -6,25 +6,25 @@ Boston is an American city located in the New England region of the USA.
 It is the seat of power in which the ruling Prince usually reigns over
 the region. It is also a domain that has not known peace; once a
 battleground for the
-<a href="London,_UK" class="wikilink" title="London">London</a>
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>,
+[London](./london_uk.md)
+[Camarilla](./camarilla.md),
 Boston Camarilla, and
-<a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a> with some
+[Sabbat](./sabbat.md) with some
 meddling from the
-<a href="Hecata" class="wikilink" title="Hecata">Hecata</a>. The former
+[Hecata](./hecata.md). The former
 Prince was a
-<a href="Malkavian" class="wikilink" title="Malkavian">Malkavian</a>
+[Malkavian](./malkavian.md)
 <a href="Quentin_King_III" class="wikilink"
 title="Quentin King III">Quentin King III</a>, who ruled with his
 repressive coteries, the Redcoats. Caught between factions, elders, and
 his own Primogen council. The constant fighting suddenly ended in the
 2000s when the Sabbat left, the elders
-<a href="Beckoning" class="wikilink" title="Beckoned">Beckoned</a>, the
+[Beckoned](./beckoning.md), the
 Hecata withdrew, and then finally the Prince disappeared. Years later,
 the relatively young ancilla, Prince
 <a href="Hazel_Iversen" class="wikilink" title="Hazel Iversen">Hazel
 Iversen</a> of clan
-<a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a>, now
+[Ventrue](./ventrue.md), now
 rules—a stronger-willed Prince than the Primogen council expected. Time
 will tell if she can bring all of New England under her rule or fall to
 the hidden threats of the region.
@@ -47,13 +47,13 @@ Iversen</a>[4][5][6]
 **Scourge:**
 <a href="Galeb_Bazory" class="wikilink" title="Galeb Bazory">Galeb
 Bazory</a>,
-<a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a> [7]
+[Ventrue](./ventrue.md) [7]
 
 **Primogen:**[8]
 
 - <a href="Hilda_MacAndrews" class="wikilink"
   title="Hilda MacAndrews">Hilda MacAndrews</a>,
-  <a href="Toreador" class="wikilink" title="Toreador">Toreador</a> -
+  [Toreador](./toreador.md) -
   Respected by the artistic types and creatives. One of the eldest.
 
 <!-- -->
@@ -66,20 +66,20 @@ Bazory</a>,
 
 - <a href="Richard_Dunham" class="wikilink" title="Richard Dunham">Richard
   Dunham</a>,
-  <a href="Malkavian" class="wikilink" title="Malkavian">Malkavian</a> -
+  [Malkavian](./malkavian.md) -
   Kept his seat even as Malkavians were scapegoated. He has his faction
   of thinkers, planners, and British Cam defectors. Some Malkavian are
   frustrated at the lack of clan advocacy.
 - <a href="Jara_Drory" class="wikilink" title="Jara Drory">Jara Drory</a>,
-  <a href="Nosferatu" class="wikilink" title="Nosferatu">Nosferatu</a> -
+  [Nosferatu](./nosferatu.md) -
   Popular to information brokers or get around the Prince’s punishment
 - <a href="Delsin_Coates" class="wikilink" title="Delsin Coates">Delsin
   Coates</a>,
-  <a href="Gangrel" class="wikilink" title="Gangrel">Gangrel</a> -
+  [Gangrel](./gangrel.md) -
   Deeply loyal to Hazel to almost a fault. Her enforcer at times. [9]
 - <a href="Dajan_Siaka" class="wikilink" title="Dajan Siaka">Dajan
   Siaka</a>,
-  <a href="Tremere" class="wikilink" title="Tremere">Tremere</a> -
+  [Tremere](./tremere.md) -
   Popular with outsiders or newly arrived who want an in with Boston.
   Appointed by Hazel.[10]
 
@@ -94,7 +94,7 @@ Atkins</a>, Toreador[12]
 ### The Anarchs of New England
 
 Often called “the Patriots” to refer to all New England
-<a href="Anarch" class="wikilink" title="Anarchs">Anarchs</a>. Their
+[Anarchs](./anarch.md). Their
 main base is Worcester, Massachusetts, with reach in the suburbs and
 parts of Boston.[13][14]
 
@@ -108,7 +108,7 @@ parts of Boston.[13][14]
 <!-- -->
 
 - <a href="Saule" class="wikilink" title="Saule">Saule</a> - Rebellious
-  <a href="Gangrel" class="wikilink" title="Gangrel">Gangrel</a> biker
+  [Gangrel](./gangrel.md) biker
   originally embraced in the Canadian wild in the late 19th century. She
   leads the Dead Ferals and has a hideout in Dorchester. Works with Emem
   so Anarch gangs can use the Rose’s clubs to talk.
@@ -119,8 +119,7 @@ parts of Boston.[13][14]
   a hacktivist group of Kindred who use their technological know-how to
   fight the tower. He is secretly Prince Iversen’s first childe who
   survived
-  <a href="Final_death" class="wikilink" title="Final Death">Final
-  Death</a>. Now he is obsessed with Iversen’s downfall and fearful she
+  [Final Death](./final_death.md). Now he is obsessed with Iversen’s downfall and fearful she
   will realize he survived.
 
 #### Anarch Groups
@@ -220,7 +219,7 @@ The old faction of British Camarilla that dominated the region, loyal to
 fighting coteries called the Redcoats were used take over New England to
 enforce Triad rule, suppress the Kindred of Liberty, and fight the
 Sabbat. They were led by three elders, but the
-<a href="Beckoning" class="wikilink" title="Beckoning">Beckoning</a>
+[Beckoning](./beckoning.md)
 seems to have called them away. Modern nights, they have seemingly
 retreated or converted to the Boston Camarilla, though some say the old
 guard bides their time waiting for a new invasion.[33][34]
@@ -228,7 +227,7 @@ guard bides their time waiting for a new invasion.[33][34]
 Former leaders:
 
 - Pendragon,
-  <a href="Brujah" class="wikilink" title="Brujah">Brujah</a>. - Led the
+  [Brujah](./brujah.md). - Led the
   war effort against the Sabbat and any resistance in his way. He
   focused on Maine, New Hampshire, and Vermont to combat the Crimson
   Tide.[35]
@@ -266,7 +265,7 @@ as the Boston Camarilla and current ruling government.[42]
 #### The Crimson Tide
 
 The name for New England's
-<a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a>. They used
+[Sabbat](./sabbat.md). They used
 the tactic of mass Embrace in smaller communities and using them as
 shock troops to urban centers. Other tactics include kidnapping ghouls,
 indoctrinating then, then using them for day time raids. They were often
@@ -339,8 +338,7 @@ has various locations that operate as an invite-only supermarket for
 trafficked vessels in a secure location. Even with induced resonances.
 Underworld works the finances and Duhham the science behind it. The
 Salons have some friction with the rival
-<a href="Circulatory_System" class="wikilink"
-title="Circulatory System">Circulatory System</a>. The Anarchs
+[Circulatory System](./circulatory_system.md). The Anarchs
 cautiously back this practice.[57][58][59]
 
 ### Elysia
@@ -400,21 +398,21 @@ is known as Stephan Thunderhorse of Clan Ventrue. [65][66][67]
 The Tremere first saw dominance and influence in the region in the 17th
 and 18th century, weathering these forces. The first to come to the
 region was Madeline Coventry,
-<a href="Tremere" class="wikilink" title="Tremere">Tremere</a> Elder
+[Tremere](./tremere.md) Elder
 from the British Winchester Chantry in 1635. She first founded the Salem
 Chantry and soon influenced Boston. She got her Tremere from those that
 would have died in the Salem Witch Trials. The
-<a href="Ventrue" class="wikilink" title="Clan Ventrue">Clan Ventrue</a>
+[Clan Ventrue](./ventrue.md)
 and
-<a href="Brujah" class="wikilink" title="Clan Brujah">Clan Brujah</a>
+[Clan Brujah](./brujah.md)
 arrived in droves to the region, starting their conflict for power and
 influence. They were Kindred who sought to free themselves of elders
 from the old world in the Americas. The Ventrue took control of
 Massachusetts Bay Colony, at constant odds with the Brujah. It was soon
 realized it was more than just those three main clans; the
-<a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a> had already
+[Sabbat](./sabbat.md) had already
 arrived previously with the Spanish they were starting to encroach and
-the <a href="Gangrel" class="wikilink" title="Gangrel">Gangrel</a>
+the [Gangrel](./gangrel.md)
 skulked in the wilds near
 <a href="Lupine" class="wikilink" title="Lupine">Lupine</a>
 territory.[68][69]
@@ -453,14 +451,13 @@ events.[70][71]
 
 Things improved a bit in the mid-19th century, as the Sabbat faced a
 major challenge, the British Camarilla from the Prince of
-<a href="London,_UK" class="wikilink" title="London">London</a>,
+[London](./london_uk.md),
 <a href="Mithras" class="wikilink" title="Mithras">Mithras</a>. However
 instead of aiding the New England Camarilla, the British Camarilla
 sought to subjugate all. This resulted in a three-way war: the Sabbat
 and the two sides of the Camarilla. The British Camarilla coterie of
 elders called the Triad, was assigned by Mithras. The three
-<a href="Mithraic_Mysteries" class="wikilink"
-title="Mithraist">Mithraist</a> Lords of the Triad coterie were
+[Mithraist](./mithraic_mysteries.md) Lords of the Triad coterie were
 Pendragon of Clan Brujah, Warwick of Clan Nosferatu, and Biltmore of
 Clan Malkavian.
 

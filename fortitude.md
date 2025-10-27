@@ -5,27 +5,26 @@ The hardiness it creates helps many kindred survive and is a trait most
 immortal would seek out to survive the violence, fire, and supernatural
 coercion they experience during their nights.[1]
 
-The <a href="Gangrel" class="wikilink" title="Gangrel">Gangrel</a> who
+The [Gangrel](./gangrel.md) who
 develop their strengths in this Discipline expect harm to come their
 way, serving as bodyguards or soldiers for other kindred. This also
 allows them to track and hunt prey in harsh environments. Their innate
 prowess with
-<a href="Animalism" class="wikilink" title="Animalism">Animalism</a>
+[Animalism](./animalism.md)
 links them to their animals even more with
-<a href="Fortitude#Enduring_Beasts" class="wikilink"
-title="Enduring Beasts">Enduring Beasts</a>.[2]
-<a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a> use this
+[Enduring Beasts](./fortitude.md#enduring-beasts).[2]
+[Ventrue](./ventrue.md) use this
 power to uphold their thrones even when armies amass against them,
 feeding in adverse situations. They never run short of vitae and always
 take their fill.[3] While the
-<a href="Hecata" class="wikilink" title="Hecata">Hecata</a> are closer
+[Hecata](./hecata.md) are closer
 to death than any other clan, they use this power to keep above it. As
 attacks reign down upon them, they shrug them off and throwback with
 their Necromancy.[4] The
-<a href="Salubri" class="wikilink" title="Salubri">Salubri</a> avoid
+[Salubri](./salubri.md) avoid
 elimination through the use of these powers, but also enhance it in
 their own way to aid others through the use of
-<a href="Fortitude#Valeren" class="wikilink" title="Valeren">Valeren</a>.[5]
+[Valeren](./fortitude.md#valeren).[5]
 
 ## List of available powers
 
@@ -159,8 +158,7 @@ title="Players Guide">Players Guide</a>, page 74</li>
 <td><p>Share the vampire's toughness with animals.</p></td>
 <td data-sort-value="1"><p>One Rouse Check</p></td>
 <td><p>None</p></td>
-<td><p><a href="Animalism" class="wikilink"
-title="Animalism">Animalism</a> ●</p></td>
+<td><p>[Animalism](./animalism.md) ●</p></td>
 <td><p>One scene</p></td>
 <td><p>Stamina + Animalism</p></td>
 <td><p>N/A</p></td>
@@ -177,8 +175,7 @@ title="Corebook">Corebook</a>, page 258</li>
 <td><p>Heal mortals faster with the Blood.</p></td>
 <td><p>None other than the Rouse Checks to give Blood</p></td>
 <td><p>None</p></td>
-<td><p><a href="Auspex" class="wikilink" title="Auspex ●">Auspex
-●</a></p></td>
+<td><p>[Auspex ●](./auspex.md)</p></td>
 <td><p>Passive</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
@@ -193,7 +190,7 @@ title="Players Guide">Players Guide</a>, page 75</li>
 <td><p>Maintain footing when hit with a massive force.</p></td>
 <td data-sort-value="2"><p>One Rouse Check</p></td>
 <td><p>None</p></td>
-<td><p><a href="Potence" class="wikilink" title="Potence">Potence</a>
+<td><p>[Potence](./potence.md)
 ●●</p></td>
 <td><p>One scene</p></td>
 <td><p>Wits + Survival</p></td>
@@ -313,8 +310,7 @@ page 44</li>
 <td><p>Mend an injured vampire.</p></td>
 <td><p>One Rouse Check</p></td>
 <td><p>None</p></td>
-<td><p><a href="Auspex" class="wikilink" title="Auspex ●">Auspex
-●</a></p></td>
+<td><p>[Auspex ●](./auspex.md)</p></td>
 <td><p>N/A</p></td>
 <td><p>Intelligence + Fortitude</p></td>
 <td><p>N/A</p></td>
@@ -394,8 +390,7 @@ title="Corebook">Corebook</a>, page 259</li>
 </tr>
 <tr>
 <td><p><strong>Gorgon’s Scales</strong></p></td>
-<td><p><a href="Resonance" class="wikilink"
-title="Resonances">Resonances</a> give the Kindred different
+<td><p>[Resonances](./resonance.md) give the Kindred different
 bonuses.</p></td>
 <td><p>One Rouse Check</p></td>
 <td><p>None</p></td>
@@ -404,8 +399,7 @@ bonuses.</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
 <td><p>Choleric frees vampires from being staked, Melancholy reduces
-fire damage, Phlegmatic strengthens against <a href="Auspex"
-class="wikilink" title="Auspex">Auspex</a> and, Sanguine reduces damage
+fire damage, Phlegmatic strengthens against [Auspex](./auspex.md) and, Sanguine reduces damage
 from sunlight.</p></td>
 <td><ul>
 <li><a href="Vampire:_The_Masquerade_Players_Guide" class="wikilink"
@@ -416,8 +410,7 @@ title="Players Guide">Players Guide</a>, page 75</li>
 <td><p><strong>Shatter</strong></p></td>
 <td><p>The opponent takes the damage which Toughness subtracts.</p></td>
 <td data-sort-value="2"><p>One Rouse Check</p></td>
-<td><p><a href="Fortitude#Toughness" class="wikilink"
-title="Toughness">Toughness</a></p></td>
+<td><p>[Toughness](./fortitude.md#toughness)</p></td>
 <td><p>No</p></td>
 <td><p>One scene or until hit</p></td>
 <td><p>N/A</p></td>
@@ -555,9 +548,8 @@ Fortitude;
 <img src="Auspex_symbol.png" title="Auspex_symbol.png" width="42" />
 <figcaption>Auspex_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Auspex#Obeah" class="wikilink"
-title="Panacea"><strong>Panacea</strong></a> </p></td>
-<td><p><a href="Auspex" class="wikilink" title="Auspex">Auspex</a>
+<td><p>[<strong>Panacea</strong>](./auspex.md#obeah) </p></td>
+<td><p>[Auspex](./auspex.md)
 ●●</p></td>
 <td data-sort-value="1"><p>●</p></td>
 <td><p>Heals Willpower calms nerves.</p></td>
@@ -576,9 +568,8 @@ title="Players Guide">Players Guide</a>, page 70</p></td>
 <img src="Dominate_symbol.png" title="Dominate_symbol.png" width="42" />
 <figcaption>Dominate_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Dominate#Slavish_Devotion" class="wikilink"
-title="Slavish Devotion"><strong>Slavish Devotion</strong></a></p></td>
-<td><p><a href="Dominate" class="wikilink" title="Dominate">Dominate</a>
+<td><p>[<strong>Slavish Devotion</strong>](./dominate.md#slavish-devotion)</p></td>
+<td><p>[Dominate](./dominate.md)
 ● </p></td>
 <td><p>● </p></td>
 <td><p>Those already underneath Dominate find it easier to resist other
@@ -599,10 +590,8 @@ title="Players Guide">Players Guide</a>, page 73</p></td>
 <img src="Protean_symbol.png" title="Protean_symbol.png" width="42" />
 <figcaption>Protean_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Protean#Heart_of_Darkness" class="wikilink"
-title="Heart of Darkness"><strong>Heart of
-Darkness</strong></a></p></td>
-<td><p><a href="Protean" class="wikilink" title="Protean">Protean</a>
+<td><p>[<strong>Heart of Darkness</strong>](./protean.md#heart-of-darkness)</p></td>
+<td><p>[Protean](./protean.md)
 ●●●●●</p></td>
 <td data-sort-value="2"><p>●●</p></td>
 <td><p>Allows a vampire to remove their own heart and store it outside
@@ -621,9 +610,8 @@ Gods</a>, page 85</li>
 <img src="Oblivion_symbol.png" title="Oblivion_symbol.png" width="42" />
 <figcaption>Oblivion_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Oblivion#Passion_Feast" class="wikilink"
-title="Passion Feast"><strong>Passion Feast</strong></a></p></td>
-<td><p><a href="Oblivion" class="wikilink" title="Oblivion">Oblivion</a>
+<td><p>[<strong>Passion Feast</strong>](./oblivion.md#passion-feast)</p></td>
+<td><p>[Oblivion](./oblivion.md)
 ●●●</p></td>
 <td data-sort-value="3"><p>●●</p></td>
 <td><p>Allows a vampire to slake hunger on the passion of

@@ -4,7 +4,7 @@
 
 Originally called the Anarch Revolt, this sect is as old as the
 revolution against the
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>
+[Camarilla](./camarilla.md)
 itself. In recent decades it has seen vast growth as younger kindred
 find it increasingly difficult to understand why they must follow the
 laws of elders who care nothing for them, but to throw them in harms way
@@ -30,8 +30,7 @@ against the Tower. Princes are quick to deal out punishments not only
 for breach of archaic laws, but for any trace of association to the
 Movement. But the footing Camarilla Courts once had are slipping,
 especially after members of the sect were suspected for the advent of
-the <a href="Second_Inquisition" class="wikilink"
-title="Second Inquisition">Second Inquisition</a>.
+the [Second Inquisition](./second_inquisition.md).
 
 Most Camarilla vampires influence humankind from deep within the
 shadows, manipulating them from the outside. Many Anarchs, however,
@@ -44,22 +43,22 @@ Some Kindred have nickname to distinguish their "traitorous" political
 leanings from their Camarilla counterparts.
 
 - Unchained
-  <a href="Malkavian" class="wikilink" title="Malkavians">Malkavians</a> -
+  [Malkavians](./malkavian.md) -
   called so from the belief they are disconnected to the Blood and
   Network.[3]
 - Red
-  <a href="Nosferatu" class="wikilink" title="Nosferatu">Nosferatu</a> -
+  [Nosferatu](./nosferatu.md) -
   Mockingly called so by the Camarilla but adopted by Anarch Nosferatu
   for having a "mini revolution."[4]
 - Abstract
-  <a href="Toreador" class="wikilink" title="Toreador">Toreador</a> -
+  [Toreador](./toreador.md) -
   Mockingly called so by Camarilla Toreadors, and adopted by Anarch
   Toreadors.[5]
 - Ipsissimus
-  <a href="Tremere" class="wikilink" title="Tremere">Tremere</a> -
+  [Tremere](./tremere.md) -
   Sometimes considered the fourth house, these Anarchs are called so
   because many pursue an arcane sense of self, hence the name.[6]
-- Free <a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a> -
+- Free [Ventrue](./ventrue.md) -
   Many considers themselves free from the traditions, taboos, and
   hierarchy of the clan.[7]
 
@@ -123,12 +122,12 @@ rages, especially with the Camarilla and Anarch account, it still stands
 as an inspiration to many. The North African city is said to have lacked
 any need for vampires to hide. Kindred were in leadership roles, but the
 degree is uncertain. Troile, the supposed
-<a href="Brujah" class="wikilink" title="Brujah">Brujah</a>
+[Brujah](./brujah.md)
 Antediluvian, is claimed to have led the city with Brujah and
-<a href="Banu_Haqim" class="wikilink" title="Banu Haqim">Banu Haqim</a>
+[Banu Haqim](./banu.md)
 vampires as the undead majority. The city was eventually destroyed by a
-<a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a> and
-<a href="Malkavian" class="wikilink" title="Malkavian">Malkavian</a>
+[Ventrue](./ventrue.md) and
+[Malkavian](./malkavian.md)
 backed Rome and Troile buried under the earth. Though the city fell, it
 remained in many Kindred’s mind as a symbol of defiance to the old ways,
 for better or worse. [16] [17]
@@ -139,7 +138,7 @@ With the First Inquisition in full swing the flames of the Inquisition
 hit Kindred hard. [18] During the 15th Century elders used their childer
 as pawns to sacrifice to save themselves from the Inquisition, but not
 all of the young Kindred died. [19] Some modern
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>
+[Camarilla](./camarilla.md)
 vampires blame Kindred arrogance and their mingling with mortal for the
 hunting and destruction of Kindred.[20]  Whatever the case, Europe found
 itself in the First Anarch Revolt.[21]
@@ -158,7 +157,7 @@ instead tied them to their comrades. This allowed Anarchs to strike out
 against their old masters.
 
 Major events that highlighted the movement was the apparent destruction
-of the <a href="Tzimisce" class="wikilink" title="Tzimisce">Tzimisce</a>
+of the [Tzimisce](./tzimisce.md)
 and Lasombra clans' progenitors. These rumors gave the Anarchs a sense
 of legitimacy and galvanized younger Kindred. Many leaders of the
 movement were of the Brujah, Banu Haqim, and Lasombra clans, though most
@@ -185,7 +184,7 @@ Silchester was at the center of a mass Masquerade violation and the
 supposed destruction of Hardestadt the Elder by Tyler. To her regret,
 this faction of Anarchs soon turned into kindred supremacists,
 eventually becoming the
-<a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a>. [29] [30]
+[Sabbat](./sabbat.md). [29] [30]
 [31][32]
 
 For the years after, the Anarchs worked more so as a political ideology
@@ -201,9 +200,9 @@ fallen over the years. Some enduring, others fleeting.
 
 #### Paris
 
-<a href="Paris,_France" class="wikilink" title="Paris">Paris</a> is
+[Paris](./paris_france.md) is
 considered along with
-<a href="London,_UK" class="wikilink" title="London">London</a> and
+[London](./london_uk.md) and
 Berlin to be the three Camarilla jewels of the Old World, strongholds
 since its founding.[35]  This stronghold was lost twice to Anarchs,
 during the French Revolution and May 68. The Revolution was bloody and
@@ -237,8 +236,7 @@ Los Angeles, California in the United States was host to a revolution in
 revolution was underway. Jeremy MacNeil rallied the Kindred of the
 domain to stand up to the cruelty of the Prince. In 1944, Don Sebastian
 supposedly met
-<a href="final_death" class="wikilink" title="final death">final
-death</a> at the hands of <a href="Salvador_Garcia" class="wikilink"
+[final death](./final_death.md) at the hands of <a href="Salvador_Garcia" class="wikilink"
 title="Salvador Garcia">Salvador Garcia</a>. Making MacNeil and Garcia
 Anarch icons, and the Camarilla considered the area a lost cause for
 years to come. The Anarch States survived Sabbat invasions, Camarilla
@@ -300,23 +298,18 @@ elders’ and sires’ greed hampers their own growth. [53]
 <a href="Agata_Starek" class="wikilink" title="Agata Starek">Agata
 Starek</a>
 
-<a href="Brujah#Notable_characters" class="wikilink"
-title="Theo Bell">Theo Bell</a>
+[Theo Bell](./brujah.md#notable-characters)
 
 <a href="Salvador_Garcia" class="wikilink"
 title="Salvador Garcia">Salvador Garcia</a>
 
-<a href="Gangrel#Notable_characters" class="wikilink"
-title="Rudi">Rudi</a>
+[Rudi](./gangrel.md#notable-characters)
 
-<a href="Brujah#Notable_characters" class="wikilink"
-title="Jeremy MacNeil">Jeremy MacNeil</a>
+[Jeremy MacNeil](./brujah.md#notable-characters)
 
-<a href="Caitiff#Notable_characters" class="wikilink"
-title="Maldavis">Maldavis</a>
+[Maldavis](./caitiff.md#notable-characters)
 
-<a href="Brujah#Notable_characters" class="wikilink"
-title="Anita Wainwright">Anita Wainwright</a>
+[Anita Wainwright](./brujah.md#notable-characters)
 
 <a href="Dalia_Nakache" class="wikilink" title="Dalia Nakache">Dalia
 Nakache</a>

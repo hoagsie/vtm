@@ -4,11 +4,10 @@ Unlike other Disciplines, Blood Sorcery is a power that does not develop
 organically, instead, it is developed by being taught or through
 research of old tomes. It also functions slightly differently in that
 not only does it give powers per level but it also opens access to
-<a href="Blood_Sorcery_Rituals" class="wikilink"
-title="Blood Sorcery Rituals">Blood Sorcery Rituals</a> equal or lesser
+[Blood Sorcery Rituals](./blood_sorcery_rituals.md) equal or lesser
 to the user's current Blood Sorcery level. However, ghouls of sorcerers
 or Thin-Bloods with temporary Disciplines from
-<a href="Resonance" class="wikilink" title="Resonances">Resonances</a>
+[Resonances](./resonance.md)
 do not receive access to these rituals. At creation, if the character
 has Blood Sorcery they receive one ritual for free, further rituals cost
 both experience and time. Rituals generally take at least the square of
@@ -17,8 +16,8 @@ weaker, but where it shines is in the versatility of the rituals and
 flexibility as Sorcerers can learn as many rituals as they desire. [1]
 
 This power is unique to the
-<a href="Tremere" class="wikilink" title="Tremere">Tremere</a> and
-<a href="Banu_Haqim" class="wikilink" title="Banu Haqim">Banu Haqim</a>,
+[Tremere](./tremere.md) and
+[Banu Haqim](./banu.md),
 one which they argue who created it first. "Thaumaturgy", as the Tremere
 call it, maintains that it was theirs. Whereas the Banu Haqim are dead
 set on their version, "Quietus", was the origin long before the Tremere
@@ -30,12 +29,10 @@ stressed the Sire Childe relationship to teach them, however, these
 nights many Banu Haqim ends up in different places than their sire. The
 Tremere use their magics to inflict powerful attacks on their opponent's
 body with powers like
-<a href="Blood_Sorcery#Scorpion&#39;s_Touch" class="wikilink"
-title="Scorpion&#39;s Touch">Scorpion's Touch</a>. Some may even use
+[Scorpion's Touch](./blood_sorcery.md#scorpion39s-touch). Some may even use
 Thaumaturgy to ease their feeding by drawing their blood into their
 mouth without touching them by utilizing
-<a href="Blood_Sorcery#Theft_of_Vitae" class="wikilink"
-title="Theft of Vitae">Theft of Vitae</a>.[2] In a similar fashion the
+[Theft of Vitae](./blood_sorcery.md#theft-of-vitae).[2] In a similar fashion the
 Banu Haqim use their blood sorcery to turn vitae into poison and use it
 as a weapon. Harnessing the power for killing is not the only use they
 have as the viziers delve into rituals to learn secrets from others'
@@ -43,34 +40,30 @@ blood. [3]
 
 The Old Clan's Sorcerers point out the Tremere and Banu Haqim are the
 only innate blood sorcerers, while in the shadows the Setites of
-<a href="the_Ministry" class="wikilink" title="the Ministry">the
-Ministry</a> practice a form of sorcery they called Akhu.[4] The
-<a href="Tzimisce" class="wikilink" title="Tzimisce">Tzimisce</a>
+[the Ministry](./ministry.md) practice a form of sorcery they called Akhu.[4] The
+[Tzimisce](./tzimisce.md)
 sorcerers call themselves koldun, or kolduny when there's a group of
 them, and consider themselves the oldest and best blood sorcerers that
 founded the
-<a href="Sabbat" class="wikilink" title="Sabbat’s">Sabbat’s</a>
+[Sabbat’s](./sabbat.md)
 vaulderie practice among other things. These rare few practice a form of
 Blood Sorcery that enthralls air, water, fire, or earth to them similar
 in effect to a
-<a href="Blood_Bond" class="wikilink" title="Blood Bond">Blood Bond</a>
+[Blood Bond](./blood_bond.md)
 during an initiation ritual performed by another Koldun.[5] This
 mystical practice of theirs is unique in Blood Sorcery in that it
 behaves similarly to Oblivion ceremonies requiring Koldunic Sorcery as a
 prerequisite in order for its connected rituals to work.
 
 Recent events have made blood sorcery more available in modern nights.
-The <a href="Second_Inquisition" class="wikilink"
-title="Second Inquisition">Second Inquisition</a>,
+The [Second Inquisition](./second_inquisition.md),
 <a href="Gehenna" class="wikilink" title="Gehenna War">Gehenna War</a>,
-<a href="Anarch" class="wikilink" title="Second Anarch Rebellion">Second
-Anarch Rebellion</a>, Fall of the Pyramid, and Fall of Alamut have all
+[Second Anarch Rebellion](./anarch.md), Fall of the Pyramid, and Fall of Alamut have all
 played a role in the growth of the black market called the
-<a href="blood_craft_scene" class="wikilink"
-title="blood craft scene">blood craft scene</a>. Other clans like the
-<a href="Toreador" class="wikilink" title="Toreador">Toreador</a>,
-<a href="Hecata" class="wikilink" title="Hecata">Hecata</a>, and
-<a href="Brujah" class="wikilink" title="Brujah">Brujah</a> have shown
+[blood craft scene](./blood_craft_scene.md). Other clans like the
+[Toreador](./toreador.md),
+[Hecata](./hecata.md), and
+[Brujah](./brujah.md) have shown
 interest in acquiring blood sorcery where in the past only a handful of
 their members might have had access to its secrets.[6] While Blood
 sorcery has gotten much less guarded than it was in the past it is still
@@ -302,9 +295,7 @@ title="Book of Nod Apocrypha">Book of Nod Apocrypha</a>, page 34 </li>
 <td><ul>
 <li>N/A</li>
 </ul></td>
-<td><p>This power can allow a Kindred to bypass the <a
-href="Blood_Potency" class="wikilink" title="Blood Potency">Blood
-Potency</a> limit set by their generation.</p></td>
+<td><p>This power can allow a Kindred to bypass the [Blood Potency](./blood_potency.md) limit set by their generation.</p></td>
 <td><p>/ </p>
 <ul>
 <li><a href="Vampire:_The_Masquerade_Corebook" class="wikilink"
@@ -577,10 +568,8 @@ Sorcery;
 <img src="Dominate_symbol.png" title="Dominate_symbol.png" width="42" />
 <figcaption>Dominate_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Dominate#Ancestral_Dominion" class="wikilink"
-title="Ancestral Dominion"><strong>Ancestral
-Dominion</strong></a></p></td>
-<td><p><a href="Dominate" class="wikilink" title="Dominate">Dominate</a>
+<td><p>[<strong>Ancestral Dominion</strong>](./dominate.md#ancestral-dominion)</p></td>
+<td><p>[Dominate](./dominate.md)
 ●●●●</p></td>
 <td data-sort-value="2"><p>●● </p></td>
 <td><p>Urge a descendant to act even if against their own
@@ -602,7 +591,7 @@ title="Players Guide">Players Guide</a>, page 74</p></td>
 <figcaption>Protean_symbol.png</figcaption>
 </figure></td>
 <td><p>Blood Form</p></td>
-<td><p><a href="Protean" class="wikilink" title="Protean">Protean</a>
+<td><p>[Protean](./protean.md)
 ●●●●●</p></td>
 <td><p>●●</p></td>
 <td><p>Turn into an amorphous mass of blood.</p></td>
@@ -615,10 +604,8 @@ title="Players Guide">Players Guide</a>, page 74</p></td>
 <img src="Protean_symbol.png" title="Protean_symbol.png" width="42" />
 <figcaption>Protean_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Protean#Visceral_Absorption" class="wikilink"
-title="Visceral Absorption"><strong>Visceral
-Absorption</strong></a></p></td>
-<td><p><a href="Protean" class="wikilink" title="Protean">Protean</a>
+<td><p>[<strong>Visceral Absorption</strong>](./protean.md#visceral-absorption)</p></td>
+<td><p>[Protean](./protean.md)
 ●●●</p></td>
 <td data-sort-value="1"><p>●●</p></td>
 <td><p>Draw in the remains of blood and body to the vampire to clean a

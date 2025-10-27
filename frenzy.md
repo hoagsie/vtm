@@ -6,19 +6,18 @@ rage, hunger, or fear. During this moment, a vampire will do whatever it
 takes to reach their end goal, be it draining someone they loved dry or
 tearing them to shreds. Unlike the other quirks of the Blood, a Frenzy
 is never subtle. To resist a Frenzy, a vampire must make a
-<a href="Willpower" class="wikilink" title="Willpower">Willpower</a>
+[Willpower](./willpower.md)
 test against a difficulty set by the
 <a href="Storyteller" class="wikilink"
 title="Storyteller">Storyteller</a>. This pool is composed of their
 unspent Willpower and 1/3 of their
-<a href="Humanity" class="wikilink" title="Humanity">Humanity</a>
+[Humanity](./humanity.md)
 rounded down. Should they succeed in this test, they will spend a turn
 suppressing these impulses unless it is a critical success, whereupon
 they resist without losing their turn. Upon failure, the Storyteller
 will generally take control of the character till it passes. This roll
 does not allow for the use of
-<a href="Blood_Surge" class="wikilink" title="Blood Surge">Blood
-Surge</a> or Willpower to reroll failures and does not include Hunger.
+[Blood Surge](./blood_surge.md) or Willpower to reroll failures and does not include Hunger.
 
 ## Ride the Wave
 
@@ -32,18 +31,16 @@ as allowing them to decide who they feed upon first.
 Below are the effects had on a vampire during a Frenzy;
 
 - They are immune to
-  <a href="Health" class="wikilink" title="Health">Health</a> based
+  [Health](./health.md) based
   penalties, short for mutilation.
-- They can only use physical <a href="Disciplines" class="wikilink"
-  title="Disciplines">Disciplines</a>.
+- They can only use physical [Disciplines](./disciplines.md).
 - They gain three dice to resist mental Disciplines, should there be no
   resistance pool, the Difficulty to use said Discipline should go up
   two.
 - They may use Willpower to take control of their character for one
   turn.
 - The vampire cannot be provoked into a different Frenzy and cannot
-  receive any new <a href="Compulsion" class="wikilink"
-  title="Compulsions">Compulsions</a>.
+  receive any new [Compulsions](./compulsion.md).
 - They remain in a Frenzy until the requirements of the type of Frenzy
   are met.
 

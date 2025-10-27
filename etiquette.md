@@ -23,18 +23,17 @@ One-Percenter, Secret Society[3]
 
 ## Example pools
 
-- <a href="Manipulation" class="wikilink"
-  title="Manipulation">Manipulation</a> + Etiquette
+- [Manipulation](./manipulation.md) + Etiquette
   - In a debate [4]
   - Seeking to increase social position by undermining or gossiping
     about their rival [5]
-- <a href="Composure" class="wikilink" title="Composure">Composure</a> +
+- [Composure](./composure.md) +
   Etiquette
   - To divert a conversation. [6]
   - Seeking to increase social position against another during Elysium
     [7]
   - Getting a prime dance at a formal event. [8]
-- <a href="Wits" class="wikilink" title="Wits">Wits</a> + Etiquette
+- [Wits](./wits.md) + Etiquette
   - To resolve initiative order in social conflict [9],
 
 ## References

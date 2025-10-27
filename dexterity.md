@@ -17,42 +17,39 @@ amateur.
 ## Example pools
 
 - Dexterity +
-  <a href="Stealth" class="wikilink" title="Stealth">Stealth</a>
+  [Stealth](./stealth.md)
   - Sneaking up on another person.[3]
 - Dexterity +
-  <a href="Athletics" class="wikilink" title="Athletics">Athletics</a>
+  [Athletics](./athletics.md)
   - Common defense pool often for dodging, throwing[4]
   - Climbing [5]
   - This roll also helps determine how much falling damage a character
     might take. [6]
 - Dexterity +
-  <a href="Etiquette" class="wikilink" title="Etiquette">Etiquette</a>
+  [Etiquette](./etiquette.md)
   - Pretend to eat and behave flawlessly at the governor's formal
     dinner. [7]
 - Dexterity +
-  <a href="Larceny" class="wikilink" title="Larceny">Larceny</a>
+  [Larceny](./larceny.md)
   - Distract someone with one hand and hide a knife with the other. [8]
   - Breaking into a safe. [9]
 - Dexterity +
-  <a href="Charisma" class="wikilink" title="Charisma">Charisma</a>
+  [Charisma](./charisma.md)
   - Faking sex per
-    <a href="Humanity" class="wikilink" title="Humanity">Humanity</a>
+    [Humanity](./humanity.md)
     rules. [10]
 - Dexterity +
-  <a href="Medicine" class="wikilink" title="Medicine">Medicine</a>
+  [Medicine](./medicine.md)
   - Remove a shattered stake splinter from the body per
-    <a href="Blood_Sorcery_Rituals#Shaft_of_Belated_Dissolution"
-    class="wikilink" title="Shaft of Belated Dissolution">Shaft of Belated
-    Dissolution</a>. [11]
-- Dexterity + <a href="Melee" class="wikilink" title="Melee">Melee</a>
+    [Shaft of Belated Dissolution](./blood_sorcery_rituals.md#shaft-of-belated-dissolution). [11]
+- Dexterity + [Melee](./melee.md)
   - One handed melee weapons. [12]
 - Dexterity +
-  <a href="Firearms" class="wikilink" title="Firearms">Firearms</a>
+  [Firearms](./firearms.md)
   - Quick drawing a gun during a cowboy showdown. [13]
-- Dexterity + <a href="Performance" class="wikilink"
-  title="Performance">Performance</a>
+- Dexterity + [Performance](./performance.md)
   - Dancing. [14]
-- Dexterity + <a href="Drive" class="wikilink" title="Drive">Drive</a>
+- Dexterity + [Drive](./drive.md)
   - High speed, complex, or evading traffic when driving. [15]
 
 ## References

@@ -23,16 +23,15 @@ Tailing, Trucks, Vintage Models [3]
 
 ## Example pools
 
-- <a href="Wits" class="wikilink" title="Wits">Wits</a> + Drive
+- [Wits](./wits.md) + Drive
   - Swerve out of the way in time. [4]
   - Pull alongside a vehicle so others can jump on. [5]
   - Keeping the pursuer insight and chasing. [6]
-- <a href="Resolve" class="wikilink" title="Resolve">Resolve</a> + Drive
+- [Resolve](./resolve.md) + Drive
   - Scrounging roll to find a vehicle. [7]
-- <a href="Manipulation" class="wikilink"
-  title="Manipulation">Manipulation</a> + Drive
+- [Manipulation](./manipulation.md) + Drive
   - For a spectre to control a possessed human, [8]
-- <a href="Dexterity" class="wikilink" title="Dexterity">Dexterity</a> +
+- [Dexterity](./dexterity.md) +
   Drive
   - Evading traffic, high speed chases, or complex maneuvers. [9]
 

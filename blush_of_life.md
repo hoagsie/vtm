@@ -1,6 +1,6 @@
 The body of a vampire appears as if they are dead, with the exception of
 certain
-<a href="Humanity" class="wikilink" title="Humanity">Humanity</a>
+[Humanity](./humanity.md)
 ratings, unless intentionally brought to life by a Kindred. The use of
 Blush of Life costs one
 <a href="Rouse_Check" class="wikilink" title="Rouse Check">Rouse

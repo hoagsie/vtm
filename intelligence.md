@@ -13,7 +13,7 @@ they've read. [1]
 ● ● ● They are able to piece together clues without difficulty.
 
 ● ● ● ● Likely to be consulted by members of the
-<a href="Tremere" class="wikilink" title="Tremere">Tremere</a> for their
+[Tremere](./tremere.md) for their
 intelligence.
 
 ● ● ● ● ● A genius. [2]
@@ -21,101 +21,96 @@ intelligence.
 ## Example pools
 
 - Intelligence +
-  <a href="Medicine" class="wikilink" title="Medicine">Medicine</a>
+  [Medicine](./medicine.md)
   - Convert
-    <a href="Health" class="wikilink" title="Aggravated damage">Aggravated
-    damage</a> to Superficial damage for mortals. [3]
+    [Aggravated damage](./health.md) to Superficial damage for mortals. [3]
   - Spotting a disease in a human. [4]
 - Intelligence +
-  <a href="Larceny" class="wikilink" title="Larceny">Larceny</a>
+  [Larceny](./larceny.md)
   - Gather information about an alarm system. [5]
   - Getting past a roof alarm. [6]
   - Blowing a safe or breaching wall. [7]
 - Intelligence +
-  <a href="Occult" class="wikilink" title="Occult">Occult</a>
+  [Occult](./occult.md)
   - Reading a book that requires translation in the process. [8]
   - Impress a Tremere with their knowledge. [9]
 - Intelligence + <a href="Linguistics" class="wikilink"
   title="Linguistics">Linguistics</a>
   - Decipher a papyrus. [10]
-- Intelligence + <a href="Investigation" class="wikilink"
-  title="Investigation">Investigation</a>
+- Intelligence + [Investigation](./investigation.md)
   - Check a crime scene for clues. [11]
 - Intelligence +
-  <a href="Resolve" class="wikilink" title="Resolve">Resolve</a>
+  [Resolve](./resolve.md)
   - To resist
-    <a href="Blood_Bond" class="wikilink" title="Blood Bonds">Blood
-    Bonds</a>. [12]
+    [Blood Bonds](./blood_bond.md). [12]
   - Used to resist
-    <a href="Dominate" class="wikilink" title="Dominate">Dominate</a>
+    [Dominate](./dominate.md)
     powers such as Cloud Memory. [13]
   - Used to resist
-    <a href="Potence" class="wikilink" title="Potence">Potence</a>
+    [Potence](./potence.md)
     powers such as Spark of Rage. [14]
 - Intelligence +
-  <a href="Auspex" class="wikilink" title="Auspex">Auspex</a>
+  [Auspex](./auspex.md)
   - Used for many Auspex powers such as Spirit's Touch and Scry the
     Soul. [15]
 - Intelligence +
-  <a href="Composure" class="wikilink" title="Composure">Composure</a>
+  [Composure](./composure.md)
   - Used to resist Dominate powers such as Dementation. [16]
   - Used to resist
-    <a href="Presence" class="wikilink" title="Presence">Presence</a>
+    [Presence](./presence.md)
     powers such as Awe. [17]
 - Intelligence +
-  <a href="Obfuscate" class="wikilink" title="Obfuscate">Obfuscate</a>
+  [Obfuscate](./obfuscate.md)
   - Used to activate some Obfuscate powers such as Conceal. [18]
 - Intelligence +
-  <a href="Blood_Sorcery" class="wikilink" title="Blood Sorcery">Blood
-  Sorcery</a>
+  [Blood Sorcery](./blood_sorcery.md)
   - Used to activate Blood Sorcery such as Extinguish Vitae. [19]
   - Also used to activate
-    <a href="Blood_Sorcery_Rituals" class="wikilink"
-    title="Blood Sorcery Rituals">Blood Sorcery Rituals</a>. [20]
+    [Blood Sorcery Rituals](./blood_sorcery_rituals.md). [20]
 - Intelligence +
-  <a href="Survival" class="wikilink" title="Survival">Survival</a>
+  [Survival](./survival.md)
   - Following tracks. [21]
   - Burying a body outside undetected. [22]
 - Intelligence + <a href="Thin-blood_Alchemy" class="wikilink"
   title="Alchemy">Alchemy</a>
   - Used for the Fixatio method. [23]
 - Intelligence +
-  <a href="Craft" class="wikilink" title="Craft">Craft</a>
+  [Craft](./craft.md)
   - Win an architectural contest. [24]
   - Putting up Kindred Iconography posters, paintings or graffiti.[25]
   - Building false compartments or secret chambers. [26]
 - Intelligence +
-  <a href="Academics" class="wikilink" title="Academics">Academics</a>
+  [Academics](./academics.md)
   - Playing chess. [27]
   - Building false compartments or secret chambers and relying on a
     team. [28]
 - Intelligence +
-  <a href="Persuasion" class="wikilink" title="Persuasion">Persuasion</a>
+  [Persuasion](./persuasion.md)
   - Convince the Prince that their opponent is lying through research
     instead of smooth talking. [29]
 - Intelligence +
-  <a href="Streetwise" class="wikilink" title="Streetwise">Streetwise</a>
+  [Streetwise](./streetwise.md)
   - Acquiring bloodbags through the
     <a href="Predator_types#Bagger" class="wikilink"
     title="Bagger Predator Type">Bagger Predator Type</a>. [30]
   - Spotting or otherwise understanding Kindred Iconography. [31]
   - Urban camouflage. [32]
 - Intelligence +
-  <a href="Awareness" class="wikilink" title="Awareness">Awareness</a>
+  [Awareness](./awareness.md)
   - For hunters to spot vampires reliably with a chaoscope. [33]
 - Intelligence +
-  <a href="Technology" class="wikilink" title="Technology">Technology</a>
+  [Technology](./technology.md)
   - Hacking into a computer system. [34]
   - Used for old school wire and clock parts bombs. [35]
   - Setting a car bomb. [36]
 - Intelligence +
-  <a href="Science" class="wikilink" title="Science">Science</a>
+  [Science](./science.md)
   - Building explosive. [37]
 - Intelligence +
-  <a href="Firearms" class="wikilink" title="Firearms">Firearms</a>
+  [Firearms](./firearms.md)
   - Preparedness roll of having bought a silencer. [38]
 - Intelligence +
-  <a href="Insight" class="wikilink" title="Insight">Insight</a>
+  [Insight](./insight.md)
   - Prepare an oration for a crowd. [39]
 
 ## References

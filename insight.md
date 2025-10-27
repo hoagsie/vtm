@@ -22,35 +22,33 @@ Motives, Phobias, Vices[3]
 
 ## Example pools
 
-- <a href="Manipulation" class="wikilink"
-  title="Manipulation">Manipulation</a> + Insight
+- [Manipulation](./manipulation.md) + Insight
   - Change the
-    <a href="Resonance" class="wikilink" title="Resonance">Resonance</a>
+    [Resonance](./resonance.md)
     of a
-    <a href="Merits_and_Flaws#Herd" class="wikilink" title="Herd">Herd</a>
+    [Herd](./merits_flaws.md#herd)
     [4]
   - Involving third parties to seduce their rivals vanities and desires
     [5]
   - Interrogating someone without violence [6]
-- <a href="Resolve" class="wikilink" title="Resolve">Resolve</a> +
+- [Resolve](./resolve.md) +
   Insight
   - After a scene to determine Resonance if it's not already known [7]
-- <a href="Charisma" class="wikilink" title="Charisma">Charisma</a> +
+- [Charisma](./charisma.md) +
   Insight
   - Seduce their rivals vanities and desires [8]
   - Carousing with others to influence them to relax, [9]
   - Picking someone up at a bar. [10]
-- <a href="Composure" class="wikilink" title="Composure">Composure</a> +
+- [Composure](./composure.md) +
   Insight
   - Avoiding or detecting something fishy going on when someone is
     risking a
-    <a href="Blood_Bond" class="wikilink" title="Blood Bond">Blood Bond</a>
+    [Blood Bond](./blood_bond.md)
     [11]
   - Resisting fast talking [12]
-- <a href="Wits" class="wikilink" title="Wits">Wits</a> + Insight
+- [Wits](./wits.md) + Insight
   - Detecting a scam [13]
-- <a href="Intelligence" class="wikilink"
-  title="Intelligence">Intelligence</a> + Insight
+- [Intelligence](./intelligence.md) + Insight
   - Tailor a speech to the crowd without having time beforehand to
     prepare [14]
 

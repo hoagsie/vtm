@@ -23,37 +23,34 @@ Throwing. [2]
 
 ## Example pools
 
-- <a href="Dexterity" class="wikilink" title="Dexterity">Dexterity</a> +
+- [Dexterity](./dexterity.md) +
   Athletics
   - Dodge both close combat and ranged attacks. [3]
   - Fleeing a situation. [4]
   - Used in
-    <a href="Celerity" class="wikilink" title="Celerity">Celerity</a>
+    [Celerity](./celerity.md)
     powers, such a Fleetness. [5]
   - Used to dodge an attack from a
-    <a href="Potence" class="wikilink" title="Potence">Potence</a>
+    [Potence](./potence.md)
     power, such as Earthshock. [6]
   - Used in
-    <a href="Blood_Sorcery" class="wikilink" title="Blood Sorcery">Blood
-    Sorcery</a> powers such as Scorpion's touch to spit acid. [7]
+    [Blood Sorcery](./blood_sorcery.md) powers such as Scorpion's touch to spit acid. [7]
   - Used to throw weapons. [8]
   - Climbing. [9]
   - Determining how much fall damage a character takes. [10]
-- <a href="Stamina" class="wikilink" title="Stamina">Stamina</a> +
+- [Stamina](./stamina.md) +
   Athletics
   - Out run pursuers in long distance. [11]
   - Swimming. [12]
-- <a href="Strength" class="wikilink" title="Strength">Strength</a> +
+- [Strength](./strength.md) +
   Athletics
-  - Used in <a href="Blood_Sorcery_Rituals" class="wikilink"
-    title="Blood Sorcery Rituals">Blood Sorcery Rituals</a> such as
+  - Used in [Blood Sorcery Rituals](./blood_sorcery_rituals.md) such as
     preventing being picked up by Essence of Air. [13]
   - Also used to resist <a href="Thin-blood_Alchemy" class="wikilink"
     title="Thin-blood Alchemy">Thin-blood Alchemy</a> powers such as Far
     Reach. [14]
   - Lifting or smashing things. [15]
-- <a href="Manipulation" class="wikilink"
-  title="Manipulation">Manipulation</a> + Athletics
+- [Manipulation](./manipulation.md) + Athletics
   - Picking up someone at a gym using seduction. [16]
 
 ## References

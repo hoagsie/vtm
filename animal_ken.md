@@ -21,18 +21,17 @@ Snakes, Stunt Training, Wolves. [3]
 
 ## Example pools
 
-- <a href="Charisma" class="wikilink" title="Charisma">Charisma</a> +
+- [Charisma](./charisma.md) +
   Animal Ken
   - Used in
-    <a href="Animalism" class="wikilink" title="Animalism">Animalism</a>
+    [Animalism](./animalism.md)
     powers such as Bond Famulus to give commands to animals [4],
-- <a href="Composure" class="wikilink" title="Composure">Composure</a> +
+- [Composure](./composure.md) +
   Animal Ken
   - To feed from animals through the
     <a href="Predator_types#Farmer" class="wikilink"
     title="Farmer">Farmer</a> Predator type. [5]
-- <a href="Manipulation" class="wikilink"
-  title="Manipulation">Manipulation</a> + Animal Ken
+- [Manipulation](./manipulation.md) + Animal Ken
   - Distract guard dogs [6]
 
 ## References

@@ -64,7 +64,7 @@ introducing different antagonists.
 
 Mortals serve many purposes to the undead. They allow Kindred to
 maintain contact with life and in turn their
-<a href="Humanity" class="wikilink" title="Humanity">Humanity</a>, but
+[Humanity](./humanity.md), but
 they also serve as a source of blood for their nourishment. In the same
 way that they can be tools that aid Kindred, they also can be
 surprisingly dangerous threats. Not every mortal will tolerate being
@@ -74,8 +74,7 @@ the supernatural, looking to destroy the creatures of the night. [4]
 ## Second Inquisition
 
   
-*Main article: <a href="Second_Inquisition" class="wikilink"
-title="Second Inquisition">Second Inquisition</a>*
+*Main article: [Second Inquisition](./second_inquisition.md)*
 
 {{#lst:Second Inquisition|summary}}
 
@@ -95,38 +94,35 @@ conspire against the tyrannical leaders above them. [6]
 
   
 *Main article:
-<a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a>*
+[Sabbat](./sabbat.md)*
 
 Predominate clan alignments:  
-<a href="Tzimisce" class="wikilink" title="Tzimisce">Tzimisce</a>[7],
-<a href="Lasombra" class="wikilink" title="Lasombra">Lasombra</a>
+[Tzimisce](./tzimisce.md)[7],
+[Lasombra](./lasombra.md)
 (dissident)[8],
-<a href="Caitiff" class="wikilink" title="Caitiff">Caitiff</a> (Path of
+[Caitiff](./caitiff.md) (Path of
 the Sun),
-<a href="Thin-blood" class="wikilink" title="Thin-blood">Thin-blood</a>
+[Thin-blood](./thinblood.md)
 (Path of the Sun) [9]
 
 {{#lst:Sabbat|summary}}
 
 ## Creatures made by Kindred
 
-Some creatures are the product of <a href="Disciplines" class="wikilink"
-title="Disciplines">Disciplines</a> like
-<a href="Protean#Fleshcrafting" class="wikilink"
-title="Fleshcrafting">Fleshcrafting</a> or
-<a href="Oblivion_Ceremonies" class="wikilink"
-title="Oblivion Ceremonies">Oblivion Ceremonies</a> [10]
+Some creatures are the product of [Disciplines](./disciplines.md) like
+[Fleshcrafting](./protean.md#fleshcrafting) or
+[Oblivion Ceremonies](./oblivion_ceremonies.md) [10]
 
 - <a href="Aapilu" class="wikilink" title="Aapilu">Aapilu</a>
 - <a href="Baali" class="wikilink" title="Baali">Baali</a>
 - <a href="Beast_Shard" class="wikilink" title="Beast Shard">Beast
   Shard</a>
-- <a href="Chimera" class="wikilink" title="Chimera">Chimera</a>
+- [Chimera](./chimera.md)
 - <a href="Genius_furci" class="wikilink" title="Genius Furci">Genius
   Furci</a>
-- <a href="Revenant" class="wikilink" title="Revenant">Revenant</a>
+- [Revenant](./revenant.md)
 - <a href="Salamander" class="wikilink" title="Salamander">Salamander</a>
-- <a href="Wraith" class="wikilink" title="Wraith">Wraith</a>
+- [Wraith](./wraith.md)
 
 ## Other supernatural creatures
 

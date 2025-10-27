@@ -6,7 +6,7 @@ Thaw</a>, Issue
 Diablerie is an act condemned by most vampires as it involves not only
 drinking another vampire dry but also stealing away their very essence
 or soul. Those with
-<a href="Auspex" class="wikilink" title="Auspex">Auspex</a> are even
+[Auspex](./auspex.md) are even
 able to see the diablerist's aura change after committing such an act.
 
 To commit diablerie, the perpetrator will generally restrain their
@@ -17,15 +17,14 @@ the final blasphemy and take their soul. The vampire must make a contest
 against their victim and take their very nature and power into
 themselves. Should they succeed this test the diablerie begins, and for
 this cost, they will both gain newfound power and suffer from a loss of
-<a href="Humanity" class="wikilink" title="Humanity">Humanity</a>.
+[Humanity](./humanity.md).
 Should they fail this test, the body will quickly decay in
-<a href="Final_Death" class="wikilink" title="Final Death">Final
-Death</a>. That is not the final act, however, with additional tests to
+[Final Death](./final_death.md). That is not the final act, however, with additional tests to
 be made that can cost the character their own life. Should they fail
 significantly during the rest of the diablerie test, the victim may take
 control of the vampire's body as their own. This act is the only way to
 lower a vampire's
-<a href="Generation" class="wikilink" title="Generation">Generation</a>.[1]
+[Generation](./generation.md).[1]
 
 ## References
 

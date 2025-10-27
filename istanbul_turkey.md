@@ -1,17 +1,16 @@
 ## Overview
 
 Many Kindred still refer to the city as
-<a href="Constantinople" class="wikilink"
-title="Constantinople">Constantinople</a> mostly to honor the era of the
+[Constantinople](./constantinople.md) mostly to honor the era of the
 Dream and the ruler Michael, a
-<a href="Toreador" class="wikilink" title="Toreador">Toreador</a>
+[Toreador](./toreador.md)
 Methuselah. That era is where the descendants of Michael the Archangel
 that would eventually become the
-<a href="Nephilim" class="wikilink" title="Nephilim">Nephilim</a>
+[Nephilim](./nephilim.md)
 originated from. The golden era ended during the sacking in the Fourth
 Crusades and the diablerie of Michael by Mary the Black.[1][2] Modern
 nights, the Ashirra and
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>
+[Camarilla](./camarilla.md)
 give space to the city.[3]
 
 The city is still fixated on the time when the Trinity ruled and The
@@ -25,11 +24,11 @@ new form.[4]
 The prominent Kindred of the domain were Azra is the Keeper of Elysium
 and still idealizes the Dream.[5] The other is Eskja “the red slipper”
 Mínervudóttir, childe of a former
-<a href="Toreador" class="wikilink" title="Toreador">Toreador</a> Prince
+[Toreador](./toreador.md) Prince
 of Istanbul, now serves as Seneschal to a broodmate who sits on the
 throne.[6]
 
-The <a href="Beckoning" class="wikilink" title="Beckoning">Beckoning</a>
+The [Beckoning](./beckoning.md)
 brought the descendants of Michael together to Istanbul. Each were
 stricken with a vision of Michael’s will. They agreed to forge the new
 era of the Nephilim.[7][8] Their first and most sacred tabernacles

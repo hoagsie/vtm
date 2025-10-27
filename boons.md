@@ -17,10 +17,10 @@ holder's sire or eldest childe in most domains. Other domains may
 transfer that boon to the Prince or Harpies upon death. Claiming to hold
 a boon when you do not, or defaulting and refusing to pay a boon owed
 can destroy a Kindred's reputation. Between the sects, the
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>
+[Camarilla](./camarilla.md)
 Harpies keep track of those who owe, some going as far as keeping
 extensive lists.
-<a href="Anarch" class="wikilink" title="Anarchs">Anarchs</a> are even a
+[Anarchs](./anarch.md) are even a
 part of the system, honoring their own to prove their lack of need for
 courts and princes to retain their honor.[1]
 
@@ -72,8 +72,7 @@ Not given lightly as the risk and expense can be so great.
 ### Life boon
 
 Very rare and usually only given when
-<a href="Final_Death" class="wikilink" title="Final Death">Final
-Death</a> or the death of a
+[Final Death](./final_death.md) or the death of a
 <a href="Touchstone" class="wikilink" title="Touchstone">Touchstone</a>
 is on the horizon.
 

@@ -18,7 +18,7 @@ convert any Superficial into Aggravated on a one-for-one basis. When a
 character's tracker is filled entirely with Aggravated damage they are
 out of the combat, if they are mortal they are either dead or comatose
 and if they are Kindred they fall into
-<a href="Torpor" class="wikilink" title="Torpor">Torpor</a>.
+[Torpor](./torpor.md).
 
 ### Superficial damage
 
@@ -52,8 +52,7 @@ When healing Superficial damage Kindred can remove a number of
 Superficial damage levels from their Health tracker by making one
 <a href="Rouse_Check" class="wikilink" title="Rouse Check">Rouse
 Check</a> per turn, with the number removed dependent on their
-<a href="Blood_Potency" class="wikilink" title="Blood Potency">Blood
-Potency</a>. With Aggravated damage, Kindred may mend one level of
+[Blood Potency](./blood_potency.md). With Aggravated damage, Kindred may mend one level of
 Aggravated damage by making three Rouse Checks at the beginning of a
 session in addition to the wake-up Rouse Check. This will only heal one
 point of damage and will remove any Crippling Injury or similar

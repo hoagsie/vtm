@@ -257,8 +257,7 @@ title="Players Guide">Players Guide</a>, page 103</li>
 <td><p><strong>Portable Shade</strong></p></td>
 <td><p>Withstand the effects of Sunlight and walk in the sun.</p></td>
 <td><p>One Rouse Check</p></td>
-<td><p><a href="Sabbat" class="wikilink"
-title="Sabbat">Sabbat</a></p></td>
+<td><p>[Sabbat](./sabbat.md)</p></td>
 <td><p>Sanguine</p></td>
 <td><p>Hours active are equal to the Stamina + Alchemy test or the next
 sunset, whichever is first</p></td>
@@ -353,8 +352,7 @@ title="Blood Sigils">Blood Sigils</a>, page 75</p></td>
 <td><p>Infect the blood of a herd to cause those who feed from it to
 fall into a dreamless sleep.</p></td>
 <td data-sort-value="1"><p>One Rouse Check</p></td>
-<td><p><a href="Second_Inquisition" class="wikilink"
-title="Second Inquisition">Second Inquisition</a></p></td>
+<td><p>[Second Inquisition](./second_inquisition.md)</p></td>
 <td><p>Melancholic</p></td>
 <td><p>Remains active in the herd's blood for three nights</p></td>
 <td><p>N/A</p></td>
@@ -422,8 +420,7 @@ title="Players Guide">Players Guide</a>, page 104</li>
 <td><p>Gain 3 extra dice to persuade or intimidate someone into being
 honest.</p></td>
 <td><p>One Rouse Check</p></td>
-<td><p><a href="Second_Inquisition" class="wikilink"
-title="Second Inquisition">Second Inquisition</a></p></td>
+<td><p>[Second Inquisition](./second_inquisition.md)</p></td>
 <td><p>Sanguine</p></td>
 <td><p>One Hour</p></td>
 <td><p>N/A</p></td>
@@ -537,8 +534,7 @@ class="wikilink" title="Tattered Façade">Tattered Façade</a>, page
 <td><p>Imbue and experience a Memorium of another vampire.</p></td>
 <td data-sort-value="1"><p>One Rouse Check in addition to the use of
 Ashe</p></td>
-<td><p><a href="Ashfinders" class="wikilink"
-title="Ashfinders">Ashfinders</a></p></td>
+<td><p>[Ashfinders](./ashfinders.md)</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
@@ -559,8 +555,7 @@ Gods</a>, page 45</li>
 <td><p><strong>Concoct Ashe</strong></p></td>
 <td><p>Create Ashe from the remains of a vampire.</p></td>
 <td data-sort-value="2"><p>Free</p></td>
-<td><p><a href="Ashfinders" class="wikilink"
-title="Ashfinders">Ashfinders</a></p></td>
+<td><p>[Ashfinders](./ashfinders.md)</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
 <td><p>Intelligence + Alchemy</p></td>
@@ -611,8 +606,7 @@ title="Corebook">Corebook</a>, page 286</li>
 <td><p>Introduce blood into a mortal that causes no harm to them but
 harms vampire's that feed from them.</p></td>
 <td data-sort-value="4"><p>One Rouse Check</p></td>
-<td><p><a href="Second_Inquisition" class="wikilink"
-title="Second Inquisition">Second Inquisition</a></p></td>
+<td><p>[Second Inquisition](./second_inquisition.md)</p></td>
 <td><p>Choleric</p></td>
 <td><p>One day</p></td>
 <td><p>Resolve + Alchemy</p></td>
@@ -644,8 +638,7 @@ title="Blood Sigils">Blood Sigils</a>, page 76</p></td>
 <td><p><strong>Freezer Fluid</strong></p></td>
 <td><p>Freeze a vampire's body.</p></td>
 <td><p>One Rouse Check</p></td>
-<td><p><a href="Second_Inquisition" class="wikilink"
-title="Second Inquisition">Second Inquisition</a></p></td>
+<td><p>[Second Inquisition](./second_inquisition.md)</p></td>
 <td><p>Melancholic, Phlegmatic</p></td>
 <td><p>One scene</p></td>
 <td><p>Resolve + Alchemy</p></td>
@@ -722,8 +715,7 @@ title="Blood Sigils">Blood Sigils</a>, page 77</p></td>
 <td><p><strong>On-Demand Sunburn</strong></p></td>
 <td><p>Become a sun battery and harm vampires they touch.</p></td>
 <td><p>One Rouse Check</p></td>
-<td><p><a href="Sabbat" class="wikilink"
-title="Sabbat">Sabbat</a></p></td>
+<td><p>[Sabbat](./sabbat.md)</p></td>
 <td><p>Choleric</p></td>
 <td><p>Until unleashed or next sunset, whichever is first</p></td>
 <td><p>N/A</p></td>
@@ -927,8 +919,7 @@ title="Blood Sigils">Blood Sigils</a>, page 78</p></td>
 <td><p><strong>Discipline Channeling</strong></p></td>
 <td><p>Imbue Ashe with Disciplines</p></td>
 <td><p>The same as the power channeled</p></td>
-<td><p><a href="Ashfinders" class="wikilink"
-title="Ashfinders">Ashfinders</a></p></td>
+<td><p>[Ashfinders](./ashfinders.md)</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
@@ -1120,10 +1111,7 @@ title="Corebook">Corebook</a>, page 287</li>
 </tr>
 <tr>
 <td><p><strong>Beast Mode</strong></p></td>
-<td><p>Gain the use of 1 Level 5 <a href="Potence" class="wikilink"
-title="Potence">Potence</a>, <a href="Celerity" class="wikilink"
-title="Celerity">Celerity</a> or <a href="Fortitude" class="wikilink"
-title="Fortitude">Fortitude</a> power</p></td>
+<td><p>Gain the use of 1 Level 5 [Potence](./potence.md), [Celerity](./celerity.md) or [Fortitude](./fortitude.md) power</p></td>
 <td><p>One Rouse Check</p></td>
 <td><p>None</p></td>
 <td><p>Choleric or Sanguine</p></td>

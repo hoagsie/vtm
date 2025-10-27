@@ -10,20 +10,17 @@ Learning new ritual is at least the square of the its level in weeks.[2]
 
 In the past the best knowledge was out of reach of many in chantries
 owned by the
-<a href="Tremere" class="wikilink" title="Tremere">Tremere</a> or strong
+[Tremere](./tremere.md) or strong
 holds connected to
-<a href="Banu_Haqim" class="wikilink" title="Banu Haqim&#39;s">Banu
-Haqim's</a> Alamut. Both clans have faced upheavals, and the arcane
+[Banu Haqim's](./banu.md) Alamut. Both clans have faced upheavals, and the arcane
 secrets are up for grabs. A whole
-<a href="Blood_craft_scene" class="wikilink"
-title="redworking scene">redworking scene</a> has sprung up with
+[redworking scene](./blood_craft_scene.md) has sprung up with
 desperate kindred of the aforementioned clans looking to find
 ingredients or knowledge, while other Kindred see an opportunity to
 learn or profit off this new market.
 
 Good teacher or a good
-<a href="Blood_craft_scene#Tomes_and_Grimoires" class="wikilink"
-title="grimoire">grimoire</a> may lessen the time needed to learn a
+[grimoire](./blood_craft_scene.md#tomes-and-grimoires) may lessen the time needed to learn a
 ritual. It is possible to create new rituals through an extended test
 that may take in game months to complete.[3]
 
@@ -67,8 +64,7 @@ title="Blood Sigils">Blood Sigils</a>, page 59</p></td>
 <td><p><strong>Beelzebeatit</strong></p></td>
 <td><p>Animals avoid the area.</p></td>
 <td><p>One Rouse Check</p></td>
-<td><p><a href="Sabbat" class="wikilink"
-title="Sabbat">Sabbat</a></p></td>
+<td><p>[Sabbat](./sabbat.md)</p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
 <td><p>Nothing prevents directed or controlled creatures from
 entering.</p></td>
@@ -155,8 +151,7 @@ title="Corebook">Corebook</a>, page 276</li>
 <td><p><strong>Coax the Garden</strong></p></td>
 <td><p>Use plant life to defend.</p></td>
 <td><p>One Rouse Check</p></td>
-<td><p><a href="Bahari" class="wikilink"
-title="Bahari">Bahari</a></p></td>
+<td><p>[Bahari](./bahari.md)</p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
 <td><p>The plants will target anyone who isn't the caster.</p></td>
 <td><p>/ </p>
@@ -184,8 +179,7 @@ title="Corebook">Corebook</a>, page 276</li>
 <td><p><strong>Douse the Fear</strong> </p></td>
 <td><p>Remove their fear of fire temporarily.</p></td>
 <td><p>One Rouse Check</p></td>
-<td><p><a href="Church_of_Caine" class="wikilink"
-title="Church of Caine">Church of Caine</a></p></td>
+<td><p>[Church of Caine](./church_caine.md)</p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
 <td><p>The power wears off once the scene ends.</p></td>
 <td><p>/ </p>
@@ -347,8 +341,7 @@ title="Players Guide">Players Guide</a>, page 100</li>
 <td><p><strong>Calling the Aura’s Remnants</strong></p></td>
 <td><p>Speak with the residual aura of someone who has died.</p></td>
 <td><p>One Rouse Check</p></td>
-<td><p><a href="Chicago" class="wikilink"
-title="Chicago">Chicago</a></p></td>
+<td><p>[Chicago](./chicago_ill.md)</p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
 <td><p>The aura only has memories up to the time of death.</p></td>
 <td><ul>
@@ -413,8 +406,7 @@ title="Blood Sigils">Blood Sigils</a>, page 62</p></td>
 <td><p><strong>Elemental Grasp</strong></p></td>
 <td><p>Command your chosen element to interfere with a target</p></td>
 <td><p>One Rouse Check</p></td>
-<td><p><a href="Blood_Sorcery#Koldunic_Sorcery" class="wikilink"
-title="Koldunic Sorcery">Koldunic Sorcery</a></p></td>
+<td><p>[Koldunic Sorcery](./blood_sorcery.md#koldunic-sorcery)</p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
 <td><p>Target takes Superficial Health Damage and must make an
 appropriate roll to continue. Caster gains one die to their Ritual pool
@@ -430,9 +422,7 @@ destroying it.</p></td>
 <td><p><a href="Penny_Dinning_Club" class="wikilink"
 title="Penny Dinning Club">Penny Dinning Club</a></p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
-<td><p>Usually, they will use <a
-href="Blood_Sorcery_Rituals#Enrich_the_Blood" class="wikilink"
-title="Enrich the Blood">Enrich the Blood</a> first.</p></td>
+<td><p>Usually, they will use [Enrich the Blood](./blood_sorcery_rituals.md#enrich-the-blood) first.</p></td>
 <td><ul>
 <li></li>
 <li><a href="Vampire:_The_Masquerade_Forbidden_Religions"
@@ -600,8 +590,7 @@ title="Blood Sigils">Blood Sigils</a>, page 65</p></td>
 </tr>
 <tr>
 <td><p><strong>Ward against Spirits</strong></p></td>
-<td><p>Protect themselves against <a href="Wraith" class="wikilink"
-title="spirits">spirits</a>.</p></td>
+<td><p>Protect themselves against [spirits](./wraith.md).</p></td>
 <td><p>One Rouse Check</p></td>
 <td><p>None</p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
@@ -627,8 +616,7 @@ title="Corebook">Corebook</a>, page 278</li>
 </tr>
 <tr>
 <td><p><strong>Web of Hunger</strong></p></td>
-<td><p>Avoid the pull of the <a href="Beckoning" class="wikilink"
-title="Beckoning">Beckoning</a>. </p></td>
+<td><p>Avoid the pull of the [Beckoning](./beckoning.md). </p></td>
 <td><p>One Rouse Check</p></td>
 <td><p>None</p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
@@ -671,8 +659,7 @@ title="Fall of London">Fall of London</a>, page 31 </li>
 <td><p><strong>Bladed Hands</strong></p></td>
 <td><p>Sharpens the user's hands into a weapon.</p></td>
 <td><p>Two Rouse Checks</p></td>
-<td><p><a href="Milwaukee" class="wikilink"
-title="Milwaukee">Milwaukee</a></p></td>
+<td><p>[Milwaukee](./milwaukee_wi.md)</p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
 <td><p>Treated as a light piercing Brawl weapon with a +2
 modifier.</p></td>
@@ -714,8 +701,7 @@ title="Blood Sigils">Blood Sigils</a>, page 66</p></td>
 <td><p>A Pack Priest shares their Blood Potency with their
 pack.</p></td>
 <td><p>One Rouse Check</p></td>
-<td><p><a href="Sabbat" class="wikilink"
-title="Sabbat">Sabbat</a></p></td>
+<td><p>[Sabbat](./sabbat.md)</p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
 <td><p>The Priest gains three bonus dice on Dominate and Presence tests
 against packmates.</p></td>
@@ -759,8 +745,7 @@ title="Corebook">Corebook</a>, page 278</li>
 <td><p>Meld with your chosen element, similar to Earth Meld (Protean
 ●●●)</p></td>
 <td><p>One Rouse Check</p></td>
-<td><p><a href="Blood_Sorcery#Koldunic_Sorcery" class="wikilink"
-title="Koldunic Sorcery">Koldunic Sorcery</a></p></td>
+<td><p>[Koldunic Sorcery](./blood_sorcery.md#koldunic-sorcery)</p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
 <td><p>Fire Kolduns must resist terror frenzy before casting this
 ritual. Koldun's form can be seen with a Wits + Awareness roll or by
@@ -787,8 +772,7 @@ title="Corebook">Corebook</a>, page 278</li>
 <td><p><strong>Eyes of the Past</strong></p></td>
 <td><p>See what happened at their current location in the past.</p></td>
 <td><p>One Rouse Check</p></td>
-<td><p><a href="Chicago" class="wikilink"
-title="Chicago">Chicago</a></p></td>
+<td><p>[Chicago](./chicago_ill.md)</p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
 <td><p>It only holds events within the last five years.</p></td>
 <td><ul>
@@ -800,8 +784,7 @@ title="Chicago Folios">Chicago Folios</a>, page 172</li>
 <td><p><strong>Fire in the Blood</strong></p></td>
 <td><p>Create anguish of fire in one's blood to incapacitate</p></td>
 <td><p>One Rouse Check</p></td>
-<td><p><a href="Church_of_Caine" class="wikilink"
-title="Church of Caine">Church of Caine</a></p></td>
+<td><p>[Church of Caine](./church_caine.md)</p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
 <td><p>A victim can only be affected by this Ritual once per night.
 </p></td>
@@ -834,8 +817,7 @@ title="Corebook">Corebook</a>, page 279</li>
 <td><p><strong>Galvanic Ruination</strong></p></td>
 <td><p>Short out electronics and wiring nearby.</p></td>
 <td><p>One Rouse Check</p></td>
-<td><p><a href="Sabbat" class="wikilink"
-title="Sabbat">Sabbat</a></p></td>
+<td><p>[Sabbat](./sabbat.md)</p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
 <td><p>Generally, it only affects the range of a warehouse or
 three-story building, but can be extended by adding 1 Difficulty per
@@ -850,8 +832,7 @@ class="wikilink" title="Sabbat">Sabbat</a>, page 51</li>
 <td><p><strong>Gentle Mind</strong></p></td>
 <td><p>Protect the mind of a target against Frenzy.</p></td>
 <td><p>One Rouse Check</p></td>
-<td><p><a href="Chicago" class="wikilink"
-title="Chicago">Chicago</a></p></td>
+<td><p>[Chicago](./chicago_ill.md)</p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
 <td><p>The caster must share blood with another and cannot cast it upon
 themselves.</p></td>
@@ -877,8 +858,7 @@ class="wikilink" title="Tattered Façade,">Tattered Façade,</a>page
 <td><p><strong>Haunted House</strong></p></td>
 <td><p>Make a haven appear as if it's haunted.</p></td>
 <td><p>Three Rouse Checks</p></td>
-<td><p><a href="Milwaukee" class="wikilink"
-title="Milwaukee">Milwaukee</a></p></td>
+<td><p>[Milwaukee](./milwaukee_wi.md)</p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
 <td><p>The effects last for 10 years.</p></td>
 <td><ul>
@@ -905,8 +885,7 @@ Red</a>, page 77</li>
 <td><p><strong>Illusion of Peaceful Death</strong></p></td>
 <td><p>Make a corpse appear as if it'd died a natural death.</p></td>
 <td><p>One Rouse Check</p></td>
-<td><p><a href="Chicago" class="wikilink"
-title="Chicago">Chicago</a></p></td>
+<td><p>[Chicago](./chicago_ill.md)</p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
 <td><p>The body must have at least half of the body's blood to
 succeed.</p></td>
@@ -919,12 +898,9 @@ title="Chicago Folios">Chicago Folios</a>, page 172</li>
 <td><p><strong>Illusion of Perfection</strong></p></td>
 <td><p>Become a nondescript person to blend into crowds.</p></td>
 <td><p>One Rouse Check</p></td>
-<td><p><a href="Milwaukee" class="wikilink"
-title="Milwaukee">Milwaukee</a></p></td>
+<td><p>[Milwaukee](./milwaukee_wi.md)</p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
-<td><p>Similar to the ability <a
-href="Obfuscate#Mask_of_a_Thousand_Faces" class="wikilink"
-title="Mask of a Thousand Faces">Mask of a Thousand Faces</a>.</p></td>
+<td><p>Similar to the ability [Mask of a Thousand Faces](./obfuscate.md#mask-of-a-thousand-faces).</p></td>
 <td><ul>
 <li><a href="Vampire:_The_Masquerade_Chicago_Folios" class="wikilink"
 title="Chicago Folios">Chicago Folios</a>, page 174</li>
@@ -963,8 +939,7 @@ title="Players Guide">Players Guide</a>, page 101</li>
 <td><p><strong>Sanguine Watcher</strong></p></td>
 <td><p>Create a small rat out of vitae.</p></td>
 <td><p>One Rouse Check</p></td>
-<td><p><a href="Milwaukee" class="wikilink"
-title="Milwaukee">Milwaukee</a></p></td>
+<td><p>[Milwaukee](./milwaukee_wi.md)</p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
 <td><p>The caster can send the rat to go where they instruct to observe
 or steal, but the instructions must be very explicit.</p></td>
@@ -1043,8 +1018,7 @@ title="Blood Sigils">Blood Sigils</a>, page 68</p></td>
 <td><p><a href="Lupine" class="wikilink" title="Lupines">Lupines</a>
 entering the area are forced into Wolf Form.</p></td>
 <td><p>Three Rouse Checks</p></td>
-<td><p><a href="Chicago" class="wikilink"
-title="Chicago">Chicago</a></p></td>
+<td><p>[Chicago](./chicago_ill.md)</p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
 <td><p>If they do not succeed on the Ritual Roll against a contested
 Willpower test, they enter in Lupus Form.</p></td>
@@ -1070,8 +1044,7 @@ title="Blood Sigils">Blood Sigils</a>, page 69</p></td>
 <td><p>Gather information from everyone in an area suffering from a
 certain disease</p></td>
 <td><p>One Rouse Check</p></td>
-<td><p><a href="Other_groups#The_Plague_Oracles" class="wikilink"
-title="Plague Oracles">Plague Oracles</a></p></td>
+<td><p>[Plague Oracles](./other_groups.md#the-plague-oracles)</p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
 <td><p>Caster must drink from someone with the disease within 24 hours
 before casting this Ritual.</p></td>
@@ -1094,8 +1067,7 @@ title="Corebook">Corebook</a>, page 279</li>
 </tr>
 <tr>
 <td><p><strong>Warding Circle against Spirits</strong></p></td>
-<td><p>Protect themselves against <a href="Wraith" class="wikilink"
-title="spirits">spirits</a>.</p></td>
+<td><p>Protect themselves against [spirits](./wraith.md).</p></td>
 <td><p>Three Rouse Checks</p></td>
 <td><p>None</p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
@@ -1179,8 +1151,7 @@ title="Corebook">Corebook</a>, page 279</li>
 access the experiences of everyone with that illness in the
 area</p></td>
 <td><p>One Rouse Check</p></td>
-<td><p><a href="Other_groups#The_Plague_Oracles" class="wikilink"
-title="Plague Oracles">Plague Oracles</a></p></td>
+<td><p>[Plague Oracles](./other_groups.md#the-plague-oracles)</p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
 <td><p>If a Skill is very common in an area, like Finance in New York,
 the caster can get extra die to their roll, at a maximum of
@@ -1247,12 +1218,10 @@ title="Corebook">Corebook</a>, page 280</li>
 </tr>
 <tr>
 <td><p><strong>Innocence of the Child’s Heart</strong></p></td>
-<td><p>Put up a blockade against <a href="Auspex#Scry_the_Soul"
-class="wikilink" title="Scry the Soul">Scry the Soul</a> to hide
+<td><p>Put up a blockade against [Scry the Soul](./auspex.md#scry-the-soul) to hide
 diablerie and other vampiric traits.</p></td>
 <td><p>One Rouse Check</p></td>
-<td><p><a href="Chicago" class="wikilink"
-title="Chicago">Chicago</a></p></td>
+<td><p>[Chicago](./chicago_ill.md)</p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
 <td><p>There's no record of Nicolai sharing this ritual with his fellow
 Tremere and is only learned by capturing his notes or by ST
@@ -1301,12 +1270,9 @@ title="Blood Sigils">Blood Sigils</a>, page 70</p></td>
 </tr>
 <tr>
 <td><p><strong>Rending the Sweet Earth</strong></p></td>
-<td><p>Pull a vampire from the earth who is using <a
-href="Protean#Earth_Meld" class="wikilink" title="Earth Meld">Earth
-Meld</a>.</p></td>
+<td><p>Pull a vampire from the earth who is using [Earth Meld](./protean.md#earth-meld).</p></td>
 <td><p>One Rouse Check</p></td>
-<td><p><a href="Chicago" class="wikilink"
-title="Chicago">Chicago</a></p></td>
+<td><p>[Chicago](./chicago_ill.md)</p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
 <td><p>The ritual automatically awakens the other vampire unless they
 are in torpor or the Ritual Roll is a Critical Win.</p></td>
@@ -1329,12 +1295,9 @@ title="Blood Sigils">Blood Sigils</a>, page 71</p></td>
 </tr>
 <tr>
 <td><p><strong>Protean Curse</strong></p></td>
-<td><p>Transform a target into a bat similar to <a
-href="Protean#Metamorphosis" class="wikilink"
-title="Metamorphosis">Metamorphosis</a>.</p></td>
+<td><p>Transform a target into a bat similar to [Metamorphosis](./protean.md#metamorphosis).</p></td>
 <td><p>Two Rouse Check</p></td>
-<td><p><a href="Chicago" class="wikilink"
-title="Chicago">Chicago</a></p></td>
+<td><p>[Chicago](./chicago_ill.md)</p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
 <td><p>This cannot be used on the caster.</p></td>
 <td><ul>
@@ -1402,8 +1365,7 @@ title="Corebook">Corebook</a>, page 280</li>
 <td><p>'''Antebrachia Ignium </p></td>
 <td><p>Set their arms on fire</p></td>
 <td><p>One Rouse Check</p></td>
-<td><p><a href="Church_of_Caine" class="wikilink"
-title="Church of Caine">Church of Caine</a></p></td>
+<td><p>[Church of Caine](./church_caine.md)</p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
 <td><p>The user is only resistant to fire on their arms.</p></td>
 <td><p>/ </p>
@@ -1427,11 +1389,7 @@ title="Players Guide">Players Guide</a>, page 102</li>
 </tr>
 <tr>
 <td><p><strong>Dominion</strong></p></td>
-<td><p>Stop the use of <a href="Animalism" class="wikilink"
-title="Animalism">Animalism</a>, <a href="Auspex" class="wikilink"
-title="Auspex">Auspex</a>, <a href="Dominate" class="wikilink"
-title="Dominate">Dominate</a>, and <a href="Presence" class="wikilink"
-title="Presence">Presence</a> within a building.</p></td>
+<td><p>Stop the use of [Animalism](./animalism.md), [Auspex](./auspex.md), [Dominate](./dominate.md), and [Presence](./presence.md) within a building.</p></td>
 <td><p>One Rouse Check or more</p></td>
 <td><p>None</p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
@@ -1447,8 +1405,7 @@ title="Players Guide">Players Guide</a>, page 103</li>
 <td><p><strong>Eden’s Bounty</strong></p></td>
 <td><p>Drain blood from nearby creatures</p></td>
 <td><p>One Rouse Check, possible Stains</p></td>
-<td><p><a href="Bahari" class="wikilink"
-title="Bahari">Bahari</a></p></td>
+<td><p>[Bahari](./bahari.md)</p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
 <td><p>For the remainder of the chapter, mortals suffer 1 die penalty to
 Physical rolls and take 1 Aggravated health damage.</p></td>
@@ -1464,8 +1421,7 @@ Gods</a>, page 56</li>
 <td><p>The Koldun commands their chosen element to attack a foe. This
 can be a Chain Ritual</p></td>
 <td><p>One Rouse Check</p></td>
-<td><p><a href="Blood_Sorcery" class="wikilink"
-title="Koldunic Sorcery">Koldunic Sorcery</a></p></td>
+<td><p>[Koldunic Sorcery](./blood_sorcery.md)</p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
 <td><p>If their element is already active, like Air during a storm, they
 get an extra die to their Ritual pool. If Chained with Elemental Grasp
@@ -1512,8 +1468,7 @@ Social-related rolls.</p></td>
 <td><p>One Rouse Check</p></td>
 <td><p>None</p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
-<td><p>They are unable to use <a href="Presence" class="wikilink"
-title="Presence">Presence</a> during this ritual's use but gain a bonus
+<td><p>They are unable to use [Presence](./presence.md) during this ritual's use but gain a bonus
 when resisting its use on them.</p></td>
 <td><p>/ </p>
 <ul>
@@ -1523,8 +1478,7 @@ title="Corebook">Corebook</a>, page 281</li>
 </tr>
 <tr>
 <td><p><strong>Reawakened Vigor</strong></p></td>
-<td><p>Regain <a href="Blood_Potency" class="wikilink"
-title="Blood Potency">Blood Potency</a> faster after extended
+<td><p>Regain [Blood Potency](./blood_potency.md) faster after extended
 torpor.</p></td>
 <td></td>
 <td></td>
@@ -1553,8 +1507,7 @@ title="Corebook">Corebook</a>, page 281</li>
 <td><p><strong>Simulacrum Gate</strong></p></td>
 <td><p>Create a gate to teleport multiple vampires.</p></td>
 <td><p>One Rouse Check, possible Stains</p></td>
-<td><p><a href="Sabbat" class="wikilink"
-title="Sabbat">Sabbat</a></p></td>
+<td><p>[Sabbat](./sabbat.md)</p></td>
 <td><p>Intelligence + Blood Sorcery</p></td>
 <td><p>There is only one of these known to exist currently.</p></td>
 <td><p>/ </p>
@@ -1565,8 +1518,7 @@ class="wikilink" title="Sabbat">Sabbat</a>, page 51</li>
 </tr>
 <tr>
 <td><p><strong>Transferring the Soul</strong></p></td>
-<td><p>Take over a body from <a href="diablerie" class="wikilink"
-title="diablerie">diablerie</a>.</p></td>
+<td><p>Take over a body from [diablerie](./diablerie.md).</p></td>
 <td><p>One Rouse Check</p></td>
 <td><p>None</p></td>
 <td><p>Intelligence + Blood Sorcery and</p>

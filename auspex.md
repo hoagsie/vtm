@@ -8,35 +8,31 @@ them information that they may wish to never know and, in turn, opens
 the gateway to paranoia. Those able to master this volatile Discipline
 make excellent spies, detectives, and seers in courts and factions.
 Certain Auspex powers can be used to foil supernatural stealth such as
-<a href="Auspex#Sense_the_Unseen" class="wikilink"
-title="Sense the Unseen">Sense the Unseen</a> or to determine those
+[Sense the Unseen](./auspex.md#sense-the-unseen) or to determine those
 under supernatural manipulation with abilities like
-<a href="Auspex#Scry_the_Soul" class="wikilink"
-title="Scry the Soul">Scry the Soul</a>. Higher levels of this power can
+[Scry the Soul](./auspex.md#scry-the-soul). Higher levels of this power can
 be used to survey and invade minds. Visions are potent but unreliable
 seeing flashes of the past, future, or imminent death. [1]
 
-The <a href="Hecata" class="wikilink" title="Hecata">Hecata</a> have
+The [Hecata](./hecata.md) have
 used Auspex to see spirits remaining in this realm and to power their
 necromancy. They love to see fate's grand design to plan grand schemes
 and meddle with fate's design as seen with
-<a href="Auspex#Fatal_Precognition" class="wikilink"
-title="Fatal Precognition">Fatal Precognition</a>.[2]
-<a href="Malkavian" class="wikilink" title="Malkavians">Malkavians</a>
+[Fatal Precognition](./auspex.md#fatal-precognition).[2]
+[Malkavians](./malkavian.md)
 are known for their potent foresight and supernatural senses to
 determine what makes mortals tick and deep dive into their psyche.[3]
-The <a href="Salubri" class="wikilink" title="Salubri">Salubri</a> uses
+The [Salubri](./salubri.md) uses
 Auspex to see the hidden truth of the world and to see the often
 overlooked. Auspex is important when it comes to their ability to aid or
 hinder another kindred as displayed with
-<a href="Auspex#Obeah" class="wikilink" title="Panacea">Panacea</a> and
-<a href="Auspex#Unburdening_the_Bestial_Soul" class="wikilink"
-title="Unburdening the Bestial Soul">Unburdening the Bestial Soul</a>.[4]
-<a href="Toreador" class="wikilink" title="Toreador">Toreador</a>
+[Panacea](./auspex.md#obeah) and
+[Unburdening the Bestial Soul](./auspex.md#unburdening-the-bestial-soul).[4]
+[Toreador](./toreador.md)
 typically use Auspex to find susceptible victims and experience new
 sensations from mortals. They also manipulate kindred with their
 discovered secrets and desires.[5] Practical
-<a href="Tremere" class="wikilink" title="Tremere">Tremere</a> use
+[Tremere](./tremere.md) use
 Auspex to see deeper into the unseen, mystical information gathering,
 and find pliable mortals to manipulate.[6]
 
@@ -96,8 +92,7 @@ title="Corebook">Corebook</a>, page 249</p></td>
 <td><p>Passive</p></td>
 <td><p>Wits/Resolve + Auspex</p></td>
 <td><p>N/A</p></td>
-<td><p>If the target is using <a href="Obfuscate" class="wikilink"
-title="Obfuscate">Obfuscate</a> they oppose using Wits + Obfuscate vs
+<td><p>If the target is using [Obfuscate](./obfuscate.md) they oppose using Wits + Obfuscate vs
 the user's Wits + Auspex, normal searches use Resolve.</p></td>
 <td><p>/ <a href="Vampire:_The_Masquerade_Corebook" class="wikilink"
 title="Corebook">Corebook</a>, page 249</p></td>
@@ -140,8 +135,7 @@ title="Corebook">Corebook</a>, page 249</p></td>
 <td><p>Heals Willpower and calms nerves.</p></td>
 <td data-sort-value="1"><p>One Rouse Check</p></td>
 <td><p>None</p></td>
-<td><p><a href="Fortitude" class="wikilink"
-title="Fortitude">Fortitude</a> ●</p></td>
+<td><p>[Fortitude](./fortitude.md) ●</p></td>
 <td><p>N/A</p></td>
 <td><p>Composure + Auspex</p></td>
 <td><p>N/A</p></td>
@@ -176,8 +170,7 @@ title="Corebook">Corebook</a>, page 249</li>
 </tr>
 <tr>
 <td><p><strong>Reveal Temperament</strong></p></td>
-<td><p>Smell the <a href="Resonance" class="wikilink"
-title="Resonance">Resonance</a> of a target and/or if Dyscrasia is
+<td><p>Smell the [Resonance](./resonance.md) of a target and/or if Dyscrasia is
 present.</p></td>
 <td><p>One Rouse Check</p></td>
 <td><p>None</p></td>
@@ -198,7 +191,7 @@ title="Players Guide">Players Guide</a>, page 71</li>
 <td><p>Tracking a victim.</p></td>
 <td data-sort-value="3"><p>One Rouse Check</p></td>
 <td><p>None</p></td>
-<td><p><a href="Dominate" class="wikilink" title="Dominate">Dominate</a>
+<td><p>[Dominate](./dominate.md)
 ●</p></td>
 <td><p>One night plus one for each success</p></td>
 <td><p>Resolve + Auspex</p></td>
@@ -249,8 +242,7 @@ class="wikilink" title="Sabbat">Sabbat</a>, page 46</li>
 <td><p>Share the senses with animals.</p></td>
 <td data-sort-value="1"><p>One Rouse Check</p></td>
 <td><p>None</p></td>
-<td><p><a href="Animalism" class="wikilink"
-title="Animalism">Animalism</a> ●●</p></td>
+<td><p>[Animalism](./animalism.md) ●●</p></td>
 <td><p>One scene </p></td>
 <td><p>Resolve + Animalism </p></td>
 <td><p>N/A</p></td>
@@ -266,7 +258,7 @@ title="Fall of London">Fall of London</a>, page 30 </li>
 <td><p>Find the weakness of a target</p></td>
 <td><p>One Rouse Check</p></td>
 <td><p>None</p></td>
-<td><p><a href="Oblivion" class="wikilink" title="Oblivion">Oblivion</a>
+<td><p>[Oblivion](./oblivion.md)
 ●</p></td>
 <td><p>One scene</p></td>
 <td><p>Intelligence + Auspex</p></td>
@@ -304,8 +296,7 @@ title="Corebook">Corebook</a>, page 250</li>
 <td><p>One scene</p></td>
 <td><p>Resolve + Auspex</p></td>
 <td><p>N/A</p></td>
-<td><p><a href="Auspex#Sense_the_Unseen" class="wikilink"
-title="Sense the Unseen">Sense the Unseen</a> can allow the user to be
+<td><p>[Sense the Unseen](./auspex.md#sense-the-unseen) can allow the user to be
 noticed by the victim.</p></td>
 <td><ul>
 <li><p>/ </p></li>
@@ -451,7 +442,7 @@ title="Corebook">Corebook</a>, page 251</li>
 <td><p>Possess a mortal body</p></td>
 <td data-sort-value="2"><p>Two Rouse Checks</p></td>
 <td><p>None</p></td>
-<td><p><a href="Dominate" class="wikilink" title="Dominate">Dominate</a>
+<td><p>[Dominate](./dominate.md)
 ●●●</p></td>
 <td><p>Until ended</p></td>
 <td><p>Resolve + Auspex</p></td>
@@ -487,13 +478,12 @@ title="Corebook">Corebook</a>, page 252</li>
 <td><p>Stain removal or protection from Stains</p></td>
 <td data-sort-value="4"><p>Two Rouse checks, 1 Stain</p></td>
 <td><p>Panacea </p></td>
-<td><p><a href="Dominate" class="wikilink" title="Dominate">Dominate</a>
+<td><p>[Dominate](./dominate.md)
 ●●●</p></td>
 <td><p>One session</p></td>
 <td><p>Composure + Auspex</p></td>
 <td><p>N/A</p></td>
-<td><p>This power only works on vampires with a lower <a href="Humanity"
-class="wikilink" title="Humanity">Humanity</a> rating.</p></td>
+<td><p>This power only works on vampires with a lower [Humanity](./humanity.md) rating.</p></td>
 <td><ul>
 <li></li>
 <li><a href="Vampire:_The_Masquerade_Companion" class="wikilink"
@@ -539,10 +529,8 @@ Below are the amalgams from other Discipline trees that require Auspex;
 width="42" />
 <figcaption>Fortitude_symbol.png</figcaption>
 </figure></td>
-<td><p><strong><a href="Fortitude#Invigorating_Vitae" class="wikilink"
-title="Invigorating Vitae">Invigorating Vitae</a></strong></p></td>
-<td><p><a href="Fortitude" class="wikilink"
-title="Fortitude">Fortitude</a> ●●</p></td>
+<td><p><strong>[Invigorating Vitae](./fortitude.md#invigorating-vitae)</strong></p></td>
+<td><p>[Fortitude](./fortitude.md) ●●</p></td>
 <td><p>●</p></td>
 <td><p>Heal mortals faster with the Blood.</p></td>
 <td><p>None other than the Rouse Checks to give Blood</p></td>
@@ -558,10 +546,8 @@ title="Players Guide">Players Guide</a>, page 75</li>
 width="42" />
 <figcaption>Fortitude_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Fortitude#Valeren" class="wikilink"
-title="Valeren"><strong>Valeren</strong></a></p></td>
-<td><p><a href="Fortitude" class="wikilink"
-title="Fortitude">Fortitude</a> ●●●</p></td>
+<td><p>[<strong>Valeren</strong>](./fortitude.md#valeren)</p></td>
+<td><p>[Fortitude](./fortitude.md) ●●●</p></td>
 <td data-sort-value="1"><p>●</p></td>
 <td><p>Mend an injured vampire</p></td>
 <td><p>One Rouse Check</p></td>
@@ -578,9 +564,8 @@ title="Players Guide">Players Guide</a>, page 75</p></li>
 <img src="Presence_symbol.png" title="Presence_symbol.png" width="42" />
 <figcaption>Presence_symbol.png</figcaption>
 </figure></td>
-<td><p><strong><a href="Presence#Thrown_Voice" class="wikilink"
-title="Thrown Voice">Thrown Voice</a></strong></p></td>
-<td><p><a href="Presence" class="wikilink" title="Presence">Presence</a>
+<td><p><strong>[Thrown Voice](./presence.md#thrown-voice)</strong></p></td>
+<td><p>[Presence](./presence.md)
 ●●●</p></td>
 <td><p>●</p></td>
 <td><p>Throw their voice from any point within sight and leave the voice
@@ -597,9 +582,8 @@ title="Players Guide">Players Guide</a>, page 80</li>
 <img src="Oblivion_symbol.png" title="Oblivion_symbol.png" width="42" />
 <figcaption>Oblivion_symbol.png</figcaption>
 </figure></td>
-<td><p><strong><a href="Oblivion#Fatal_Prediction" class="wikilink"
-title="Fatal Prediction">Fatal Prediction</a></strong></p></td>
-<td><p><a href="Oblivion" class="wikilink" title="Oblivion">Oblivion</a>
+<td><p><strong>[Fatal Prediction](./oblivion.md#fatal-prediction)</strong></p></td>
+<td><p>[Oblivion](./oblivion.md)
 ●●</p></td>
 <td><p>●●</p></td>
 <td><p>Increase the chances of a mortal being harmed by exterior
@@ -617,10 +601,8 @@ title="Players Guide">Players Guide</a>, page 87</li>
 <img src="Oblivion_symbol.png" title="Oblivion_symbol.png" width="42" />
 <figcaption>Oblivion_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Oblivion#Fatal_Precognition" class="wikilink"
-title="Fatal Precognition"><strong>Fatal
-Precognition</strong></a></p></td>
-<td><p><a href="Oblivion" class="wikilink" title="Oblivion">Oblivion</a>
+<td><p>[<strong>Fatal Precognition</strong>](./oblivion.md#fatal-precognition)</p></td>
+<td><p>[Oblivion](./oblivion.md)
 ●●</p></td>
 <td data-sort-value="2"><p>●●</p></td>
 <td><p>Vision of a non-vampires death</p></td>
@@ -639,10 +621,8 @@ Gods</a>, page 204</li>
 width="42" />
 <figcaption>Obfuscate_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Obfuscate#Ventriloquism" class="wikilink"
-title="Ventriloquism"><strong>Ventriloquism</strong></a></p></td>
-<td><p><a href="Obfuscate" class="wikilink"
-title="Obfuscate">Obfuscate</a> ●●</p></td>
+<td><p>[<strong>Ventriloquism</strong>](./obfuscate.md#ventriloquism)</p></td>
+<td><p>[Obfuscate](./obfuscate.md) ●●</p></td>
 <td data-sort-value="3"><p>●●</p></td>
 <td><p>Throwing one's voice</p></td>
 <td><p>One Rouse Check</p></td>
@@ -658,9 +638,8 @@ title="Fall of London">Fall of London</a>, page 148</li>
 <img src="Celerity_symbol.png" title="Celerity_symbol.png" width="42" />
 <figcaption>Celerity_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Celerity#Unerring_Aim" class="wikilink"
-title="Unerring Aim"><strong>Unerring Aim</strong></a></p></td>
-<td><p><a href="Celerity" class="wikilink" title="Celerity">Celerity</a>
+<td><p>[<strong>Unerring Aim</strong>](./celerity.md#unerring-aim)</p></td>
+<td><p>[Celerity](./celerity.md)
 ●●●●</p></td>
 <td data-sort-value="4"><p>●●</p></td>
 <td><p>Slow the world down to attack</p></td>
@@ -678,10 +657,8 @@ title="Corebook">Corebook</a>, page 254</li>
 width="42" />
 <figcaption>Obfuscate_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Obfuscate#Conceal" class="wikilink"
-title="Conceal"><strong>Conceal</strong></a></p></td>
-<td><p><a href="Obfuscate" class="wikilink"
-title="Obfuscate">Obfuscate</a> ●●●●</p></td>
+<td><p>[<strong>Conceal</strong>](./obfuscate.md#conceal)</p></td>
+<td><p>[Obfuscate](./obfuscate.md) ●●●●</p></td>
 <td data-sort-value="5"><p>●●●</p></td>
 <td><p>Cloak an inanimate object</p></td>
 <td><p>One Rouse Check</p></td>
@@ -697,9 +674,8 @@ title="Corebook">Corebook</a>, page 262</li>
 <img src="Presence_symbol.png" title="Presence_symbol.png" width="42" />
 <figcaption>Presence_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Presence#Magnum_Opus" class="wikilink"
-title="Magnum Opus"><strong>Magnum Opus</strong></a></p></td>
-<td><p><a href="Presence" class="wikilink" title="Presence">Presence</a>
+<td><p>[<strong>Magnum Opus</strong>](./presence.md#magnum-opus)</p></td>
+<td><p>[Presence](./presence.md)
 ●●●●</p></td>
 <td data-sort-value="6"><p>●●●</p></td>
 <td><p>Infusing Presence into artwork</p></td>
@@ -715,9 +691,8 @@ class="wikilink" title="Winter&#39;s Teeth">Winter's Teeth</a>
 width="42" />
 <figcaption>Animalism_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Animalism#Augury" class="wikilink"
-title="Augury"><strong>Augury</strong></a></p></td>
-<td><p><a href="Presence" class="wikilink" title="Presence">Presence</a>
+<td><p>[<strong>Augury</strong>](./animalism.md#augury)</p></td>
+<td><p>[Presence](./presence.md)
 ●●●</p></td>
 <td data-sort-value="6"><p>●</p></td>
 <td><p>Force a swarm to form an answer to a question.</p></td>

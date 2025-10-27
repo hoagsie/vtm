@@ -10,8 +10,7 @@ Gangrels are generally
 <a href="Embrace" class="wikilink" title="embraced">embraced</a> from
 prospects who show the ability to survive and fighters. Due to this
 their customs encourage fights for dominance but not to
-<a href="final_death" class="wikilink" title="final death">final
-death</a> as they push for a culture of healthy rivalry rather than
+[final death](./final_death.md) as they push for a culture of healthy rivalry rather than
 taking competition personally. They are usually the outcasts of Kindred
 society, learning to live in undesirable areas and yet thrive without
 bending the knee to a Prince or Baron. Gangrels tend to care less about
@@ -35,7 +34,7 @@ in it.
 <section begin="bane" />
 
 **Bestial Features** - In
-<a href="Frenzy" class="wikilink" title="Frenzy">Frenzy</a>, Gangrel
+[Frenzy](./frenzy.md), Gangrel
 gains animalistic features equal to their Bane Severity. These features
 last for one more night afterward, each feature reducing one Attribute
 by 1 point. The Gangrel may choose to Ride the Wave in order to only
@@ -81,7 +80,7 @@ they are only able to speak one word sentences during this Compulsion.
   of fiction. Whether within a tent city or a convention, they are great
   socialists and make friends easily as they recall their tales.
 - **Business First** - Maybe they were stolen from a
-  <a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a>, or
+  [Ventrue](./ventrue.md), or
   maybe clans aren't defined by a stereotype. Their animalistic
   tendencies make them great at haggling deals and scaring smaller
   companies into selling.
@@ -92,14 +91,14 @@ they are only able to speak one word sentences during this Compulsion.
 ## Notable characters
 
 **Rudi** - An
-<a href="Anarch" class="wikilink" title="Anarch">Anarch</a>
+[Anarch](./anarch.md)
 Representative for the oppressed minorities in Kindred society as well
 as mortal. Residing in Copenhagen, he stands up for Gangrel kicked out,
 stands up for woman Kindred run by misogynistic elders and encourages
 progressive norms over tradition.[6]
 
 **Xaviar** - Marched into a
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>
+[Camarilla](./camarilla.md)
 assembly in order to gain attention to his claims about having
 interacted with one of the Antediluvians where his entire coterie is
 eaten alive. He accused the tower of being deceitful and cast aside his
@@ -111,12 +110,11 @@ culprit is still unknown, but all Gangrel know he was wronged. [7]
 
 **Mark Decker** - Prince of Milwaukee who runs his domain like a police
 state. After attacks from
-<a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a> and
+[Sabbat](./sabbat.md) and
 <a href="Werewolf" class="wikilink" title="werewolves">werewolves</a>.
-the <a href="Brujah" class="wikilink" title="Brujah">Brujah</a> and
+the [Brujah](./brujah.md) and
 Gangrel defection from the Tower, and the threat of the
-<a href="Second_Inquisition" class="wikilink"
-title="Second Inquisition">Second Inquisition</a>, he has tightly closed
+[Second Inquisition](./second_inquisition.md), he has tightly closed
 off his Domain controlling who comes and goes. The Gangrel maintains
 draconian rules with a a strict no Anarch policy, his own harshly
 enforced set of rules, and keeps eyes on all corners of his domain via
@@ -132,8 +130,7 @@ title="New York by Night">New York by Night</a>.
 
 **Ramona** - A loner Gangrel who aids the Vamily in their early
 exploits. The leader of a pack of
-<a href="Mortals_and_ghouls" class="wikilink"
-title="ghouled">ghouled</a> rats, she uses them as her eyes and ears, on
+[ghouled](./mortals_ghouls.md) rats, she uses them as her eyes and ears, on
 occasion messenger. A resident of Griffith College who appears in
 <a href="LA_by_Night" class="wikilink" title="LA by Night.">LA by
 Night.</a>
@@ -191,14 +188,11 @@ mercenaries on their travels from domain to domain.[12]
 
 Gangrel characters have special access to the following loresheets:
 
-• <a href="Loresheets#Low_Clan" class="wikilink" title="Low Clan">Low
-Clan</a>
+• [Low Clan](./loresheets.md#low-clan)
 
-• <a href="Loresheets#Descendant_of_Xavier" class="wikilink"
-title="Descendant of Xaviar">Descendant of Xaviar</a>
+• [Descendant of Xaviar](./loresheets.md#descendant-of-xavier)
 
-• <a href="Loresheets#Mark_Decker" class="wikilink"
-title="Mark Decker">Mark Decker</a>
+• [Mark Decker](./loresheets.md#mark-decker)
 
 ## Gallery
 

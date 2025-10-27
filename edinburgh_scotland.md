@@ -3,21 +3,20 @@
 <section begin="summary" />
 
 An old historic city that used to be a
-<a href="Toreador" class="wikilink" title="Toreador">Toreador</a>
+[Toreador](./toreador.md)
 stronghold with
-<a href="Brujah" class="wikilink" title="Brujah">Brujah</a> and
-<a href="Toreador" class="wikilink" title="Toreador">Toreador</a> being
+[Brujah](./brujah.md) and
+[Toreador](./toreador.md) being
 the major clans of influence. The travel between
-<a href="London,_UK" class="wikilink" title="London">London</a> and
+[London](./london_uk.md) and
 Edinburgh has been perilous due to the Werewolf presence. The city had
 remained largely independent of Mithras influence for years.
 <a href="Roger_de_Camden" class="wikilink" title="De Camden">De
 Camden</a> was able to perform a coup and replace the leadership in
 Edinburgh with members of the
-<a href="Mithraic_Mysteries" class="wikilink"
-title="Mithraic Mysteries">Mithraic Mysteries</a>. The city is now a
+[Mithraic Mysteries](./mithraic_mysteries.md). The city is now a
 model domain for both the cult and the
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>.
+[Camarilla](./camarilla.md).
 
 <section end="summary" />
 
@@ -27,38 +26,38 @@ model domain for both the cult and the
 
 - <a href="Roger_de_Camden" class="wikilink" title="Roger de Camden">Roger
   de Camden</a>,
-  <a href="Hecata" class="wikilink" title="Hecata">Hecata</a> - Prince
+  [Hecata](./hecata.md) - Prince
   of Edinburgh and Pater of Cult of Mithras.[4]
 - Roderick Lord,
-  <a href="Brujah" class="wikilink" title="Brujah">Brujah</a> - Courtier
+  [Brujah](./brujah.md) - Courtier
   and stayed with the Camarilla as a Hellene Brujah.[5]
 - Aditya Hay,
-  <a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a> -
+  [Ventrue](./ventrue.md) -
   Former Seneschal of Edinburgh, converted to the cult and aided in the
   Mithraic coup[6].
 - Florian Ribeiro, Toreador - A Brazilian mathematician who joined the
   Cult of Mithras to find meaning of divinity and learn from de Camden.
-  <a href="Nephilim" class="wikilink" title="Nephilim">Nephilim</a> seek
+  [Nephilim](./nephilim.md) seek
   to poach him.[7]
 - Annatoliya, Toreador- True
-  <a href="Nephilim" class="wikilink" title="Nephilim">Nephilim</a>
+  [Nephilim](./nephilim.md)
   ancilla. Her sire's spies have seen Florian in town and contacted the
   cult eyeing a prospective recruit.[8][9]
 - Baptiste, Toreador - A Nephilim subversive artist from Atlanta. He
   sees Florian as a prize. Hope to set up a mission for the Nephilim in
   town.[10][11]
 - Vitas Varnas,
-  <a href="thin-blood" class="wikilink" title="thin-blood">thin-blood</a> -
+  [thin-blood](./thinblood.md) -
   Australian born actor, recruited into the Nephilim while in America.
   Works with Baptiste to seduce and recruit Florian[12][13]
 - Derek Jacobson,
-  <a href="Brujah" class="wikilink" title="Brujah">Brujah</a> - A
+  [Brujah](./brujah.md) - A
   protector of the exploited and Mithraic enforcer, ranked miles .
   Recently woke from Torpor and recently converted. He is currently
   protecting Florian. Nephilim see him as a bonus convert to
   Florian.[14][15]
 - Nina Jones -
-  <a href="Mortals_and_ghouls" class="wikilink" title="Ghoul">Ghoul</a>
+  [Ghoul](./mortals_ghouls.md)
   to Roger de Camden and his
   <a href="Touchstone" class="wikilink" title="Touchstone">Touchstone</a>.
   Stated to be one of the most powerful witched of the city. Studies and
@@ -74,11 +73,10 @@ model domain for both the cult and the
   city. They are a missionary coterie type.[18]
 - <a href="Cult_of_Isis" class="wikilink" title="Cult of Isis">Cult of
   Isis</a> Cell -
-  <a href="Bahari" class="wikilink" title="Bahari">Bahari</a> adjacent
+  [Bahari](./bahari.md) adjacent
   cult of witches and vampires. Some work as spies for
-  <a href="Ashfinders" class="wikilink"
-  title="Ashfinder’s">Ashfinder’s</a>
-  <a href="Tremere" class="wikilink" title="Tremere">Tremere</a>
+  [Ashfinder’s](./ashfinders.md)
+  [Tremere](./tremere.md)
   founder, Dr. James “Mortius” Howitt.[19]
 
 ## Locations
@@ -126,8 +124,7 @@ cult.[30][31]
   <a href="Vampire:_The_Masquerade_Fall_of_London" class="wikilink"
   title="Fall of London">Fall of London</a>, if Mithras survives he
   retreats to Edinburgh to build up power to retake London from the
-  <a href="Second_Inquisition" class="wikilink"
-  title="Second Inquisition">Second Inquisition</a>.[32]
+  [Second Inquisition](./second_inquisition.md).[32]
 
 ## References
 

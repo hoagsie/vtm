@@ -54,8 +54,7 @@ all of which are protected and directed by the Keeper and their heralds.
 
 While most members of the Camarilla see themselves as above the rabble
 Anarchs, they do see some sects as peers or even possible partners. Due
-to the <a href="Second_Inquisition" class="wikilink"
-title="Second Inquisition">Second Inquisition</a> playing no favorites,
+to the [Second Inquisition](./second_inquisition.md) playing no favorites,
 Justicars see the necessity of agreements between Kindred. These nights
 Archons may carry messages of deep respect or arrangements for local
 alliances and there's a chance it's a back-and-forth correspondence to
@@ -132,12 +131,11 @@ hand-selected by a Justicar and given only one chance to deny the
 opportunity. Should they take it, they will be enforcing Camarilla law,
 seeking out secrets, or spying on enemies of the tower. Some may operate
 alone and others work within coteries. Often Justicars will
-<a href="Blood_Bond" class="wikilink" title="blood bond">blood bond</a>
+[blood bond](./blood_bond.md)
 their Archons to themselves or to each other. Even if they are not bound
 to anyone by blood they still have less freedom of action than the
 Justicars. They can expect to be obeyed when they order the
-<a href="Final_Death" class="wikilink" title="Final Death">Final
-Death</a> of a Kindred. Due to this, Archons can destroy an entire
+[Final Death](./final_death.md) of a Kindred. Due to this, Archons can destroy an entire
 domain without an explanation.[14]
 
 ### Prince
@@ -154,7 +152,7 @@ largest hunting grounds, they speak directly to the Prince and give
 their own advice.[15]
 
 Due to the
-<a href="Beckoning" class="wikilink" title="Beckoning">Beckoning</a> and
+[Beckoning](./beckoning.md) and
 the damage it has caused to domains, some Primogen councils now operate
 on a rotational basis and others have limited their size to only three
 or five members which will force an odd number and force votes to pass.
@@ -226,8 +224,7 @@ which influences the careful nature all Kindred must have in order to
 survive the modern age of technology. One slopping feeding, one missed
 times action on a live stream or one mistimed confession to a mortal
 lover could spell doom for those involved as the
-<a href="Second_Inquisition" class="wikilink"
-title="Second Inquisition">Second Inquisition</a> comes knocking down
+[Second Inquisition](./second_inquisition.md) comes knocking down
 the door to find the creatures who have breached. It is expected that
 any issues created are quickly solved before something dire happens to
 them or those they love.
@@ -339,12 +336,12 @@ tech-savvy Kindred havens were raided. Many of the Camarilla’s major
 strongholds in Europe were lost. The Tremere’s head chantry and Domain,
 Vienna, fell to a major Second Inquisition attack wiping it out.[37] 
 Domains like
-<a href="London,_UK" class="wikilink" title="London">London</a> and
+[London](./london_uk.md) and
 Marseilles are rumored to be Kindred-free by the SI. Queen Anne, Prince
-of <a href="London,_UK" class="wikilink" title="London">London</a> is
+of [London](./london_uk.md) is
 rumored dead, and <a href="Francois_Villon" class="wikilink"
 title="Francois Villon">Francois Villon</a>, Prince of
-<a href="Paris,_France" class="wikilink" title="Paris">Paris</a>, rules
+[Paris](./paris_france.md), rules
 in hiding; Paris is the Camarilla’s only crown jewel in Europe now.
 [38][39][40][41] The Beckoning began to happen, a mysterious event where
 oldest Kindred are called to the Middle East for the Gehenna War. This
@@ -394,8 +391,7 @@ in the Middle East. The Camarilla and Ashirra made diplomatic overtures
 to each other culminating in the Odense Pact and
 <a href="Vermillion_Wedding" class="wikilink"
 title="Vermillion Wedding">Vermillion Wedding</a>. This
-<a href="Blood_Bond#Blood_Wedding" class="wikilink"
-title="Blood Marriage">Blood Marriage</a> was a Blood Bond between
+[Blood Marriage](./blood_bond.md#blood-wedding) was a Blood Bond between
 <a href="Victoria_Ash" class="wikilink" title="Victoria Ash">Victoria
 Ash</a> of Clan Toreador and Tegyrius of the Banu Haqim. The former led
 to the official entry of the Banu Haqim to the Camarilla. [57] [58]
@@ -418,11 +414,9 @@ they stay safe in their Tower.
 
 ## Prominent Kindred
 
-<a href="Ventrue#Notable_characters" class="wikilink"
-title="Hardestadt">Hardestadt</a>
+[Hardestadt](./ventrue.md#notable-characters)
 
-<a href="Ventrue#Notable_characters" class="wikilink"
-title="Fiorenza Savona">Fiorenza Savona</a>
+[Fiorenza Savona](./ventrue.md#notable-characters)
 
 <a href="Kevin_Jackson" class="wikilink"
 title="Prince Kevin Jackson">Prince Kevin Jackson</a>
@@ -430,14 +424,12 @@ title="Prince Kevin Jackson">Prince Kevin Jackson</a>
 <a href="Victoria_Ash" class="wikilink" title="Victoria Ash">Victoria
 Ash</a>
 
-<a href="Toreador#Notable_characters" class="wikilink"
-title="Rafael de Corazon">Rafael de Corazon</a>
+[Rafael de Corazon](./toreador.md#notable-characters)
 
 <a href="Francois_Villon" class="wikilink"
 title="Prince Francois Villon">Prince Francois Villon</a>
 
-<a href="Malkavian#Notable_characters" class="wikilink"
-title="Justicar Juliet Parr">Justicar Juliet Parr</a>
+[Justicar Juliet Parr](./malkavian.md#notable-characters)
 
 <a href="Hazel_Iversen" class="wikilink"
 title="Prince Hazel Iversen">Prince Hazel Iversen</a>

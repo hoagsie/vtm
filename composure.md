@@ -5,11 +5,11 @@ calm-headed in heated situations such as verbal fights and even
 firefights. [1]
 
 Willpower is determined by the value of Composure +
-<a href="Resolve" class="wikilink" title="Resolve">Resolve</a>. [2]
+[Resolve](./resolve.md). [2]
 
 At the beginning of a session, characters heal Superficial Willpower
 damage up to the value of whichever is highest between
-<a href="Composure" class="wikilink" title="Composure">Composure</a> and
+[Composure](./composure.md) and
 Resolve. [3]
 
 ## Dot values
@@ -29,106 +29,90 @@ through cards with ease.
 ## Example pools
 
 - Composure +
-  <a href="Etiquette" class="wikilink" title="Etiquette">Etiquette</a>
+  [Etiquette](./etiquette.md)
   - To divert discussion and break off conflict. [5]
   - Increase their social positions at Elysium while dealing with a
     rival. [6]
   - Finding the perfect dance at a ball. [7]
 - Composure +
-  <a href="Stamina" class="wikilink" title="Stamina">Stamina</a>
+  [Stamina](./stamina.md)
   - To consume food or drink without
-    <a href="Blush_of_Life" class="wikilink" title="Blush of Life">Blush of
-    Life</a> and keep it down for one hour. [8]
+    [Blush of Life](./blush_of_life.md) and keep it down for one hour. [8]
   - The resistance pool for
-    <a href="Blood_Sorcery" class="wikilink" title="Blood Sorcery">Blood
-    Sorcery</a> powers such as
-    <a href="Blood_Sorcery#Extinguish_Vitae" class="wikilink"
-    title="Extinguish Vitae">Extinguish Vitae</a>. [9]
+    [Blood Sorcery](./blood_sorcery.md) powers such as
+    [Extinguish Vitae](./blood_sorcery.md#extinguish-vitae). [9]
   - A
-    non-<a href="Thin-blood" class="wikilink" title="Duskborn">Duskborn</a>
+    non-[Duskborn](./thinblood.md)
     concealing themselves with
-    <a href="Blush_of_Life" class="wikilink" title="Blush of Life">Blush of
-    Life</a> active against an XScope. [10]
+    [Blush of Life](./blush_of_life.md) active against an XScope. [10]
 - Composure +
-  <a href="Subterfuge" class="wikilink" title="Subterfuge">Subterfuge</a>
+  [Subterfuge](./subterfuge.md)
   - The resistance pool for
-    <a href="Animalism" class="wikilink" title="Animalism">Animalism</a>
-    powers such as <a href="Animalism#Sense_the_Beast" class="wikilink"
-    title="Sense the Beast">Sense the Beast</a>.[11]
+    [Animalism](./animalism.md)
+    powers such as [Sense the Beast](./animalism.md#sense-the-beast).[11]
   - Resistance pool for
-    <a href="Auspex" class="wikilink" title="Auspex">Auspex</a> powers
-    such as <a href="Auspex#Scry_the_Soul" class="wikilink"
-    title="Scry the Soul">Scry the Soul</a>. [12]
+    [Auspex](./auspex.md) powers
+    such as [Scry the Soul](./auspex.md#scry-the-soul). [12]
   - Fake a direct sip during a potential
-    <a href="Blood_Bond" class="wikilink" title="Blood Bond">Blood Bond</a>.
+    [Blood Bond](./blood_bond.md).
     [13]
 - Composure +
-  <a href="Resolve" class="wikilink" title="Resolve">Resolve</a>
+  [Resolve](./resolve.md)
   - Used to resist many Disciplines. [14]
   - The resistance pool for
-    <a href="Animalism" class="wikilink" title="Animalism">Animalism</a>
+    [Animalism](./animalism.md)
     powers such as
-    <a href="Animalism#Drawing_out_the_Beast" class="wikilink"
-    title="Drawing out the Beast">Drawing out the Beast</a>. [15]
+    [Drawing out the Beast](./animalism.md#drawing-out-the-beast). [15]
   - The resistance pool for
-    <a href="Presence" class="wikilink" title="Presence">Presence</a>
+    [Presence](./presence.md)
     powers such as
-    <a href="Presence#Dread_Gaze" class="wikilink" title="Dread Gaze">Dread
-    Gaze</a>.[16]
+    [Dread Gaze](./presence.md#dread-gaze).[16]
   - Resisting violent interrogation. [17]
   - Resisting subtle intimidation and physical intimidation. [18]
-- Composure + <a href="Intelligence" class="wikilink"
-  title="Intelligence">Intelligence</a>
+- Composure + [Intelligence](./intelligence.md)
   - The resistance pool for
-    <a href="Dominate" class="wikilink" title="Dominate">Dominate</a>
-    powers such as <a href="Dominate#Dementation" class="wikilink"
-    title="Dementation">Dementation</a>. [19]
+    [Dominate](./dominate.md)
+    powers such as [Dementation](./dominate.md#dementation). [19]
   - The resistance pool for
-    <a href="Potence" class="wikilink" title="Potence">Potence</a>
-    powers such as <a href="Potence#Spark_of_Rage" class="wikilink"
-    title="Spark of Rage">Spark of Rage</a>. [20]
+    [Potence](./potence.md)
+    powers such as [Spark of Rage](./potence.md#spark-of-rage). [20]
   - The resistance pool for
-    <a href="Presence" class="wikilink" title="Presence">Presence</a>
+    [Presence](./presence.md)
     powers such as
-    <a href="Presence#Awe" class="wikilink" title="Awe">Awe</a>. [21]
-- Composure + <a href="Wits" class="wikilink" title="Wits">Wits</a>
+    [Awe](./presence.md#awe). [21]
+- Composure + [Wits](./wits.md)
   - The resistance pool for
-    <a href="Presence" class="wikilink" title="Presence">Presence</a>
-    powers such as <a href="Presence#Entrancement" class="wikilink"
-    title="Entrancement">Entrancement</a>. [22]
+    [Presence](./presence.md)
+    powers such as [Entrancement](./presence.md#entrancement). [22]
   - Resisting peaceful interrogation. [23]
 - Composure +
-  <a href="Occult" class="wikilink" title="Occult">Occult</a> or
-  <a href="Fortitude" class="wikilink" title="Fortitude">Fortitude</a>
+  [Occult](./occult.md) or
+  [Fortitude](./fortitude.md)
   - The resistance pool for
-    <a href="Blood_Sorcery" class="wikilink" title="Blood Sorcery">Blood
-    Sorcery</a> powers such as
-    <a href="Blood_Sorcery#Cauldron_of_Blood" class="wikilink"
-    title="Cauldron of Blood">Cauldron of Blood</a>. [24]
+    [Blood Sorcery](./blood_sorcery.md) powers such as
+    [Cauldron of Blood](./blood_sorcery.md#cauldron-of-blood). [24]
 - Composure +
-  <a href="Occult" class="wikilink" title="Occult">Occult</a>
+  [Occult](./occult.md)
   - The resistance pool for
-    <a href="Blood_Sorcery" class="wikilink" title="Blood Sorcery">Blood
-    Sorcery</a> powers such as
-    <a href="Blood_Sorcery#Truth_of_Blood" class="wikilink"
-    title="Truth of Blood">Truth of Blood</a>. [25]
+    [Blood Sorcery](./blood_sorcery.md) powers such as
+    [Truth of Blood](./blood_sorcery.md#truth-of-blood). [25]
 - Composure +
-  <a href="Larceny" class="wikilink" title="Larceny">Larceny</a>
+  [Larceny](./larceny.md)
   - Extracting a relic from a laser field. [26]
 - Composure +
-  <a href="Firearms" class="wikilink" title="Firearms">Firearms</a>
+  [Firearms](./firearms.md)
   - Standard guns blazing firefight. [27]
 - Composure +
-  <a href="Animal_Ken" class="wikilink" title="Animal Ken">Animal Ken</a>
+  [Animal Ken](./animal_ken.md)
   - Find and catch an animal to feed from. [28]
 - Composure +
-  <a href="Insight" class="wikilink" title="Insight">Insight</a>
+  [Insight](./insight.md)
   - Avoid the
-    <a href="Blood_Bond" class="wikilink" title="Blood Bond">Blood Bond</a>
+    [Blood Bond](./blood_bond.md)
     by being careful. [29]
   - Detecting if someone is attempting to fast talk you. [30]
 - Composure +
-  <a href="Survival" class="wikilink" title="Survival">Survival</a>
+  [Survival](./survival.md)
   - Remove the flaming materials from a molotov cocktail. [31]
 
 ## References

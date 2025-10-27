@@ -64,11 +64,11 @@ In cases where they have taken more Stains than they have room for, the
 character becomes *impaired*. This type of impairment removes two dice
 from all possible pools as they are racked with regret. In addition to
 this, they take one point of Aggravated
-<a href="Willpower" class="wikilink" title="Willpower">Willpower</a>
+[Willpower](./willpower.md)
 damage for each Stain that did not fit onto the tracker. During this
 time, the character is unable of further intentional Tenet violations
 and upon being forced to commit one must test for a terror
-<a href="frenzy" class="wikilink" title="frenzy">frenzy</a> with
+[frenzy](./frenzy.md) with
 Difficulty 4. This impairment will remain until they test for Remorse at
 the end of the session, alternatively they may choose to snap out of it
 by automatically dropping by one Humanity point and removing all
@@ -81,11 +81,9 @@ Stains.[5]
 Humans with this score are rare, making vampires with this score even
 rarer.
 
-- <a href="Blush_of_Life" class="wikilink" title="Blush of Life">Blush of
-  Life</a> is not needed to blend into mortal society as they appear as
+- [Blush of Life](./blush_of_life.md) is not needed to blend into mortal society as they appear as
   a pale and healthy mortal.
-- They heal <a href="Health#Superficial_Damage" class="wikilink"
-  title="Superficial Damage">Superficial Damage</a> as a mortal in
+- They heal [Superficial Damage](./health.md#superficial-damage) as a mortal in
   addition to standard healing.
 - Food is able to be tasted, eaten, and digested as a human.
 - The ability to stay awake during the day as if human, though they
@@ -105,7 +103,7 @@ actor.
 - Rise from day-sleep up to an hour before sunset and stay awake an hour
   after dawn.[7]
 
-*<a href="Torpor" class="wikilink" title="Torpor">Torpor</a> length:
+*[Torpor](./torpor.md) length:
 Three days[8]*
 
 ### Humanity 8

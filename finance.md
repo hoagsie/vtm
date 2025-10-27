@@ -21,8 +21,7 @@ Manipulation, Forensic Accounting, Money Laundering, Stock Market. [3]
 
 ## Example pools
 
-- <a href="Manipulation" class="wikilink"
-  title="Manipulation">Manipulation</a> + Finance
+- [Manipulation](./manipulation.md) + Finance
   - Convince the clerk that they are an IRS auditor. [4]
 
 ## References

@@ -20,39 +20,36 @@ Sight, Traps, Wilderness. [3]
 
 ## Example pools
 
-- <a href="Resolve" class="wikilink" title="Resolve">Resolve</a> +
+- [Resolve](./resolve.md) +
   Awareness
   - Used for the
-    <a href="Ventrue#Bane" class="wikilink" title="Ventrue Bane">Ventrue
-    Bane</a> to determine if a mortal has the blood they required. [4]
-  - Used for the <a href="Merits_and_Flaws#Bloodhound" class="wikilink"
-    title="Bloodhound">Bloodhound</a> Merit to determine someone's
-    <a href="Resonance" class="wikilink" title="Resonance">Resonance</a>.
+    [Ventrue Bane](./ventrue.md#bane) to determine if a mortal has the blood they required. [4]
+  - Used for the [Bloodhound](./merits_flaws.md#bloodhound) Merit to determine someone's
+    [Resonance](./resonance.md).
     [5]
   - Vampires who have waited enough time in
-    <a href="Torpor" class="wikilink" title="Torpor">Torpor</a>, make
+    [Torpor](./torpor.md), make
     this roll when a potential victim enters the room. [6]
-- <a href="Wits" class="wikilink" title="Wits">Wits</a> + Awareness
+- [Wits](./wits.md) + Awareness
   - Resistance roll against those actively hiding. [7]
   - Avoiding the gaze of someone attempting to use
-    <a href="Dominate" class="wikilink" title="Dominate">Dominate</a>.
+    [Dominate](./dominate.md).
     [8]
   - If a vampire using
-    <a href="Obfuscate" class="wikilink" title="Obfuscate">Obfuscate</a>
+    [Obfuscate](./obfuscate.md)
     draws attention to themself on accident, those nearby roll to detect
     them. [9]
   - Resisting surprise attacks. [10]
-- <a href="Resolve" class="wikilink" title="Resolve">Resolve</a> +
+- [Resolve](./resolve.md) +
   Awareness
   - Those actively searching for a Kindred who drew attention on
     accident while using Obfuscate. [11]
   - Locating a building or something that doesn't move through legwork.
     [12]
-- <a href="Composure" class="wikilink" title="Composure">Composure</a> +
+- [Composure](./composure.md) +
   Awareness
   - Initiative rating for physical combat. [13]
-- <a href="Intelligence" class="wikilink"
-  title="Intelligence">Intelligence</a> + Awareness
+- [Intelligence](./intelligence.md) + Awareness
   - Used by SI who are attempting to detect vampires through chaoscopes.
     [14]
 

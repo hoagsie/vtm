@@ -30,8 +30,7 @@ vampiric existence:
   of the vampire's struggle against their Beast by adding extra risk and
   difficulty to their actions, sometimes causing the Beast to intercede
   in a vampire's actions through Bestial Failures or Messy Criticals.
-  - <a href="Disciplines" class="wikilink"
-    title="Disciplines">Disciplines</a>, also known as a vampire's
+  - [Disciplines](./disciplines.md), also known as a vampire's
     supernatural powers, are often subject to Rouse Checks, a dice roll
     that checks if an increase in Hunger has occurred
   - Hunger ranges from 0 to 5. A vampire can only be free of Hunger and
@@ -42,7 +41,7 @@ vampiric existence:
 
 <!-- -->
 
-- **<a href="Frenzy" class="wikilink" title="Frenzy">Frenzy</a>** is a
+- **[Frenzy](./frenzy.md)** is a
   term describing a supernatural fight-or-flight reaction experienced by
   vampires:
   - *Fury Frenzy* usually triggers when a vampire is provoked, insulted,
@@ -63,7 +62,7 @@ vampiric existence:
 
 <!-- -->
 
-- **<a href="Humanity" class="wikilink" title="Humanity">Humanity</a>**
+- **[Humanity](./humanity.md)**
   is a measure of how closely a vampire clings to the morality and
   values of mortal life, and consequently how well they are able to
   resist the urges of the Beast:
@@ -71,12 +70,11 @@ vampiric existence:
     and create **Touchstones** to represent their connection to each, to
     help mitigate Humanity-compromising Stains. By default, they must be
     living mortals or
-    <a href="Mortals_and_ghouls" class="wikilink" title="ghouls">ghouls</a>
+    [ghouls](./mortals_ghouls.md)
   - The player coterie determines **Chronicle Tenets** to self-define
     its moral and ethical values. If the Tenets are broken, each
     offending character incurs Stains.
-  - <a href="Humanity#Stains" class="wikilink"
-    title="Stains"><strong>Stains</strong></a> represent the corruptions
+  - [<strong>Stains</strong>](./humanity.md#stains) represent the corruptions
     and deformations of a vampire's Humanity. If too many Stains build
     up without repentance or redress via a Remorse test, a vampire's
     Humanity will drop.
@@ -103,7 +101,7 @@ beings capable of very human emotions and empathy.
   to pass on their
   <a href="Clans" class="wikilink" title="Clan">Clan</a> and curse.
   - A newly Embraced vampire is always one
-    **<a href="Generation" class="wikilink" title="Generation">Generation</a>**
+    **[Generation](./generation.md)**
     higher than their sire, the number indicating how many generations
     they are removed from the original
     <a href="Caine" class="wikilink" title="progenitor">progenitor</a>.
@@ -111,9 +109,8 @@ beings capable of very human emotions and empathy.
 <!-- -->
 
 - Vampires of every Clan have unique
-  **<a href="Bane" class="wikilink" title="Banes">Banes</a>** and
-  **<a href="Compulsion" class="wikilink"
-  title="Compulsions">Compulsions</a>**, save a few exceptions
+  **[Banes](./banes.md)** and
+  **[Compulsions](./compulsion.md)**, save a few exceptions
   - A *Bane* is curse, a supernatural limitation experienced by vampires
     based on their Clan, and are one of the features that set one Clan
     of vampires apart from other Clans.
@@ -133,12 +130,12 @@ beings capable of very human emotions and empathy.
 ## Vampire society
 
 In the World of Darkness, most Vampires belong to a
-<a href="Factions" class="wikilink" title="Faction">Faction</a> or
+[Faction](./factions.md) or
 sect—a social organization of Kindred composed of multiple Clans with
 its own dogma that its members attempt to uphold:
 
 - The
-  **<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>**
+  **[Camarilla](./camarilla.md)**
   is the most widely influential organization Kindred history has ever
   known. Its stated purpose is to preserve the Masquerade, but just as
   importantly, to preserve the power of the elders who control vast
@@ -146,8 +143,7 @@ its own dogma that its members attempt to uphold:
 
 <!-- -->
 
-- The **<a href="Anarch" class="wikilink" title="Anarch Movement">Anarch
-  Movement</a>** is the revolution against the Camarilla. The Anarchs
+- The **[Anarch Movement](./anarch.md)** is the revolution against the Camarilla. The Anarchs
   especially resent the privileged status held by elders within the
   Camarilla, and actively fight back against their control.
 

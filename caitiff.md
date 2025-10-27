@@ -17,7 +17,7 @@ together, and without their binding blood, they are more individualistic
 than those within clans. The mortals they seek for the embrace are
 generally strong-willed or accustomed to hardship. Their position in
 Kindred society is the bottom of the rung, after all, only above the
-<a href="Thin-blood" class="wikilink" title="Thin-blood">Thin-blood</a>
+[Thin-blood](./thinblood.md)
 who shouldn't have been created at all. [2]
 
 ## Disciplines
@@ -65,7 +65,7 @@ Caitiff do not have a clan Compulsion.
 
 **Maldavis** - Born Carol Davis, she had a run-in with a man that looked
 like her late great-uncle Abraham DuSable. The night ended with the
-<a href="Tremere" class="wikilink" title="Tremere">Tremere</a> Embracing
+[Tremere](./tremere.md) Embracing
 her, but the Blood failing to take her into the clan. Taken in by
 Anarchs, she soon counted herself among the Movement. She worked quickly
 making a name for herself and rivaling former Chicago Prince Lodin. She
@@ -85,8 +85,7 @@ Bain</a>.[6]
 <a href="Oksana_Koblenko" class="wikilink"
 title="Oksana Koblenko"><strong>Oksana Koblenko</strong></a> -
 Blackmailer for the
-<a href="Church_of_Set" class="wikilink" title="Church of Set">Church of
-Set</a>.[7]
+[Church of Set](./church_set.md).[7]
 
 ## Culture
 

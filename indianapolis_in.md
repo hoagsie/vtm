@@ -4,11 +4,10 @@
 
 Indianapolis, Indiana is an American city in both the Rust Belt and
 Bible Belt. Formerly under the influence of
-<a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a> agents, it
+[Sabbat](./sabbat.md) agents, it
 is now in the hands of the
-<a href="Anarch" class="wikilink" title="Anarchs">Anarchs</a> thanks to
-<a href="the_Ministry" class="wikilink" title="the Ministry">the
-Ministry</a>. This is the first Ministry-led city in America.
+[Anarchs](./anarch.md) thanks to
+[the Ministry](./ministry.md). This is the first Ministry-led city in America.
 
 <section end=summary/>
 
@@ -26,7 +25,7 @@ dangers. [2]
 
 - Keisha Phelps, The Ministry
 - Zayne Morales,
-  <a href="Brujah" class="wikilink" title="Brujah">Brujah</a>
+  [Brujah](./brujah.md)
 
 **Shepherds:** Kindred elected to help guide Kindred back to their
 humanity. The Church of Set, Christian, Muslim, or secular if anything
@@ -35,8 +34,7 @@ who try to help Kindred in such a way are called Shepherds. [3]
 
 - Father Melvyn Ramsay, The Ministry, de facto leader  (Missing)
 - Djedefre, The
-  Ministry/<a href="Church_of_Set" class="wikilink" title="Church of Set">Church of
-  Set</a>
+  Ministry/[Church of Set](./church_set.md)
 
 **Guides:** Other Ministers in the city are considered guides. Their job
 is to keep eyes and ears open for newcomers or new Kindred needing their
@@ -51,16 +49,16 @@ help to stability. [4]
   seeing what he can learn from the city. He is excited and horrified
   with how the Ministry runs Indianapolis. [5]
 - <a href="Eletria" class="wikilink" title="Eletria">Eletria</a>,
-  <a href="Toreador" class="wikilink" title="Toreador">Toreador</a> - An
+  [Toreador](./toreador.md) - An
   ancient Spartan, former Prince of Veracruz. She is the owner of the
   Lhiannan club. While
-  <a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>
+  [Camarilla](./camarilla.md)
   aligned, she stays and staves off the beckoning to enjoy her freedom
   from the blood bond and atonement for her deeds while under her sire,
   <a href="Helena" class="wikilink" title="Helena">Helena</a>. [6][7][8]
 - Marion Davies, Toreador - The co-owner of the Lhiannan club and
   ensures the club stays popular. She is a trans woman who left
-  <a href="Chicago,_Illinois" class="wikilink" title="Chicago">Chicago</a>
+  [Chicago](./chicago_ill.md)
   after falling out with her sire. Now she is an information broker and
   Eletria’s go to woman. [9][10]
 
@@ -118,7 +116,7 @@ Underground Railroad swelling the number of black Americans. When the
 Civil War broke out and eventually the steel industry took off, both
 events made the city prosper. Then the automobile industry and natural
 gas drew the
-<a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a> to the
+[Ventrue](./ventrue.md) to the
 city. This all while Melvyn Ramsay, now calling himself “Father” watched
 and manipulated the city. Still, no single clan dominated the city, and
 it lacked a resilient structure to resist the Sabbat.
@@ -135,7 +133,7 @@ Sabbat agents.
 The clan claimed the city after their crusade, then had their schism
 become the Ministry. Ramsay was ready to claim this city for the
 Camarilla, but then the
-<a href="Paris,_France" class="wikilink" title="Paris">Paris</a>
+[Paris](./paris_france.md)
 incident happened, where the Ministry entry into the Camarilla was
 sabotaged. Ramsay adjusted to the new political situation and continued
 preaching both Set and Ministry ideas under the Anarchs. He found that
@@ -143,7 +141,7 @@ the Movement made it easier for them to prosper. There are some members
 of the Church of Set in the city with temples, but most are of the new
 Ministry ideals, even Ramsay himself. Melvyn eventually disappears; some
 think he was
-<a href="Beckoning" class="wikilink" title="Beckoned">Beckoned</a> to
+[Beckoned](./beckoning.md) to
 Egypt, and some think something more sinister happened. This has left
 his protege, Keisha, with much power but the city without its usual
 central guiding hand.
@@ -179,7 +177,7 @@ targets to be “freed”.
 ### Freedom of the Blood
 
 The
-<a href="Blood_Bond" class="wikilink" title="Blood Bond">Blood Bond</a>
+[Blood Bond](./blood_bond.md)
 between Kindred is illegal in the city. The Blood Bond is considered
 incompatible with the “Respect the Spirit” rule.  Those who are found to
 have the bond have to drink from Merenhor to freely walk the spiritual

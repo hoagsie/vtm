@@ -41,7 +41,7 @@ escape death in a bunker. The others go for abusers or whoever is deemed
 worthy of their wrath. [3]
 
 The Bahari cult don't accept
-<a href="Thin-blood" class="wikilink" title="Duskborn">Duskborn</a>
+[Duskborn](./thinblood.md)
 easily, at least not until they find something useful they want and then
 they can come to an arrangement that would benefit the thin-bloods. [4]
 
@@ -87,19 +87,16 @@ cult with Gardens all over. They can be in any domain, big or small. [7]
 
 ## Exclusive Character Options
 
-<a href="Blood_Sorcery_Rituals#Coax_the_Garden" class="wikilink"
-title="Coax the Garden">Coax the Garden</a> - Level 1 Blood Sorcery
+[Coax the Garden](./blood_sorcery_rituals.md#coax-the-garden) - Level 1 Blood Sorcery
 Ritual
 
-<a href="Blood_Sorcery_Rituals#Eden’s_Bounty" class="wikilink"
-title="Eden’s Bounty">Eden’s Bounty</a> - Level 5 Blood Sorcery
+[Eden’s Bounty](./blood_sorcery_rituals.md#edens-bounty) - Level 5 Blood Sorcery
 Ritual[9]
 
 ## Exclusive Loresheets
 
 •
-<a href="Loresheets#The_Bahari" class="wikilink" title="The Bahari">The
-Bahari</a>[10]
+[The Bahari](./loresheets.md#the-bahari)[10]
 
 ## Notable Members
 

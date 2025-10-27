@@ -3,32 +3,32 @@
 <section begin=summary/>
 
 Gary, Indiana is a city close to
-<a href="Chicago" class="wikilink" title="Chicago">Chicago</a>,
+[Chicago](./chicago_ill.md),
 southeast along the shores of Lake Michigan. A victim of the steel
 industry restructuring and the many layoffs that followed, it has become
 another city in the Rust Belt. Many of the manufacturing buildings were
 abandoned and left to rust, and now Gary caught in a battle between the
 encroaching
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>
+[Camarilla](./camarilla.md)
 Kindred and the Anarchs who call it home.
 
 <section end=summary/>
 
 [1] Currently, the city is predominantly
-<a href="Anarch" class="wikilink" title="Anarch">Anarch</a>.
+[Anarch](./anarch.md).
 
 ## Notable Kindred of the City
 
 ### Gary Anarchs
 
 **Baron:** Evelyn Stephens,
-<a href="Brujah" class="wikilink" title="Brujah">Brujah</a> [2]
+[Brujah](./brujah.md) [2]
 
 **Second in command:** Allicia,
-<a href="Toreador" class="wikilink" title="Toreador">Toreador</a> [3]
+[Toreador](./toreador.md) [3]
 
 **Messenger:** Arthur Caldwell,
-<a href="Malkavian" class="wikilink" title="Malkavian">Malkavian</a> [4]
+[Malkavian](./malkavian.md) [4]
 
 ### Other notable Kindred
 
@@ -38,10 +38,10 @@ Kindred and the Anarchs who call it home.
 - **Maxwell** - Brujah, Former Prince of Chicago, and master
   manipulator. [8][9]
 - **Eric Sharpe** -
-  <a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a>, a
+  [Ventrue](./ventrue.md), a
   Camarilla hardliner and hit man. Muscling in on Gary. [10][11]
 - **Jessica Flores** -
-  <a href="Thin-blood" class="wikilink" title="Thin-blood">Thin-blood</a>,
+  [Thin-blood](./thinblood.md),
   an information broker playing both sides. [12]
 
 ## Notable people
@@ -73,8 +73,7 @@ used to transport vessels. [19]
 ### The Depot
 
 Gary is a major trade hub in the
-<a href="Circulatory_System" class="wikilink"
-title="Circulatory System">Circulatory System</a>’s network; they have
+[Circulatory System](./circulatory_system.md)’s network; they have
 designated a new primary stop in the domain. Former warehouse that used
 to be owned by Aetna Powder Company, vessels are sold or moved through
 this location. The location is empty when not in use, as the Circulatory
@@ -119,7 +118,7 @@ Gary, Indiana. The Camarilla population for Gary was small by 1999.
 Meanwhile, Juggler built an army of kindred those pushed out of Chicago
 and the disenfranchised in Gary. He gained a reputation for fighting the
 Camarilla and the
-<a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a>. The rivalry
+[Sabbat](./sabbat.md). The rivalry
 between Juggler and Modius got so intense they started to attract the
 attention of various hunters groups and harm the city itself.
 

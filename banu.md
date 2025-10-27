@@ -42,10 +42,10 @@ Below are the powers innate to the Banu Haqim and their uses. [3]
 
 **Blood Addiction** - When the Banu Haqim slakes at least one Hunger
 level from another vampire, they must make a Hunger
-<a href="Frenzy" class="wikilink" title="Frenzy">Frenzy</a> test at
+[Frenzy](./frenzy.md) test at
 difficulty 2 plus Bane Severity. If they fail, they must gorge
 themselves on vitae, in turn opening the door to possible
-<a href="Diablerie" class="wikilink" title="Diablerie">Diablerie</a>.
+[Diablerie](./diablerie.md).
 
 <section end="bane" />
 
@@ -60,7 +60,7 @@ not to other vampires. Due to this mortals receive Aggravated Damage
 equal to the Bane Severity of the vampire for each Rouse Check’s worth
 of Blood consumed. Their Blood cannot be used to heal mortal injuries.
 In amounts below the amount needed to
-<a href="Blood_Bond" class="wikilink" title="Blood Bond">Blood Bond</a>,
+[Blood Bond](./blood_bond.md),
 it does not harm them, even if directly injected into them.
 
 <section end="altbane" />
@@ -111,8 +111,7 @@ with a cold deadly stare. [7]
 
 **Tegyrius** - High ranking Vizier of the Ashirra, the groom in the
 Vermillion Wedding. He is to married and
-<a href="Blood_Bond" class="wikilink" title="Blood Bound">Blood
-Bound</a> to
+[Blood Bound](./blood_bond.md) to
 <a href="Victoria_Ash" class="wikilink" title="Victoria Ash">Victoria
 Ash</a> in a Blood Wedding to bring both clans together and aid in the
 Banu Haqim's entry into the Camarilla.[8][9]
@@ -141,13 +140,13 @@ New York.
 title="Vampire: The Masquerade Justice">Vampire: The Masquerade
 Justice</a>, he is the main character that investigates the
 assassination of his sire in a city controlled by the
-<a href="Hecata" class="wikilink" title="Hecata.">Hecata.</a>
+[Hecata.](./hecata.md)
 
 **Julian Sim** - Featured in
 <a href="Vampire:_The_Masquerade_Night_Road" class="wikilink"
 title="Vampire: The Masquerade Night Road">Vampire: The Masquerade Night
 Road</a>, he is an
-<a href="Anarch" class="wikilink" title="Anarch">Anarch</a> Banu Haqim.
+[Anarch](./anarch.md) Banu Haqim.
 
 ## Culture
 
@@ -191,28 +190,25 @@ do so.[12]
 ### Kindred society
 
 The clan is currently recovering from a large schism in their ranks.
-This crisis has put the <a href="Camarilla#The_Ashirra" class="wikilink"
-title="Ashirra">Ashirra</a> and the clan in a rough spot politically,
+This crisis has put the [Ashirra](./camarilla.md#the-ashirra) and the clan in a rough spot politically,
 making the
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>
+[Camarilla](./camarilla.md)
 look more appealing. A union with the Camarilla was more desirable than
-ever. The <a href="Gangrel" class="wikilink" title="Gangrel">Gangrel</a>
-and <a href="Brujah" class="wikilink" title="Brujah">Brujah</a>
+ever. The [Gangrel](./gangrel.md)
+and [Brujah](./brujah.md)
 departure made a niche for protectors and hunters the clan was fit for.
 Though there was always the mutual enmity with the Tremere, two other
 events helped secure their place: Vienna’s attack and Sabbat Gehenna
-War. The <a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a>
-and <a href="Tremere" class="wikilink" title="Tremere">Tremere</a> may
+War. The [Ventrue](./ventrue.md)
+and [Tremere](./tremere.md) may
 still eye them warily. However, many Kindred of
-<a href="Toreador" class="wikilink" title="Clan Toreador">Clan
-Toreador</a> welcome the newcomers as they are now linked via the
+[Clan Toreador](./toreador.md) welcome the newcomers as they are now linked via the
 Vermillion Wedding, the diplomatic Blood Wedding of Victoria Ash and
 Tegyrius.[13]
 
 In the past the clan had many mercenaries, hired killers, and bounty
 hunters. For a fee of vitae, an enemy Kindred would meet
-<a href="final_death" class="wikilink" title="final death">final
-death</a>. Now their role has changed, with the Followers of Ur-Shulgi
+[final death](./final_death.md). Now their role has changed, with the Followers of Ur-Shulgi
 inspiring many to break the ways of old. Their dominance of the law and
 law breakers has made them ideal members as a pillar of the Camarilla.
 
@@ -249,8 +245,7 @@ they keep former coterie mates as valuable allies and associates. Many
 Haqimites are always on the move from one coterie to another chasing
 their goals.[16]
 
-Some on the <a href="Blood_craft_scene" class="wikilink"
-title="redwork scene">redwork scene</a> see the Banu Haqim in three
+Some on the [redwork scene](./blood_craft_scene.md) see the Banu Haqim in three
 archetypes: judge, scholar, or bouncer. Judges are Banu with strict
 personal codes or pretend to have them, scholars are looking to learn
 history or craft, and the bouncer enjoys applied physical arts of Blood
@@ -269,15 +264,13 @@ title="Shepherds of Ur-Shulgi">Shepherds of Ur-Shulgi</a>. These
 cultists are separate from the Islamic Warriors and Viziers embraced
 long after the clan abandoned their blood worship. Sensible Haqimites
 are thus pushed to flee their old home. The majority of them have joined
-the <a href="Camarilla#The_Ashirra" class="wikilink"
-title="Ashirra">Ashirra</a>, a local Kindred sect, while the rest seek
+the [Ashirra](./camarilla.md#the-ashirra), a local Kindred sect, while the rest seek
 asylum in the western counterpart - the
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>.[18][19]
+[Camarilla](./camarilla.md).[18][19]
 
 The changes of their clan have brought the Banu Haqim closer to Kindred
 society. With old strongholds gone and mingling more, the many Haqimites
-are on the <a href="blood_craft_scene" class="wikilink"
-title="blood craft scene">blood craft scene</a> dealing blood magic,
+are on the [blood craft scene](./blood_craft_scene.md) dealing blood magic,
 services, and secrets out of necessity. Though when it comes to
 teaching, some their individual moral codes somewhat influence how they
 do business and whom they deal with. Many young scholarly Banu Haqim
@@ -299,14 +292,11 @@ Shepherds of Ur-Shulgi could be considered Autarkis.[21]
 
 Banu Haqim characters have special access to the following loresheets:
 
-• <a href="Loresheets#High_Clan" class="wikilink" title="High Clan">High
-Clan</a>
+• [High Clan](./loresheets.md#high-clan)
 
-• <a href="Loresheets#Occult_Artifacts" class="wikilink"
-title="Occult Artifacts">Occult Artifacts</a>
+• [Occult Artifacts](./loresheets.md#occult-artifacts)
 
-• <a href="Loresheets#Descendant_of_Al-Ashrad" class="wikilink"
-title="Descendant of Al-Ashrad">Descendant of Al-Ashrad</a>
+• [Descendant of Al-Ashrad](./loresheets.md#descendant-of-al-ashrad)
 
 ## Gallery
 

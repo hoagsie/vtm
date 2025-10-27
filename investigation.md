@@ -21,12 +21,11 @@ Mysteries, Traffic Analysis.[3]
 
 ## Example pools
 
-- <a href="Resolve" class="wikilink" title="Resolve">Resolve</a> +
+- [Resolve](./resolve.md) +
   Investigation
   - Canvassing the neighborhood for information. [4]
   - Going through a heavy amount of paperwork. [5]
-- <a href="Intelligence" class="wikilink"
-  title="Intelligence">Intelligence</a> + Investigation
+- [Intelligence](./intelligence.md) + Investigation
   - Check a crime scene for clues or pick up clues. [6]
   - Noticing patterns in markings. [7]
 

@@ -1,16 +1,15 @@
 ## Overview
 
-While modernly known as <a href="Istanbul,_Turkey" class="wikilink"
-title="Istanbul, Turkey">Istanbul, Turkey</a>. Many kindred outside the
+While modernly known as [Istanbul, Turkey](./istanbul_turkey.md). Many kindred outside the
 Ashirra refer to it by its old Byzantine name, Constantinople, for its
 representation of the
-<a href="Toreador" class="wikilink" title="Toreador">Toreador</a>
+[Toreador](./toreador.md)
 Methuselah's idealized city of kindred harmony, the Dream of
 Constantinople. The city was ruled over by the triumvirate kindred
 coterie known as the Trinity. The city fell to a combination of
-<a href="The_Ministry" class="wikilink" title="Setite’s">Setite’s</a>
+[Setite’s](./ministry.md)
 corrupting influence, methuselah's mania,
-<a href="diablerie" class="wikilink" title="diablerie">diablerie</a> of
+[diablerie](./diablerie.md) of
 Michael by Mary the Black, and the sacking via the Fourth Crusade
 shattering the Dream after a near millennia. Some still hope for the
 Dream to be reborn either in Istanbul or a new place on earth.[1][2][3]
@@ -21,19 +20,19 @@ The Trinity were composed of three philosopher Kindred and lovers:
 Michael, Antonius, and the Dracon. Michael was a Toreador Methuselah who
 styled himself as the Archangel, it was his Dream which is coterie and
 lovers strived to make a reality.  Antonius was of Clan
-<a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a>, known as
+[Ventrue](./ventrue.md), known as
 the master planner and builder known as a great architect; he helped
 create many buildings and political structures of the city. The third
 member, The Dracon, was described as a passionate and wise
-<a href="Tzimisce" class="wikilink" title="Tzimisce">Tzimisce</a>. He
+[Tzimisce](./tzimisce.md). He
 was the spiritual guide of the Trinity and focused on
 transcendence.[4][5]
 
 Michael was diablerized by a kindred named Mary the Black.[6][7] though
 rumors say he stirs in his diablerist and even
-<a href="Beckoning" class="wikilink" title="reached out">reached out</a>
+[reached out](./beckoning.md)
 to his descendants to form the
-<a href="Nephilim" class="wikilink" title="Nephilim">Nephilim</a>.[8]
+[Nephilim](./nephilim.md).[8]
 Antonius  was murdered during the Constantinople days. The Dracon is the
 only survivor of the Trinity after Constantinople’s fall. Some whisper
 he takes a new form. While his intent is unclear, many hope he helps to
@@ -53,8 +52,7 @@ gave their blood willingly to their veiled kindred masters.[11][12]
 
 The code of laws (also called Codex of Legacies) of Constantinople, was
 similar to modern day
-<a href="Camarilla#The_Traditions" class="wikilink"
-title="Traditions">Traditions</a>.[13]
+[Traditions](./camarilla.md#the-traditions).[13]
 
 I. The Legacy of Trinity - Ensure acknowledgement of the Trinity's
 authority and ability to make new domain laws. Also say it is their
@@ -77,7 +75,7 @@ not of the Scion families are not offered this protection.
 
 ## Legacy
 
-- <a href="Nephilim" class="wikilink" title="Nephilim">Nephilim</a> -
+- [Nephilim](./nephilim.md) -
   Started as Michaels brood in Constantinople who spread their
   ancestor's idea of beauty and dispersed after the the Dream's end.
   Modern nights, Michael bloodline was beckoned to Istanbul and those
@@ -90,15 +88,13 @@ not of the Scion families are not offered this protection.
 - Speakers of the Dream -  Not a cult but Kindred who study the Dream
   and seek to spread the ideals of distance from the Beast and seeking
   enlightenment.[16]
-- <a href="Istanbul,_Turkey" class="wikilink"
-  title="Istanbul, Turkey">Istanbul, Turkey</a> - The city itself is
+- [Istanbul, Turkey](./istanbul_turkey.md) - The city itself is
   still reeling from the time when the Trinity rules. They hope the
   Dream and a new Trinity will rise once again.[17]
 
 ## Loresheet
 
-- <a href="Loresheets#The_Trinity" class="wikilink"
-  title="The Trinity">The Trinity</a>
+- [The Trinity](./loresheets.md#the-trinity)
 
 ## References
 

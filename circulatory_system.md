@@ -6,11 +6,11 @@ source. They care little for their vessels' long-term well-being unless
 it damages their profits. Many Kindred will turn a blind eye to the
 issues present due to the studies the System makes possible and the new
 or valuable possibilities with the Blood these studies unlock. A
-<a href="Malkavian" class="wikilink" title="Malkavian">Malkavian</a>
+[Malkavian](./malkavian.md)
 Bronwyn, alongside five other
 <a href="Kindred" class="wikilink" title="Kindred">Kindred</a>, helped
 found the Circulatory System in
-<a href="Chicago,_Illinois" class="wikilink" title="Chicago">Chicago</a>.
+[Chicago](./chicago_ill.md).
 [1] [2]
 
 ## Overview
@@ -28,7 +28,7 @@ Usually seeking to capture over kill enemies, as their blood or vitae
 can be put to market. If push comes to shove they are not above having
 an operation lay low until the pressure subsides.[3]
 
-The <a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a> are
+The [Ventrue](./ventrue.md) are
 supposedly the best customers. The organization takes notes on feeding
 patterns for their clientele.[4] Bronwyn even realized the information
 the syndicate collects is invaluable, but risks their reputation for
@@ -46,11 +46,10 @@ Managers - There are managers and middlemen who report to one another to
 keep logistics and operations going.[8]
 
 Blood Runners - A seller in the
-<a href="Blood_craft_scene" class="wikilink"
-title="Redwork scene">Redwork scene</a> who captures vessels for the
+[Redwork scene](./blood_craft_scene.md) who captures vessels for the
 Circulatory System. Blood resonance specialists who get people of
 typical attributes and
-<a href="Resonance" class="wikilink" title="Resonances">Resonances</a>
+[Resonances](./resonance.md)
 for buyers.[9]
 
 **Known Members**
@@ -59,12 +58,12 @@ Bronwyn, Malkavian - One of the founders. Owner of Blue Velvet and
 informal information broker.[10]
 
 Kyra Ripa,
-<a href="Toreador" class="wikilink" title="Toreador">Toreador</a> - One
+[Toreador](./toreador.md) - One
 of the founders. Owner of the Bliss Club in Arlington Heights. Camarilla
 Hardliner and well connected Toreador. [11]
 
 Wolfgang Goergen,
-<a href="Tremere" class="wikilink" title="Tremere">Tremere</a> - Board
+[Tremere](./tremere.md) - Board
 member and oversees regional logistics.[12]
 
 Shawn Merritt, Toreador - Low level manager manages the night club
@@ -74,10 +73,9 @@ Decadence.[13]
 
 Miami, Florida - Popular drug and party city for kindred, thought to be
 a possible alternate origin of the Circulatory system. Former
-<a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a> holding.[14]
+[Sabbat](./sabbat.md) holding.[14]
 
-<a href="Chicago,_Illinois" class="wikilink"
-title="Chicago, Illinois">Chicago, Illinois</a> - Another suspected
+[Chicago, Illinois](./chicago_ill.md) - Another suspected
 birthplace of the circulatory System, as that is where two of the known
 founders reside.
 
@@ -88,19 +86,16 @@ founders reside.
 - Bliss - A gothic club located in Arlington Heights, a northwest suburb
   of Chicago. Rich entertainment at Anarchs expense.[17]
 
-<a href="Gary,_Indiana" class="wikilink" title="Gary, Indiana">Gary,
-Indiana</a> - A transit hub used on their international network. The
+[Gary, Indiana](./gary_in.md) - A transit hub used on their international network. The
 Depot in the Aetna neighborhood. The Former Baron, Juggler, led attacks
 on Circulatory convoys.[18] The new Baron of Gary, his childe, Felicia,
 greatly dislikes the Circulatory System too, but she is cautious giving
 it breadth since the Anarch hold on Gary is fragile.[19]
 
-<a href="Boston,_Massachusetts" class="wikilink"
-title="Boston, Massachusetts">Boston, Massachusetts</a> -
+[Boston, Massachusetts](./boston_mass.md) -
 <a href="Hazel_Iversen" class="wikilink" title="Prince Iversen">Prince
 Iversen</a>’s
-<a href="Boston,_Massachusetts#The_Red_Salons" class="wikilink"
-title="Red Salon">Red Salon</a> clashes with the Circulatory System over
+[Red Salon](./boston_mass.md#the-red-salons) clashes with the Circulatory System over
 the market of dealing blood and vessels. The Prince considers the
 options to avoid open hostilities, but the Circulatory System has
 already started plans to undermine the Red Salon and spread more
@@ -112,8 +107,7 @@ for their lavish dinners.[22][23]
 
 ## Loresheets
 
-<a href="Loresheets#The_Circulatory_System" class="wikilink"
-title="The Circulatory System">The Circulatory System</a>
+[The Circulatory System](./loresheets.md#the-circulatory-system)
 
 ## References
 

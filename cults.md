@@ -4,7 +4,7 @@
 
   
 *Main article:
-<a href="Ashfinders" class="wikilink" title="Ashfinders">Ashfinders</a>*
+[Ashfinders](./ashfinders.md)*
 
 {{#lst:Ashfinders|summary}}
 
@@ -12,15 +12,14 @@
 
   
 *Main article:
-<a href="Bahari" class="wikilink" title="Bahari">Bahari</a>*
+[Bahari](./bahari.md)*
 
 {{#lst:Bahari|summary}}
 
 ### Church of Caine
 
   
-*Main article: <a href="Church_of_Caine" class="wikilink"
-title="Church of Caine">Church of Caine</a>*
+*Main article: [Church of Caine](./church_caine.md)*
 
 {{#lst:Church of Caine|summary}}
 
@@ -28,8 +27,7 @@ title="Church of Caine">Church of Caine</a>*
 
   
 *Main article:
-<a href="Church_of_Set" class="wikilink" title="Church of Set">Church of
-Set</a>*
+[Church of Set](./church_set.md)*
 
 {{#lst:Church of Set|summary}}
 
@@ -45,8 +43,7 @@ Shalim</a>*
 ### Mithraic Mysteries
 
   
-*Main article: <a href="Mithraic_Mysteries" class="wikilink"
-title="Mithraic Mysteries">Mithraic Mysteries</a>*
+*Main article: [Mithraic Mysteries](./mithraic_mysteries.md)*
 
 {{#lst:Mithraic Mysteries|summary}}
 
@@ -54,7 +51,7 @@ title="Mithraic Mysteries">Mithraic Mysteries</a>*
 
   
 *Main article:
-<a href="Nephilim" class="wikilink" title="Nephilim">Nephilim</a>*
+[Nephilim](./nephilim.md)*
 
 {{#lst:Nephilim|summary}}
 
@@ -252,8 +249,7 @@ by God and Nigel doesn't want to disappoint.[3]
 ### The Order of St. Rose
 
 Centuries ago the Order of St. Rose the split from
-<a href="Second_Inquisition#The_Vatican" class="wikilink"
-title="Society of St. Leopold">Society of St. Leopold</a> as they
+[Society of St. Leopold](./second_inquisition.md#the-vatican) as they
 believe that spilling kindred vitae on the ground corrupts the earth.
 They now capture the vampires and drain them in specialized locations
 instead of outright final death, keeping the vitae until it can be

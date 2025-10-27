@@ -2,8 +2,7 @@
 
 Also referred to as the redworking scene, is a subculture in which
 Kindred seek out
-<a href="Blood_Sorcery" class="wikilink" title="Blood Sorcery">Blood
-Sorcery</a> and <a href="Thin-blood_Alchemy" class="wikilink"
+[Blood Sorcery](./blood_sorcery.md) and <a href="Thin-blood_Alchemy" class="wikilink"
 title="Thin-blood Alchemy">Thin-blood Alchemy</a> to gain power,
 understanding, or wealth. It forms most cities in the world given there
 are many thin-bloods scrounging for Alchemy, blood sorcerers looking for
@@ -24,10 +23,9 @@ buy from a player coterie.[3]
 - **Alchemists:** Thin-bloods redworkers who have carved out a niche
   they vary in experience.[4]
 - **Blood Sorcerer:** With both the fall of the
-  <a href="Tremere" class="wikilink" title="Tremere’s">Tremere’s</a>
+  [Tremere’s](./tremere.md)
   Pyramid and the
-  <a href="Banu_Haqim" class="wikilink" title="Banu Haqim’s">Banu
-  Haqim’s</a> Alamut, many old chantries and strongholds fell as did
+  [Banu Haqim’s](./banu.md) Alamut, many old chantries and strongholds fell as did
   their network of trade. Sorcerers have had to resort to the blood
   craft scene for ingredients and knowledge.[5]
 - **Collector:** Kindred and mortals with no talent for redworking or
@@ -48,8 +46,7 @@ The vendors of the scene. Those who may sell to a player coterie.[11]
 - **Blood Forger:** Those peddle blood either laced with other blood
   sources or low quality. Blood scammers.[12]
 - **Blood Supplier:** They deal blood and vessels in varying ethical
-  means. Many work for the <a href="Circulatory_System" class="wikilink"
-  title="Circulatory System">Circulatory System</a>, but there are more
+  means. Many work for the [Circulatory System](./circulatory_system.md), but there are more
   ethical specialists.[13]
 - **Cellar Rat:** A blood dealer who sells the Blood of a Kindred they
   have in torpor.[14]
@@ -73,21 +70,19 @@ the scene, unorthodox buyers, or bad business. Could even be rivals
 seeking to under others' business.[20]
 
 - **Black Hand:** The
-  <a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a> members of
+  [Sabbat](./sabbat.md) members of
   various stripes may have secrets but are dangerous. They are known to
   have a habit of killing or recruiting those they do business with.[21]
 - **Chopra-wafadar:** Agents of
-  <a href="Other_groups" class="wikilink" title="Xtend">Xtend</a>, try
+  [Xtend](./other_groups.md), try
   to steal knowledge rather than making deals.[22]
 - **Cop:** Catch all for police, federal agents, and other law
   enforcement who at best think the red market is a drug ring, or at
   worst may tip off or work for the
-  <a href="Second_Inquisition" class="wikilink"
-  title="Second Inquisition">Second Inquisition</a>.[23]
+  [Second Inquisition](./second_inquisition.md).[23]
 - **Rival:** Competing members of the blood craft scene.[24]
 - **Scourge:** Agents of the court that strike usually at
-  <a href="Thin-blood" class="wikilink"
-  title="thin-bloods">thin-bloods</a>.[25]
+  [thin-bloods](./thinblood.md).[25]
 - **Standover man:** Thieves and strongmen who take what they want by
   force.[26]
 - **Swindler:** Con artist looking to get a rare ingredient or bit of
@@ -126,8 +121,7 @@ the event winner could be awarded street cred or money.[30]
 
   
 *Main article:
-<a href="Other_groups" class="wikilink" title="Other groups">Other
-groups</a>*
+[Other groups](./other_groups.md)*
 
 The scene has given a rise to other more specific groups with specific
 sorcerous pursuits.
@@ -177,9 +171,8 @@ scene at once, but many pop up across scenes.[31]
   <a href="Lupine" class="wikilink" title="lupines">lupines</a>.[43]
 - **Occult Bookstore** - Various flavors of bookstores that sell occult
   books with the occasional useful book to any
-  <a href="Blood_Sorcery" class="wikilink" title="Blood sorcerer">Blood
-  sorcerer</a>,
-  <a href="Alchemy" class="wikilink" title="Alchemist">Alchemist</a>, or
+  [Blood sorcerer](./blood_sorcery.md),
+  [Alchemist](./alchemy.md), or
   occultists.[44]
 - **Public Market** - Where sellers convene to peddle their goods to
   sell their wares secretly among mundane sellers. Many times they

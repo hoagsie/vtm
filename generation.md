@@ -5,7 +5,7 @@ following their
 <a href="Embrace" class="wikilink" title="Embrace">Embrace</a> a newly
 formed vampire is one number higher than their sire. The only act which
 can lower this is known as
-<a href="diablerie" class="wikilink" title="diablerie">diablerie</a>.
+[diablerie](./diablerie.md).
 Generation, however, does not dictate the age of a vampire, as a 10th
 Generation vampire could have been embraced hundreds of years ago and in
 reverse, a low Generation vampire could have embraced a fledgling in the
@@ -18,8 +18,7 @@ Players and storytellers may decide the coterie’s age range during
 title="character creation">character creation</a>. The default age range
 is childer, but they group may agree to play an older coterie. The
 Generation helps decide the starting
-<a href="Blood_Potency" class="wikilink" title="Blood Potency">Blood
-Potency</a>.[1][2]
+[Blood Potency](./blood_potency.md).[1][2]
 
 <table>
 <thead>
@@ -99,11 +98,11 @@ anything could have happened on those first nights.
 
 Also known as the Antediluvians, they are the founders of the 13 clans
 and are thought to either be dead or asleep for the past thousand years.
-However, the <a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a>
+However, the [Sabbat](./sabbat.md)
 have declared war against them declaring war and beginning the
 <a href="Gehenna" class="wikilink" title="Gehenna">Gehenna</a> which has
 roused the long-lost vampires and caused the
-<a href="Beckoning" class="wikilink" title="Beckoning">Beckoning</a>.
+[Beckoning](./beckoning.md).
 
 ### 4th and 5th Generations
 
@@ -116,8 +115,8 @@ most remain asleep beneath human cities.
 
 The elders were mostly Embraced before the modern age and held
 <a href="Domain" class="wikilink" title="Domains">Domains</a> within the
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a> and
-<a href="Anarch" class="wikilink" title="Anarch">Anarch</a> Movement for
+[Camarilla](./camarilla.md) and
+[Anarch](./anarch.md) Movement for
 generations. However, most are called to the Beckoning these nights and
 only a few hold out against this calling.
 
@@ -137,17 +136,16 @@ modern night, those new to the vampiric life.
 
 ### 14th through 16th Generations
 
-<a href="Thin-blood" class="wikilink"
-title="Thin-bloods">Thin-bloods</a> are the furthest from the
+[Thin-bloods](./thinblood.md) are the furthest from the
 progenitors, thought to be the bringers of Gehenna by those who believe
 in The Book of Nod.[4]
 
 ## Effects of Generation in Play
 
 - Vampires with lower generation can spend a
-  <a href="willpower" class="wikilink" title="willpower">willpower</a>
+  [willpower](./willpower.md)
   point to completely negate
-  <a href="Dominate" class="wikilink" title="Dominate">Dominate</a> from
+  [Dominate](./dominate.md) from
   a higher (weaker) generation vampire.[5]
 - If a higher generation vampire diablerizes a lower generation vampire,
   then the attacker’s generation lowers by one.

@@ -4,7 +4,7 @@
 
 Chicago, Illinois is an American city considered to be the Camarilla’s
 North American crown jewel. The city is predominantly
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>.
+[Camarilla](./camarilla.md).
 
 <section end=summary/>
 
@@ -19,46 +19,40 @@ North American crown jewel. The city is predominantly
 **Prince:**
 <a href="Kevin_Jackson" class="wikilink" title="Kevin Jackson">Kevin
 Jackson</a>,
-<a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a> [2][3][4]
+[Ventrue](./ventrue.md) [2][3][4]
 
 **Seneschal:** Alan Sovereign, Ventrue [5][6]
 
 **Primogens:**
 
-- Critias, <a href="Brujah" class="wikilink" title="Brujah">Brujah</a>
+- Critias, [Brujah](./brujah.md)
   [7][8]
 - Rosa Hernandez,
-  <a href="Gangrel" class="wikilink" title="Gangrel">Gangrel</a> [9][10]
+  [Gangrel](./gangrel.md) [9][10]
 - Jason “Son” Newberry,
-  <a href="Malkavian" class="wikilink" title="Malkavian">Malkavian</a>
+  [Malkavian](./malkavian.md)
   [11][12]
-- <a href="Nosferatu#Notable_characters" class="wikilink"
-  title="Khalid">Khalid</a>, Nosferatu (Cedric Calhoun disguised as
+- [Khalid](./nosferatu.md#notable-characters), Nosferatu (Cedric Calhoun disguised as
   Khalid) [13][14]
-- <a href="Toreador#Notable_characters" class="wikilink"
-  title="Annabelle Triabell">Annabelle Triabell</a>, Toreador (Also
+- [Annabelle Triabell](./toreador.md#notable-characters), Toreador (Also
   Keeper of Elysium) [15][16][17]
-- <a href="The_Ministry#Notable_characters" class="wikilink"
-  title="Marcel">Marcel</a>, The Ministry (Advisory position for
+- [Marcel](./ministry.md#notable-characters), The Ministry (Advisory position for
   unrepresented) [18]
 
-**Sheriff:** <a href="Brujah#Notable_characters" class="wikilink"
-title="Damien">Damien</a>, Brujah [19]
+**Sheriff:** [Damien](./brujah.md#notable-characters), Brujah [19]
 
 **Major Hound:** Alexa Santos, Malkavian (Rumored to be
-<a href="Hecata" class="wikilink" title="Hecata">Hecata</a>) [20][21]
+[Hecata](./hecata.md)) [20][21]
 
 ### The Anarch Center
 
 (Territory: Actually in East Chicago, Indiana) [22][23]
 
-- <a href="Brujah#Notable_characters" class="wikilink"
-  title="Anita Wainwright">Anita Wainwright</a>, Brujah - Major
+- [Anita Wainwright](./brujah.md#notable-characters), Brujah - Major
   community builder of
-  <a href="Anarch" class="wikilink" title="Anarchs">Anarchs</a>,
+  [Anarchs](./anarch.md),
   considered Baron of East Chicago by some [24][25][26]
-- <a href="Caitiff#Notable_characters" class="wikilink"
-  title="Carol “Maldavis” Davis">Carol “Maldavis” Davis</a>, Caitiff -
+- [Carol “Maldavis” Davis](./caitiff.md#notable-characters), Caitiff -
   Fought the Camarilla and nearly won during Council Wars, consider a
   major hero to Chicago Anarchs. [27][28][29]
 - Bobby “The Hurricane” Weatherbottom, Ventrue - supposed double agent
@@ -73,13 +67,11 @@ title="Damien">Damien</a>, Brujah [19]
 (Territory: Some have taken to gentrifying neighborhoods of Pilsen,
 Archer Avenue, and Little Village) [42]
 
-- <a href="Lasombra#Notable_characters" class="wikilink"
-  title="Talley">Talley</a> - Legendary elder
-  <a href="Lasombra" class="wikilink" title="Lasombra">Lasombra</a> and
+- [Talley](./lasombra.md#notable-characters) - Legendary elder
+  [Lasombra](./lasombra.md) and
   Sabbat defector facilitating the Lasombra entry into the Camarilla in
   Chicago [43][44]
-- <a href="Lasombra#Notable_characters" class="wikilink"
-  title="Sierra Van Burrace">Sierra Van Burrace</a> - Childe of Talley,
+- [Sierra Van Burrace](./lasombra.md#notable-characters) - Childe of Talley,
   working as a diplomat [45]
 
 ### Other notable Kindred:
@@ -88,19 +80,16 @@ Archer Avenue, and Little Village) [42]
 - Portia (Actually the Toreador Methuselah,
   <a href="Helena" class="wikilink" title="Helena">Helena</a>, in
   disguise) [47][48]
-- <a href="Ventrue#Notable_characters" class="wikilink"
-  title="Horatio Ballard">Horatio Ballard</a> - Ventrue, owner of
+- [Horatio Ballard](./ventrue.md#notable-characters) - Ventrue, owner of
   Ballard Industries. [49]
 - Sir Olaf, the one eye King, Former Prince,
-  <a href="Ventrue#Notable_characters" class="wikilink"
-  title="Lodin">Lodin</a> [50][51]
+  [Lodin](./ventrue.md#notable-characters) [50][51]
 - Nathaniel Borduff - Nosferatu, a loathsome vampire hunter turned
   kindred [52]
 - Wauneka - Nosferatu, A defender of the meek and has a network of
   homeless [53]
 - Browyn - Malkavian elder. One of the co-founders of the
-  <a href="Circulatory_System" class="wikilink"
-  title="Circulatory System">Circulatory System</a> and owner of the
+  [Circulatory System](./circulatory_system.md) and owner of the
   Blue Velvet [54]
 - Joshua Tarnopolski - Brujah, Potential Baron of Naperville and Joliet.
   [55][56][57]
@@ -110,18 +99,17 @@ Archer Avenue, and Little Village) [42]
 ## Notable groups
 
 - The Eternal Academy - This facility aims to educate
-  <a href="Caitiff" class="wikilink" title="Caitiff">Caitiff</a> and
-  <a href="Thin-blood" class="wikilink" title="Duskborn">Duskborn</a> on
+  [Caitiff](./caitiff.md) and
+  [Duskborn](./thinblood.md) on
   the correct way to behave as a Kindred. Those that flunk out are never
   seen again. It is ran by Critias. [59][60]
 - Cultivars - A
-  <a href="Bahari" class="wikilink" title="Lilith cult">Lilith cult</a>
+  [Lilith cult](./bahari.md)
   growing in the city. Led by a mysteriously old vampire. [61][62]
 - Blood Disco - A Lilith cult sometimes called House of Lilith, steeped
   in Ball Culture. Houses in other cities. It targets to induct the
   outcast and clanless. [63]
-- <a href="Church_of_Caine" class="wikilink"
-  title="Church of Caine">Church of Caine</a> - The Church is creeping
+- [Church of Caine](./church_caine.md) - The Church is creeping
   up Joliet and Naperville areas said to have converted the Baron,
   Joshua, himself. [64][65]
 - <a href="Cult_of_Shalim" class="wikilink" title="Cult of Shalim">Cult of
@@ -165,10 +153,10 @@ as Elysium during the short Peterson Princedom. Many Kine know this
 location for the Resurrection Mary ghost story involving a missing girl.
 It has three floors and is made of beautiful white stone. It was crafted
 in the 1960s in a joint effort between the
-<a href="Hecata" class="wikilink" title="Hecata">Hecata</a>,
-<a href="The_Ministry" class="wikilink" title="Ministry">Ministry</a>,
+[Hecata](./hecata.md),
+[Ministry](./ministry.md),
 and Camarilla for a defense against the
-<a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a>. [71]
+[Sabbat](./sabbat.md). [71]
 
 ### Other Places Declared Elysium
 
@@ -221,7 +209,7 @@ with a variety of music. It has proven very popular with outsiders.
 ### Chinatown
 
 Technically controlled by the
-<a href="Tremere" class="wikilink" title="Tremere">Tremere</a>, but the
+[Tremere](./tremere.md), but the
 chantry stays away. After a series of unexplainable mystical events and
 investigates by the blood mages. Usually avoided by kindred, but there
 are rumors of a cult called Xūmigōngpai (“Abyssal Labyrinth School”),
@@ -239,42 +227,40 @@ territories will be bargaining chips for others that do his bidding
 further pushing the Anarchs out. The Camarilla Prince finding the
 territory overall a logistical nightmare to manage, is in need of
 delegation. These areas are dangerous: unaligned kindred,
-<a href="Church_of_Caine" class="wikilink"
-title="Church of Caine">Church of Caine</a>,
-<a href="Bahari" class="wikilink" title="Bahari">Bahari</a>, Lupines,
+[Church of Caine](./church_caine.md),
+[Bahari](./bahari.md), Lupines,
 and low density hunting grounds. The major Collar cities considered are
 Oakland Park, Wheaton, Joliet, Naperville, Schaumburg and sometimes
-<a href="Gary,_Indiana" class="wikilink" title="Gary, Indiana">Gary,
-Indiana</a>. [80][81]
+[Gary, Indiana](./gary_in.md). [80][81]
 
 ## Important events
 
 Originally the land of the Algonquian people, a
-<a href="Brujah" class="wikilink" title="Brujah">Brujah</a> Methuselah
+[Brujah](./brujah.md) Methuselah
 lived among them,
 <a href="Menele" class="wikilink" title="Meneleaus">Meneleaus</a>. When
 the French and
-<a href="Toreador" class="wikilink" title="Toreador">Toreador</a>
+[Toreador](./toreador.md)
 Methuselah, <a href="Helena" class="wikilink" title="Helena">Helena</a>,
 arrived they fought manipulating their humans. Fort Dearborn was
 eventually set up and it grew into the city of Chicago in 1833. Their
 rivalry turned to manipulating Kine and Kindred in Chicago until
 <a href="Menelaus" class="wikilink" title="Menelaus">Menelaus</a> gave
 in to the
-<a href="Beckoning" class="wikilink" title="Beckoning">Beckoning</a>.
+[Beckoning](./beckoning.md).
 [82]
 
 Chicago’s first Prince was Maxwell of clan
-<a href="Brujah" class="wikilink" title="Brujah">Brujah</a>. He served
+[Brujah](./brujah.md). He served
 until his usurpation during the Great Chicago Fire in 1871. Maxwell's
 former subordinate, Lodin of Clan
-<a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a>, took the
+[Ventrue](./ventrue.md), took the
 throne during the crisis and would rule the city for decades to come.
 His power was tempered by the city’s politically powerful Primogen. His
 frustration saw him focus on warring with
 <a href="Modius" class="wikilink" title="Modius">Modius</a>, a failed
 usurper and Prince of
-<a href="Gary,_Indiana" class="wikilink" title="Gary">Gary</a>. [83]
+[Gary](./gary_in.md). [83]
 
 Lodin’s rule was challenged by Maldavis, in what is known as the
 Councils Wars in the early 1980s. The city’s political deadlock mirrored
@@ -284,16 +270,16 @@ felt challenged. Every plan and strategy he had was disrupted by her,
 defeat loomed. It was only until he capitulated to the demands of the
 Primogen that the Primogen gave him the support he needed to finally
 regain control and deliver a massive blow to the
-<a href="Anarch" class="wikilink" title="Anarchs">Anarchs</a> in the
+[Anarchs](./anarch.md) in the
 late 1980s. [84]
 
 The Great Chicago Flood displaces most of the
-<a href="Nosferatu" class="wikilink" title="Nosferatu">Nosferatu</a>,
+[Nosferatu](./nosferatu.md),
 many blame the
-<a href="Tremere" class="wikilink" title="Tremere">Tremere</a> but
+[Tremere](./tremere.md) but
 motives are unknown. In 1993, the War of Chicago commenced where
 <a href="Lupine" class="wikilink" title="Lupine">Lupine</a> packs and
-the <a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a> attacked
+the [Sabbat](./sabbat.md) attacked
 Chicago, shaking up the domain with many slain. The most prominent of
 which being Prince Lodin's supposed death. For nearly two decades, the
 throne of Prince remains empty and is run by the Primogen Council.
@@ -326,12 +312,12 @@ called a blood hunt on all Illinois Anarch Ventrue, those captured alive
 are taken to his school. [93][94][95][96]
 
 His other initiatives are pushing the
-<a href="Anarch" class="wikilink" title="Anarchs">Anarchs</a> to the
+[Anarchs](./anarch.md) to the
 outskirts of the city and edges of the suburb. His new rule of only
 allowing 10 Anarchs in the city has proven a useful tool to divide and
 conquer. [97][98][99] He is following the Directorate’s orders by
 facilitating the
-<a href="Lasombra" class="wikilink" title="Lasombra">Lasombra</a>
+[Lasombra](./lasombra.md)
 defection into a Camarilla Chicago. [100][101][102][103][104]
 
 ## References

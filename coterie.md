@@ -1,9 +1,8 @@
 *For information of what a coterie is and how they generally work, see
-<a href="Coterie" class="wikilink" title="Coterie">Coterie</a>*
+[Coterie](./coterie.md)*
 
 *For help deciding Domain, Advantages, and other parts for coteries, see
-<a href="Coterie_types" class="wikilink" title="Coterie types">Coterie
-types</a>*
+[Coterie types](./coterie_types.md)*
 
 ## How to set up a coterie
 
@@ -332,8 +331,7 @@ prestigious area of the city or the heart of the city.</p></td>
 <td><p>Phlegmatic</p></td>
 <td><p>Any haven within this area receives two dots in the Postern
 Merit. Add two dice to pools to evade pursuit on transit, summon rats
-with <a href="Animalism" class="wikilink"
-title="Animalism">Animalism</a>, or any other tests relevant to transit.
+with [Animalism](./animalism.md), or any other tests relevant to transit.
 On the opposite End, Nosferatu and others who know the terrain can
 bypass these two dots of Portillion when infiltrating.</p></td>
 </tr>
@@ -553,13 +551,11 @@ can use the given Merit in a session based on who needs it the most.[20]
 width="42" />
 <figcaption>Banu_Haqim_Symbol.png</figcaption>
 </figure></td>
-<td><p><strong><a href="Banu_Haqim" class="wikilink"
-title="Banu Haqim">Banu Haqim</a></strong></p></td>
+<td><p><strong>[Banu Haqim](./banu.md)</strong></p></td>
 <td><p><strong>••</strong></p></td>
 <td><p><strong>Call to Purpose</strong></p></td>
 <td data-sort-value="1"><p>Once per session, they may motivate another
-teammate to gain the effect of a <a href="Willpower" class="wikilink"
-title="Willpower">Willpower</a> point to be immediately used.</p></td>
+teammate to gain the effect of a [Willpower](./willpower.md) point to be immediately used.</p></td>
 <td><p><a href="Vampire:_The_Masquerade_Companion" class="wikilink"
 title="Companion">Companion</a>, page 31 / <a
 href="Vampire:_The_Masquerade_Players_Guide" class="wikilink"
@@ -570,8 +566,7 @@ title="Players Guide">Players Guide</a>, page 179</p></td>
 <img src="Brujah_Symbol.png" title="Brujah_Symbol.png" width="42" />
 <figcaption>Brujah_Symbol.png</figcaption>
 </figure></td>
-<td><p><strong><a href="Brujah" class="wikilink"
-title="Brujah">Brujah</a></strong></p></td>
+<td><p><strong>[Brujah](./brujah.md)</strong></p></td>
 <td><p><strong>•</strong></p></td>
 <td><p><strong>Boot and Rally</strong></p></td>
 <td><p>Once per session, a coterie mate may reroll all regular dice on a
@@ -586,8 +581,7 @@ title="Players Guide">Players Guide</a>, page 180</p></td>
 <img src="Gangrel_Symbol.png" title="Gangrel_Symbol.png" width="42" />
 <figcaption>Gangrel_Symbol.png</figcaption>
 </figure></td>
-<td><p><strong><a href="Gangrel" class="wikilink"
-title="Gangrel">Gangrel</a></strong></p></td>
+<td><p><strong>[Gangrel](./gangrel.md)</strong></p></td>
 <td><p><strong>•••</strong></p></td>
 <td><p><strong>Pack Tactics</strong></p></td>
 <td><p>When in combat gain a single die to pools for Brawl or Melee
@@ -602,8 +596,7 @@ title="Players Guide">Players Guide</a>, page 181</p></td>
 <img src="Hecata_Symbol.png" title="Hecata_Symbol.png" width="42" />
 <figcaption>Hecata_Symbol.png</figcaption>
 </figure></td>
-<td><p><strong><a href="Hecata" class="wikilink"
-title="Hecata">Hecata</a></strong></p></td>
+<td><p><strong>[Hecata](./hecata.md)</strong></p></td>
 <td><p><strong>••</strong></p></td>
 <td><p><strong>Ars Moriendi</strong></p></td>
 <td><p>Once per session, they can mask the corpse of someone
@@ -618,8 +611,7 @@ title="Players Guide">Players Guide</a>, page 182</p></td>
 <img src="Lasombra_Symbol.png" title="Lasombra_Symbol.png" width="42" />
 <figcaption>Lasombra_Symbol.png</figcaption>
 </figure></td>
-<td><p><strong><a href="Lasombra" class="wikilink"
-title="Lasombra">Lasombra</a></strong></p></td>
+<td><p><strong>[Lasombra](./lasombra.md)</strong></p></td>
 <td><p><strong>••</strong></p></td>
 <td><p><strong>At Any Cost</strong></p></td>
 <td><p>Once per session, add two successes to a test. The outcome is
@@ -636,8 +628,7 @@ title="Players Guide">Players Guide</a>, page 182</p></td>
 width="42" />
 <figcaption>Malkavian_Symbol.png</figcaption>
 </figure></td>
-<td><p><strong><a href="Malkavian" class="wikilink"
-title="Malkavian">Malkavian</a></strong></p></td>
+<td><p><strong>[Malkavian](./malkavian.md)</strong></p></td>
 <td><p><strong>•••</strong></p></td>
 <td><p><strong>Everything is Connected</strong></p></td>
 <td><p>Once per session, another member of the coterie may substitute
@@ -653,8 +644,7 @@ title="Players Guide">Players Guide</a>, page 183</p></td>
 <img src="Ministry_Symbol.png" title="Ministry_Symbol.png" width="42" />
 <figcaption>Ministry_Symbol.png</figcaption>
 </figure></td>
-<td><p><strong><a href="The_Ministry" class="wikilink"
-title="The Ministry">The Ministry</a></strong></p></td>
+<td><p><strong>[The Ministry](./ministry.md)</strong></p></td>
 <td><p><strong>•</strong></p></td>
 <td><p><strong>Discerning</strong></p></td>
 <td><p>Once per session the Minister character may learn something about
@@ -671,8 +661,7 @@ title="Players Guide">Players Guide</a>, page 184</p></td>
 width="42" />
 <figcaption>Nosferatu_Symbol.png</figcaption>
 </figure></td>
-<td><p><strong><a href="Nosferatu" class="wikilink"
-title="Nosferatu">Nosferatu</a></strong></p></td>
+<td><p><strong>[Nosferatu](./nosferatu.md)</strong></p></td>
 <td><p><strong>••</strong></p></td>
 <td><p><strong>Contextual Contact</strong></p></td>
 <td><p>Once per session, the Nosferatu may add the highest-rated coterie
@@ -687,8 +676,7 @@ title="Players Guide">Players Guide</a>, page 185</p></td>
 <img src="Ravnos_Symbol.png" title="Ravnos_Symbol.png" width="42" />
 <figcaption>Ravnos_Symbol.png</figcaption>
 </figure></td>
-<td><p><strong><a href="Ravnos" class="wikilink"
-title="Ravnos">Ravnos</a></strong></p></td>
+<td><p><strong>[Ravnos](./ravnos.md)</strong></p></td>
 <td><p><strong>•••</strong></p></td>
 <td><p><strong>Cryptolect</strong></p></td>
 <td><p>Allows the coterie to communicate in coded language and hand
@@ -703,8 +691,7 @@ title="Players Guide">Players Guide</a>, page 185</p></td>
 <img src="Salubri_Symbol.png" title="Salubri_Symbol.png" width="42" />
 <figcaption>Salubri_Symbol.png</figcaption>
 </figure></td>
-<td><p><strong><a href="Salubri" class="wikilink"
-title="Salubri">Salubri</a></strong></p></td>
+<td><p><strong>[Salubri](./salubri.md)</strong></p></td>
 <td><p><strong>•••</strong></p></td>
 <td><p><strong>Restraint</strong></p></td>
 <td><p>Once per session, the Salubri can allow another member of their
@@ -719,8 +706,7 @@ title="Players Guide">Players Guide</a>, page 187</p></li>
 <img src="Toreador_Symbol.png" title="Toreador_Symbol.png" width="42" />
 <figcaption>Toreador_Symbol.png</figcaption>
 </figure></td>
-<td><p><strong><a href="Toreador" class="wikilink"
-title="Toreador">Toreador</a></strong></p></td>
+<td><p><strong>[Toreador](./toreador.md)</strong></p></td>
 <td><p><strong>•</strong></p></td>
 <td><p><strong>All Access</strong></p></td>
 <td><p>One per session, they can get past bouncers to get into a mortal
@@ -735,8 +721,7 @@ title="Players Guide">Players Guide</a>, page 187</p></td>
 <img src="Tremere_Symbol.png" title="Tremere_Symbol.png" width="42" />
 <figcaption>Tremere_Symbol.png</figcaption>
 </figure></td>
-<td><p><strong><a href="Tremere" class="wikilink"
-title="Tremere">Tremere</a></strong></p></td>
+<td><p><strong>[Tremere](./tremere.md)</strong></p></td>
 <td><p><strong>••</strong></p></td>
 <td><p><strong>Multi-Level Lorekeeping</strong></p></td>
 <td><p>Once per session, someone can use another's loresheet within the
@@ -751,13 +736,11 @@ title="Players Guide">Players Guide</a>, page 188</p></td>
 <img src="Tzimisce_Symbol.png" title="Tzimisce_Symbol.png" width="42" />
 <figcaption>Tzimisce_Symbol.png</figcaption>
 </figure></td>
-<td><p><strong><a href="Tzimisce" class="wikilink"
-title="Tzimisce">Tzimisce</a></strong></p></td>
+<td><p><strong>[Tzimisce](./tzimisce.md)</strong></p></td>
 <td><p><strong>••</strong></p></td>
 <td><p><strong>Old-World Hospitality</strong></p></td>
 <td><p>When daysleeping in the Tzimisce's haven, they regain an
-additional Superficial <a href="Willpower" class="wikilink"
-title="Willpower">Willpower</a> damage.</p></td>
+additional Superficial [Willpower](./willpower.md) damage.</p></td>
 <td><p><a href="Vampire:_The_Masquerade_Companion" class="wikilink"
 title="Companion">Companion</a>, page 39 / <a
 href="Vampire:_The_Masquerade_Players_Guide" class="wikilink"
@@ -768,8 +751,7 @@ title="Players Guide">Players Guide</a>, page 189</p></td>
 <img src="Ventrue_Symbol.png" title="Ventrue_Symbol.png" width="42" />
 <figcaption>Ventrue_Symbol.png</figcaption>
 </figure></td>
-<td><p><strong><a href="Ventrue" class="wikilink"
-title="Ventrue">Ventrue</a></strong></p></td>
+<td><p><strong>[Ventrue](./ventrue.md)</strong></p></td>
 <td><p><strong>••</strong></p></td>
 <td><p><strong>Kindred Legacies</strong></p></td>
 <td><p>Once per session, the Ventrue may ask for relevant information
@@ -784,8 +766,7 @@ title="Players Guide">Players Guide</a>, page 187</p></td>
 <img src="Caitiff_Symbol.png" title="Caitiff_Symbol.png" width="42" />
 <figcaption>Caitiff_Symbol.png</figcaption>
 </figure></td>
-<td><p><strong><a href="Caitiff" class="wikilink"
-title="Caitiff">Caitiff</a></strong></p></td>
+<td><p><strong>[Caitiff](./caitiff.md)</strong></p></td>
 <td><p><strong>••</strong></p></td>
 <td><p><strong>Versatile Vitae</strong></p></td>
 <td><p>Once per session, the Caitiff can enable another coterie mate to
@@ -803,8 +784,7 @@ title="Players Guide">Players Guide</a>, page 187</p></li>
 width="42" />
 <figcaption>Thinblood_Symbol.png</figcaption>
 </figure></td>
-<td><p><strong><a href="Thin-blood" class="wikilink"
-title="Thin-blood">Thin-blood</a></strong></p></td>
+<td><p><strong>[Thin-blood](./thinblood.md)</strong></p></td>
 <td><p><strong>••</strong></p></td>
 <td><p><strong>Mortal Heart</strong></p></td>
 <td><p>Once per session, the coterie may be reminded by the thin-blood

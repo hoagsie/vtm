@@ -16,10 +16,10 @@ not a single position has changed hands in decades.[1][2][3]
 
 As formerly a part of the Baronies of Avalon, the city used to send
 Tribute to
-<a href="London,_UK" class="wikilink" title="London">London</a> and the
+[London](./london_uk.md) and the
 city used alternative naming schemes. With the Fall of London,
 Birmingham switched from the "Baron" title to the more
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>
+[Camarilla](./camarilla.md)
 conventional "Prince" title. Though the titles of the Sheriff and
 Steward positions are still called Martinet and Steward,
 respectively.[4][5][6]
@@ -30,11 +30,11 @@ respectively.[4][5][6]
 
 **Prince:** <a href="Jeremiah_Casaubon" class="wikilink"
 title="Jeremiah Casaubon">Jeremiah Casaubon</a>,
-<a href="Toreador" class="wikilink" title="Toreador">Toreador</a>[7]
+[Toreador](./toreador.md)[7]
 
 **Steward:** <a href="Audrey_Barrowman" class="wikilink"
 title="Audrey Barrowman">Audrey Barrowman</a>,
-<a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a>[8]
+[Ventrue](./ventrue.md)[8]
 
 **Martinet:** *now vacant* [9]
 
@@ -43,18 +43,18 @@ title="Audrey Barrowman">Audrey Barrowman</a>,
 **Primogen:** *Name of Known Primogen*
 
 Roland Maier,
-<a href="Malkavian" class="wikilink" title="Malkavian">Malkavian</a>[11]
+[Malkavian](./malkavian.md)[11]
 
 **Keeper of Elysium:** Vaisey, Jeremiah’s
-<a href="Mortals_and_ghouls" class="wikilink" title="Ghoul">Ghoul</a>[12]
+[Ghoul](./mortals_ghouls.md)[12]
 
 ### Anarchs
 
 - <a href="Haze" class="wikilink" title="Haze">Haze</a>,
-  <a href="Brujah" class="wikilink" title="Brujah">Brujah</a>[13]
+  [Brujah](./brujah.md)[13]
 - Lataka,
-  <a href="Tremere" class="wikilink" title="Tremere">Tremere</a> -
-  <a href="Anarch" class="wikilink" title="Anarch">Anarch</a> Tattoo
+  [Tremere](./tremere.md) -
+  [Anarch](./anarch.md) Tattoo
   artist who owns Writing on the Wall. Good friends with Haze. [14]
 
 ### Other Notable People
@@ -62,7 +62,7 @@ Roland Maier,
 - Hiram Kent - Former Martinet. Thought destroyed by Prince for calling
   Kallias a fraud. He survived and has a grudge against the domain.[15]
 - Kallias,
-  <a href="Caitiff" class="wikilink" title="Caitiff">Caitiff</a> -
+  [Caitiff](./caitiff.md) -
   Mysterious
   <a href="Golconda" class="wikilink" title="Golconda">Golconda</a>
   speaker and supposed Elder. His insights allow him to have the ear of
@@ -70,7 +70,7 @@ Roland Maier,
   he was ran out of Turin, Italy recently and does not know his
   clan.[16]
 - Owl,
-  <a href="Nosferatu" class="wikilink" title="Nosferatu">Nosferatu</a> -
+  [Nosferatu](./nosferatu.md) -
   <a href="Sire" class="wikilink" title="Sire">Sire</a> of Farid Latif.
   Member of the Wire-Walkers. Afraid Farid will try to embrace his
   sister due to her terminal illness. She spies on Kallias.[17][18]
@@ -84,24 +84,24 @@ Roland Maier,
   of Primogen Roland Maier. Kallias calmed her bane, though has had
   lingering side effects.[23]
 - Marley, Malkavian - A low
-  <a href="humanity" class="wikilink" title="humanity">humanity</a>
+  [humanity](./humanity.md)
   Kindred who descended into Wightdom. Was supposedly healed from
   Wightdom by Kallias but is now missing as are the miracle’s
   witness.[24][25]
 - Vix,
-  <a href="thin-blood" class="wikilink" title="thin-blood">thin-blood</a> -
+  [thin-blood](./thinblood.md) -
   Uber drive and low status Kindred. Childe of Francesca. Claims her
   grievous wounds from a mugging were healed by Kallias.[26]
 - Francesca de Launcey, Ventrue - sire and Great aunt to Vix. Member of
   the City Investors. Has many contacts in the city. She has pull with
   Venture in the UK, continental Europe, and the US.[27]
 - Martin Plover,
-  <a href="Banu_Haqim" class="wikilink" title="Banu Haqim">Banu Haqim</a> -
+  [Banu Haqim](./banu.md) -
   Recently
   <a href="Embrace" class="wikilink" title="Embraced">Embraced</a> PR
   Executive who oversees communication for The City Investors.[28]
 - Andrew Duchevski,
-  <a href="Tremere" class="wikilink" title="Tremere">Tremere</a> -
+  [Tremere](./tremere.md) -
   Kindred from Turin, Italy. Called in by the Fates to verify Kallias’
   healing and powers. Colludes with Fate in secret plan.[29][30]
 
@@ -117,9 +117,8 @@ Roland Maier,
   Queensway.[34]
 - Young offenders - Coterie of
   <a href="Fledgling" class="wikilink" title="fledglings">fledglings</a>,
-  <a href="Caitiff" class="wikilink" title="Caitiff">Caitiff</a>, and
-  <a href="Thin-blood" class="wikilink"
-  title="thin-bloods">thin-bloods</a> who are just trying to survive
+  [Caitiff](./caitiff.md), and
+  [thin-bloods](./thinblood.md) who are just trying to survive
   unlife. They have no opinion on the prophet.[35]
 - The Fates - Trio of Tremere thought to represent any sort of Tremere
   power. Rumored they keep their
@@ -176,7 +175,7 @@ to rise as it did with many western cities in the 1920s.[52][53]
 
 Some time after Mithras’ supposed destruction in the 1940s and the
 ascension of Queen Anne as Prince of
-<a href="London,_UK" class="wikilink" title="London">London</a> and the
+[London](./london_uk.md) and the
 Baronies of Avalon; Birmingham along with Manchester and Liverpool were
 domains demanding more independence from London's authority. This
 request had been granted with more autonomy and freedom as long as the
@@ -191,8 +190,7 @@ trio of Tremere, the Fates, appeared.[56]
 
 After the 2012 attack on London, Birmingham along with other UK domains
 prepared defenses as not to be surprised by similar
-<a href="Second_Inquisition" class="wikilink"
-title="Second Inquisition">Second Inquisition</a> attacks. Kindred
+[Second Inquisition](./second_inquisition.md) attacks. Kindred
 rulers across the UK took up the title “Prince”.[57][58]
 
 ## Notes

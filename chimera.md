@@ -2,18 +2,15 @@
 
 Chimera are referring to a creature made from the amalgamation of
 others. The method varies be it from
-<a href="Protean#Fleshcrafting" class="wikilink"
-title="Fleshcrafting">Fleshcrafting</a>,
+[Fleshcrafting](./protean.md#fleshcrafting),
 <a href="Thin-blood_Alchemy" class="wikilink"
 title="Thin-Blood Alchemy">Thin-Blood Alchemy</a>, black market DNA
 manipulation, and
-<a href="Blood_Sorcery" class="wikilink" title="Blood Sorcery">Blood
-Sorcery</a>; they all can attribute to a wide array of chimeras. Many
+[Blood Sorcery](./blood_sorcery.md); they all can attribute to a wide array of chimeras. Many
 show up in many apocalyptic
-<a href="Alchemy" class="wikilink" title="alchemical">alchemical</a>
+[alchemical](./alchemy.md)
 societies’ compounds,
-<a href="Tremere#House_Ipsissimus" class="wikilink"
-title="Ipsissimus">Ipsissimus</a> chantries, and places in the
+[Ipsissimus](./tremere.md#house-ipsissimus) chantries, and places in the
 <a href="redworking_scene" class="wikilink"
 title="redworking scene">redworking scene</a>. Chimeras traits are
 varied dictated by what their designer wished to create.[1] 
@@ -21,9 +18,8 @@ varied dictated by what their designer wished to create.[1] 
 ## Chimera experiment examples
 
 - **Nyukach** - Also known as the sniffer. These chimeras were created
-  by <a href="Other_groups#Lui_Domien" class="wikilink"
-  title="Lui Domien">Lui Domien</a>
-  <a href="Tzimisce" class="wikilink" title="Tzimisce">Tzimisce</a>.
+  by [Lui Domien](./other_groups.md#lui-domien)
+  [Tzimisce](./tzimisce.md).
   They resemble the grey aliens from science fiction with elongated
   limbs, mouths, and eyes. The nyukachy are able to inhale and ingest
   toxins, chemically process them, and then excrete it in a pure state
@@ -35,13 +31,12 @@ varied dictated by what their designer wished to create.[1] 
   protect their family. They created a mystical DNA treatment process
   with raven blood. The mortal is given bird-like features, long
   distance sight, and immunity to
-  <a href="Presence" class="wikilink" title="Presence">Presence</a>,
-  <a href="Dominate" class="wikilink" title="Dominate">Dominate</a>, and
-  <a href="Animalism" class="wikilink" title="Animalism">Animalism</a>.[3]
+  [Presence](./presence.md),
+  [Dominate](./dominate.md), and
+  [Animalism](./animalism.md).[3]
 - **Counterfeit Wolfman** - Made by magically infusing
   <a href="lupine" class="wikilink" title="lupine">lupine</a> blood into
-  a <a href="Resonance#Choleric" class="wikilink"
-  title="Choleric">Choleric</a> mortal. This chimera loses all reason.
+  a [Choleric](./resonance.md#choleric) mortal. This chimera loses all reason.
   Some use these creations' rampage as an intimidation tactic to keep
   others <a href="Kindred" class="wikilink" title="Kindred">Kindred</a>
   away from the creator’s domain.

@@ -5,7 +5,7 @@ They are students of the afterlife and resurrectionists of the dead — or
 worse. Selling their services to the highest bidder, or acting in their
 own interests, there are few who can hide from the surveillance of those
 who can summon and command the very
-<a href="Wraith" class="wikilink" title="spirits">spirits</a> of the
+[spirits](./wraith.md) of the
 deceased.[1]
 
 A clan steeped in death, they practice the arts of necromancy and
@@ -21,17 +21,16 @@ be made depending on the character's bloodline either through
 replacement of a power with another or by offering a unique 4-dot merit
 to unlock a fourth in-clan discipline. The following changes may be
 made; Giovanni line may replace
-<a href="Auspex" class="wikilink" title="Auspex">Auspex</a> with
-<a href="Dominate" class="wikilink" title="Dominate">Dominate</a>,
+[Auspex](./auspex.md) with
+[Dominate](./dominate.md),
 Samedi may replace Auspex with
-<a href="Obfuscate" class="wikilink" title="Obfuscate">Obfuscate</a>,
+[Obfuscate](./obfuscate.md),
 Lamiae may replace Auspex with
-<a href="Potence" class="wikilink" title="Potence">Potence</a> and the
+[Potence](./potence.md) and the
 Nagaraja may replace
-<a href="Fortitude" class="wikilink" title="Fortitude">Fortitude</a>
+[Fortitude](./fortitude.md)
 with Dominate. Keep in mind the requirements for certain
-<a href="Disciplines#Amalgams" class="wikilink"
-title="Amalgams">Amalgams</a> should a player want them.[2]
+[Amalgams](./disciplines.md#amalgams) should a player want them.[2]
 
 With the nature of their bane, the Hecata have developed methods to feed
 safely. Through blood bags and corpses or extracting blood from their
@@ -39,8 +38,7 @@ victims without the use of their fangs. They have a habit of feeding on
 herds or from members of their own family, however this brings strife as
 resentment and fear builds between them. In more recent years, the clan
 has formed a unique bond with the
-<a href="Circulatory_System" class="wikilink"
-title="Circulatory System">Circulatory System</a>, to obtain mute or
+[Circulatory System](./circulatory_system.md), to obtain mute or
 comatose vessels. [3]
 
 ## Disciplines
@@ -65,7 +63,7 @@ which result in blood loss. Unwilling mortals that are able to escape
 will make the attempt, even those who are convinced or willing must
 succeed in a Stamina + Resolve test against Difficulty 2 + Bane Severity
 in order to not recoil. Vampires who are willingly bit must make a
-<a href="Frenzy" class="wikilink" title="Frenzy">Frenzy</a> test against
+[Frenzy](./frenzy.md) test against
 Difficulty 3 to avoid terror Frenzy.
 
 <section end="bane" />
@@ -77,14 +75,11 @@ Difficulty 3 to avoid terror Frenzy.
 <section begin="altbane" />
 
 **Decay** - Hecata suffer additional dots in
-<a href="Merits_and_Flaws" class="wikilink" title="Flaws">Flaws</a>
+[Flaws](./merits_flaws.md)
 equal to their Bane Severity spread as they see fit across
-<a href="Merits_and_Flaws#Retainer" class="wikilink"
-title="Retainer">Retainer</a>,
-<a href="Merits_and_Flaws#Haven" class="wikilink"
-title="Haven">Haven</a>, and
-<a href="Merits_and_Flaws#Resources" class="wikilink"
-title="Resources">Resources</a> Flaws. These Flaws can either be taken
+[Retainer](./merits_flaws.md#retainer),
+[Haven](./merits_flaws.md#haven), and
+[Resources](./merits_flaws.md#resources) Flaws. These Flaws can either be taken
 at Character Creation or removed by paying twice the amount of
 Background dots. Additionally, any purchase of dots in these Advantages
 costs an additional amount of experience points equal to their Bane
@@ -135,7 +130,7 @@ something to life.
 - **Little Siblings** - The Rossellini, once a rival family of the
   Giovanni with a talent for necromancy, are known for their brutal
   exploitation of
-  <a href="Wraith" class="wikilink" title="wraiths">wraiths</a>.
+  [wraiths](./wraith.md).
 - **Grudge Masters** - The Milliners, a family of American bankers with
   connections to law enforcement.
 
@@ -172,7 +167,7 @@ Thomas, to lead the cult of Mithras from London to Edinburgh. After
 being used as bait to seemingly end Mithras, Roger's identity has been
 revealed. Currently the elder has joined the Hecata, rules Edinburgh as
 Prince, and runs the Cult of Mithras as he waits for the
-<a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a> to
+[Ventrue](./ventrue.md) to
 return.[9][10][11]
 
 **Augustus Giovanni** - Formerly the leader of the Giovanni. The head of
@@ -279,9 +274,9 @@ The Cappadocians were the original holders of the title Clan of Death.
 Cappadocius was the clan founder and leader. They were known for their
 roles as advisors, scholars, and saboteurs with Lamia as a branch family
 who operated as bodyguards. The Cappadocians had long been allies with
-<a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a> and other
+[Ventrue](./ventrue.md) and other
 founding
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>
+[Camarilla](./camarilla.md)
 clans. In 1444 the Cappadocians inducted the Giovanni into the clan to
 expand their influence. The Giovanni were known as a family of Venetian
 merchants and necromancers whose craft traced back to Roman era, when
@@ -290,11 +285,9 @@ a portion of the clan he considered failures under Kaymakli, to seal
 them forever. This event is known as the Feast of the Folly. Some
 Cappadocians didn’t heed the invitation and others escaped by traveling
 into
-<a href="the_Underworld" class="wikilink" title="the Underworld">the
-Underworld</a> led by Capuchin. Those who survive via the latter had
+[the Underworld](./underworld.md) led by Capuchin. Those who survive via the latter had
 their faces marred by their time in the
-<a href="The_Underworld" class="wikilink"
-title="Shadowlands">Shadowlands</a> becoming Harbingers bloodline,
+[Shadowlands](./underworld.md) becoming Harbingers bloodline,
 sometimes called Harbingers of the Skull.[24][25]
 
 ### Rise of Giovanni
@@ -304,18 +297,17 @@ plotted a coup. This branch soon had their leader, Augustus Giovanni,
 destroy Cappadocius and lead to the newly formed Clan Giovanni. Their
 first act was purging the Cappadocians and destroying their Lamia
 protectors. Many surviving Cappadocians and Harbingers went to the
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a> for
+[Camarilla](./camarilla.md) for
 help, but were shocked when the fledgling Camarilla cut a deal with the
 Giovanni. Camarilla not wanting a two front war with the Giovanni and
-<a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a>, the
+[Sabbat](./sabbat.md), the
 Camarilla brokered a deal. The Giovanni were fully seen as the new Clan
 of Death with the Promise of 1528 signed between Clan Giovanni and the
 Camarilla. The Promise declared non-aggression and allowed the Giovanni
 to continue their hunt for Cappadocians. Augustus' grand plan was called
 Endless Night, a goal to tear down the barrier between the world of the
 living and
-<a href="the_Underworld" class="wikilink" title="the Underworld">the
-Underworld</a>.[26][27]
+[the Underworld](./underworld.md).[26][27]
 
 Some Harbingers fled to the Sabbat to punish the Giovanni and Camarilla,
 others retreated back to the Underworld. The many of the surviving
@@ -335,7 +327,7 @@ vampire; either case the Samedi or Nasyon San an, as they call
 themselves, were born. They are led by master necromancer, Doc San,
 often mistaken for Baron Samedi by outsiders. Their influence spread in
 the Caribbean and often worked with
-<a href="The_Ministry" class="wikilink" title="Ministry">Ministry</a>
+[Ministry](./ministry.md)
 vampires.[30][31]
 
 ### The Family Reunion
@@ -350,7 +342,7 @@ against the elders of Clan Giovanni, and assassinations of high profile
 clan members. Some rumor speak of the successful assassinated Augustus
 Giovanni, others say Augustus is perpetually on the run. An unforeseen
 consequence was all the
-<a href="Wraith" class="wikilink" title="ghosts">ghosts</a> under
+[ghosts](./wraith.md) under
 Augustus’ thrall were released. The Giovanni and all the bloodlines
 found themself besieged with legions of ghosts that have been enslaved
 for centuries.[32][33]
@@ -367,47 +359,33 @@ deepen their influence of death.[34]
 
 Hecata characters have special access to the following loresheets:
 
-• <a href="Loresheets#High_Clan" class="wikilink" title="High Clan">High
-Clan</a>
+• [High Clan](./loresheets.md#high-clan)
 
-• <a href="Loresheets#Bankers_of_Dunsirn" class="wikilink"
-title="Bankers of Dunsirn">Bankers of Dunsirn</a>
+• [Bankers of Dunsirn](./loresheets.md#bankers-of-dunsirn)
 
-• <a href="Loresheets#Children_of_Tenochtitlan" class="wikilink"
-title="Children of Tenochtitlan">Children of Tenochtitlan</a>
+• [Children of Tenochtitlan](./loresheets.md#children-of-tenochtitlan)
 
-• <a href="Loresheets#The_Nation_of_Blood" class="wikilink"
-title="The Nation of Blood">The Nation of Blood</a>
+• [The Nation of Blood](./loresheets.md#the-nation-of-blood)
 
-• <a href="Loresheets#Flesh-Eaters" class="wikilink"
-title="Flesh-Eaters">Flesh-Eaters</a>
+• [Flesh-Eaters](./loresheets.md#flesh-eaters)
 
-• <a href="Loresheets#Harbingers_of_Ashur" class="wikilink"
-title="Harbingers of Ashur">Harbingers of Ashur</a>
+• [Harbingers of Ashur](./loresheets.md#harbingers-of-ashur)
 
-• <a href="Loresheets#La_Famiglia_Giovanni" class="wikilink"
-title="La Famiglia Giovanni">La Famiglia Giovanni</a>
+• [La Famiglia Giovanni](./loresheets.md#la-famiglia-giovanni)
 
-• <a href="Loresheets#The_Criminal_Puttanesca" class="wikilink"
-title="The Criminal Puttanesca">The Criminal Puttanesca</a>
+• [The Criminal Puttanesca](./loresheets.md#the-criminal-puttanesca)
 
-• <a href="Loresheets#The_Gorgons" class="wikilink"
-title="The Gorgons">The Gorgons</a>
+• [The Gorgons](./loresheets.md#the-gorgons)
 
-• <a href="Loresheets#Calling_the_Family_Reunion" class="wikilink"
-title="Calling the Family Reunion">Calling the Family Reunion</a>
+• [Calling the Family Reunion](./loresheets.md#calling-the-family-reunion)
 
-• <a href="Loresheets#Little_Siblings" class="wikilink"
-title="Little Siblings">Little Siblings</a>
+• [Little Siblings](./loresheets.md#little-siblings)
 
-• <a href="Loresheets#Grudge_Masters" class="wikilink"
-title="Grudge Masters">Grudge Masters</a>
+• [Grudge Masters](./loresheets.md#grudge-masters)
 
-• <a href="Loresheets#1444_Chamber" class="wikilink"
-title="1444 Chamber">1444 Chamber</a>
+• [1444 Chamber](./loresheets.md#1444-chamber)
 
-• <a href="Loresheets#Descendant_of_Roger_de_Camden" class="wikilink"
-title="Descendant of Roger de Camden">Descendant of Roger de Camden</a>
+• [Descendant of Roger de Camden](./loresheets.md#descendant-of-roger-de-camden)
 
 ## Gallery
 

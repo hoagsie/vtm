@@ -1,5 +1,5 @@
 *For additional Merits and Flaws specific to
-<a href="Coterie" class="wikilink" title="coteries">coteries</a> as well
+[coteries](./coterie.md) as well
 as further information regarding mechanics listed here, see
 <a href="Coterie_Backgrounds_and_Merits" class="wikilink"
 title="Coterie Backgrounds and Merits">Coterie Backgrounds and
@@ -148,10 +148,8 @@ Influence (Corporate or political), Retainers
 ## Day watch
 
 A coterie that is built to protect someone or something during the day.
-(<a href="Thin-blood" class="wikilink"
-title="Thin-bloods">Thin-bloods</a> with the
-<a href="Merits_&amp;_Flaws#Day%20Drinker" class="wikilink"
-title="Day Drinker">Day Drinker</a> merit usually)
+([Thin-bloods](./thinblood.md) with the
+[Day Drinker](./merits_flaws.md#day20drinker) merit usually)
 
 - Domain: Chasse • and Portillon ••
 - Influence ••

@@ -39,8 +39,7 @@ in it.
 **Violent Temper** - A rage is simmering in the back of the mind with a
 Brujah with the slightest provocation able to send them into a frenzied
 rage. Subtracts dice equal to the
-<a href="Bane#Bane_Severity" class="wikilink" title="Bane Severity">Bane
-Severity</a> of the Brujah against Fury Frenzy.
+[Bane Severity](./banes.md#bane-severity) of the Brujah against Fury Frenzy.
 
 <section end="bane" />
 
@@ -56,7 +55,7 @@ their interaction equal to their Bane Severity, in addition to any other
 result of the Hunger dice. The type of damage is dependent on the
 situation either physical or mental. The damage is Aggravated unless the
 player spends a point of
-<a href="Willpower" class="wikilink" title="Willpower">Willpower</a> to
+[Willpower](./willpower.md) to
 turn it into Superficial.
 
 <section end="altbane" />
@@ -122,18 +121,17 @@ Ishizaka</a>**
 Muldoon</a>**
 
 **Theo Bell** - Once a
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>
+[Camarilla](./camarilla.md)
 member, he defected to the
-<a href="Anarch" class="wikilink" title="Anarch Movement">Anarch
-Movement</a> to eventually cause the death Hardestadt and Pierterzoon.
+[Anarch Movement](./anarch.md) to eventually cause the death Hardestadt and Pierterzoon.
 He has no desire for leadership, but he is tired of bending over for the
-<a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a>. His
+[Ventrue](./ventrue.md). His
 actions encouraged Brujah to follow suit and take out Princes, forming
 Anarch domains with the
-<a href="Gangrel" class="wikilink" title="Gangrel">Gangrel</a>. Despite
+[Gangrel](./gangrel.md). Despite
 all he's done, he is still a liaison between Camarilla and Anarchs and
 acts as a mediator. Taking out
-<a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a>, Anarch
+[Sabbat](./sabbat.md), Anarch
 riots and Camarilla's abusive actions. [6]
 
 **Tyler** - Once known as Patricia of Bollingbroke, she goes by many
@@ -142,18 +140,16 @@ Movement with her revolutionary violence against tyrannical elders and
 methuselahs. To this night she still exists, a quiet and studious rebel
 having taken centuries to reflect on her previous actions and reconcile.
 [7] Formerly taking residence in
-<a href="Chicago,_Illinois" class="wikilink" title="Chicago">Chicago</a>
+[Chicago](./chicago_ill.md)
 for years, her current whereabouts are unknown as the Beckoning calls
 her, much to the Chicago Anarchs dismay.
 
 **Juggler** - Once a major Chicago Anarch whose success in recruiting
 new Anarchs made him both bitter rival to
-<a href="Caitiff#Notable_characters" class="wikilink"
-title="Maldavis">Maldavis</a> and one-time candidate for ruler of
+[Maldavis](./caitiff.md#notable-characters) and one-time candidate for ruler of
 Chicago. He now resides in Gary, Indiana after a series of political
 defeats. He proclaimed himself Baron of Gary and has run part of the
-city since. <a href="Toreador#Notable_characters" class="wikilink"
-title="Modius">Modius</a> is his other bitter rival often clashing with
+city since. [Modius](./toreador.md#notable-characters) is his other bitter rival often clashing with
 the Toreador. He has recently disappeared leaving the city to his
 childe. [8]
 
@@ -236,7 +232,7 @@ mortal ones. In domains dominated by Brujah, one may expect coup
 attempts, revolts, and ideological battles.
 
 The upheaval and challenge to the mainstream is the reason for a rivalry
-with the <a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a>
+with the [Ventrue](./ventrue.md)
 that is as old as Carthage. The Anarch Movement was one of the few times
 a large group of Brujah could act as one, even if not all Brujah shifted
 alliances, but most of the clan did welcome some sort of change. From
@@ -248,12 +244,12 @@ their own curse may have at times put them at odds.[21]
 
 ### Factional differences
 
-<a href="Anarch" class="wikilink" title="Anarch">Anarch</a>-aligned
+[Anarch](./anarch.md)-aligned
 Brujah are given more of a reputation for being fiery and shooting
 first. Sometimes they are called *Prometheans*. They don't have as big
 an emphasis on clan ties and bloodlines.[22]
 
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>-aligned
+[Camarilla](./camarilla.md)-aligned
 Brujah are called *Hellenes* and they are reputed to lean more on the
 scholarly philosopher-kings types in their clan. They follow the more
 traditional conventions of the Camarilla. Some still find decent posts
@@ -263,17 +259,13 @@ in cities where enough Hellenes flock.[23]
 
 Brujah characters have special access to the following loresheets:
 
-• <a href="Loresheets#Descendant_of_Tyler" class="wikilink"
-title="Descendant of Tyler">Descendant of Tyler</a>
+• [Descendant of Tyler](./loresheets.md#descendant-of-tyler)
 
-• <a href="Loresheets#High_Clan" class="wikilink" title="High Clan">High
-Clan</a>
+• [High Clan](./loresheets.md#high-clan)
 
-• <a href="Loresheets#Low_Clan" class="wikilink" title="Low Clan">Low
-Clan</a>
+• [Low Clan](./loresheets.md#low-clan)
 
-• <a href="Loresheets#Descendant_of_Menele" class="wikilink"
-title="Descendant of Menele">Descendant of Menele</a>
+• [Descendant of Menele](./loresheets.md#descendant-of-menele)
 
 ## Gallery
 

@@ -2,8 +2,7 @@ Charisma determines the character's natural appeal, charm and grace.
 With this attribute they'll be able to draw people into them although do
 not mistake this for good looks, that is a merit all on it's own.[1]
 
-*Refer to: <a href="Merits_and_Flaws#Looks" class="wikilink"
-title="Looks Merits.">Looks Merits.</a>*
+*Refer to: [Looks Merits.](./merits_flaws.md#looks)*
 
 ## Dot values
 
@@ -22,41 +21,37 @@ time drawing in followers.
 ## Example pools
 
 - Charisma +
-  <a href="Dexterity" class="wikilink" title="Dexterity">Dexterity</a>
+  [Dexterity](./dexterity.md)
   - Faking sex per
-    <a href="Humanity" class="wikilink" title="Humanity">Humanity</a>
+    [Humanity](./humanity.md)
     rules. [3]
 - Charisma +
-  <a href="Animal_Ken" class="wikilink" title="Animal Ken">Animal Ken</a>
+  [Animal Ken](./animal_ken.md)
   - Used with
-    <a href="Animalism" class="wikilink" title="Animalism">Animalism</a>
-    powers such as <a href="Animalism#Bond_Famulus" class="wikilink"
-    title="Bond Famulus">Bond Famulus</a>. [4]
+    [Animalism](./animalism.md)
+    powers such as [Bond Famulus](./animalism.md#bond-famulus). [4]
 - Charisma +
-  <a href="Dominate" class="wikilink" title="Dominate">Dominate</a>
+  [Dominate](./dominate.md)
   - Used with Dominate powers such as
-    <a href="Dominate#Cloud_Memory" class="wikilink"
-    title="Cloud Memory">Cloud Memory</a>. [5]
+    [Cloud Memory](./dominate.md#cloud-memory). [5]
 - Charisma +
-  <a href="Presence" class="wikilink" title="Presence">Presence</a>
+  [Presence](./presence.md)
   - Used with Presence powers such as
-    <a href="Presence#Dread_Gaze" class="wikilink" title="Dread Gaze.">Dread
-    Gaze.</a>[6]
-- Charisma + <a href="Performance" class="wikilink"
-  title="Performance">Performance</a>
+    [Dread Gaze.](./presence.md#dread-gaze)[6]
+- Charisma + [Performance](./performance.md)
   - Giving a speech to a council. [7]
   - Or have a rap battle using stage presence instead of rhyming. [8]
 - Charisma +
-  <a href="Subterfuge" class="wikilink" title="Subterfuge">Subterfuge</a>
+  [Subterfuge](./subterfuge.md)
   - Attempting to convince others into
-    <a href="Blood_Bond" class="wikilink" title="Blood Bo">Blood Bo</a><a href="Blood_Bond" class="wikilink" title="nd">nd</a>s.
+    [Blood Bo](./blood_bond.md)[nd](./blood_bond.md)s.
     [9]
   - Feeding as a
     <a href="Predator_types#Siren" class="wikilink" title="Siren">Siren</a>.
     [10]
   - Used for fast-talking and conning others. [11]
 - Charisma +
-  <a href="Insight" class="wikilink" title="Insig">Insig</a><a href="Insight" class="wikilink" title="ht">ht</a>
+  [Insig](./insight.md)[ht](./insight.md)
   - Play into their rivals desires. [12]
   - Used for carousing to influence others. [13]
 

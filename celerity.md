@@ -7,20 +7,19 @@ stronger predators or strategists, able to make moves or think faster
 than most can.[1]
 
 To the
-<a href="Banu_Haqim" class="wikilink" title="Banu Haqim">Banu Haqim</a>
+[Banu Haqim](./banu.md)
 this is sometimes the Discipline they learn first. The ability to remove
 hesitation keeps them alive in their nights and Celerity allows the
 movement they need. It also enhances their abilities to feed, being able
 to dart from their favored vessel and to safety without being
-spotted.[2] <a href="Brujah" class="wikilink" title="Brujah">Brujah</a>,
+spotted.[2] [Brujah](./brujah.md),
 in a similar fashion, use this power to strike fast and escape conflicts
 they've started as well as bolster their ability to snatch and feed
 aggressively from lone mortals.[3] While the
-<a href="Toreador" class="wikilink" title="Toreador">Toreador</a> may
+[Toreador](./toreador.md) may
 not claim to be fighters, they use Celerity to cut their opponents into
 ribbons before they have a chance to fight back with deadly accuracy
-using <a href="Presence#Unerring_Aim" class="wikilink"
-title="Unerring Aim">Unerring Aim</a>. They also use this power to
+using [Unerring Aim](./presence.md#unerring-aim). They also use this power to
 enhance their artistic and performative pursuits as well as expedite
 their feeding.[4]
 
@@ -344,7 +343,7 @@ title="Corebook">Corebook</a>, page 254</li>
 <td><p>The world slows down to a crawl</p></td>
 <td data-sort-value="2"><p>One Rouse Check</p></td>
 <td><p>None</p></td>
-<td><p><a href="Auspex" class="wikilink" title="Auspex">Auspex</a>
+<td><p>[Auspex](./auspex.md)
 ●●</p></td>
 <td><p>A single attack</p></td>
 <td><p>N/A</p></td>
@@ -362,8 +361,7 @@ title="Corebook">Corebook</a>, page 254</li>
 <td><p>Disappear then reappear to surprise attack an enemy.</p></td>
 <td><p>Two Rouse Checks</p></td>
 <td><p>Blink</p></td>
-<td><p><a href="Obfuscate" class="wikilink"
-title="Obfuscate">Obfuscate</a> ●●●●</p></td>
+<td><p>[Obfuscate](./obfuscate.md) ●●●●</p></td>
 <td><p>One turn</p></td>
 <td><p>Dexterity + Celerity</p></td>
 <td><p>Wits + Awareness</p></td>

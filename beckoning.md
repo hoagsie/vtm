@@ -1,10 +1,10 @@
 The Beckoning is a mysterious force calling the elders away from their
 domain, even the elders that have taken their position as Princes in
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>
+[Camarilla](./camarilla.md)
 domains. These elders have all but disappeared or have become incredibly
 hard to reach and their sudden departure leaves the domains they once
 controlled open to
-<a href="Anarch" class="wikilink" title="Anarch">Anarch</a> attacks.
+[Anarch](./anarch.md) attacks.
 This sudden shift isn't a complete loss, however, as younger kindred are
 able to take claim of domains as Princes.[1] While other Kindred may be
 able to resist the call for some time, the Sabbat are drawn to it and

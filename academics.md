@@ -27,17 +27,15 @@ Theology.[4]
 
 ## Example pools
 
-- <a href="Charisma" class="wikilink" title="Charisma">Charisma</a> +
+- [Charisma](./charisma.md) +
   Academics
   - Convince the police that they need to release the Kindred before
     sunrise. [5]
-- <a href="Intelligence" class="wikilink"
-  title="Intelligence">Intelligence</a> + Academics
+- [Intelligence](./intelligence.md) + Academics
   - Playing chess, either the board game or with living pawns. [6]
   - Hide a building to make it look like another through architecture or
     creating false comparments. [7]
-- <a href="Manipulation" class="wikilink"
-  title="Manipulation">Manipulation</a> + Academics
+- [Manipulation](./manipulation.md) + Academics
   - Playing chess not to win, but to show they are ruthless. [8]
 
 ## References

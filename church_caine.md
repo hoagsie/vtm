@@ -44,9 +44,9 @@ The actions inside and outside the Church drew the unwanted attention of
 Catholic Inquisitors and Islamic hunters in Iberia. The hunters of both
 faiths lead campaigns against the Church of Caine. The most prominent
 clans of the Church of Caine were
-<a href="Lasombra" class="wikilink" title="Lasombra">Lasombra</a>,
-<a href="Banu_Haqim" class="wikilink" title="Banu Haqim">Banu Haqim</a>,
-and <a href="Brujah" class="wikilink" title="Brujah">Brujah</a>; saw the
+[Lasombra](./lasombra.md),
+[Banu Haqim](./banu.md),
+and [Brujah](./brujah.md); saw the
 Cainite Heresy as weakened. Lasombra especially ran out of patience with
 the growing aberrant and rival views of the Church of Caine. The
 vampires culled their clans of the Cainite Heresy by hunting down the
@@ -62,17 +62,16 @@ century.[2][3]
 In the modern era, the reemergence of the Church of Caine is a mystery;
 most of the Kindred old enough to recall the original aspects of the
 Cainite Heresy would have been
-<a href="Beckoning" class="wikilink" title="Beckoned">Beckoned</a>,
-<a href="Final_death" class="wikilink" title="destroyed">destroyed</a>,
+[Beckoned](./beckoning.md),
+[destroyed](./final_death.md),
 or sunken into
-<a href="torpor" class="wikilink" title="torpor">torpor</a>. Some
+[torpor](./torpor.md). Some
 theories are that this new Church is a methuselah cult, but it lacks the
 hallmarks and hierarchy typical in such organizations. Another is that
 Caine himself revived the Church, while some Kindred claim this fact is
 implausible, others find it effective at gaining recruits. There is the
 third that it is simply a political landscape conducive to the Church’s
-beliefs growing; <a href="Anarch#Third_Anarch_Revolt" class="wikilink"
-title="Third Anarch Revolt">Third Anarch Revolt</a> had the spiritual
+beliefs growing; [Third Anarch Revolt](./anarch.md#third-anarch-revolt) had the spiritual
 Kindred view holiness stood beyond mortal religious laws, and
 <a href="Gehenna" class="wikilink" title="Gehenna War">Gehenna War</a>
 made many Kindred anticipate fundamental changes in society. What is
@@ -80,36 +79,34 @@ known is the Church reformed after the Beckoning and has steadily gained
 more and more followers.[4][5]
 
 While the
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a> had
+[Camarilla](./camarilla.md) had
 strived to be a somewhat secular sect, the Gehenna War, recent
 acknowledgement of antediluvians, and other upheavals have led to the
 rise of religious Kindred cults due to uncertainty. The Tower had
 stopped officially opposing major Kindred cults as long as they didn’t
 oppose Camarilla goals. This has given the Church of Caine growing room
 in the Tower, especially with some domains getting word from
-<a href="Malkavian" class="wikilink" title="Malkavian">Malkavian</a>
+[Malkavian](./malkavian.md)
 Justicar, Juliet Parr, not to oppose the Church of Caine’s missionary
 work. The Camarilla view of the Cainite Hersey with a mixed one. Some
 Kindred see it as a front for the
-<a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a>. Other
+[Sabbat](./sabbat.md). Other
 Camarilla members see it as a more manageable alternative to the Sabbat.
 Others of course see it as answers to long held questions of their
 existence and role in a wider world.[6][7][8]
 
-The <a href="Anarch" class="wikilink" title="Anarch Movement">Anarch
-Movement</a> has been a place the Church could slowly grow as some saw
+The [Anarch Movement](./anarch.md) has been a place the Church could slowly grow as some saw
 the Camarilla as self-hating, while the Church provided answers. The
-rise of <a href="the_Ministry" class="wikilink" title="the Ministry">the
-Ministry</a> in the Anarchs and the regrowth of the Church are thought
+rise of [the Ministry](./ministry.md) in the Anarchs and the regrowth of the Church are thought
 to have some connection.[9]
 
 While the Church of Caine considers all Kindred from antediluvian to
-<a href="Thin-blood" class="wikilink" title="Thin-blood">Thin-blood</a>
+[Thin-blood](./thinblood.md)
 have a spark of divinity, they do not see all of them as worthy. The
 Church considers those not of the 13
 <a href="clans" class="wikilink" title="clans">clans</a> to be signs of
 the end time and ill omens. Many
-<a href="Caitiff" class="wikilink" title="Caitiff">Caitiff</a> and
+[Caitiff](./caitiff.md) and
 thin-blood vampires stand opposed to the Church for such views.[10]
 
 While in modern nights the church is far reaching, as this makes
@@ -143,8 +140,7 @@ participate and pass lower the difficulty in Terror Frenzy.[15]
 this sacrament rite emphasis the Book of Nod and has Kindred face their
 banes by showing or explaining the hardship it causes. This can reduce
 the
-<a href="Bane#Bane_severity" class="wikilink" title="Bane Severity">Bane
-Severity</a> in a Kindred for a session.[16]
+[Bane Severity](./banes.md#bane-severity) in a Kindred for a session.[16]
 
 **The Sacrament of Firewalking** - The emblematic rite of the cult. The
 intensity increases with the vampire's prestige. The fire walk takes
@@ -205,37 +201,36 @@ Church.[18]
 ## Notable Members
 
 **Deacon Arden Canty,**
-<a href="Tremere" class="wikilink" title="Tremere">Tremere</a> -
+[Tremere](./tremere.md) -
 Catholic Priest in life and former Noddist in the
-<a href="Sabbat" class="wikilink" title="Sabbat">Sabbat</a>. He
+[Sabbat](./sabbat.md). He
 organizes the Church of Caine in Joliet, Illinois. Some worry of his
 influence over Baron Joshua Tarnopolski.[20][21]
 
 **Eustace Lancaster,**
-<a href="Lasombra" class="wikilink" title="Lasombra">Lasombra</a> -
+[Lasombra](./lasombra.md) -
 Elder Lasombra whom was involved in the
-<a href="Anarch" class="wikilink" title="First Anarch Revolt">First
-Anarch Revolt</a>, but political maneuverings of Talley left Eustace on
+[First Anarch Revolt](./anarch.md), but political maneuverings of Talley left Eustace on
 the outs of the eventual Sabbat. Supports and bankrolls Church of Caine
 in Joliet in hopes it sooths the
-<a href="Beckoning" class="wikilink" title="Beckoning">Beckoning</a> and
+[Beckoning](./beckoning.md) and
 his low
-<a href="Humanity" class="wikilink" title="Humanity">Humanity</a>.[22][23]
+[Humanity](./humanity.md).[22][23]
 
 **Deacon Misery**,
-<a href="Lasombra" class="wikilink" title="Lasombra">Lasombra</a>
+[Lasombra](./lasombra.md)
 - Childe of Marcus Vitale and musician. Converted to Church to scale the
 hierarchy and erode it from within. In New Sect she is the point of
 contact for Bishop Eyumbe and manages communication.[24][25]
 
 **Priest Faith Corrigan**,
-<a href="Banu_Haqim" class="wikilink" title="Banu Haqim">Banu Haqim</a> -
+[Banu Haqim](./banu.md) -
  Former ghoul of hacktivist Anarch group, Red Question. Deeply enamored
 with the cults teachings and faith. Outworld the leader of the New
 Sect.[26][27]
 
 **Lector, Zhou “Jenni” Guang**,
-<a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a> - Skilled
+[Ventrue](./ventrue.md) - Skilled
 archivist, researcher, and translator. Face to the San Diego flock.[28]
 
 **Bishop Matisse Eyumbe** - An ambition Church of Caine member who sends
@@ -243,12 +238,11 @@ a secret cell of the traveling diocese, called New Sect. She is seeking
 to expand the Church’s influence into the West Coast. She has zeal that
 could be seen as megalomania. While an excellent planner in spreading
 the Church of Caine, she has a blindspot when it comes to the
-<a href="Second_Inquisition" class="wikilink"
-title="Second Inquisition">Second Inquisition</a>. She plots to make
+[Second Inquisition](./second_inquisition.md). She plots to make
 Faith Corrigan their martyr and springboard their reach.[29]
 
 **Joshua “Blackjack” Tarnopolski**,
-<a href="Brujah" class="wikilink" title="Brujah">Brujah</a> - Childe of
+[Brujah](./brujah.md) - Childe of
 the legendary Tyler and the Baron of Joliet and Naperville. He claimed
 his domains when he systematically ran the Sabbat out of the
 aforementioned Chicago suburbs. Him and Anita Wainwright thought a small
@@ -268,33 +262,26 @@ Free States to the Church of Caine.[32]
 title="St. Louis, Missouri">St. Louis, Missouri</a> - Camarilla Domain,
 where the Church of Caine has major influence.[33]
 
-<a href="Chicago,_Illinois#The_Collar" class="wikilink"
-title="Joliet, Illinois">Joliet, Illinois</a> - On the Collar of
+[Joliet, Illinois](./chicago_ill.md#the-collar) - On the Collar of
 Chicago, an Anarch city near the Camarilla crown Jewel of Chicago. Lead
 by Baron Joshua Tarnopolski. Arden Canty grows the church here and
 seemingly has the Baron's backing.[34]
 
 ## Exclusive Character Options
 
-<a href="Blood_Sorcery_Rituals#Dampen_the_Fear" class="wikilink"
-title="Dampen the Fear">Dampen the Fear</a> - Level 1 Blood Sorcery
+[Dampen the Fear](./blood_sorcery_rituals.md#dampen-the-fear) - Level 1 Blood Sorcery
 Ritual
 
-<a href="Blood_Sorcery_Rituals#Fire_in_the_Blood" class="wikilink"
-title="Fire in the Blood">Fire in the Blood</a> - Level 3 Blood Sorcery
+[Fire in the Blood](./blood_sorcery_rituals.md#fire-in-the-blood) - Level 3 Blood Sorcery
 Ritual
 
-<a href="Blood_Sorcery_Rituals#Creatio_Ignis" class="wikilink"
-title="Creatio Ignis">Creatio Ignis</a> - level 5 Blood Sorcery Ritual
+[Creatio Ignis](./blood_sorcery_rituals.md#creatio-ignis) - level 5 Blood Sorcery Ritual
 
-<a href="Merits_and_Flaws#Church_of_Caine" class="wikilink"
-title="Exclusive Church of Caine Merits and Flaws">Exclusive Church of
-Caine Merits and Flaws</a>
+[Exclusive Church of Caine Merits and Flaws](./merits_flaws.md#church-of-caine)
 
 ## Exclusive Loresheets
 
-• <a href="Loresheets#Cainite_Heresy" class="wikilink"
-title="Cainite Heresy">Cainite Heresy</a>[35]
+• [Cainite Heresy](./loresheets.md#cainite-heresy)[35]
 
 ## References
 

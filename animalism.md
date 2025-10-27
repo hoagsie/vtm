@@ -5,37 +5,34 @@ social outcasts, struggling to fit into mortal society (or simply
 lacking the interest to), it's not a rule - example being
 <a href="Lettow_Kaminsky" class="wikilink"
 title="Lettow Kaminsky">Lettow Kaminsky</a>,
-<a href="Gangrel" class="wikilink" title="Gangrel">Gangrel</a> Prince of
+[Gangrel](./gangrel.md) Prince of
 Tucson, Arizona. Their ability to control animals lets them gather
 information in secret or unleash devastating attacks with their minions.
 Animalism only works on vertebrates unless the user has
-<a href="Animalism#Unliving_Hive" class="wikilink"
-title="Unliving Hive">Unliving Hive</a>, which extends the power to
+[Unliving Hive](./animalism.md#unliving-hive), which extends the power to
 swarms of insects. The power is most effective on predators, and in
 cases where it's being used on herbivores increases the Difficulty of
 skills rolls by one. [1]
 
 As example uses, Clan
-<a href="Gangrel" class="wikilink" title="Gangrel">Gangrel</a> may
+[Gangrel](./gangrel.md) may
 employ an animal companion using
-<a href="Animalism#Bond_Famulus" class="wikilink"
-title="Bond Famulus">Bond Famulus</a>, some of which they use for spying
+[Bond Famulus](./animalism.md#bond-famulus), some of which they use for spying
 on others or attacking victims. Other Gangrel may even turn the pets on
 their owners using powers such as
-<a href="Animalism#Feral_Whispers" class="wikilink"
-title="Feral Whispers">Feral Whispers</a> or
-<a href="Animalism#Atavism" class="wikilink" title="Atavism">Atavism</a>.[2]
+[Feral Whispers](./animalism.md#feral-whispers) or
+[Atavism](./animalism.md#atavism).[2]
 To the
-<a href="Nosferatu" class="wikilink" title="Nosferatu">Nosferatu</a>
+[Nosferatu](./nosferatu.md)
 Animalism is an incredibly useful tool that allows them to extend their
 influence in both information gathering and sharing. It also allows them
 to approach combat in a different way than other Disciplines as they
 swarm their opponents with hordes of creatures.[3] With the occasional
 companion at their side, the
-<a href="Ravnos" class="wikilink" title="Ravnos">Ravnos</a>, are less
+[Ravnos](./ravnos.md), are less
 alone as they travel. They may also utilize animals as spies or
 distractions when needed.[4]
-<a href="Tzimisce" class="wikilink" title="Tzimisce">Tzimisce</a> may
+[Tzimisce](./tzimisce.md) may
 use animals to flex their power over their domain.[5]
 
 ## List of available powers
@@ -155,7 +152,7 @@ title="Corebook">Corebook</a>, page 245</li>
 <td><p>Use a Famulus to send a message to someone.</p></td>
 <td><p>One Rouse Check per night</p></td>
 <td><p>None</p></td>
-<td><p><a href="Auspex" class="wikilink" title="Auspex">Auspex</a>
+<td><p>[Auspex](./auspex.md)
 ●</p></td>
 <td><p>One or more nights based on how long it takes to search</p></td>
 <td><p>None</p></td>
@@ -245,15 +242,12 @@ title="Corebook">Corebook</a>, page 246</li>
 <tbody>
 <tr>
 <td><p><strong>Messenger's Command</strong></p></td>
-<td><p>Use <a href="Dominate#Compel" class="wikilink"
-title="Compel">Compel</a> or <a href="Dominate#Mesmerize"
-class="wikilink" title="Mesmerize">Mesmerize</a> through a
+<td><p>Use [Compel](./dominate.md#compel) or [Mesmerize](./dominate.md#mesmerize) through a
 Famulus.</p></td>
 <td><p>None</p></td>
-<td><p><a href="Animalism#Animal_Messenger" class="wikilink"
-title="Animal Messenger">Animal Messenger</a> and Compel or
+<td><p>[Animal Messenger](./animalism.md#animal-messenger) and Compel or
 Mesmerize</p></td>
-<td><p><a href="Dominate" class="wikilink" title="Dominate">Dominate</a>
+<td><p>[Dominate](./dominate.md)
 ●</p></td>
 <td><p>See Animal Messenger</p></td>
 <td><p>See Compel or Mesmerize</p></td>
@@ -383,8 +377,7 @@ class="wikilink" title="Sabbat">Sabbat</a>, page 47</li>
 <td><p>Extends Animalism influence to swarms of insects.</p></td>
 <td><p>None</p></td>
 <td><p>None</p></td>
-<td><p><a href="Obfuscate" class="wikilink"
-title="Obfuscate">Obfuscate</a> ●●</p></td>
+<td><p>[Obfuscate](./obfuscate.md) ●●</p></td>
 <td><p>Passive</p></td>
 <td><ul>
 <li>N/A</li>
@@ -416,7 +409,7 @@ title="Corebook">Corebook</a>, page 246</li>
 <td><p>Force a swarm to form an answer to a question.</p></td>
 <td data-sort-value="3"><p>One Rouse Check</p></td>
 <td><p>None</p></td>
-<td><p><a href="Auspex" class="wikilink" title="Auspex">Auspex</a>
+<td><p>[Auspex](./auspex.md)
 ●</p></td>
 <td><p>A few minutes</p></td>
 <td><ul>
@@ -697,10 +690,8 @@ Animalism;
 width="42" />
 <figcaption>Fortitude_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Fortitude#Enduring_Beasts" class="wikilink"
-title="Enduring Beasts"><strong>Enduring Beasts</strong></a></p></td>
-<td><p><a href="Fortitude" class="wikilink"
-title="Fortitude">Fortitude</a> ●●</p></td>
+<td><p>[<strong>Enduring Beasts</strong>](./fortitude.md#enduring-beasts)</p></td>
+<td><p>[Fortitude](./fortitude.md) ●●</p></td>
 <td data-sort-value="1"><p>●</p></td>
 <td><p>Share the vampire's toughness with animals</p></td>
 <td><p>One Rouse Check, Free if Famulus</p></td>
@@ -720,11 +711,8 @@ title="Corebook">Corebook</a>, page 259</li>
 width="42" />
 <figcaption>Obfuscate_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Obfuscate#Ghost&#39;s_Passing" class="wikilink"
-title="Ghost&#39;s Passing"><strong>Ghost's
-Passing</strong></a></p></td>
-<td><p><a href="Obfuscate" class="wikilink"
-title="Obfuscate">Obfuscate</a> ●●</p></td>
+<td><p>[<strong>Ghost's Passing</strong>](./obfuscate.md#ghost39s-passing)</p></td>
+<td><p>[Obfuscate](./obfuscate.md) ●●</p></td>
 <td data-sort-value="2"><p>●</p></td>
 <td><p>Aid animals in hiding their steps against mundane
 tracking</p></td>
@@ -743,9 +731,8 @@ page 18</li>
 <img src="Auspex_symbol.png" title="Auspex_symbol.png" width="42" />
 <figcaption>Auspex_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Auspex#Eyes_of_Beasts" class="wikilink"
-title="Eyes of Beasts"><strong>Eyes of Beasts</strong></a></p></td>
-<td><p><a href="Auspex" class="wikilink" title="Auspex">Auspex</a>
+<td><p>[<strong>Eyes of Beasts</strong>](./auspex.md#eyes-of-beasts)</p></td>
+<td><p>[Auspex](./auspex.md)
 ●●●</p></td>
 <td data-sort-value="3"><p>●●</p></td>
 <td><p>Share the senses of animals</p></td>
@@ -764,10 +751,8 @@ title="Fall of London">Fall of London</a>, page 148</li>
 <img src="Protean_symbol.png" title="Protean_symbol.png" width="42" />
 <figcaption>Protean_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Protean#One_with_the_Land" class="wikilink"
-title="One with the Land"><strong>One with the
-Land</strong></a></p></td>
-<td><p><a href="Protean" class="wikilink" title="Protean">Protean</a>
+<td><p>[<strong>One with the Land</strong>](./protean.md#one-with-the-land)</p></td>
+<td><p>[Protean](./protean.md)
 ●●●●●</p></td>
 <td data-sort-value="4"><p>●●</p></td>
 <td><p>Sink into the earth of their Domain</p></td>

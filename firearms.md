@@ -22,21 +22,20 @@ Quick-Draw, Sniper, Trick Shooting [3]
 
 ## Example pools
 
-- <a href="Composure" class="wikilink" title="Composure">Composure</a> +
+- [Composure](./composure.md) +
   Firearms
   - Standard conflict pool. [4]
-- <a href="Resolve" class="wikilink" title="Resolve">Resolve</a> +
+- [Resolve](./resolve.md) +
   Firearms
   - Sniper shot [5]
   - Scrounging roll for bullets. [6]
-- <a href="Dexterity" class="wikilink" title="Dexterity">Dexterity</a> +
+- [Dexterity](./dexterity.md) +
   Firearms
   - High-noon stand off for the first shot. [7]
-- <a href="Strength" class="wikilink" title="Strength">Strength</a> +
+- [Strength](./strength.md) +
   Firearms
   - If engaged in hand to hand combat. [8]
-- <a href="Intelligence" class="wikilink"
-  title="Intelligence">Intelligence</a> + Firearms
+- [Intelligence](./intelligence.md) + Firearms
   - Preparedness roll to see if they brought a silencer. [9]
 
 ## References

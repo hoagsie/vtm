@@ -5,7 +5,7 @@
 The Church of Set contains Setites who want to liberate vampires from
 societal structures and help them find their true selves. Many fall to
 Beast and become a
-<a href="Humanity#humanity_0" class="wikilink" title="Wight">Wight</a>,
+[Wight](./humanity.md#humanity-0),
 but they prove to be valuable learning lessons for the next groups of
 inductees. Those who survive the Setites believe they become stronger
 for it. Some see the orthodox Church of Set as a cult of chaos
@@ -17,11 +17,11 @@ be beholden to no master only learned by age old vampires.
 Followers of what some claim to be the oldest Kindred religion. Known as
 the Follower of Set due to a very literal translation of Arabic, they
 are known as the Church of Set these night. The
-<a href="The_Ministry" class="wikilink" title="Ministers">Ministers</a>
+[Ministers](./ministry.md)
 of this cult are thought to be connected by Blood, founder, and
 religious practices. With a clan origin steeped in legend and divinity,
-<a href="Hecata" class="wikilink" title="Hecata">Hecata</a>, Ministry,
-and <a href="Malkavian" class="wikilink" title="Malkavian">Malkavian</a>
+[Hecata](./hecata.md), Ministry,
+and [Malkavian](./malkavian.md)
 history records confirm Set has not  been seen since 33 BCE. Their
 worship has taken on many forms and coopted many movements to survive
 into the modern day. In modern nights there was a schism between the
@@ -43,7 +43,7 @@ organize their institution. Many converts don’t realize a Setite has put
 them on the path of recruitment until it is too late. Their temples
 usually have one priest and one warrior, but can have more. Witches used
 to be a role, but is now lost, though converted
-<a href="Bahari" class="wikilink" title="Bahari">Bahari</a> cover that
+[Bahari](./bahari.md) cover that
 role nicely. Converting their flock and spreading liberation are their
 main goals in domains. The main leaders of the Church are the
 Hierophants in the active Founding Temples. Though they may still have
@@ -109,8 +109,7 @@ foreigners, there was more to gain from the changing times.
 In the 1200s, the Purge of Baybars began; the first true challenge to
 the Church in the form of Sultan Baybars. The Sultan led an inquisition
 a full century before the
-<a href="Anarch#First_Inquisition" class="wikilink"
-title="First Inquisition">First Inquisition</a>. Sultan Baybars did not
+[First Inquisition](./anarch.md#first-inquisition). Sultan Baybars did not
 stop at European crusaders. He sent his Mamluks to destroy Kindred
 temples and destroyed two Setite Methuselahs. The Sultan’s forces were
 able to sack the founding temple, Temple Ombos. These events resulted in
@@ -133,7 +132,7 @@ the Church. This allowed them to weather the First Inquisition, with
 bribed clergy and redirecting hunters.[7]
 
 During the formation of the
-<a href="Camarilla" class="wikilink" title="Camarilla">Camarilla</a>,
+[Camarilla](./camarilla.md),
 the Ministry had a chance to join. The Setite Hierophant attended to
 represent the clan but ultimately declined on the clan joining.[8][9]
 
@@ -144,27 +143,25 @@ ports and palaces as the New World was explored and revolutions spread.
 The Church had a history of playing both sides of a conflict. As they
 are a cult based on rejection of tyranny, many have flirted with the
 idea of the
-<a href="Anarch" class="wikilink" title="Anarchs">Anarchs</a>. Though
+[Anarchs](./anarch.md). Though
 the cult members are encouraged to not cling to a sect.[10]
 
 In the 2000s, the Red Star appeared in the sky. Many witches and
 scholars of the cult concluded the Set no longer slumbers. As
 <a href="Gehenna" class="wikilink" title="Gehenna">Gehenna</a> and the
-<a href="Second_Inquisition" class="wikilink"
-title="Second Inquisition">Second Inquisition</a> heated up the Church
+[Second Inquisition](./second_inquisition.md) heated up the Church
 of Set and then independent Clan Ministry felt the pressure.
-<a href="Beckoning" class="wikilink" title="Beckoning">Beckoning</a>
+[Beckoning](./beckoning.md)
 took many of the ruling Church and clan members, and the strongholds in
 Egypt and surrounding countries were being invaded by other Kindred
 because of the Gehenna War. The Church organized entry into the
 Camarilla. The talks happened in
-<a href="Paris,_France" class="wikilink" title="Paris">Paris</a>, but
+[Paris](./paris_france.md), but
 those talks were interrupted via the Paris bombing. The Camarilla denied
 their entry.[11]
 
 The Church used to be so synonymous to
-<a href="The_Ministry" class="wikilink" title="Clan Ministry">Clan
-Ministry</a>, but this event caused a schism. Though there is some
+[Clan Ministry](./ministry.md), but this event caused a schism. Though there is some
 confusion on if the division happened before or after the Paris bombing.
 Be that as it may after the bombing, the schism intensified. The Church
 sees the Ministry as evidence of fractions, others see it as unofficial
@@ -204,7 +201,7 @@ Mediterranean, and Middle Eastern Temples, and rare occasions Western
 temples. To celebrate the death of Sultan Baybars in 1277, the Setites
 go through a litany, hold a piece of his preserved bone over the fire,
 and the priest summons the
-<a href="wraith" class="wikilink" title="wraith">wraith</a> of Baybars.
+[wraith](./wraith.md) of Baybars.
 The flock jeers him and relish his pain while his spirit burns in the
 fire.[15]
 
@@ -223,8 +220,8 @@ Red God for those converts outside the Ministry. The path one is lead on
 by a priest is individualized largely.
 
 Of course invoking such strong feelings can cause a vampire to
-<a href="Frenzy" class="wikilink" title="Frenzy">Frenzy</a>,
-<a href="Humanity#Stains" class="wikilink" title="Stain">Stain</a>, or
+[Frenzy](./frenzy.md),
+[Stain](./humanity.md#stains), or
 enter wightdom, the Church will usually cover up such failings.
 Discounting such vampires as unworthy.
 
@@ -298,7 +295,7 @@ Church with High Priest and Hierophants of older temples.
 Ninth Hour - Member of the highest echelons of the Church. High Priests
 of Founding temples guide the Church body. Many are the oldest
 followers, though the
-<a href="Beckoning" class="wikilink" title="Beckoning">Beckoning</a> has
+[Beckoning](./beckoning.md) has
 taken some.
 
 Tenth Hour - Considered Demigods. Methuselah from time passed, many
@@ -332,10 +329,9 @@ doctrine themes.
 ## Notable Members
 
 **Djedefre**,
-<a href="The_Ministry" class="wikilink" title="Ministry">Ministry</a> -
+[Ministry](./ministry.md) -
 In the Ministry-controlled
-<a href="Indianapolis,_Indiana" class="wikilink"
-title="Indianapolis">Indianapolis</a>, Djedefre is an old school Setite
+[Indianapolis](./indianapolis_in.md), Djedefre is an old school Setite
 who still follows the Church of Set teachings. He runs the temple St.
 Isaac of the Runes where his adherents attend. He is dismissive of the
 non-Setite Ministers, seeing their outlook as a set back to the Church’s
@@ -346,41 +342,40 @@ loyal following. If he realizes Melvyn Ramsay has been destroyed, he
 will attempt to avenge him.[19] [20]
 
 **Reverend Twosret**,
-<a href="The_Ministry" class="wikilink" title="Ministry">Ministry</a> -
+[Ministry](./ministry.md) -
 Originally a southern preacher named Sarah P Donnadieu. She was Embraced
 into the Ministry and the Church of Set. She became a hardliner and
 fanatic of the Setite Orthodoxy, growing alarmed at the clan’s schism,
 the
-<a href="Beckoning" class="wikilink" title="Beckoning">Beckoning</a>,
+[Beckoning](./beckoning.md),
 and Minister’s alignment with the
-<a href="Anarch" class="wikilink" title="Anarchs">Anarchs</a>. She
+[Anarchs](./anarch.md). She
 travels to different domains to “right the course” of the clan. She sees
 the Ministry schism and Beckoning as a test from Set. She considered the
 non-Setite Ministry and Anarch Movement as lesser forms of rebellion.
 She plots to destroy the prominent
-<a href="Chicago,_Illinois" class="wikilink" title="Chicago">Chicago</a>
+[Chicago](./chicago_ill.md)
 Ministry member, Marcel, for being a heretic. She will use Salt to this
 end.[21]
 
 **<a href="Salt" class="wikilink" title="Salt">Salt</a>**,
-<a href="Nosferatu" class="wikilink" title="Nosferatu">Nosferatu</a> -
+[Nosferatu](./nosferatu.md) -
 Young spy of the
-<a href="Chicago,_Illinois" class="wikilink" title="Chicago">Chicago</a>
+[Chicago](./chicago_ill.md)
 Camarilla. Posing as a new convert and fixer for the Setites, she finds
 the Setite doctrine more and more comforting.[22]
 
 <a href="Roberto_Vega" class="wikilink"
 title="Roberto Vega"><strong>Roberto Vega</strong></a>,
-<a href="Tremere" class="wikilink" title="Tremere">Tremere</a> - Tech
+[Tremere](./tremere.md) - Tech
 savvy Kindred who found refuge in the Church of Set after the Pyramid's
 fall. He is being pushed to fully commit.[23]
 
 <a href="Oksana_Koblenko" class="wikilink"
 title="Oksana Koblenko"><strong>Oksana Koblenko</strong></a>,
-<a href="Caitiff" class="wikilink" title="Caitiff">Caitiff</a> - A
+[Caitiff](./caitiff.md) - A
 blackmailer for the Church of Set in the Setite stronghold of
-<a href="Kharkiv,_Ukraine" class="wikilink"
-title="Kharkiv, Ukraine">Kharkiv, Ukraine</a>.[24]
+[Kharkiv, Ukraine](./kharkiv_ukraine.md).[24]
 
 ## Notable Domains
 
@@ -396,37 +391,31 @@ often by Scholars of Typhon.[27]
 New York City, New York - Red Hook is a Brooklyn temple of Set founded
 in 1893. It is oldest in Western hemisphere.[28]
 
-<a href="Kharkiv,_Ukraine" class="wikilink"
-title="Kharkiv, Ukraine">Kharkiv, Ukraine</a> - City where the Church of
+[Kharkiv, Ukraine](./kharkiv_ukraine.md) - City where the Church of
 Set doctrine has strongly taken a hold.[29]
 
 ## Exclusive Character Options
 
-<a href="Obfuscate#Mental_Maze" class="wikilink"
-title="Mental Maze">Mental Maze</a> -
-<a href="Obfuscate" class="wikilink" title="Obfuscate">Obfuscate</a> 3
+[Mental Maze](./obfuscate.md#mental-maze) -
+[Obfuscate](./obfuscate.md) 3
 Amalgam with
-<a href="Dominate" class="wikilink" title="Dominate">Dominate</a>
+[Dominate](./dominate.md)
 
-<a href="Presence#True_Love&#39;s_Face" class="wikilink"
-title="True Love&#39;s Face">True Love's Face</a> -
-<a href="Presence" class="wikilink" title="Presence">Presence</a> 3
+[True Love's Face](./presence.md#true-love39s-face) -
+[Presence](./presence.md) 3
 Amalgam with
-<a href="Obfuscate" class="wikilink" title="Obfuscate">Obfuscate</a>
+[Obfuscate](./obfuscate.md)
 
-<a href="Protean#The_Heart_of_Darkness" class="wikilink"
-title="The heart of Darkness">The heart of Darkness</a> -
-<a href="Protean" class="wikilink" title="Protean">Protean</a> 5 amalgam
+[The heart of Darkness](./protean.md#the-heart-of-darkness) -
+[Protean](./protean.md) 5 amalgam
 with
-<a href="Fortitude" class="wikilink" title="Fortitude">Fortitude</a>[30]
+[Fortitude](./fortitude.md)[30]
 
-<a href="Merits_and_Flaws#Church_of_Set" class="wikilink"
-title="Exclusive Merits and Flaws">Exclusive Merits and Flaws</a>
+[Exclusive Merits and Flaws](./merits_flaws.md#church-of-set)
 
 ## Exclusive Loresheets
 
-• <a href="Loresheets#The_Church_of_Set" class="wikilink"
-title="The Church of Set">The Church of Set</a>[31]
+• [The Church of Set](./loresheets.md#the-church-of-set)[31]
 
 ## References
 

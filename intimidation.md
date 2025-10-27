@@ -21,23 +21,22 @@ Threats [3]
 
 ## Example pools
 
-- <a href="Charisma" class="wikilink" title="Charisma">Charisma</a> +
+- [Charisma](./charisma.md) +
   Intimidation
   - Cow a gang leader into submission [4]
   - Staredown a rival gang [5]
-- <a href="Manipulation" class="wikilink"
-  title="Manipulation">Manipulation</a> + Intimidation
+- [Manipulation](./manipulation.md) + Intimidation
   - Veiled threat [6]
   - Violent interrogation [7]
   - Subtle coercion [8]
-- <a href="Wits" class="wikilink" title="Wits">Wits</a> + Intimidation
+- [Wits](./wits.md) + Intimidation
   - Determine if something was a threat [9]
-- <a href="Resolve" class="wikilink" title="Resolve">Resolve</a> +
+- [Resolve](./resolve.md) +
   Intimidation
   - To catch someone's eyes to establish eye contact during the use of
-    <a href="Dominate" class="wikilink" title="Dominate">Dominate</a>
+    [Dominate](./dominate.md)
     [10]
-- <a href="Strength" class="wikilink" title="Strength">Strength</a> +
+- [Strength](./strength.md) +
   Intimidation
   - Using physical strength to showcase power while threatening someone
     [11]

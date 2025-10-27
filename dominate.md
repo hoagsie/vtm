@@ -10,40 +10,36 @@ otherwise stated. At the base levels, it can wipe superficial memories
 or command small immediate actions of their victims and in turn, higher
 levels allow for more sophisticated uses. The victim needs to understand
 the Kindred and the Kindred needs to speak their commands. Exceptions
-exist with <a href="Presence#Irresistible_Voice" class="wikilink"
-title="Irresistible Voice">Irresistible Voice</a> and
-<a href="Auspex#Telepathy" class="wikilink"
-title="Telepathy">Telepathy</a>, the former allows commands without eye
+exist with [Irresistible Voice](./presence.md#irresistible-voice) and
+[Telepathy](./auspex.md#telepathy), the former allows commands without eye
 contact, and the latter without spoken words. While Dominated, victims
 are mindless puppets who cannot be interrogated and can only do things
 they could do on demand. Commands that cause social backlash or cause
 minor injury are always contested with the victim. The victim cannot be
 commanded to directly cause serious injury or death to themselves
-without <a href="Dominate#Terminal_Decree" class="wikilink"
-title="Terminal Decree">Terminal Decree</a>. When used against other
+without [Terminal Decree](./dominate.md#terminal-decree). When used against other
 vampires they must contest this and those with a lower generation may
 use Willpower to shirk off the attempt. Once Dominate has totally failed
 against a target, the user will not be able to use it against them for
 the rest of the story. [1]
 
-The <a href="Lasombra" class="wikilink" title="Lasombra">Lasombra</a>
+The [Lasombra](./lasombra.md)
 are shameless in their use of Dominate, enjoying crushing wills and
 commanding obedience callously.[2] Some
-<a href="Malkavian" class="wikilink" title="Malkavians">Malkavians</a>
+[Malkavians](./malkavian.md)
 use Dominate to lift victims' minds from distraction or hide a messy
 feed, but the clan is infamous for
-<a href="Dominate#Dementation" class="wikilink"
-title="Dementation">Dementation</a>, used to shatter mortal and kindred
+[Dementation](./dominate.md#dementation), used to shatter mortal and kindred
 minds alike.[3] The
-<a href="Salubri" class="wikilink" title="Salubri">Salubri</a> use
+[Salubri](./salubri.md) use
 Dominate to soothe others by removing troubling memories or fortify
 another kindred against their darker nature.[4] Rumor has it the
-<a href="Tremere" class="wikilink" title="Tremere">Tremere</a> use
+[Tremere](./tremere.md) use
 Dominate to hide their ruthless pursuits of knowledge.[5] In contrast,
-<a href="Tzimisce" class="wikilink" title="Tzimisce">Tzimisce</a> uses
+[Tzimisce](./tzimisce.md) uses
 Dominate to acquire their possession, but also conditions servitors to
 never question their will. [6]
-<a href="Ventrue" class="wikilink" title="Ventrue">Ventrue</a> consider
+[Ventrue](./ventrue.md) consider
 their mastery of Dominate to be absolute; bending victims, enemies, and
 followers to will as well as maintaining the
 <a href="Masquerade" class="wikilink" title="Masquerade">Masquerade</a>.[7]
@@ -121,14 +117,12 @@ title="Corebook">Corebook</a>, page 256</li>
 kindred's Dominate.</p></td>
 <td><p>Free</p></td>
 <td><p>None</p></td>
-<td><p><a href="Fortitude" class="wikilink"
-title="Fortitude">Fortitude</a> ● </p></td>
+<td><p>[Fortitude](./fortitude.md) ● </p></td>
 <td><p>Passive</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
 <td><p>Attempts by a third party take a dice penalty equal to the other
-vampire’s <a href="Fortitude" class="wikilink"
-title="Fortitude">Fortitude</a> rating.</p></td>
+vampire’s [Fortitude](./fortitude.md) rating.</p></td>
 <td><p>/ </p>
 <ul>
 <li><a href="Vampire:_The_Masquerade_Cults_of_the_Blood_Gods"
@@ -194,8 +188,7 @@ title="Corebook">Corebook</a>, page 256</li>
 <td><p>Drive others insane.</p></td>
 <td data-sort-value="2"><p>One Rouse Check per target per Scene</p></td>
 <td><p>None</p></td>
-<td><p><a href="Obfuscate" class="wikilink"
-title="Obfuscate">Obfuscate</a> ●●</p></td>
+<td><p>[Obfuscate](./obfuscate.md) ●●</p></td>
 <td><p>One scene</p></td>
 <td><p>Manipulation + Dominate</p></td>
 <td><p>Composure + Intelligence</p></td>
@@ -294,8 +287,7 @@ title="Corebook">Corebook</a>, page 257</li>
 <td><p><strong>Submerged Directive</strong></p></td>
 <td><p>Implant Dominate orders as suggestions for victims.</p></td>
 <td data-sort-value="2"><p>Free</p></td>
-<td><p><a href="Dominate#Mesmerize" class="wikilink"
-title="Mesmerize">Mesmerize</a></p></td>
+<td><p>[Mesmerize](./dominate.md#mesmerize)</p></td>
 <td><p>No</p></td>
 <td><p>Passive</p></td>
 <td><p>N/A</p></td>
@@ -346,10 +338,8 @@ title="Corebook">Corebook</a>, page 257</li>
 <td><p>Urge a descendant to act even if against their own
 opinion.</p></td>
 <td data-sort-value="1"><p>One Rouse Check</p></td>
-<td><p><a href="Dominate#Mesmerize" class="wikilink"
-title="Mesmerize">Mesmerize</a> </p></td>
-<td><p><a href="Blood_Sorcery" class="wikilink"
-title="Blood Sorcery">Blood Sorcery</a> ●● </p></td>
+<td><p>[Mesmerize](./dominate.md#mesmerize) </p></td>
+<td><p>[Blood Sorcery](./blood_sorcery.md) ●● </p></td>
 <td><p>Until the command is carried out or the scene ends</p></td>
 <td><p>Manipulation + Dominate</p></td>
 <td><p>Resolve + Occult </p></td>
@@ -369,7 +359,7 @@ title="Players Guide">Players Guide</a>, page 74</p></td>
 <td><p>Change another’s personality or opinion temporarily.</p></td>
 <td><p>One Rouse Check</p></td>
 <td><p>None</p></td>
-<td><p><a href="Presence" class="wikilink" title="Presence">Presence</a>
+<td><p>[Presence](./presence.md)
 ●</p></td>
 <td><p>One scene</p></td>
 <td><p>Manipulation + Dominate</p></td>
@@ -538,11 +528,8 @@ Dominate;
 width="42" />
 <figcaption>Animalism_symbol.png</figcaption>
 </figure></td>
-<td><p><strong><a href="Animalism#Messengers_Command" class="wikilink"
-title="Messenger&#39;s Command">Messenger's
-Command</a></strong></p></td>
-<td><p><a href="Animalism" class="wikilink"
-title="Animalism">Animalism</a> ●</p></td>
+<td><p><strong>[Messenger's Command](./animalism.md#messengers-command)</strong></p></td>
+<td><p>[Animalism](./animalism.md) ●</p></td>
 <td><p>●</p></td>
 <td><p>Use a Famulus to send a message to someone.</p></td>
 <td><p>One Rouse Check per night</p></td>
@@ -557,10 +544,8 @@ title="Players Guide">Players Guide</a>, page 69</li>
 <img src="Presence_symbol.png" title="Presence_symbol.png" width="42" />
 <figcaption>Presence_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Presence#Irresistible_Voice" class="wikilink"
-title="Irresistible Voice"><strong>Irresistible
-Voice</strong></a></p></td>
-<td><p><a href="Presence" class="wikilink" title="Presence">Presence</a>
+<td><p>[<strong>Irresistible Voice</strong>](./presence.md#irresistible-voice)</p></td>
+<td><p>[Presence](./presence.md)
 ●●●●</p></td>
 <td data-sort-value="1"><p>●</p></td>
 <td><p>The user's voice alone is enough to use Dominate on a
@@ -579,11 +564,8 @@ title="Corebook">Corebook</a>, page 268</li>
 width="42" />
 <figcaption>Obfuscate_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Obfuscate#Mask_of_Isolation" class="wikilink"
-title="Mask of Isolation"><strong>Mask of
-Isolation</strong></a></p></td>
-<td><p><a href="Obfuscate" class="wikilink"
-title="Obfuscate">Obfuscate</a> ●●●</p></td>
+<td><p>[<strong>Mask of Isolation</strong>](./obfuscate.md#mask-of-isolation)</p></td>
+<td><p>[Obfuscate](./obfuscate.md) ●●●</p></td>
 <td data-sort-value="2"><p>●</p></td>
 <td><p>Force the effect of Mask of a Thousand Faces onto a
 victim</p></td>
@@ -601,10 +583,8 @@ class="wikilink" title="Sabbat">Sabbat</a>, page 48</li>
 width="42" />
 <figcaption>Obfuscate_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Obfuscate#Mental_Maze" class="wikilink"
-title="Mental Maze"><strong>Mental Maze</strong></a></p></td>
-<td><p><a href="Obfuscate" class="wikilink"
-title="Obfuscate">Obfuscate</a> ●●●</p></td>
+<td><p>[<strong>Mental Maze</strong>](./obfuscate.md#mental-maze)</p></td>
+<td><p>[Obfuscate](./obfuscate.md) ●●●</p></td>
 <td data-sort-value="3"><p>●</p></td>
 <td><p>Remove all sense of direction and location from a victim in a
 location</p></td>
@@ -622,9 +602,8 @@ Gods</a>, page 85</li>
 <img src="Auspex_symbol.png" title="Auspex_symbol.png" width="42" />
 <figcaption>Auspex_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Auspex#Unerring_Pursuit" class="wikilink"
-title="Unerring Pursuit"><strong>Unerring Pursuit</strong></a></p></td>
-<td><p><a href="Auspex" class="wikilink" title="Auspex">Auspex</a>
+<td><p>[<strong>Unerring Pursuit</strong>](./auspex.md#unerring-pursuit)</p></td>
+<td><p>[Auspex](./auspex.md)
 ●●</p></td>
 <td data-sort-value="4"><p>●</p></td>
 <td><p>Tracking a victim</p></td>
@@ -642,10 +621,8 @@ class="wikilink" title="Sabbat">Sabbat</a>, page 46</li>
 width="42" />
 <figcaption>Obfuscate_symbol.png</figcaption>
 </figure></td>
-<td><p><strong><a href="Obfuscate#Mind_Masque" class="wikilink"
-title="Mind Masque">Mind Masque</a></strong></p></td>
-<td><p><a href="Obfuscate" class="wikilink"
-title="Obfuscate">Obfuscate</a> ●●●</p></td>
+<td><p><strong>[Mind Masque](./obfuscate.md#mind-masque)</strong></p></td>
+<td><p>[Obfuscate](./obfuscate.md) ●●●</p></td>
 <td><p>●●</p></td>
 <td><p>Hide and replace emotions and thoughts against those who wish to
 read them, be it through mundane or supernatural means.</p></td>
@@ -662,9 +639,8 @@ title="Players Guide">Players Guide</a>, page 78</li>
 <img src="Protean_symbol.png" title="Protean_symbol.png" width="42" />
 <figcaption>Protean_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Protean#Vicissitude" class="wikilink"
-title="Vicissitude"><strong>Vicissitude</strong></a></p></td>
-<td><p><a href="Protean" class="wikilink" title="Protean">Protean</a>
+<td><p>[<strong>Vicissitude</strong>](./protean.md#vicissitude)</p></td>
+<td><p>[Protean](./protean.md)
 ●●</p></td>
 <td data-sort-value="7"><p>●●</p></td>
 <td><p>Sculpt the flesh of bodies</p></td>
@@ -683,9 +659,8 @@ title="Players Guide">Players Guide</a>, page 81</p></td>
 <img src="Protean_symbol.png" title="Protean_symbol.png" width="42" />
 <figcaption>Protean_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Protean#Fleshcrafting" class="wikilink"
-title="Fleshcrafting"><strong>Fleshcrafting</strong></a></p></td>
-<td><p><a href="Protean" class="wikilink" title="Protean">Protean</a>
+<td><p>[<strong>Fleshcrafting</strong>](./protean.md#fleshcrafting)</p></td>
+<td><p>[Protean](./protean.md)
 ●●●</p></td>
 <td data-sort-value="5"><p>●●</p></td>
 <td><p>Extends the mastery over the flesh</p></td>
@@ -704,9 +679,8 @@ title="Players Guide">Players Guide</a>, page 82</p></td>
 <img src="Protean_symbol.png" title="Protean_symbol.png" width="42" />
 <figcaption>Protean_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Protean#Horrid_Form" class="wikilink"
-title="Horrid Form"><strong>Horrid Form</strong></a></p></td>
-<td><p><a href="Protean" class="wikilink" title="Protean">Protean</a>
+<td><p>[<strong>Horrid Form</strong>](./protean.md#horrid-form)</p></td>
+<td><p>[Protean](./protean.md)
 ●●●●</p></td>
 <td data-sort-value="6"><p>●●</p></td>
 <td><p>Take on a monstrous shape</p></td>
@@ -725,9 +699,8 @@ title="Players Guide">Players Guide</a>, page 83</p></td>
 <img src="Presence_symbol.png" title="Presence_symbol.png" width="42" />
 <figcaption>Presence_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Presence#Clear_the_Field" class="wikilink"
-title="Clear the Field"><strong>Clear the Field</strong></a></p></td>
-<td><p><a href="Presence" class="wikilink" title="Presence">Presence</a>
+<td><p>[<strong>Clear the Field</strong>](./presence.md#clear-the-field)</p></td>
+<td><p>[Presence](./presence.md)
 ●●●</p></td>
 <td data-sort-value="8"><p>●●●</p></td>
 <td><p>Force others to leave the area in a calm and orderly
@@ -745,9 +718,8 @@ title="Fall of London">Fall of London</a>, page 177</li>
 <img src="Auspex_symbol.png" title="Auspex_symbol.png" width="42" />
 <figcaption>Auspex_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Auspex#Possession" class="wikilink"
-title="Possession"><strong>Possession</strong></a></p></td>
-<td><p><a href="Auspex" class="wikilink" title="Auspex">Auspex</a>
+<td><p>[<strong>Possession</strong>](./auspex.md#possession)</p></td>
+<td><p>[Auspex](./auspex.md)
 ●●●●●</p></td>
 <td data-sort-value="9"><p>●●●</p></td>
 <td><p>Possess a mortal body</p></td>
@@ -764,10 +736,8 @@ title="Corebook">Corebook</a>, page 251</li>
 <img src="Auspex_symbol.png" title="Auspex_symbol.png" width="42" />
 <figcaption>Auspex_symbol.png</figcaption>
 </figure></td>
-<td><p><a href="Auspex#Unburdening_the_Bestial_Soul" class="wikilink"
-title="Unburdening the Bestial Soul"><strong>Unburdening the Bestial
-Soul</strong></a></p></td>
-<td><p><a href="Auspex" class="wikilink" title="Auspex">Auspex</a>
+<td><p>[<strong>Unburdening the Bestial Soul</strong>](./auspex.md#unburdening-the-bestial-soul)</p></td>
+<td><p>[Auspex](./auspex.md)
 ●●●●●</p></td>
 <td data-sort-value="10"><p>●●●</p></td>
 <td><p>Stain removal or protection from Stains</p></td>
