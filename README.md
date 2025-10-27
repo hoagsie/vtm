@@ -29,8 +29,10 @@
 
 * [Hunger](./hunger.md) • [Humanity](./humanity.md) • [Banes](./banes.md)
 * [Frenzy](./frenzy.md) • [Final Death](./final_death.md)
-* Blood: [Blood Potency](./blood_potency.md) • [Blood Surge](./blood_surge.md) • [Blush of Life](./blush_of_life.md)
+* Blood: [Blood Potency](./blood_potency.md) • [Blood Surge](./blood_surge.md) • [Blush of Life](./blush_of_life.md) • **[Blood Bond](./blood_bond.md)**
 * Dark acts: [Diablerie](./diablerie.md) • [Boons & Debts](./boons.md)
+* **Clan compulsions**: **[Compulsion](./compulsion.md)**
+* Mortals & Retainers: **[Mortals & Ghouls](./mortals_ghouls.md)**
 
 ## Disciplines, Sorcery & Rites
 
@@ -46,7 +48,7 @@
 **Attributes**
 
 * [Physical](./physical.md) • [Mental](./mental.md)
-* [Dexterity](./dexterity.md) • [Charisma](./charisma.md) • [Intelligence](./intelligence.md) • [Composure](./composure.md) • [Health](./health.md)
+* [Charisma](./charisma.md) • **[Manipulation](./manipulation.md)** • [Composure](./composure.md) • [Intelligence](./intelligence.md) • [Dexterity](./dexterity.md) • [Health](./health.md)
 
 **Skills**
 
@@ -58,7 +60,7 @@
 ## Factions, Faiths & Conspiracies
 
 * Sects: [Camarilla](./camarilla.md) • [Anarch](./anarch.md)
-* Cults/Churches: [Church of Caine](./church_caine.md) • [Church of Set](./church_set.md) • [Church of Shalim](./church_shalim.md) • [Bahari](./bahari.md)
+* Cults & Mysteries: **[Cults (overview)](./cults.md)** • [Church of Caine](./church_caine.md) • [Church of Set](./church_set.md) • [Church of Shalim](./church_shalim.md) • [Bahari](./bahari.md) • **[Mithraic Mysteries](./mithraic_mysteries.md)**
 * Traffic & Black Markets: [Circulatory System](./circulatory_system.md) • [Ashfinders](./ashfinders.md)
 * Other Groups: [Factions](./factions.md) • [Other Groups](./other_groups.md) • [Antagonists](./antagonists.md)
 
@@ -69,7 +71,7 @@
 
 ## Cities & Domains
 
-* UK & Europe: [London](./london_uk.md) • [Edinburgh](./edinburgh_scotland.md) • [Paris](./paris_france.md) • [Munich](./munich_germany.md) • [Istanbul](./istanbul_turkey.md) • [Kharkiv](./kharkiv_ukraine.md)
+* UK & Europe: [London](./london_uk.md) • **[Birmingham](./birmingham_uk.md)** • [Edinburgh](./edinburgh_scotland.md) • [Paris](./paris_france.md) • [Munich](./munich_germany.md) • [Istanbul](./istanbul_turkey.md) • [Kharkiv](./kharkiv_ukraine.md)
 * North America: [Chicago](./chicago_ill.md) • [Boston](./boston_mass.md) • [Gary, IN](./gary_in.md) • [Indianapolis](./indianapolis_in.md) • [Milwaukee](./milwaukee_wi.md) • [Montreal](./montreal_canada.md)
 * History: [Constantinople](./constantinople.md)
 
